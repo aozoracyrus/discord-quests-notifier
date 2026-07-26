@@ -14,17 +14,17 @@ Track new Discord Quests and changes in real-time, including quests that are reg
 
 ## 🚀 Features
 
-✅ **Real-time Quest Tracking** — fetches Discord quests every 3 hours (configurable via the workflow's cron schedule)
-✅ **Hidden/Region-Locked Quest Discovery** — merges in a public quests dump so you see quests your own account/region can't, with no proxy needed (see below)
-✅ **New Quest Notifications** — instant webhook alerts for newly discovered quests
-✅ **Update Detection** — detects changes in quest details (dates, rewards, tasks, platforms, application, visuals)
-✅ **Change Highlighting** — shows exactly what changed in quest updates, without dumping raw internal file paths
-✅ **Atomic State Management** — safe data persistence with atomic file writes
-✅ **Role Mentions** — optional Discord role pinging for new quests only (update notices never ping)
-✅ **Internationalization** — support for multiple languages (en-US, vi-VN)
-✅ **GitHub Actions** — free 24/7 cloud hosting
-✅ **Error Tracking** — optional error webhook for debugging
-✅ **Components V2** — 100% Discord Components V2 messages (no legacy embeds), with images, video, and reward icons
+✅ **Real-time Quest Tracking** — fetches Discord quests every 3 hours (configurable via the workflow's cron schedule)   
+✅ **Hidden/Region-Locked Quest Discovery** — merges in a public quests dump so you see quests your own account/region can't, with no proxy needed (see below)   
+✅ **New Quest Notifications** — instant webhook alerts for newly discovered quests   
+✅ **Update Detection** — detects changes in quest details (dates, rewards, tasks, platforms, application, visuals)   
+✅ **Change Highlighting** — shows exactly what changed in quest updates, without dumping raw internal file paths   
+✅ **Atomic State Management** — safe data persistence with atomic file writes   
+✅ **Role Mentions** — optional Discord role pinging for new quests only (update notices never ping)   
+✅ **Internationalization** — support for multiple languages (en-US, vi-VN)   
+✅ **GitHub Actions** — free 24/7 cloud hosting   
+✅ **Error Tracking** — optional error webhook for debugging   
+✅ **Components V2** — 100% Discord Components V2 messages (no legacy embeds), with images, video, and reward icons   
 
 ---
 
@@ -229,14 +229,14 @@ The `state.json` file automatically tracks all active quests:
 
 The tracker compares every field below against the previous run, and only sends an "updated quest" notification (with only the lines that actually changed) when at least one of them differs:
 
-✅ Quest duration (start/end date)
-✅ Reward claim deadline
-✅ Feature flags
-✅ Game title / publisher
-✅ Tasks (type and duration)
-✅ Platforms (derived from which tasks are present)
-✅ Application name/id
-✅ Hero image / hero video (shown as a clean "updated" notice — the specific internal file path is never shown, since that's an implementation detail Discord swaps around often and isn't meaningful on its own)
+✅ Quest duration (start/end date)   
+✅ Reward claim deadline   
+✅ Feature flags   
+✅ Game title / publisher   
+✅ Tasks (type and duration)   
+✅ Platforms (derived from which tasks are present)   
+✅ Application name/id   
+✅ Hero image / hero video (shown as a clean "updated" notice — the specific internal file path is never shown, since that's an implementation detail Discord swaps around often and isn't meaningful on its own)   
 
 ## 🌍 Supported Languages
 
@@ -272,24 +272,24 @@ The project uses assets from the `assets/` directory on your repository:
 
 ## 🐛 Troubleshooting
 
-**Token Issues**
-**Error**: `Discord API 401: Unauthorized`
-❌ Token is invalid or expired
-✅ Generate a new user token (Discord DevTools Console: `localStorage.token`)
+**Token Issues**   
+**Error**: `Discord API 401: Unauthorized`   
+❌ Token is invalid or expired   
+✅ Generate a new user token (Discord DevTools Console: `localStorage.token`)   
 
-**Webhook Errors**
-**Error**: `Webhook error 404`
-❌ Webhook URL is incorrect or deleted
-✅ Recreate the webhook in Discord and update secrets
+**Webhook Errors**   
+**Error**: `Webhook error 404`   
+❌ Webhook URL is incorrect or deleted   
+✅ Recreate the webhook in Discord and update secrets   
 
-**Webhook Errors (429)**
-❌ Discord's webhook rate limit was hit while sending many quests in one run
-✅ The tracker retries automatically with backoff — if you still see quests missing after a run, they'll be picked up as "new" again on the next scheduled run, since a failed send never gets saved to state
+**Webhook Errors (429)**   
+❌ Discord's webhook rate limit was hit while sending many quests in one run   
+✅ The tracker retries automatically with backoff — if you still see quests missing after a run, they'll be picked up as "new" again on the next scheduled run, since a failed send never gets saved to state   
 
-**State Issues**
-**Issue**: Bot stops sending notifications
-❌ `state.json` is corrupted, or every quest is always detected as "new" and never "updated"
-✅ Delete `state.json` to let it be recreated on the next run; if updates specifically never trigger, check that the fields you care about are covered under Quest Change Detection above
+**State Issues**   
+**Issue**: Bot stops sending notifications   
+❌ `state.json` is corrupted, or every quest is always detected as "new" and never "updated"   
+✅ Delete `state.json` to let it be recreated on the next run; if updates specifically never trigger, check that the fields you care about are covered under Quest Change Detection above   
 
 ## 🤝 Contributing
 
