@@ -64,7 +64,7 @@ jobs:
           REPOSITORY: ${{ github.repository }}
           LOCALE: ${{ vars.LOCALE || 'en-US' }}
           PING_ROLE_ID: ${{ vars.PING_ROLE_ID }}
-          PROXY_LIST_URL: ${{ secrets.PROXY_LIST_URL }}
+          EXTERNAL_QUESTS_URL: ${{ vars.EXTERNAL_QUESTS_URL }}
         run: node src/main.js
 
       - name: Commit state changes
