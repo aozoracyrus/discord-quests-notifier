@@ -1,4 +1,0 @@
-{
-  "_comment": "Real proxy credentials should NOT be committed here — set the PROXY_LIST environment variable (or GitHub secret) instead; see .env.example. This file is only a local-dev fallback and is now in .gitignore, so a filled-in local copy won't get committed by accident. Format for each entry: a proper proxy URL, e.g. https://username:password@host:port — do not use the old host:port:username:password layout, it is not a valid URL.",
-  "proxies": []
-}
