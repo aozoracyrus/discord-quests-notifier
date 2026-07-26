@@ -34,9 +34,10 @@
     "reward_type": "Loại Không Xác Định"
   },
   "rewards": {
-    "1": "Nitro",
-    "2": "Nitro Classic",
-    "3": "Trang Trí",
-    "4": "Orbs"
+    "1": "Mã đổi thưởng",
+    "2": "Phần thưởng trong game",
+    "3": "Vật phẩm Discord",
+    "4": "Orbs",
+    "5": "Nitro"
   }
 }
