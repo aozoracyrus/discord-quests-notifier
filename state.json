@@ -746,7 +746,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-06-01T17:00:00+00:00",
-        "expires_at": "2026-07-27T06:59:00+00:00",
+        "expires_at": "2026-08-03T06:59:00+00:00",
         "features": [
           15
         ],
@@ -826,7 +826,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-08-26T06:59:00+00:00",
+          "rewards_expire_at": "2026-09-02T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -843,11 +843,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA2LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMjdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMjZUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTI3MzcwMTk0Nzk4NzcyMzM2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTExMzgyMDgzNTEwMDc1NDcyLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA2LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMDNUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTI3MzcwMTk0Nzk4NzcyMzM2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTExMzgyMDgzNTEwMDc1NDcyLm1wNCJ9",
       "starts_at": "2026-06-01T17:00:00+00:00",
-      "expires_at": "2026-08-26T06:59:00+00:00",
+      "expires_at": "2026-08-03T06:59:00+00:00",
       "sent_at": "2026-07-26T08:27:24.017Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-07-27T16:58:23.751Z"
     },
     "1519101313168838726": {
       "id": "1519101313168838726",
@@ -5645,5 +5646,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-07-27T14:36:25.194Z"
+  "last_check": "2026-07-27T16:58:24.855Z"
 }
