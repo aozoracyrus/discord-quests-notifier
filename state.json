@@ -2619,7 +2619,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-15T17:00:00+00:00",
-        "expires_at": "2026-07-30T00:00:00+00:00",
+        "expires_at": "2026-07-30T06:59:00+00:00",
         "features": [
           15
         ],
@@ -2725,7 +2725,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-08-29T00:00:00+00:00",
+          "rewards_expire_at": "2026-08-29T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -2737,11 +2737,12 @@
           "subtitle": "Experience The Odyssey in IMAX"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRXZlcnkgRnJhbWUgaW4gSU1BWCIsImdhbWVfdGl0bGUiOiJFeHBlcmllbmNlIFRoZSBPZHlzc2V5IGluIElNQVgiLCJnYW1lX3B1Ymxpc2hlciI6IklNQVgiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0xNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA3LTMwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTI5VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI0OTgzNTYyMTMzMzA3NDMyLzE1MjQ5ODUzNzUyNTExMDM3NjQuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRXZlcnkgRnJhbWUgaW4gSU1BWCIsImdhbWVfdGl0bGUiOiJFeHBlcmllbmNlIFRoZSBPZHlzc2V5IGluIElNQVgiLCJnYW1lX3B1Ymxpc2hlciI6IklNQVgiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0xNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA3LTMwVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTI5VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI0OTgzNTYyMTMzMzA3NDMyLzE1MjQ5ODUzNzUyNTExMDM3NjQuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-07-15T17:00:00+00:00",
-      "expires_at": "2026-08-29T00:00:00+00:00",
+      "expires_at": "2026-07-30T06:59:00+00:00",
       "sent_at": "2026-07-26T08:27:43.923Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-07-29T22:01:36.302Z"
     },
     "1524071421465333912": {
       "id": "1524071421465333912",
@@ -6876,5 +6877,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-07-29T19:17:52.991Z"
+  "last_check": "2026-07-29T22:01:37.405Z"
 }
