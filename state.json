@@ -4518,7 +4518,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-23T13:00:00+00:00",
-        "expires_at": "2026-07-31T00:00:00+00:00",
+        "expires_at": "2026-07-31T06:59:00+00:00",
         "features": [
           15
         ],
@@ -4624,7 +4624,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-08-30T00:00:00+00:00",
+          "rewards_expire_at": "2026-08-30T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -4636,11 +4636,12 @@
           "subtitle": "In Cinemas September 18.  Filmed for IMAX"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxOC4gRmlsbWVkIGZvciBJTUFYIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjNUMTM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wNy0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOC0zMFQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE1MH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5MjI2NjU1MzAwNzE0Njg3LzE1Mjk3MDU2NzcwODg0ODk1NzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxOC4gRmlsbWVkIGZvciBJTUFYIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjNUMTM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wNy0zMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOC0zMFQwNjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE1MH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5MjI2NjU1MzAwNzE0Njg3LzE1Mjk3MDU2NzcwODg0ODk1NzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-07-23T13:00:00+00:00",
-      "expires_at": "2026-08-30T00:00:00+00:00",
+      "expires_at": "2026-07-31T06:59:00+00:00",
       "sent_at": "2026-07-26T08:28:05.967Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-07-30T22:07:29.034Z"
     },
     "1529177760612880465": {
       "id": "1529177760612880465",
@@ -4739,7 +4740,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-23T13:00:00+00:00",
-        "expires_at": "2026-07-31T00:00:00+00:00",
+        "expires_at": "2026-07-31T06:59:00+00:00",
         "features": [
           15
         ],
@@ -4845,7 +4846,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-08-30T00:00:00+00:00",
+          "rewards_expire_at": "2026-08-30T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -4857,11 +4858,12 @@
           "subtitle": "En Cines este 17 de Septiembre. Filmada para IMAX"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbDogTm9jaGUgQ2VybyIsImdhbWVfdGl0bGUiOiJFbiBDaW5lcyBlc3RlIDE3IGRlIFNlcHRpZW1icmUuIEZpbG1hZGEgcGFyYSBJTUFYIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjNUMTM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wNy0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOC0zMFQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0NH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5MjMwNTAwMTUxOTU1NjQ5LzE1Mjk2ODg5Mzg5MDA0ODgzMDMuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbDogTm9jaGUgQ2VybyIsImdhbWVfdGl0bGUiOiJFbiBDaW5lcyBlc3RlIDE3IGRlIFNlcHRpZW1icmUuIEZpbG1hZGEgcGFyYSBJTUFYIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjNUMTM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wNy0zMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOC0zMFQwNjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0NH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5MjMwNTAwMTUxOTU1NjQ5LzE1Mjk2ODg5Mzg5MDA0ODgzMDMuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-07-23T13:00:00+00:00",
-      "expires_at": "2026-08-30T00:00:00+00:00",
+      "expires_at": "2026-07-31T06:59:00+00:00",
       "sent_at": "2026-07-26T08:28:08.736Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-07-30T22:07:30.300Z"
     },
     "1528814066599071825": {
       "id": "1528814066599071825",
@@ -6877,8 +6879,8 @@
       "id": "1532058290736074763",
       "config": {
         "config_version": 2,
-        "starts_at": "2026-07-30T06:59:00+00:00",
-        "expires_at": "2026-08-12T00:00:00+00:00",
+        "starts_at": "2026-07-30T17:00:00+00:00",
+        "expires_at": "2026-08-13T00:00:00+00:00",
         "features": [
           15
         ],
@@ -6957,7 +6959,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-11T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-12T00:00:00+00:00",
           "platforms": [
             0
           ]
@@ -6974,12 +6976,285 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV1dFIENoYW1waW9uczogV3Jlc3RsaW5nIFJQRyIsImdhbWVfdGl0bGUiOiJXV0UgQ2hhbXBpb25zOiBXcmVzdGxpbmcgUlBHIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzBUMDY6NTk6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0xMVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMDU4MjkwNzM2MDc0NzYzLzE1MzIwNjI5MDkxMjE5NTgwMTkuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV1dFIENoYW1waW9uczogV3Jlc3RsaW5nIFJQRyIsImdhbWVfdGl0bGUiOiJXV0UgQ2hhbXBpb25zOiBXcmVzdGxpbmcgUlBHIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzBUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0xM1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0xMlQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMDU4MjkwNzM2MDc0NzYzLzE1MzIwNjI5MDkxMjE5NTgwMTkuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-07-30T06:59:00+00:00",
-      "expires_at": "2026-09-11T00:00:00+00:00",
+      "expires_at": "2026-08-13T00:00:00+00:00",
       "sent_at": "2026-07-30T19:26:55.972Z",
+      "type": "updated",
+      "updated_at": "2026-07-30T22:07:31.650Z"
+    },
+    "1522414544247591072": {
+      "id": "1522414544247591072",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-07-30T21:10:00+00:00",
+        "expires_at": "2026-08-13T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.elderscrollsonline.com/en-us/joinus?utm_source=10047385&utm_medium=10047385&utm_campaign=36314869",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1522414544247591072/1532181286813307061.jpg",
+          "hero_video": "quests/1522414544247591072/1532178991010676959_720.mp4",
+          "quest_bar_hero_blurhash": "qTkKDILaOaZfdoiUdYj9ptar/A==",
+          "quest_bar_hero": "quests/1522414544247591072/1532181220832579655.jpg",
+          "quest_bar_hero_video": "quests/1522414544247591072/1532178991010676959_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1522414544247591072/1532179929918079237.png",
+          "game_tile_dark": "quests/1522414544247591072/1532179929918079237.png",
+          "logotype_light": "quests/1522414544247591072/1532179929939054622.png",
+          "logotype_dark": "quests/1522414544247591072/1532179929926602773.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Elder Scrolls Online",
+          "game_title": "The Elder Scrolls Online",
+          "game_publisher": "Bethesda"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1522414544247591072/1532180075653496972_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1522414544247591072/1532180075653496972_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1522414544247591072/1532180075653496972.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1522414544247591072/1532179231524651249_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1522414544247591072/1532179231524651249_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1522414544247591072/1532179231524651249.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-09-12T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.elderscrollsonline.com/en-us/joinus?utm_source=10047385&utm_medium=10047385&utm_campaign=36314869",
+          "button_label": "Buy Now",
+          "subtitle": "Save up to 75% and explore a world like no other"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEVsZGVyIFNjcm9sbHMgT25saW5lIiwiZ2FtZV90aXRsZSI6IlRoZSBFbGRlciBTY3JvbGxzIE9ubGluZSIsImdhbWVfcHVibGlzaGVyIjoiQmV0aGVzZGEiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0zMFQyMToxMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTEzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTEyVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTIyNDE0NTQ0MjQ3NTkxMDcyLzE1MzIxODEyODY4MTMzMDcwNjEuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTIyNDE0NTQ0MjQ3NTkxMDcyLzE1MzIxNzg5OTEwMTA2NzY5NTlfNzIwLm1wNCJ9",
+      "starts_at": "2026-07-30T21:10:00+00:00",
+      "expires_at": "2026-09-12T00:00:00+00:00",
+      "sent_at": "2026-07-30T22:07:26.325Z",
+      "type": "new"
+    },
+    "1532492483009712168": {
+      "id": "1532492483009712168",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-07-30T21:10:00+00:00",
+        "expires_at": "2026-08-13T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.elderscrollsonline.com/en-us/joinus?utm_source=10047385&utm_medium=10047385&utm_campaign=36314869",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1522414544247591072/1532181286813307061.jpg",
+          "hero_video": "quests/1522414544247591072/1532178991010676959_720.mp4",
+          "quest_bar_hero_blurhash": "qTkKDILaOaZfdoiUdYj9ptar/A==",
+          "quest_bar_hero": "quests/1522414544247591072/1532181220832579655.jpg",
+          "quest_bar_hero_video": "quests/1522414544247591072/1532178991010676959_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1522414544247591072/1532179929918079237.png",
+          "game_tile_dark": "quests/1522414544247591072/1532179929918079237.png",
+          "logotype_light": "quests/1522414544247591072/1532179929939054622.png",
+          "logotype_dark": "quests/1522414544247591072/1532179929926602773.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Elder Scrolls Online",
+          "game_title": "The Elder Scrolls Online",
+          "game_publisher": "Bethesda"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1522414544247591072/1532180075653496972_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1522414544247591072/1532180075653496972_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1522414544247591072/1532180075653496972.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1522414544247591072/1532179231524651249_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1522414544247591072/1532179231524651249_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1522414544247591072/1532179231524651249.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1522414544247591072/1532179901115924631.png",
+                  "caption": "quests/1522414544247591072/1532180005679923301.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-09-12T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.elderscrollsonline.com/en-us/joinus?utm_source=10047385&utm_medium=10047385&utm_campaign=36314869",
+          "button_label": "Buy Now",
+          "subtitle": "Save up to 75% and explore a world like no other"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEVsZGVyIFNjcm9sbHMgT25saW5lIiwiZ2FtZV90aXRsZSI6IlRoZSBFbGRlciBTY3JvbGxzIE9ubGluZSIsImdhbWVfcHVibGlzaGVyIjoiQmV0aGVzZGEiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0zMFQyMToxMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTEzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTEyVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTIyNDE0NTQ0MjQ3NTkxMDcyLzE1MzIxODEyODY4MTMzMDcwNjEuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTIyNDE0NTQ0MjQ3NTkxMDcyLzE1MzIxNzg5OTEwMTA2NzY5NTlfNzIwLm1wNCJ9",
+      "starts_at": "2026-07-30T21:10:00+00:00",
+      "expires_at": "2026-09-12T00:00:00+00:00",
+      "sent_at": "2026-07-30T22:07:27.735Z",
       "type": "new"
     }
   },
-  "last_check": "2026-07-30T19:26:57.077Z"
+  "last_check": "2026-07-30T22:07:32.754Z"
 }
