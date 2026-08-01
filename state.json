@@ -7492,7 +7492,104 @@
       "expires_at": "2026-09-06T00:00:00+00:00",
       "sent_at": "2026-07-31T22:06:29.958Z",
       "type": "new"
+    },
+    "1527502945875263548": {
+      "id": "1527502945875263548",
+      "config": {
+        "id": "1527502945875263548",
+        "config_version": 2,
+        "starts_at": "2026-08-01T07:00:00+00:00",
+        "expires_at": "2026-08-20T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1527502945875263548/1528577107901546698.jpg",
+          "hero_video": "quests/1527502945875263548/1527532419362586634_720.mp4",
+          "quest_bar_hero_blurhash": "CfgFDIAGuWV7hnmEeIV2b3f3tw==",
+          "quest_bar_hero": "quests/1527502945875263548/1527532359845675059.jpg",
+          "quest_bar_hero_video": "quests/1527502945875263548/1527532402396889220_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
+          "game_tile_dark": "quests/1527502945875263548/1527507273658667068.png",
+          "logotype_light": "quests/1527502945875263548/1527507273570848781.png",
+          "logotype_dark": "quests/1527502945875263548/1527507273570848781.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ],
+              "external_ids": [
+                "PPSA23355_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-09-19T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjBUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTlUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc1MDI5NDU4NzUyNjM1NDgvMTUyODU3NzEwNzkwMTU0NjY5OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mjc1MDI5NDU4NzUyNjM1NDgvMTUyNzUzMjQxOTM2MjU4NjYzNF83MjAubXA0In0=",
+      "starts_at": "2026-08-01T07:00:00+00:00",
+      "expires_at": "2026-09-19T06:59:00+00:00",
+      "sent_at": "2026-08-01T08:25:12.686Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-01T05:56:00.187Z"
+  "last_check": "2026-08-01T08:25:13.789Z"
 }
