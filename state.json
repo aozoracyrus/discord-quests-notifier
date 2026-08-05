@@ -1244,7 +1244,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-01T17:00:00+00:00",
-        "expires_at": "2026-08-06T00:00:00+00:00",
+        "expires_at": "2026-08-11T00:00:00+00:00",
         "features": [
           15
         ],
@@ -1348,10 +1348,10 @@
                 }
               },
               "orb_quantity": 200,
-              "premium_orb_quantity": null
+              "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-10T00:00:00+00:00",
           "platforms": [
             0
           ]
@@ -1363,12 +1363,12 @@
           "subtitle": "Take stress out of growth with Azure"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWljcm9zb2Z0IEF6dXJlIiwiZ2FtZV90aXRsZSI6IlNjYWxlIHdpdGggQXp1cmUiLCJnYW1lX3B1Ymxpc2hlciI6Ik1pY3Jvc29mdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMDZUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMDVUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjYxNjEzNzg0NjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjc2OTY1MzQzMjQ3MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWljcm9zb2Z0IEF6dXJlIiwiZ2FtZV90aXRsZSI6IlNjYWxlIHdpdGggQXp1cmUiLCJnYW1lX3B1Ymxpc2hlciI6Ik1pY3Jvc29mdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMTFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjYxNjEzNzg0NjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjc2OTY1MzQzMjQ3MF83MjAubXA0In0=",
       "starts_at": "2026-07-01T17:00:00+00:00",
-      "expires_at": "2026-08-06T00:00:00+00:00",
+      "expires_at": "2026-08-11T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:32.680Z",
       "type": "updated",
-      "updated_at": "2026-07-27T22:08:48.498Z"
+      "updated_at": "2026-08-05T22:13:03.972Z"
     },
     "1518710044856815737": {
       "id": "1518710044856815737",
@@ -8317,5 +8317,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-08-05T19:36:09.588Z"
+  "last_check": "2026-08-05T22:13:05.076Z"
 }
