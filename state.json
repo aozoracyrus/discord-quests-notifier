@@ -8460,7 +8460,117 @@
       "expires_at": "2026-09-30T00:00:00+00:00",
       "sent_at": "2026-08-07T00:02:14.988Z",
       "type": "new"
+    },
+    "1533684751905456289": {
+      "id": "1533684751905456289",
+      "config": {
+        "id": "1533684751905456289",
+        "config_version": 2,
+        "starts_at": "2026-08-07T17:00:00+00:00",
+        "expires_at": "2026-08-22T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://zenless.hoyoverse.com/ua?utm_source=discord&utm_medium=discord_ua&utm_campaign=ZZZ-JP-PC-X-new-Discord-260617&hoyotrace_channel=discord_channel",
+          "id": "1257819671114289184",
+          "name": "Zenless Zone Zero"
+        },
+        "assets": {
+          "hero": "quests/1533684751905456289/1534757582441419064.jpg",
+          "hero_video": "quests/1533684751905456289/1534768307092324465_720.mp4",
+          "quest_bar_hero_blurhash": "qPYJGoQMhZeaenmHAXgEYDY=",
+          "quest_bar_hero": "quests/1533684751905456289/1534757582441419064.jpg",
+          "quest_bar_hero_video": "quests/1533684751905456289/1534757958477545522_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1533684751905456289/1534757583343063241.png",
+          "game_tile_dark": "quests/1533684751905456289/1534757583343063241.png",
+          "logotype_light": "quests/1533684751905456289/1534757582844072077.png",
+          "logotype_dark": "quests/1533684751905456289/1534757584169599066.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Zenless Zone Zero Ver.3.1",
+          "game_title": "Zenless Zone Zero",
+          "game_publisher": "HoYoverse"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1257819671114289184"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1257819671114289184"
+                }
+              ],
+              "external_ids": [
+                "1696147865"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1257819671114289184"
+                }
+              ],
+              "external_ids": [
+                "PPSA20549_00",
+                "PPSA20599_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-09-21T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://zenless.hoyoverse.com/ua?utm_source=discord&utm_medium=discord_ua&utm_campaign=ZZZ-JP-PC-X-new-Discord-260617&hoyotrace_channel=discord_channel",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiWmVubGVzcyBab25lIFplcm8gVmVyLjMuMSIsImdhbWVfdGl0bGUiOiJaZW5sZXNzIFpvbmUgWmVybyIsImdhbWVfcHVibGlzaGVyIjoiSG9Zb3ZlcnNlIiwiYXBwbGljYXRpb25faWQiOiIxMjU3ODE5NjcxMTE0Mjg5MTg0IiwiYXBwbGljYXRpb25fbmFtZSI6Ilplbmxlc3MgWm9uZSBaZXJvIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0wN1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIxVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzM2ODQ3NTE5MDU0NTYyODkvMTUzNDc1NzU4MjQ0MTQxOTA2NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzM2ODQ3NTE5MDU0NTYyODkvMTUzNDc2ODMwNzA5MjMyNDQ2NV83MjAubXA0In0=",
+      "starts_at": "2026-08-07T17:00:00+00:00",
+      "expires_at": "2026-09-21T00:00:00+00:00",
+      "sent_at": "2026-08-07T18:58:04.014Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-07T15:56:46.424Z"
+  "last_check": "2026-08-07T18:58:05.118Z"
 }
