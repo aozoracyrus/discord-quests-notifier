@@ -1244,7 +1244,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-01T17:00:00+00:00",
-        "expires_at": "2026-08-11T00:00:00+00:00",
+        "expires_at": "2026-08-12T16:59:00+00:00",
         "features": [
           15
         ],
@@ -1351,7 +1351,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-10T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-11T16:59:00+00:00",
           "platforms": [
             0
           ]
@@ -1363,12 +1363,12 @@
           "subtitle": "Take stress out of growth with Azure"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWljcm9zb2Z0IEF6dXJlIiwiZ2FtZV90aXRsZSI6IlNjYWxlIHdpdGggQXp1cmUiLCJnYW1lX3B1Ymxpc2hlciI6Ik1pY3Jvc29mdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMTFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjYxNjEzNzg0NjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjc2OTY1MzQzMjQ3MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWljcm9zb2Z0IEF6dXJlIiwiZ2FtZV90aXRsZSI6IlNjYWxlIHdpdGggQXp1cmUiLCJnYW1lX3B1Ymxpc2hlciI6Ik1pY3Jvc29mdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMTJUMTY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTFUMTY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjYxNjEzNzg0NjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjc2OTY1MzQzMjQ3MF83MjAubXA0In0=",
       "starts_at": "2026-07-01T17:00:00+00:00",
-      "expires_at": "2026-08-11T00:00:00+00:00",
+      "expires_at": "2026-08-12T16:59:00+00:00",
       "sent_at": "2026-07-26T08:27:32.680Z",
       "type": "updated",
-      "updated_at": "2026-08-05T22:13:03.972Z"
+      "updated_at": "2026-08-08T01:42:28.411Z"
     },
     "1518710044856815737": {
       "id": "1518710044856815737",
@@ -6521,7 +6521,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-31T20:50:00+00:00",
-        "expires_at": "2026-08-07T00:00:00+00:00",
+        "expires_at": "2026-08-14T06:59:00+00:00",
         "features": [
           44,
           15
@@ -6602,7 +6602,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-06T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-13T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -6619,11 +6619,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFN0cmlrZSBGb3JjZSIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgU3RyaWtlIEZvcmNlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzFUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0wNlQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI4MjAzNjgxNjU3MDM2OTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI2MDUyNDkxMjUzNTE0NTRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFN0cmlrZSBGb3JjZSIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgU3RyaWtlIEZvcmNlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzFUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0xNFQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0xM1QwNjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI4MjAzNjgxNjU3MDM2OTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI2MDUyNDkxMjUzNTE0NTRfNzIwLm1wNCJ9",
       "starts_at": "2026-07-31T20:50:00+00:00",
-      "expires_at": "2026-09-06T00:00:00+00:00",
+      "expires_at": "2026-08-14T06:59:00+00:00",
       "sent_at": "2026-07-31T22:06:29.958Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-08T01:42:29.793Z"
     },
     "1527502945875263548": {
       "id": "1527502945875263548",
@@ -8570,7 +8571,92 @@
       "expires_at": "2026-09-21T00:00:00+00:00",
       "sent_at": "2026-08-07T18:58:04.014Z",
       "type": "new"
+    },
+    "1528661822650191912": {
+      "id": "1528661822650191912",
+      "config": {
+        "id": "1528661822650191912",
+        "config_version": 2,
+        "starts_at": "2026-08-08T00:00:00+00:00",
+        "expires_at": "2026-08-15T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://auto-page.gnjoy.hk/roworldseadiscordpc/?gameID=456&cid=1485&scid=mglb_roworld_SEA_PC_playquest_hwmt990416",
+          "id": "1506678780612050944",
+          "name": "Ragnarok The New World"
+        },
+        "assets": {
+          "hero": "quests/1528661822650191912/1535110205564518522.jpg",
+          "hero_video": "quests/1528661822650191912/1535104181256327168_720.mp4",
+          "quest_bar_hero_blurhash": "qEkKFIKHqJd/h4h3hXv4ibkfJw==",
+          "quest_bar_hero": "quests/1528661822650191912/1535110205359005776.jpg",
+          "quest_bar_hero_video": "quests/1528661822650191912/1535104104647626752_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1528661822650191912/1528713407816007750.png",
+          "game_tile_dark": "quests/1528661822650191912/1528713407816007750.png",
+          "logotype_light": "quests/1528661822650191912/1528713407526604921.png",
+          "logotype_dark": "quests/1528661822650191912/1528946494202446016.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Legend Cup | The World's Premier RO Tournament",
+          "game_title": "Ragnarok: The New World",
+          "game_publisher": "Gravity Game Vision"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1506678780612050944"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-09-14T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://auto-page.gnjoy.hk/roworldseadiscordpc/?gameID=456&cid=1485&scid=mglb_roworld_SEA_PC_playquest_hwmt990416",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTGVnZW5kIEN1cCB8IFRoZSBXb3JsZCdzIFByZW1pZXIgUk8gVG91cm5hbWVudCIsImdhbWVfdGl0bGUiOiJSYWduYXJvazogVGhlIE5ldyBXb3JsZCIsImdhbWVfcHVibGlzaGVyIjoiR3Jhdml0eSBHYW1lIFZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUwNjY3ODc4MDYxMjA1MDk0NCIsImFwcGxpY2F0aW9uX25hbWUiOiJSYWduYXJvayBUaGUgTmV3IFdvcmxkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0wOFQwMDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTE1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTE0VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUyODY2MTgyMjY1MDE5MTkxMi8xNTM1MTEwMjA1NTY0NTE4NTIyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUyODY2MTgyMjY1MDE5MTkxMi8xNTM1MTA0MTgxMjU2MzI3MTY4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-08-08T00:00:00+00:00",
+      "expires_at": "2026-09-14T00:00:00+00:00",
+      "sent_at": "2026-08-08T01:42:27.086Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-07T21:39:35.327Z"
+  "last_check": "2026-08-08T01:42:30.916Z"
 }
