@@ -8484,33 +8484,6 @@
         },
         "task_config_v2": {
           "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1534276813554061433/1534280187284426762_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1534276813554061433/1534278469913940029.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1534276813554061433/1534280187284426762_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1534276813554061433/1534278469913940029.png"
-                },
-                "video_hls": {
-                  "url": "quests/1534276813554061433/1534280187284426762.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1534276813554061433/1534278469913940029.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
               "target": 29,
@@ -8575,12 +8548,13 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRXBpc29kZSBSZWFsaXR5IFN0YXJzIiwiZ2FtZV90aXRsZSI6IkVwaXNvZGUgUmVhbGl0eSBTdGFycyIsImdhbWVfcHVibGlzaGVyIjoiUG9ja2V0IEdlbXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTI0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIzVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM0Mjc2ODEzNTU0MDYxNDMzLzE1MzQyNzkyNDM3OTY1ODI0NjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRXBpc29kZSBSZWFsaXR5IFN0YXJzIiwiZ2FtZV90aXRsZSI6IkVwaXNvZGUgUmVhbGl0eSBTdGFycyIsImdhbWVfcHVibGlzaGVyIjoiUG9ja2V0IEdlbXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTI0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIzVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzQyNzY4MTM1NTQwNjE0MzMvMTUzNDI3OTI0Mzc5NjU4MjQ2Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-10T17:00:00+00:00",
-      "expires_at": "2026-09-23T00:00:00+00:00",
+      "expires_at": "2026-08-24T00:00:00+00:00",
       "sent_at": "2026-08-10T18:58:12.353Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-11T01:48:02.364Z"
     }
   },
-  "last_check": "2026-08-10T21:41:43.634Z"
+  "last_check": "2026-08-11T01:48:03.467Z"
 }
