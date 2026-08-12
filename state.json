@@ -1239,137 +1239,6 @@
       "sent_at": "2026-07-26T08:27:30.167Z",
       "type": "new"
     },
-    "1521223322346455134": {
-      "id": "1521223322346455134",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-01T17:00:00+00:00",
-        "expires_at": "2026-08-12T16:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://azure.microsoft.com/en-us/explore/?OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1521223322346455134/1521226616137846925.jpg",
-          "hero_video": "quests/1521223322346455134/1521226769653432470_720.mp4",
-          "quest_bar_hero_blurhash": "EikOGoIJZLedZXeHB5tmkFk=",
-          "quest_bar_hero": "quests/1521223322346455134/1521226616137846925.jpg",
-          "quest_bar_hero_video": "quests/1521223322346455134/1521226914377896178_720.mp4",
-          "game_tile": "1521227572107673671.png",
-          "logotype": "1521227571034067044.png",
-          "game_tile_light": "quests/1521223322346455134/1521225637845536940.png",
-          "game_tile_dark": "quests/1521223322346455134/1521225637845536940.png",
-          "logotype_light": "quests/1521223322346455134/1521225663955341413.png",
-          "logotype_dark": "quests/1521223322346455134/1521225663955341413.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Microsoft Azure",
-          "game_title": "Scale with Azure",
-          "game_publisher": "Microsoft"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1521223322346455134/1521225519411236954_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1521223322346455134/1521225577980231840.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1521223322346455134/1521225519411236954_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1521223322346455134/1521225577980231840.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1521223322346455134/1521225519411236954.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1521223322346455134/1521225577980231840.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1521223322346455134/1521225531755073667_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521223322346455134/1521225577980231840.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1521223322346455134/1521225531755073667_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521223322346455134/1521225577980231840.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1521223322346455134/1521225531755073667.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521223322346455134/1521225577980231840.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-11T16:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://azure.microsoft.com/en-us/explore/?OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!",
-          "button_label": "Learn More",
-          "subtitle": "Take stress out of growth with Azure"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWljcm9zb2Z0IEF6dXJlIiwiZ2FtZV90aXRsZSI6IlNjYWxlIHdpdGggQXp1cmUiLCJnYW1lX3B1Ymxpc2hlciI6Ik1pY3Jvc29mdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMTJUMTY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTFUMTY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjYxNjEzNzg0NjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjEyMjMzMjIzNDY0NTUxMzQvMTUyMTIyNjc2OTY1MzQzMjQ3MF83MjAubXA0In0=",
-      "starts_at": "2026-07-01T17:00:00+00:00",
-      "expires_at": "2026-08-12T16:59:00+00:00",
-      "sent_at": "2026-07-26T08:27:32.680Z",
-      "type": "updated",
-      "updated_at": "2026-08-08T01:42:28.411Z"
-    },
     "1518710044856815737": {
       "id": "1518710044856815737",
       "config": {
@@ -9030,7 +8899,256 @@
       "expires_at": "2026-09-24T00:00:00+00:00",
       "sent_at": "2026-08-11T21:49:28.636Z",
       "type": "new"
+    },
+    "1533983564327030865": {
+      "id": "1533983564327030865",
+      "config": {
+        "id": "1533983564327030865",
+        "config_version": 2,
+        "starts_at": "2026-08-12T16:00:00+00:00",
+        "expires_at": "2026-08-20T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://hoyo.link/4hHaqFWr7",
+          "id": "762434991303950386",
+          "name": "Genshin Impact"
+        },
+        "assets": {
+          "hero": "quests/1533983564327030865/1533990042723418253.jpg",
+          "quest_bar_hero_blurhash": "acYFDILAfHWMmHdeZnaDa1CVBQ==",
+          "quest_bar_hero": "quests/1533983564327030865/1534043856570552361.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1533983564327030865/1533989885101473802.png",
+          "game_tile_dark": "quests/1533983564327030865/1533989885101473802.png",
+          "logotype_light": "quests/1533983564327030865/1533989885067788389.png",
+          "logotype_dark": "quests/1533983564327030865/1533989885134901398.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Genshin Impact Phiên Bản 7.0",
+          "game_title": "Genshin Impact",
+          "game_publisher": "HoYoverse"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "762434991303950386"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "762434991303950386"
+                }
+              ],
+              "external_ids": [
+                "2053080068"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "762434991303950386"
+                }
+              ],
+              "external_ids": [
+                "PPSA02584_00",
+                "CUSA23681_00",
+                "PPSA02562_00",
+                "CUSA23678_00",
+                "PPSA02585_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1533983564327030866",
+              "asset": "quests/1533983564327030865/1534589848269361202.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "gói quà phần thưởng trong game",
+                "name_with_article": "gói quà phần thưởng trong game",
+                "redemption_instructions_by_platform": {
+                  "0": "mã đổi thưởng gói quà Genshin Impact, vui lòng đến giao diện đổi thưởng trên trang chủ chính thức của Genshin Impact (https://genshin.hoyoverse.com/gift), đăng nhập tài khoản game, nhập mã đổi thưởng theo gợi ý, nhận gói quà qua thư trong game."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-09-19T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://hoyo.link/4hHaqFWr7",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QgUGhpw6puIELhuqNuIDcuMCIsImdhbWVfdGl0bGUiOiJHZW5zaGluIEltcGFjdCIsImdhbWVfcHVibGlzaGVyIjoiSG9Zb3ZlcnNlIiwiYXBwbGljYXRpb25faWQiOiI3NjI0MzQ5OTEzMDM5NTAzODYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTEyVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjBUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTlUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzMzk4MzU2NDMyNzAzMDg2NS8xNTMzOTkwMDQyNzIzNDE4MjUzLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-08-12T16:00:00+00:00",
+      "expires_at": "2026-09-19T00:00:00+00:00",
+      "sent_at": "2026-08-12T19:02:39.228Z",
+      "type": "new"
+    },
+    "1529174839141597276": {
+      "id": "1529174839141597276",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-12T17:00:00+00:00",
+        "expires_at": "2026-09-01T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1529174839141597276/1535351503890419762.jpg",
+          "hero_video": "quests/1529174839141597276/1535403733524156497_720.mp4",
+          "quest_bar_hero_blurhash": "1ucNFIKZiIh/dpV6hIj4p3Z/aw==",
+          "quest_bar_hero": "quests/1529174839141597276/1535351289997959168.jpg",
+          "quest_bar_hero_video": "quests/1529174839141597276/1535403733524156497_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1529174839141597276/1535349373406412951.png",
+          "game_tile_dark": "quests/1529174839141597276/1535444909123833916.png",
+          "logotype_light": "quests/1529174839141597276/1535349373431709847.png",
+          "logotype_dark": "quests/1529174839141597276/1535444909249798204.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Greatness is Building",
+          "game_title": "Greatness is Building",
+          "game_publisher": "Microsoft"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 60,
+              "assets": {
+                "video": {
+                  "url": "quests/1529174839141597276/1535384520768098334_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1529174839141597276/1535385347712749688.png",
+                  "caption": "quests/1529174839141597276/1535384539931877376.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1529174839141597276/1535384520768098334_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1529174839141597276/1535385347712749688.png",
+                  "caption": "quests/1529174839141597276/1535384539931877376.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1529174839141597276/1535384520768098334.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1529174839141597276/1535385347712749688.png",
+                  "caption": "quests/1529174839141597276/1535384539931877376.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 60,
+              "assets": {
+                "video": {
+                  "url": "quests/1529174839141597276/1535384520768098334_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1529174839141597276/1535385347712749688.png",
+                  "caption": "quests/1529174839141597276/1535384539931877376.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1529174839141597276/1535384520768098334_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1529174839141597276/1535385347712749688.png",
+                  "caption": "quests/1529174839141597276/1535384539931877376.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1529174839141597276/1535384520768098334.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1529174839141597276/1535385347712749688.png",
+                  "caption": "quests/1529174839141597276/1535384539931877376.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-01T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+          "button_label": "Learn More",
+          "subtitle": "Build greatness with Azure"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JlYXRuZXNzIGlzIEJ1aWxkaW5nIiwiZ2FtZV90aXRsZSI6IkdyZWF0bmVzcyBpcyBCdWlsZGluZyIsImdhbWVfcHVibGlzaGVyIjoiTWljcm9zb2Z0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjYwfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjYwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUyOTE3NDgzOTE0MTU5NzI3Ni8xNTM1MzUxNTAzODkwNDE5NzYyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUyOTE3NDgzOTE0MTU5NzI3Ni8xNTM1NDAzNzMzNTI0MTU2NDk3XzcyMC5tcDQifQ==",
+      "starts_at": "2026-08-12T17:00:00+00:00",
+      "expires_at": "2026-10-01T00:00:00+00:00",
+      "sent_at": "2026-08-12T19:02:40.925Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-12T15:59:13.932Z"
+  "last_check": "2026-08-12T19:02:42.032Z"
 }
