@@ -2312,7 +2312,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-17T18:00:00+00:00",
-        "expires_at": "2026-08-14T00:00:00+00:00",
+        "expires_at": "2026-08-21T06:59:00+00:00",
         "features": [
           44,
           15
@@ -2392,7 +2392,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-13T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-20T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -2409,12 +2409,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR2FtZSBvZiBUaHJvbmVzOiBEcmFnb25maXJlIiwiZ2FtZV90aXRsZSI6IkdhbWUgb2YgVGhyb25lczogRHJhZ29uZmlyZSIsImdhbWVfcHVibGlzaGVyIjoiV2FybmVyIEJyb3MuIEludGVybmF0aW9uYWwgRW50ZXJwcmlzZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0xN1QxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTE0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTEzVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo0MH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc0NjQ3MjAxODM5ODQyNjgvMTUyNzQ3NTI2ODcwMzIyODAyNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR2FtZSBvZiBUaHJvbmVzOiBEcmFnb25maXJlIiwiZ2FtZV90aXRsZSI6IkdhbWUgb2YgVGhyb25lczogRHJhZ29uZmlyZSIsImdhbWVfcHVibGlzaGVyIjoiV2FybmVyIEJyb3MuIEludGVybmF0aW9uYWwgRW50ZXJwcmlzZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0xN1QxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTIxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIwVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo0MH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc0NjQ3MjAxODM5ODQyNjgvMTUyNzQ3NTI2ODcwMzIyODAyNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-07-17T18:00:00+00:00",
-      "expires_at": "2026-08-14T00:00:00+00:00",
+      "expires_at": "2026-08-21T06:59:00+00:00",
       "sent_at": "2026-07-26T08:27:47.596Z",
       "type": "updated",
-      "updated_at": "2026-08-10T16:00:00.237Z"
+      "updated_at": "2026-08-13T19:03:35.268Z"
     },
     "1527079584561102938": {
       "id": "1527079584561102938",
@@ -5399,115 +5399,6 @@
       "sent_at": "2026-07-30T05:42:13.104Z",
       "type": "new"
     },
-    "1532058290736074763": {
-      "id": "1532058290736074763",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-30T17:00:00+00:00",
-        "expires_at": "2026-08-13T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "http://wwechampions.scopely.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1532058290736074763/1532062909121958019.jpg",
-          "quest_bar_hero_blurhash": "WOcNLIJpZnaPeXdoiHeXf0zm9g==",
-          "quest_bar_hero": "quests/1532058290736074763/1532077084275642540.jpg",
-          "quest_bar_hero_video": "quests/1532058290736074763/1532062592510464182_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1532058290736074763/1532060245751369898.png",
-          "game_tile_dark": "quests/1532058290736074763/1532060245751369898.png",
-          "logotype_light": "quests/1532058290736074763/1532060245658964093.png",
-          "logotype_dark": "quests/1532058290736074763/1532060245310832680.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "WWE Champions: Wrestling RPG",
-          "game_title": "WWE Champions: Wrestling RPG",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1532058290736074763/1532060245982183595_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1532058290736074763/1532063176684863578.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1532058290736074763/1532060245982183595_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1532058290736074763/1532063176684863578.png"
-                },
-                "video_hls": {
-                  "url": "quests/1532058290736074763/1532060245982183595.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1532058290736074763/1532063176684863578.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-12T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.whiplash"
-          },
-          "ios": {
-            "ios_app_id": "1017432937"
-          },
-          "link": "http://wwechampions.scopely.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV1dFIENoYW1waW9uczogV3Jlc3RsaW5nIFJQRyIsImdhbWVfdGl0bGUiOiJXV0UgQ2hhbXBpb25zOiBXcmVzdGxpbmcgUlBHIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzBUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0xM1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0xMlQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMDU4MjkwNzM2MDc0NzYzLzE1MzIwNjI5MDkxMjE5NTgwMTkuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-30T06:59:00+00:00",
-      "expires_at": "2026-08-13T00:00:00+00:00",
-      "sent_at": "2026-07-30T19:26:55.972Z",
-      "type": "updated",
-      "updated_at": "2026-08-10T16:00:01.601Z"
-    },
     "1522414544247591072": {
       "id": "1522414544247591072",
       "config": {
@@ -6172,7 +6063,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-31T20:50:00+00:00",
-        "expires_at": "2026-08-14T06:59:00+00:00",
+        "expires_at": "2026-08-21T06:59:00+00:00",
         "features": [
           44,
           15
@@ -6253,7 +6144,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-13T06:59:00+00:00",
+          "rewards_expire_at": "2026-09-20T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -6270,12 +6161,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFN0cmlrZSBGb3JjZSIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgU3RyaWtlIEZvcmNlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzFUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0xNFQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0xM1QwNjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI4MjAzNjgxNjU3MDM2OTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI2MDUyNDkxMjUzNTE0NTRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFN0cmlrZSBGb3JjZSIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgU3RyaWtlIEZvcmNlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMzFUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0yMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0yMFQwNjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI4MjAzNjgxNjU3MDM2OTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTMyMTcwNzAwNTkxMjA2NDEwLzE1MzI2MDUyNDkxMjUzNTE0NTRfNzIwLm1wNCJ9",
       "starts_at": "2026-07-31T20:50:00+00:00",
-      "expires_at": "2026-08-14T06:59:00+00:00",
+      "expires_at": "2026-08-21T06:59:00+00:00",
       "sent_at": "2026-07-31T22:06:29.958Z",
       "type": "updated",
-      "updated_at": "2026-08-08T01:42:29.793Z"
+      "updated_at": "2026-08-13T19:03:36.576Z"
     },
     "1527502945875263548": {
       "id": "1527502945875263548",
@@ -9150,5 +9041,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-08-13T15:58:59.707Z"
+  "last_check": "2026-08-13T19:03:37.684Z"
 }
