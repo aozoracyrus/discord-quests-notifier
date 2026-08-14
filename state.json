@@ -8958,7 +8958,145 @@
       "expires_at": "2026-10-01T00:00:00+00:00",
       "sent_at": "2026-08-12T19:02:40.925Z",
       "type": "new"
+    },
+    "1536914989577797702": {
+      "id": "1536914989577797702",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-14T02:00:00+00:00",
+        "expires_at": "2026-08-28T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=Discord&utm_campaign=preorder&utm_medium=pmedia&utm_content=quest&utm_term=global",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1536914989577797702/1537356365184376892.jpg",
+          "hero_video": "quests/1536914989577797702/1537627078181126164_720.mp4",
+          "quest_bar_hero_blurhash": "RxgGDIIHmoaFWJl2mIYHhmVwSA==",
+          "quest_bar_hero": "quests/1536914989577797702/1537356317851787334.jpg",
+          "quest_bar_hero_video": "quests/1536914989577797702/1537356390169972776_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1536914989577797702/1537355992071802940.png",
+          "game_tile_dark": "quests/1536914989577797702/1537355992071802940.png",
+          "logotype_light": "quests/1536914989577797702/1537371389680680960.png",
+          "logotype_dark": "quests/1536914989577797702/1537355992130396180.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Phantom Blade Zero Pre-Order Video",
+          "game_title": "Phantom Blade Zero",
+          "game_publisher": "S-GAME"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 67,
+              "assets": {
+                "video": {
+                  "url": "quests/1536914989577797702/1537371605754314913_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
+                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1536914989577797702/1537371605754314913_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
+                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1536914989577797702/1537371605754314913.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
+                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 67,
+              "assets": {
+                "video": {
+                  "url": "quests/1536914989577797702/1537371605754314913_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
+                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1536914989577797702/1537371605754314913_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
+                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1536914989577797702/1537371605754314913.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
+                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1537474334333997248",
+              "asset": "quests/1536914989577797702/1537474718536564786.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Mó Yuan Avatar Decoration",
+                "name_with_article": "a Mó Yuan Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-10-27T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-09-27T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=Discord&utm_campaign=preorder&utm_medium=pmedia&utm_content=quest&utm_term=global",
+          "button_label": "Pre-Order Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUGhhbnRvbSBCbGFkZSBaZXJvIFByZS1PcmRlciBWaWRlbyIsImdhbWVfdGl0bGUiOiJQaGFudG9tIEJsYWRlIFplcm8iLCJnYW1lX3B1Ymxpc2hlciI6IlMtR0FNRSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE0VDAyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo2N30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo2N31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzY5MTQ5ODk1Nzc3OTc3MDIvMTUzNzM1NjM2NTE4NDM3Njg5Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzY5MTQ5ODk1Nzc3OTc3MDIvMTUzNzYyNzA3ODE4MTEyNjE2NF83MjAubXA0In0=",
+      "starts_at": "2026-08-14T02:00:00+00:00",
+      "expires_at": "2026-09-27T00:00:00+00:00",
+      "sent_at": "2026-08-14T04:48:18.514Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-14T02:00:01.956Z"
+  "last_check": "2026-08-14T04:48:19.618Z"
 }
