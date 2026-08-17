@@ -7611,11 +7611,11 @@
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1520190459530707096/1525270944380358808.jpg",
-          "hero_video": "quests/1520190459530707096/1520204660550406325_720.mp4",
-          "quest_bar_hero_blurhash": "WLcNKoowl0mIeIeId6BjCTo=",
-          "quest_bar_hero": "quests/1520190459530707096/1525270944380358808.jpg",
-          "quest_bar_hero_video": "quests/1520190459530707096/1520204660550406325_720.mp4",
+          "hero": "quests/1520190459530707096/1538971099771969597.jpg",
+          "hero_video": "quests/1520190459530707096/1538971306144305282_720.mp4",
+          "quest_bar_hero_blurhash": "X0gKSp6vZ5d3iIeHYHcIh4g=",
+          "quest_bar_hero": "quests/1520190459530707096/1538971099771969597.jpg",
+          "quest_bar_hero_video": "quests/1520190459530707096/1538971306144305282_720.mp4",
           "game_tile": "1520204880243851314.png",
           "logotype": "1520204879056867378.png",
           "game_tile_light": "quests/1520190459530707096/1520204151093465150.png",
@@ -7639,22 +7639,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1520190459530707096/1527373783353262140_1080.mp4",
+                  "url": "quests/1520190459530707096/1538972807604604939_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1520190459530707096/1521204480316543047.jpg"
+                  "thumbnail": "quests/1520190459530707096/1538971090334777386.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1520190459530707096/1527373783353262140_720.mp4",
+                  "url": "quests/1520190459530707096/1538972807604604939_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1520190459530707096/1521204480316543047.jpg"
+                  "thumbnail": "quests/1520190459530707096/1538971090334777386.png"
                 },
                 "video_hls": {
-                  "url": "quests/1520190459530707096/1527373783353262140.m3u8",
+                  "url": "quests/1520190459530707096/1538972807604604939.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1520190459530707096/1521204480316543047.jpg"
+                  "thumbnail": "quests/1520190459530707096/1538971090334777386.png"
                 }
               },
               "messages": {
@@ -7698,12 +7698,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTI0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIzVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjAxOTA0NTk1MzA3MDcwOTYvMTUyNTI3MDk0NDM4MDM1ODgwOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjAxOTA0NTk1MzA3MDcwOTYvMTUyMDIwNDY2MDU1MDQwNjMyNV83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTI0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIzVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjAxOTA0NTk1MzA3MDcwOTYvMTUzODk3MTA5OTc3MTk2OTU5Ny5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjAxOTA0NTk1MzA3MDcwOTYvMTUzODk3MTMwNjE0NDMwNTI4Ml83MjAubXA0In0=",
       "starts_at": "2026-06-29T17:00:00+00:00",
       "expires_at": "2026-08-24T06:59:00+00:00",
       "sent_at": "2026-08-10T18:58:07.152Z",
       "type": "updated",
-      "updated_at": "2026-08-17T18:39:49.289Z"
+      "updated_at": "2026-08-17T21:26:27.429Z"
     },
     "1527791132938080326": {
       "id": "1527791132938080326",
@@ -9608,7 +9608,103 @@
       "expires_at": "2026-10-01T00:00:00+00:00",
       "sent_at": "2026-08-17T18:39:47.801Z",
       "type": "new"
+    },
+    "1534613925767676096": {
+      "id": "1534613925767676096",
+      "config": {
+        "id": "1534613925767676096",
+        "config_version": 2,
+        "starts_at": "2026-08-17T20:50:00+00:00",
+        "expires_at": "2026-09-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.playstation.com/games/marvel-tokon-fighting-souls/?emcid=vd-1s-536319",
+          "id": "1428207854153633852",
+          "name": "MARVEL Tōkon: Fighting Souls"
+        },
+        "assets": {
+          "hero": "quests/1534613925767676096/1536463047453970432.jpg",
+          "quest_bar_hero_blurhash": "pygODILZp3lvh4aHdor/NvB3RQ==",
+          "quest_bar_hero": "quests/1534613925767676096/1534614702590529806.jpg",
+          "quest_bar_hero_video": "quests/1534613925767676096/1534989736639336629_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534613925767676096/1534980286163583046.png",
+          "game_tile_dark": "quests/1534613925767676096/1534980286163583046.png",
+          "logotype_light": "quests/1534613925767676096/1536450033921036298.png",
+          "logotype_dark": "quests/1534613925767676096/1536450033921036298.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Marvel Tokon: Fighting Souls",
+          "game_title": "Marvel Tokon: Fighting Souls",
+          "game_publisher": "PlayStation"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428207854153633852"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428207854153633852"
+                }
+              ],
+              "external_ids": [
+                "PPSA15595_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-05T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.playstation.com/games/marvel-tokon-fighting-souls/?emcid=vd-1s-536319",
+          "button_label": "Chơi Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNDYxMzkyNTc2NzY3NjA5Ni8xNTM2NDYzMDQ3NDUzOTcwNDMyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-08-17T20:50:00+00:00",
+      "expires_at": "2026-10-05T00:00:00+00:00",
+      "sent_at": "2026-08-17T21:26:25.936Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-17T18:39:50.396Z"
+  "last_check": "2026-08-17T21:26:28.533Z"
 }
