@@ -9750,6 +9750,16 @@
                   "id": "1428207854153633852"
                 }
               ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1428207854153633852"
+                }
+              ],
+              "external_ids": []
             }
           },
           "join_operator": "or"
@@ -9782,12 +9792,13 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxMzczOTQ5NzU3NzI2OTMvMTUzNzEzNzkyMDM2MjgxNTYwOS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNzEzNzM5NDk3NTc3MjY5My8xNTM3MTM3OTIwMzYyODE1NjA5LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-17T20:50:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-18T01:15:28.841Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-18T03:45:10.547Z"
     }
   },
-  "last_check": "2026-08-18T01:15:29.945Z"
+  "last_check": "2026-08-18T03:45:11.652Z"
 }
