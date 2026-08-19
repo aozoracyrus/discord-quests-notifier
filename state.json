@@ -8516,7 +8516,7 @@
         "id": "1533983564327030865",
         "config_version": 2,
         "starts_at": "2026-08-12T16:00:00+00:00",
-        "expires_at": "2026-08-20T00:00:00+00:00",
+        "expires_at": "2026-08-20T06:59:00+00:00",
         "features": [
           15
         ],
@@ -8577,10 +8577,10 @@
                 }
               ],
               "external_ids": [
-                "PPSA02584_00",
                 "CUSA23681_00",
                 "PPSA02562_00",
                 "CUSA23678_00",
+                "PPSA02584_00",
                 "PPSA02585_00"
               ]
             }
@@ -8606,7 +8606,7 @@
               "redemption_link": null
             }
           ],
-          "rewards_expire_at": "2026-09-19T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-19T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -8617,11 +8617,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QgUGhpw6puIELhuqNuIDcuMCIsImdhbWVfdGl0bGUiOiJHZW5zaGluIEltcGFjdCIsImdhbWVfcHVibGlzaGVyIjoiSG9Zb3ZlcnNlIiwiYXBwbGljYXRpb25faWQiOiI3NjI0MzQ5OTEzMDM5NTAzODYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTEyVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjBUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTlUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzMzk4MzU2NDMyNzAzMDg2NS8xNTMzOTkwMDQyNzIzNDE4MjUzLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QgUGhpw6puIELhuqNuIDcuMCIsImdhbWVfdGl0bGUiOiJHZW5zaGluIEltcGFjdCIsImdhbWVfcHVibGlzaGVyIjoiSG9Zb3ZlcnNlIiwiYXBwbGljYXRpb25faWQiOiI3NjI0MzQ5OTEzMDM5NTAzODYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTEyVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjBUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTlUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzMzk4MzU2NDMyNzAzMDg2NS8xNTMzOTkwMDQyNzIzNDE4MjUzLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-12T16:00:00+00:00",
-      "expires_at": "2026-09-19T00:00:00+00:00",
+      "expires_at": "2026-08-20T06:59:00+00:00",
       "sent_at": "2026-08-12T19:02:39.228Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-19T21:25:38.569Z"
     },
     "1529174839141597276": {
       "id": "1529174839141597276",
@@ -10408,5 +10409,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-08-19T18:36:09.070Z"
+  "last_check": "2026-08-19T21:25:39.674Z"
 }
