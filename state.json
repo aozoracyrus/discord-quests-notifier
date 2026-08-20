@@ -8510,120 +8510,6 @@
       "sent_at": "2026-08-11T21:49:28.636Z",
       "type": "new"
     },
-    "1533983564327030865": {
-      "id": "1533983564327030865",
-      "config": {
-        "id": "1533983564327030865",
-        "config_version": 2,
-        "starts_at": "2026-08-12T16:00:00+00:00",
-        "expires_at": "2026-08-20T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://hoyo.link/4hHaqFWr7",
-          "id": "762434991303950386",
-          "name": "Genshin Impact"
-        },
-        "assets": {
-          "hero": "quests/1533983564327030865/1533990042723418253.jpg",
-          "quest_bar_hero_blurhash": "acYFDILAfHWMmHdeZnaDa1CVBQ==",
-          "quest_bar_hero": "quests/1533983564327030865/1534043856570552361.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1533983564327030865/1533989885101473802.png",
-          "game_tile_dark": "quests/1533983564327030865/1533989885101473802.png",
-          "logotype_light": "quests/1533983564327030865/1533989885067788389.png",
-          "logotype_dark": "quests/1533983564327030865/1533989885134901398.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Genshin Impact Phiên Bản 7.0",
-          "game_title": "Genshin Impact",
-          "game_publisher": "HoYoverse"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "762434991303950386"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "762434991303950386"
-                }
-              ],
-              "external_ids": [
-                "2053080068"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "762434991303950386"
-                }
-              ],
-              "external_ids": [
-                "CUSA23681_00",
-                "PPSA02562_00",
-                "CUSA23678_00",
-                "PPSA02584_00",
-                "PPSA02585_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1533983564327030866",
-              "asset": "quests/1533983564327030865/1534589848269361202.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "gói quà phần thưởng trong game",
-                "name_with_article": "gói quà phần thưởng trong game",
-                "redemption_instructions_by_platform": {
-                  "0": "mã đổi thưởng gói quà Genshin Impact, vui lòng đến giao diện đổi thưởng trên trang chủ chính thức của Genshin Impact (https://genshin.hoyoverse.com/gift), đăng nhập tài khoản game, nhập mã đổi thưởng theo gợi ý, nhận gói quà qua thư trong game."
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-09-19T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://hoyo.link/4hHaqFWr7",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QgUGhpw6puIELhuqNuIDcuMCIsImdhbWVfdGl0bGUiOiJHZW5zaGluIEltcGFjdCIsImdhbWVfcHVibGlzaGVyIjoiSG9Zb3ZlcnNlIiwiYXBwbGljYXRpb25faWQiOiI3NjI0MzQ5OTEzMDM5NTAzODYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiR2Vuc2hpbiBJbXBhY3QiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTEyVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjBUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTlUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzMzk4MzU2NDMyNzAzMDg2NS8xNTMzOTkwMDQyNzIzNDE4MjUzLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
-      "starts_at": "2026-08-12T16:00:00+00:00",
-      "expires_at": "2026-08-20T06:59:00+00:00",
-      "sent_at": "2026-08-12T19:02:39.228Z",
-      "type": "updated",
-      "updated_at": "2026-08-19T21:25:38.569Z"
-    },
     "1529174839141597276": {
       "id": "1529174839141597276",
       "config": {
@@ -10407,7 +10293,104 @@
       "expires_at": "2026-10-05T00:00:00+00:00",
       "sent_at": "2026-08-19T18:36:07.966Z",
       "type": "new"
+    },
+    "1539100692541743216": {
+      "id": "1539100692541743216",
+      "config": {
+        "id": "1539100692541743216",
+        "config_version": 2,
+        "starts_at": "2026-08-20T07:00:00+00:00",
+        "expires_at": "2026-09-01T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1539100692541743216/1539107002083577916.jpg",
+          "hero_video": "quests/1539100692541743216/1539107190361825310_720.mp4",
+          "quest_bar_hero_blurhash": "VQgGHILfTlgliLe6Ko69UOkKaA==",
+          "quest_bar_hero": "quests/1539100692541743216/1539106972433915964.jpg",
+          "quest_bar_hero_video": "quests/1539100692541743216/1539107075970433124_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
+          "game_tile_dark": "quests/1527502945875263548/1527507273658667068.png",
+          "logotype_light": "quests/1527502945875263548/1527507273570848781.png",
+          "logotype_dark": "quests/1527502945875263548/1527507273570848781.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ],
+              "external_ids": [
+                "PPSA23355_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-01T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkxMDA2OTI1NDE3NDMyMTYvMTUzOTEwNzAwMjA4MzU3NzkxNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkxMDA2OTI1NDE3NDMyMTYvMTUzOTEwNzE5MDM2MTgyNTMxMF83MjAubXA0In0=",
+      "starts_at": "2026-08-20T07:00:00+00:00",
+      "expires_at": "2026-10-01T06:59:00+00:00",
+      "sent_at": "2026-08-20T09:35:11.931Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-20T06:46:52.606Z"
+  "last_check": "2026-08-20T09:35:13.038Z"
 }
