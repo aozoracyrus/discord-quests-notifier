@@ -10390,7 +10390,222 @@
       "expires_at": "2026-10-01T06:59:00+00:00",
       "sent_at": "2026-08-20T09:35:11.931Z",
       "type": "new"
+    },
+    "1539838784705798294": {
+      "id": "1539838784705798294",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-20T13:00:00+00:00",
+        "expires_at": "2026-08-31T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "http://fortnite.com/b/override",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "quests/1539074454225690648/1539307518860197950.jpg",
+          "quest_bar_hero_blurhash": "1OYRFIJHN5l/hYeFh4V6gOgFZg==",
+          "quest_bar_hero": "quests/1539074454225690648/1539307494793420921.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539074454225690648/1539307443274776626.png",
+          "game_tile_dark": "quests/1539074454225690648/1539307443274776626.png",
+          "logotype_light": "quests/1539074454225690648/1539307443119726763.png",
+          "logotype_dark": "quests/1539074454225690648/1539307443119726763.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnite Override",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ],
+              "external_ids": []
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "http://fortnite.com/b/override",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9ydG5pdGUgT3ZlcnJpZGUiLCJnYW1lX3RpdGxlIjoiRm9ydG5pdGUiLCJnYW1lX3B1Ymxpc2hlciI6IkVwaWMgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MDI0MTg3MDM1NTQ4NDI2OTQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRm9ydG5pdGUiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDEzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTA3NDQ1NDIyNTY5MDY0OC8xNTM5MzA3NTE4ODYwMTk3OTUwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-08-20T13:00:00+00:00",
+      "expires_at": "2026-09-30T00:00:00+00:00",
+      "sent_at": "2026-08-20T15:34:27.981Z",
+      "type": "new"
+    },
+    "1539360322421268627": {
+      "id": "1539360322421268627",
+      "config": {
+        "id": "1539360322421268627",
+        "config_version": 2,
+        "starts_at": "2026-08-20T13:00:00+00:00",
+        "expires_at": "2026-08-31T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "http://fortnite.com/b/override",
+          "id": "1402418703554842694",
+          "name": "Fortnite"
+        },
+        "assets": {
+          "hero": "quests/1539074454225690648/1539307518860197950.jpg",
+          "quest_bar_hero_blurhash": "1OYRFIJHN5l/hYeFh4V6gOgFZg==",
+          "quest_bar_hero": "quests/1539074454225690648/1539307494793420921.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539074454225690648/1539307443274776626.png",
+          "game_tile_dark": "quests/1539074454225690648/1539307443274776626.png",
+          "logotype_light": "quests/1539074454225690648/1539307443119726763.png",
+          "logotype_dark": "quests/1539074454225690648/1539307443119726763.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Fortnite Override",
+          "game_title": "Fortnite",
+          "game_publisher": "Epic Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ],
+              "external_ids": [
+                "267695549"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418703554842694"
+                }
+              ],
+              "external_ids": [
+                "CUSA07669_00",
+                "CUSA07022_00",
+                "PPSA01922_00",
+                "PPSA01923_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1539361544284938270",
+              "asset": "quests/1539074454225690648/1539361796601684089.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Fortnite Override Avatar Decoration",
+                "name_with_article": "a Fortnite Override Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-10-30T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "http://fortnite.com/b/override",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9ydG5pdGUgT3ZlcnJpZGUiLCJnYW1lX3RpdGxlIjoiRm9ydG5pdGUiLCJnYW1lX3B1Ymxpc2hlciI6IkVwaWMgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MDI0MTg3MDM1NTQ4NDI2OTQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRm9ydG5pdGUiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDEzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTA3NDQ1NDIyNTY5MDY0OC8xNTM5MzA3NTE4ODYwMTk3OTUwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-08-20T13:00:00+00:00",
+      "expires_at": "2026-09-30T00:00:00+00:00",
+      "sent_at": "2026-08-20T15:34:29.244Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-20T12:51:00.961Z"
+  "last_check": "2026-08-20T15:34:30.349Z"
 }
