@@ -10936,7 +10936,107 @@
       "expires_at": "2026-10-03T00:00:00+00:00",
       "sent_at": "2026-08-20T18:40:06.758Z",
       "type": "new"
+    },
+    "1534502540371038239": {
+      "id": "1534502540371038239",
+      "config": {
+        "id": "1534502540371038239",
+        "config_version": 2,
+        "starts_at": "2026-08-21T00:00:00+00:00",
+        "expires_at": "2026-09-04T22:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://albiononline.com/home/play?utm_source=discord&utm_medium=playquest&utm_campaign=dragonfire",
+          "id": "496526645671231488",
+          "name": "Albion Online"
+        },
+        "assets": {
+          "hero": "quests/1534502540371038239/1539228578221260882.jpg",
+          "hero_video": "quests/1534502540371038239/1539228831641243658_720.mp4",
+          "quest_bar_hero_blurhash": "0kgGFIQHdWlkq3aRmXkURQCTBQ==",
+          "quest_bar_hero": "quests/1534502540371038239/1539229063674331156.jpg",
+          "quest_bar_hero_video": "quests/1534502540371038239/1539228831641243658_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534502540371038239/1539227993933611148.png",
+          "game_tile_dark": "quests/1534502540371038239/1539227993933611148.png",
+          "logotype_light": "quests/1534502540371038239/1539228322503065671.png",
+          "logotype_dark": "quests/1534502540371038239/1539228323626876948.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Albion Online: Dragonfire",
+          "game_title": "Albion Online",
+          "game_publisher": "Albion Online"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "496526645671231488"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "496526645671231488"
+                }
+              ],
+              "external_ids": [
+                "1641858093"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1539320738203312209",
+              "asset": "quests/1534502540371038239/1539320887780835500.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Azaryon Avatar Decoration",
+                "name_with_article": "an Azaryon Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-10-30T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-10-04T22:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://albiononline.com/home/play?utm_source=discord&utm_medium=playquest&utm_campaign=dragonfire",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQWxiaW9uIE9ubGluZTogRHJhZ29uZmlyZSIsImdhbWVfdGl0bGUiOiJBbGJpb24gT25saW5lIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbGJpb24gT25saW5lIiwiYXBwbGljYXRpb25faWQiOiI0OTY1MjY2NDU2NzEyMzE0ODgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQWxiaW9uIE9ubGluZSIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMDA6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQyMjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQyMjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNDUwMjU0MDM3MTAzODIzOS8xNTM5MjI4NTc4MjIxMjYwODgyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzNDUwMjU0MDM3MTAzODIzOS8xNTM5MjI4ODMxNjQxMjQzNjU4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-08-21T00:00:00+00:00",
+      "expires_at": "2026-10-04T22:59:00+00:00",
+      "sent_at": "2026-08-21T01:20:05.971Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-20T21:28:36.553Z"
+  "last_check": "2026-08-21T01:20:07.076Z"
 }
