@@ -7711,7 +7711,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-10T17:00:00+00:00",
-        "expires_at": "2026-08-31T06:59:00+00:00",
+        "expires_at": "2026-08-24T06:59:00+00:00",
         "features": [
           44,
           15
@@ -7791,7 +7791,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
+          "rewards_expire_at": "2026-09-23T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -7808,12 +7808,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRXBpc29kZSBSZWFsaXR5IFN0YXJzIiwiZ2FtZV90aXRsZSI6IkVwaXNvZGUgUmVhbGl0eSBTdGFycyIsImdhbWVfcHVibGlzaGVyIjoiUG9ja2V0IEdlbXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTMxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTMwVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzQyNzY4MTM1NTQwNjE0MzMvMTUzNDI3OTI0Mzc5NjU4MjQ2Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRXBpc29kZSBSZWFsaXR5IFN0YXJzIiwiZ2FtZV90aXRsZSI6IkVwaXNvZGUgUmVhbGl0eSBTdGFycyIsImdhbWVfcHVibGlzaGVyIjoiUG9ja2V0IEdlbXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTI0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIzVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzQyNzY4MTM1NTQwNjE0MzMvMTUzNDI3OTI0Mzc5NjU4MjQ2Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-10T17:00:00+00:00",
-      "expires_at": "2026-08-31T06:59:00+00:00",
+      "expires_at": "2026-08-24T06:59:00+00:00",
       "sent_at": "2026-08-10T18:58:12.353Z",
       "type": "updated",
-      "updated_at": "2026-08-22T01:15:44.682Z"
+      "updated_at": "2026-08-22T03:41:54.369Z"
     },
     "1536472460059349192": {
       "id": "1536472460059349192",
@@ -11593,5 +11593,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-08-22T01:15:45.787Z"
+  "last_check": "2026-08-22T03:41:55.474Z"
 }
