@@ -11591,7 +11591,293 @@
       "expires_at": "2026-10-02T00:00:00+00:00",
       "sent_at": "2026-08-21T21:25:01.001Z",
       "type": "new"
+    },
+    "1539533765070553089": {
+      "id": "1539533765070553089",
+      "config": {
+        "id": "1539533765070553089",
+        "config_version": 2,
+        "starts_at": "2026-08-22T04:00:00+00:00",
+        "expires_at": "2026-09-01T04:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "id": "1461154307171811401",
+          "name": "Arknights: Endfield"
+        },
+        "assets": {
+          "hero": "quests/1539533765070553089/1539535306854760488.jpg",
+          "hero_video": "quests/1539533765070553089/1539535450811797564_720.mp4",
+          "quest_bar_hero_blurhash": "XAcKCoAY+2WMrIaoA1OEoGg=",
+          "quest_bar_hero": "quests/1539533765070553089/1539535306854760488.jpg",
+          "quest_bar_hero_video": "quests/1539533765070553089/1539535337905459201_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "New Area: Yinglung Pass",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ],
+              "external_ids": [
+                "PPSA22751_00",
+                "PPSA18538_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IFlpbmdsdW5nIFBhc3MiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTUzNTMwNjg1NDc2MDQ4OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTUzNTQ1MDgxMTc5NzU2NF83MjAubXA0In0=",
+      "starts_at": "2026-08-22T04:00:00+00:00",
+      "expires_at": "2026-10-01T04:00:00+00:00",
+      "sent_at": "2026-08-22T06:40:27.917Z",
+      "type": "new"
+    },
+    "1539750562176696320": {
+      "id": "1539750562176696320",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-22T04:00:00+00:00",
+        "expires_at": "2026-09-01T04:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "id": "1461154307171811401",
+          "name": "Arknights: Endfield"
+        },
+        "assets": {
+          "hero": "quests/1539533765070553089/1539750827663687772.jpg",
+          "hero_video": "quests/1539533765070553089/1539750901043171399_720.mp4",
+          "quest_bar_hero_blurhash": "6UkKMoQcNXhZmAhmen9mSPk=",
+          "quest_bar_hero": "quests/1539533765070553089/1539750827663687772.jpg",
+          "quest_bar_hero_video": "quests/1539533765070553089/1539750891777695764_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "New Area: N.W. Exclusion Zone",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IE4uVy4gRXhjbHVzaW9uIFpvbmUiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTc1MDgyNzY2MzY4Nzc3Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTc1MDkwMTA0MzE3MTM5OV83MjAubXA0In0=",
+      "starts_at": "2026-08-22T04:00:00+00:00",
+      "expires_at": "2026-10-01T04:00:00+00:00",
+      "sent_at": "2026-08-22T06:40:29.567Z",
+      "type": "new"
+    },
+    "1539528344608182353": {
+      "id": "1539528344608182353",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-22T04:00:00+00:00",
+        "expires_at": "2026-09-01T04:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "id": "1461154307171811401",
+          "name": "Arknights: Endfield"
+        },
+        "assets": {
+          "hero": "quests/1539528344608182353/1539533050344505386.jpg",
+          "hero_video": "quests/1539528344608182353/1539533090236399746_720.mp4",
+          "quest_bar_hero_blurhash": "XAcKCoAY+2WMrIaoA1OEoGg=",
+          "quest_bar_hero": "quests/1539528344608182353/1539533050344505386.jpg",
+          "quest_bar_hero_video": "quests/1539528344608182353/1539532929623924756_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "New Area: Yinglung Pass",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-01T04:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IFlpbmdsdW5nIFBhc3MiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MjgzNDQ2MDgxODIzNTMvMTUzOTUzMzA1MDM0NDUwNTM4Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MjgzNDQ2MDgxODIzNTMvMTUzOTUzMzA5MDIzNjM5OTc0Nl83MjAubXA0In0=",
+      "starts_at": "2026-08-22T04:00:00+00:00",
+      "expires_at": "2026-10-01T04:00:00+00:00",
+      "sent_at": "2026-08-22T06:40:30.917Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-22T03:41:55.474Z"
+  "last_check": "2026-08-22T06:40:32.021Z"
 }
