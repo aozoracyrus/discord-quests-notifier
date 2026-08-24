@@ -8161,7 +8161,7 @@
         },
         "messages": {
           "quest_name": "The Uprising",
-          "game_title": "The Uprising | Only In Theaters September 11",
+          "game_title": "The Uprising | Only In Theaters September 10",
           "game_publisher": "Focus Features"
         },
         "task_config_v2": {
@@ -8249,14 +8249,15 @@
         "cta_config": {
           "link": "https://theuprising.movie",
           "button_label": "Learn More",
-          "subtitle": "The Uprising | Only In Theaters September 11"
+          "subtitle": "The Uprising | Only In Theaters September 10"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDExIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNjMxNjkxMzU1MzMxMzk2NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNzMyOTY3NDA3MjU1NTY1MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNjMxNjkxMzU1MzMxMzk2NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNzMyOTY3NDA3MjU1NTY1MF83MjAubXA0In0=",
       "starts_at": "2026-08-17T17:00:00+00:00",
-      "expires_at": "2026-10-07T06:59:00+00:00",
+      "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-08-17T18:39:42.607Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-24T21:29:46.714Z"
     },
     "1538813720396955708": {
       "id": "1538813720396955708",
@@ -11414,5 +11415,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-08-24T18:40:35.952Z"
+  "last_check": "2026-08-24T21:29:47.819Z"
 }
