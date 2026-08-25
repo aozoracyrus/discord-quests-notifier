@@ -308,4 +308,4 @@ MIT License — See LICENSE file for details
 
 This project is provided as-is for educational purposes. Users assume full responsibility for compliance with Discord's Terms of Service. We are not liable for account suspensions or bans resulting from misuse.
 
-Built with ❤️ by Korchi Community
+Built with ❤ by Aozorians
