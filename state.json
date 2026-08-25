@@ -11411,7 +11411,177 @@
       "expires_at": "2026-10-07T00:00:00+00:00",
       "sent_at": "2026-08-25T01:17:32.809Z",
       "type": "new"
+    },
+    "1539393111409823906": {
+      "id": "1539393111409823906",
+      "config": {
+        "id": "1539393111409823906",
+        "config_version": 2,
+        "starts_at": "2026-08-25T16:15:00+00:00",
+        "expires_at": "2026-09-04T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1539393111409823906/1541544517851680878.jpg",
+          "hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
+          "quest_bar_hero_blurhash": "kxYKEoIJlIZlh3uJ4Hc5T5s=",
+          "quest_bar_hero": "quests/1539393111409823906/1541544517851680878.jpg",
+          "quest_bar_hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539393111409823906/1539393940086587443.png",
+          "game_tile_dark": "quests/1539393111409823906/1539393939923013652.png",
+          "logotype_light": "quests/1539393111409823906/1539393910680322141.png",
+          "logotype_dark": "quests/1539393111409823906/1539393911150219365.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Superstar Baseball",
+          "game_title": "Superstar Baseball on Roblox ",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-04T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3VwZXJzdGFyIEJhc2ViYWxsIiwiZ2FtZV90aXRsZSI6IlN1cGVyc3RhciBCYXNlYmFsbCBvbiBSb2Jsb3ggIiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI1VDE2OjE1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1MTc4NTE2ODA4NzguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1NTk5Nzk1MjgyODJfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-25T16:15:00+00:00",
+      "expires_at": "2026-10-04T00:00:00+00:00",
+      "sent_at": "2026-08-25T18:39:44.097Z",
+      "type": "new"
+    },
+    "1540476174520557620": {
+      "id": "1540476174520557620",
+      "config": {
+        "id": "1540476174520557620",
+        "config_version": 2,
+        "starts_at": "2026-08-25T17:00:00+00:00",
+        "expires_at": "2026-09-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/?utm_source=discord&utm_medium=questbar&utm_campaign=snap-aug2026-discord&utm_term=us-it-uk-kr-ca-jp-desktop",
+          "id": "1067552066454695965",
+          "name": "Marvel Snap"
+        },
+        "assets": {
+          "hero": "quests/1540476174520557620/1540478501503635506.jpg",
+          "hero_video": "quests/1540476174520557620/1540478216257675314_720.mp4",
+          "quest_bar_hero_blurhash": "0/cFDIIIBlmIeHeSi4YyBEVEEA==",
+          "quest_bar_hero": "quests/1540476174520557620/1540478470885212270.jpg",
+          "quest_bar_hero_video": "quests/1540476174520557620/1540478216257675314_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1540476174520557620/1540477965517852722.png",
+          "game_tile_dark": "quests/1540476174520557620/1540477965517852722.png",
+          "logotype_light": "quests/1540476174520557620/1541846422239055882.png",
+          "logotype_dark": "quests/1540476174520557620/1541846422239055882.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "MARVEL SNAP",
+          "game_title": "MARVEL SNAP x Draft Mode",
+          "game_publisher": "Second Dinner "
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1067552066454695965"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-05T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/?utm_source=discord&utm_medium=questbar&utm_campaign=snap-aug2026-discord&utm_term=us-it-uk-kr-ca-jp-desktop",
+          "button_label": "Nhận Trò Chơi"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTUFSVkVMIFNOQVAiLCJnYW1lX3RpdGxlIjoiTUFSVkVMIFNOQVAgeCBEcmFmdCBNb2RlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWNvbmQgRGlubmVyICIsImFwcGxpY2F0aW9uX2lkIjoiMTA2NzU1MjA2NjQ1NDY5NTk2NSIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXJ2ZWwgU25hcCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDA0NzYxNzQ1MjA1NTc2MjAvMTU0MDQ3ODUwMTUwMzYzNTUwNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDA0NzYxNzQ1MjA1NTc2MjAvMTU0MDQ3ODIxNjI1NzY3NTMxNF83MjAubXA0In0=",
+      "starts_at": "2026-08-25T17:00:00+00:00",
+      "expires_at": "2026-10-05T00:00:00+00:00",
+      "sent_at": "2026-08-25T18:39:45.486Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-25T15:42:05.632Z"
+  "last_check": "2026-08-25T18:39:46.592Z"
 }
