@@ -7549,116 +7549,6 @@
       "type": "updated",
       "updated_at": "2026-08-20T21:28:34.150Z"
     },
-    "1535392115738026124": {
-      "id": "1535392115738026124",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-11T17:00:00+00:00",
-        "expires_at": "2026-08-25T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://www.ea.com/games/golf-clash/golf-clash",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1535392115738026124/1540419394990252072.jpg",
-          "hero_video": "quests/1535392115738026124/1540419259577147392_720.mp4",
-          "quest_bar_hero_blurhash": "HnkFIoQgl3heYkh3l1Bz+7g=",
-          "quest_bar_hero": "quests/1535392115738026124/1540419394990252072.jpg",
-          "quest_bar_hero_video": "quests/1535392115738026124/1540419259577147392_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1535392115738026124/1535395589783691274.png",
-          "game_tile_dark": "quests/1535392115738026124/1535395589783691274.png",
-          "logotype_light": "quests/1535392115738026124/1535395615628857465.png",
-          "logotype_dark": "quests/1535392115738026124/1535395615654154240.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Golf Clash",
-          "game_title": "Golf Clash",
-          "game_publisher": "ELECTRONIC ARTS"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 40,
-              "assets": {
-                "video": {
-                  "url": "quests/1535392115738026124/1540417600524259358_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1535392115738026124/1540139296294703175.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1535392115738026124/1540417600524259358_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1535392115738026124/1540139296294703175.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1535392115738026124/1540417600524259358.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1535392115738026124/1540139296294703175.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-24T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.playdemic.golf.android"
-          },
-          "ios": {
-            "ios_app_id": "1089225191"
-          },
-          "link": "https://www.ea.com/games/golf-clash/golf-clash",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR29sZiBDbGFzaCIsImdhbWVfdGl0bGUiOiJHb2xmIENsYXNoIiwiZ2FtZV9wdWJsaXNoZXIiOiJFTEVDVFJPTklDIEFSVFMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTI1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTI0VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo0MH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzUzOTIxMTU3MzgwMjYxMjQvMTU0MDQxOTM5NDk5MDI1MjA3Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzUzOTIxMTU3MzgwMjYxMjQvMTU0MDQxOTI1OTU3NzE0NzM5Ml83MjAubXA0In0=",
-      "starts_at": "2026-08-11T17:00:00+00:00",
-      "expires_at": "2026-08-25T00:00:00+00:00",
-      "sent_at": "2026-08-11T21:49:28.636Z",
-      "type": "updated",
-      "updated_at": "2026-08-21T21:25:02.722Z"
-    },
     "1529174839141597276": {
       "id": "1529174839141597276",
       "config": {
@@ -11413,7 +11303,115 @@
       "expires_at": "2026-10-04T00:59:00+00:00",
       "sent_at": "2026-08-24T18:40:32.400Z",
       "type": "new"
+    },
+    "1540425879824371852": {
+      "id": "1540425879824371852",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-24T21:00:00+00:00",
+        "expires_at": "2026-09-07T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://marvelsnap.com/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1540425879824371852/1540455793025876140.jpg",
+          "hero_video": "quests/1540425879824371852/1540456172601999410_720.mp4",
+          "quest_bar_hero_blurhash": "0/cFDIIIBlmIeHeSi4YyBEVEEA==",
+          "quest_bar_hero": "quests/1540425879824371852/1540455742107164682.jpg",
+          "quest_bar_hero_video": "quests/1540425879824371852/1540456172601999410_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1540425879824371852/1540426931885834361.png",
+          "game_tile_dark": "quests/1540425879824371852/1540426931885834361.png",
+          "logotype_light": "quests/1540425879824371852/1541555626755358770.png",
+          "logotype_dark": "quests/1540425879824371852/1541555626755358770.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "MARVEL SNAP",
+          "game_title": "MARVEL SNAP x Draft Mode",
+          "game_publisher": "Second Dinner"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1540425879824371852/1540427369263796264_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540425879824371852/1540426931869196329.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1540425879824371852/1540427369263796264_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540425879824371852/1540426931869196329.png"
+                },
+                "video_hls": {
+                  "url": "quests/1540425879824371852/1540427369263796264.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540425879824371852/1540426931869196329.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-07T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.nvsgames.snap"
+          },
+          "ios": {
+            "ios_app_id": "1592081003"
+          },
+          "link": "https://marvelsnap.com/",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTUFSVkVMIFNOQVAiLCJnYW1lX3RpdGxlIjoiTUFSVkVMIFNOQVAgeCBEcmFmdCBNb2RlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWNvbmQgRGlubmVyIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjRUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wN1QwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwNDI1ODc5ODI0MzcxODUyLzE1NDA0NTU3OTMwMjU4NzYxNDAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQwNDI1ODc5ODI0MzcxODUyLzE1NDA0NTYxNzI2MDE5OTk0MTBfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-24T21:00:00+00:00",
+      "expires_at": "2026-10-07T00:00:00+00:00",
+      "sent_at": "2026-08-25T01:17:32.809Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-24T21:29:47.819Z"
+  "last_check": "2026-08-25T01:17:33.916Z"
 }
