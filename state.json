@@ -1334,136 +1334,6 @@
       "sent_at": "2026-07-26T08:27:33.870Z",
       "type": "new"
     },
-    "1514757051967078420": {
-      "id": "1514757051967078420",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-06T17:00:00+00:00",
-        "expires_at": "2026-07-27T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.ebay.co.uk/ebaylive/channels/FWmfQGrdorhkCRcS",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1514757051967078420/1519817423375569086.jpg",
-          "hero_video": "quests/1514757051967078420/1519817514463400117_720.mp4",
-          "quest_bar_hero_blurhash": "VxgKDIJgiIiYdYiJhoIEhoVwOA==",
-          "quest_bar_hero": "quests/1514757051967078420/1519817402907361430.jpg",
-          "quest_bar_hero_video": "quests/1514757051967078420/1519817514463400117_720.mp4",
-          "game_tile": "1520095870220107827.png",
-          "logotype": "1520095520255643830.png",
-          "game_tile_light": "quests/1514757051967078420/1520095838255448255.png",
-          "game_tile_dark": "quests/1514757051967078420/1520095838255448255.png",
-          "logotype_light": "quests/1514757051967078420/1520095465859711016.png",
-          "logotype_dark": "quests/1514757051967078420/1520095465935339590.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "eBay Live",
-          "game_title": "eBay Live",
-          "game_publisher": "eBay"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 19,
-              "assets": {
-                "video": {
-                  "url": "quests/1514757051967078420/1519816906629185586_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1514757051967078420/1519817444431102105.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1514757051967078420/1519816906629185586_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1514757051967078420/1519817444431102105.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1514757051967078420/1519816906629185586.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1514757051967078420/1519817444431102105.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 19,
-              "assets": {
-                "video": {
-                  "url": "quests/1514757051967078420/1519816906830250124_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1514757051967078420/1519817444431102105.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1514757051967078420/1519816906830250124_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1514757051967078420/1519817444431102105.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1514757051967078420/1519816906830250124.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1514757051967078420/1519817444431102105.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.ebay.co.uk/ebaylive/channels/FWmfQGrdorhkCRcS",
-          "button_label": "Shop Now",
-          "subtitle": "eBay Live"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiZUJheSBMaXZlIiwiZ2FtZV90aXRsZSI6ImVCYXkgTGl2ZSIsImdhbWVfcHVibGlzaGVyIjoiZUJheSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTA2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMjdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMjZUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MTQ3NTcwNTE5NjcwNzg0MjAvMTUxOTgxNzQyMzM3NTU2OTA4Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MTQ3NTcwNTE5NjcwNzg0MjAvMTUxOTgxNzUxNDQ2MzQwMDExN183MjAubXA0In0=",
-      "starts_at": "2026-07-06T17:00:00+00:00",
-      "expires_at": "2026-08-26T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:27:35.329Z",
-      "type": "new"
-    },
     "1523763717672800276": {
       "id": "1523763717672800276",
       "config": {
@@ -1938,243 +1808,6 @@
       "starts_at": "2026-07-13T17:00:00+00:00",
       "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:41.529Z",
-      "type": "new"
-    },
-    "1523740534139519087": {
-      "id": "1523740534139519087",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-13T17:00:00+00:00",
-        "expires_at": "2026-07-27T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://marvelstrikeforce.com/en/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1523740534139519087/1523742936481796096.jpg",
-          "quest_bar_hero_blurhash": "2ScKHISAmId+dHeZd3ewYgZKdg==",
-          "quest_bar_hero": "quests/1523740534139519087/1523743232767426711.jpg",
-          "quest_bar_hero_video": "quests/1523740534139519087/1523743145064665208_720.mp4",
-          "game_tile": "1523743419321815210.png",
-          "logotype": "1523753572129443870.png",
-          "game_tile_light": "quests/1523740534139519087/1523742936838307911.png",
-          "game_tile_dark": "quests/1523740534139519087/1523742936838307911.png",
-          "logotype_light": "quests/1523740534139519087/1523753525392314439.png",
-          "logotype_dark": "quests/1523740534139519087/1523753525392314439.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Marvel Strike Force",
-          "game_title": "Marvel Strike Force",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 43,
-              "assets": {
-                "video": {
-                  "url": "quests/1523740534139519087/1523742942194438265_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1523740534139519087/1523742936427266199.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1523740534139519087/1523742942194438265_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1523740534139519087/1523742936427266199.png"
-                },
-                "video_hls": {
-                  "url": "quests/1523740534139519087/1523742942194438265.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1523740534139519087/1523742936427266199.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.foxnextgames.m3"
-          },
-          "ios": {
-            "ios_app_id": "1292952049"
-          },
-          "link": "https://marvelstrikeforce.com/en/",
-          "button_label": "Learn More"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFN0cmlrZSBGb3JjZSIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgU3RyaWtlIEZvcmNlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMTNUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wNy0yN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOC0yNlQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTIzNzQwNTM0MTM5NTE5MDg3LzE1MjM3NDI5MzY0ODE3OTYwOTYuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-13T17:00:00+00:00",
-      "expires_at": "2026-08-26T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:27:42.723Z",
-      "type": "new"
-    },
-    "1524071421465333912": {
-      "id": "1524071421465333912",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-17T17:00:00+00:00",
-        "expires_at": "2026-07-27T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.peacocktv.com/stream-movies/obsession?cid=2607flmobspkpddisp324276&utm_campaign=2607flmobs&utm_source=pk_discd_dv360&utm_medium=pd_disp_awa_bnr&utm_term=na&utm_content=na",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1524071421465333912/1524180055004156054.jpg",
-          "hero_video": "quests/1524071421465333912/1524467171646898228_720.mp4",
-          "quest_bar_hero_blurhash": "BggGAoADh4pnmWaIIIMDMlg=",
-          "quest_bar_hero": "quests/1524071421465333912/1524180055004156054.jpg",
-          "quest_bar_hero_video": "quests/1524071421465333912/1524467171646898228_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1524071421465333912/1524180055045967923.png",
-          "game_tile_dark": "quests/1524071421465333912/1524180055045967923.png",
-          "logotype_light": "quests/1524071421465333912/1526322970824540210.png",
-          "logotype_dark": "quests/1524071421465333912/1526322970719420566.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Obsession",
-          "game_title": "Now Streaming on Peacock",
-          "game_publisher": "Peacock"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1524071421465333912/1524180511432511508_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1524071421465333912/1524180055016734740.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1524071421465333912/1524180511432511508_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1524071421465333912/1524180055016734740.png"
-                },
-                "video_hls": {
-                  "url": "quests/1524071421465333912/1524180511432511508.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1524071421465333912/1524180055016734740.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1524071421465333912/1525248157179449555_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1524071421465333912/1524180055016734740.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1524071421465333912/1525248157179449555_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1524071421465333912/1524180055016734740.png"
-                },
-                "video_hls": {
-                  "url": "quests/1524071421465333912/1525248157179449555.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1524071421465333912/1524180055016734740.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.peacocktv.com/stream-movies/obsession?cid=2607flmobspkpddisp324276&utm_campaign=2607flmobs&utm_source=pk_discd_dv360&utm_medium=pd_disp_awa_bnr&utm_term=na&utm_content=na",
-          "button_label": "Stream Now",
-          "subtitle": "Now Streaming on Peacock"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT2JzZXNzaW9uIiwiZ2FtZV90aXRsZSI6Ik5vdyBTdHJlYW1pbmcgb24gUGVhY29jayIsImdhbWVfcHVibGlzaGVyIjoiUGVhY29jayIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMjdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMjZUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjQwNzE0MjE0NjUzMzM5MTIvMTUyNDE4MDA1NTAwNDE1NjA1NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjQwNzE0MjE0NjUzMzM5MTIvMTUyNDQ2NzE3MTY0Njg5ODIyOF83MjAubXA0In0=",
-      "starts_at": "2026-07-17T17:00:00+00:00",
-      "expires_at": "2026-08-26T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:27:45.146Z",
       "type": "new"
     },
     "1517297856287997984": {
@@ -11581,7 +11214,1039 @@
       "expires_at": "2026-10-05T00:00:00+00:00",
       "sent_at": "2026-08-25T18:39:45.486Z",
       "type": "new"
+    },
+    "1541371710417272834": {
+      "id": "1541371710417272834",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_US_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1541318428281929758/1541358119739850782.jpg",
+          "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "quest_bar_hero_blurhash": "avcRDIQIl7d6eYd6iXoBrAFtWg==",
+          "quest_bar_hero": "quests/1541318428281929758/1541357948385763369.jpg",
+          "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+          "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+          "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+          "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "AION 2",
+          "game_title": "AION 2",
+          "game_publisher": "NC"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541318428281929758/1541354497266294834_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541318428281929758/1541354497266294834_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541318428281929758/1541354497266294834.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541371710417272834/1541593288899829830_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541371710417272834/1541593288899829830_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541371710417272834/1541593288899829830.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_US_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgxMTk3Mzk4NTA3ODIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:27.727Z",
+      "type": "new"
+    },
+    "1537189839588294657": {
+      "id": "1537189839588294657",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-09-01T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_gamescom_us_0826_wishlists_steam&utm_content=0_desktop&utm_term=actionjunkies",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1537189839588294657/1540060622027493478.jpg",
+          "hero_video": "quests/1537189839588294657/1541545684610715728.mp4",
+          "quest_bar_hero_blurhash": "jecFDIKPqDVklptmeplQqkyQOA==",
+          "quest_bar_hero": "quests/1537189839588294657/1540060927972479077.jpg",
+          "quest_bar_hero_video": "quests/1537189839588294657/1541545685260836954.mp4",
+          "game_tile": "1512172249728286791.png",
+          "logotype": "1512172248721522950.png",
+          "game_tile_light": "quests/1537189839588294657/1540060622006517881.png",
+          "game_tile_dark": "quests/1537189839588294657/1540060622006517881.png",
+          "logotype_light": "quests/1511153398618132580/1512172082069372948.png",
+          "logotype_dark": "quests/1511153398618132580/1512172082069372948.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EXODUS™ Wishlist",
+          "game_title": "EXODUS™",
+          "game_publisher": "Wizards of the Coast"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 148,
+              "assets": {
+                "video": {
+                  "url": "quests/1537189839588294657/1541590936989991052_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1537189839588294657/1541590936989991052_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1537189839588294657/1541590936989991052.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "EXODUS™ Gameplay"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 148,
+              "assets": {
+                "video": {
+                  "url": "quests/1537189839588294657/1541590936989991052_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1537189839588294657/1541590936989991052_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1537189839588294657/1541590936989991052.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1537189839588294657/1540060621800873984.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "EXODUS™ Gameplay"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-01T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3230960/EXODUS/?utm_source=discord&utm_medium=paid&utm_campaign=paid_gamescom_us_0826_wishlists_steam&utm_content=0_desktop&utm_term=actionjunkies",
+          "button_label": "Wishlist Now",
+          "subtitle": "Your EXODUS Begins April 7, 2027"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRVhPRFVT4oSiIFdpc2hsaXN0IiwiZ2FtZV90aXRsZSI6IkVYT0RVU+KEoiIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAxVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTQ4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0OH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MDA2MDYyMjAyNzQ5MzQ3OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MTU0NTY4NDYxMDcxNTcyOC5tcDQifQ==",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-10-01T06:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:29.768Z",
+      "type": "new"
+    },
+    "1539708932245692476": {
+      "id": "1539708932245692476",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-09-08T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3714800/Warlock_Dungeons__Dragons/?utm_source=discord&utm_medium=paid&utm_campaign=paid_evergreen_us_0826_traffic_steam&utm_content=walkthru&utm_term=adventurers",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1539708932245692476/1539710367276470342.jpg",
+          "quest_bar_hero_blurhash": "T7cJDIRmOXZ/d3WGaHoGkWcAeQ==",
+          "quest_bar_hero": "quests/1539708932245692476/1539710616946745384.jpg",
+          "quest_bar_hero_video": "quests/1539708932245692476/1540410578663903263_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539708932245692476/1539710335731105832.png",
+          "game_tile_dark": "quests/1539708932245692476/1539710335731105832.png",
+          "logotype_light": "quests/1539708932245692476/1539710421215215707.png",
+          "logotype_dark": "quests/1539708932245692476/1539710366932664370.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Warlock: Dungeons & Dragons",
+          "game_title": "Warlock: Dungeons & Dragons",
+          "game_publisher": "Wizards of the Coast"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 179,
+              "assets": {
+                "video": {
+                  "url": "quests/1539708932245692476/1539711467375427655_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539708932245692476/1539710366962028645.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1539708932245692476/1539711467375427655_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539708932245692476/1539710366962028645.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1539708932245692476/1539711467375427655.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539708932245692476/1539710366962028645.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 179,
+              "assets": {
+                "video": {
+                  "url": "quests/1539708932245692476/1539711467375427655_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539708932245692476/1539710366962028645.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1539708932245692476/1539711467375427655_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539708932245692476/1539710366962028645.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1539708932245692476/1539711467375427655.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539708932245692476/1539710366962028645.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-08T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3714800/Warlock_Dungeons__Dragons/?utm_source=discord&utm_medium=paid&utm_campaign=paid_evergreen_us_0826_traffic_steam&utm_content=walkthru&utm_term=adventurers",
+          "button_label": "Wishlist Now",
+          "subtitle": "Gameplay Reveal Out Now - Game Launching 2027"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2FybG9jazogRHVuZ2VvbnMgJiBEcmFnb25zIiwiZ2FtZV90aXRsZSI6IldhcmxvY2s6IER1bmdlb25zICYgRHJhZ29ucyIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA4VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTc5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk3MDg5MzIyNDU2OTI0NzYvMTUzOTcxMDM2NzI3NjQ3MDM0Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-10-08T00:00:00+00:00",
+      "sent_at": "2026-08-26T01:20:31.905Z",
+      "type": "new"
+    },
+    "1541369647985594369": {
+      "id": "1541369647985594369",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_CA_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1541369647985594369/1541598241282592829.jpg",
+          "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+          "quest_bar_hero": "quests/1541369647985594369/1541598239969644655.jpg",
+          "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+          "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+          "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+          "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "AION 2",
+          "game_title": "AION 2",
+          "game_publisher": "NC"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541369647985594369/1541370430550577244_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541369647985594369/1541370430550577244_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541369647985594369/1541370430550577244.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541369647985594369/1541593220495056966_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1541369647985594369/1541593220495056966_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1541369647985594369/1541593220495056966.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_CA_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzY5NjQ3OTg1NTk0MzY5LzE1NDE1OTgyNDEyODI1OTI4MjkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:33.488Z",
+      "type": "new"
+    },
+    "1541366408632475670": {
+      "id": "1541366408632475670",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_FR_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1541366408632475670/1541597134753632296.jpg",
+          "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+          "quest_bar_hero": "quests/1541366408632475670/1541597336529018931.jpg",
+          "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+          "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+          "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+          "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "AION 2",
+          "game_title": "AION 2",
+          "game_publisher": "NC"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541366408632475670/1541367042261909574_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541366408632475670/1541367042261909574_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541366408632475670/1541367042261909574.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541366408632475670/1541367024964599898_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541366408632475670/1541367024964599898_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541366408632475670/1541367024964599898.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_FR_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzY2NDA4NjMyNDc1NjcwLzE1NDE1OTcxMzQ3NTM2MzIyOTYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:35.265Z",
+      "type": "new"
+    },
+    "1541360124457779283": {
+      "id": "1541360124457779283",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_UK_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1541360124457779283/1541597718583967764.jpg",
+          "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+          "quest_bar_hero": "quests/1541360124457779283/1541597663047196682.jpg",
+          "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+          "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+          "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+          "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "AION 2",
+          "game_title": "AION 2",
+          "game_publisher": "NC"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541360124457779283/1541362165426950224_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541360124457779283/1541597601659494521.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541360124457779283/1541362165426950224_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541360124457779283/1541597601659494521.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541360124457779283/1541362165426950224.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541360124457779283/1541597601659494521.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541360124457779283/1541593172029874318_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541360124457779283/1541597663047196682.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1541360124457779283/1541593172029874318_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541360124457779283/1541597663047196682.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1541360124457779283/1541593172029874318.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541360124457779283/1541597663047196682.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_UK_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzYwMTI0NDU3Nzc5MjgzLzE1NDE1OTc3MTg1ODM5Njc3NjQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:36.912Z",
+      "type": "new"
+    },
+    "1541363735791280209": {
+      "id": "1541363735791280209",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-25T22:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_DE_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1541363735791280209/1541597492628553819.jpg",
+          "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
+          "quest_bar_hero": "quests/1541363735791280209/1541597434025742479.jpg",
+          "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1541318428281929758/1541357762104004638.png",
+          "game_tile_dark": "quests/1541318428281929758/1541357762104004638.png",
+          "logotype_light": "quests/1541318428281929758/1541357802172448768.png",
+          "logotype_dark": "quests/1541318428281929758/1541357802172448768.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "AION 2",
+          "game_title": "AION 2",
+          "game_publisher": "NC"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541363735791280209/1541365630710583368_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541363735791280209/1541597413712728114.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1541363735791280209/1541365630710583368_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541363735791280209/1541597413712728114.png"
+                },
+                "video_hls": {
+                  "url": "quests/1541363735791280209/1541365630710583368.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1541363735791280209/1541597413712728114.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 28,
+              "assets": {
+                "video": {
+                  "url": "quests/1541363735791280209/1541592844181962825_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541363735791280209/1541597434025742479.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1541363735791280209/1541592844181962825_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541363735791280209/1541597434025742479.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1541363735791280209/1541592844181962825.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1541363735791280209/1541597434025742479.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_DE_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzYzNzM1NzkxMjgwMjA5LzE1NDE1OTc0OTI2Mjg1NTM4MTkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-08-25T22:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:38.832Z",
+      "type": "new"
+    },
+    "1539110114689163395": {
+      "id": "1539110114689163395",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-26T01:00:00+00:00",
+        "expires_at": "2026-09-08T14:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3321460?utm_source=Discord&utm_campaign=August&utm_medium=jp&utm_content=DiscordQuest&utm_term=new_core",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1539110114689163395/1539143898453254144.jpg",
+          "quest_bar_hero_blurhash": "phgOBIAGVnh7d4aCeYf3eY/ftw==",
+          "quest_bar_hero": "quests/1539110114689163395/1539143655393067181.jpg",
+          "quest_bar_hero_video": "quests/1539110114689163395/1539143963599179846_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539110114689163395/1539143145927737505.png",
+          "game_tile_dark": "quests/1539110114689163395/1539143145927737505.png",
+          "logotype_light": "quests/1539110114689163395/1539143210239270933.png",
+          "logotype_dark": "quests/1539110114689163395/1539143210239270933.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Crimson Desert",
+          "game_title": "Crimson Desert",
+          "game_publisher": "Pearl Abyss"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 55,
+              "assets": {
+                "video": {
+                  "url": "quests/1539110114689163395/1541303164370948127_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539110114689163395/1541255215330889748.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539110114689163395/1541303164370948127_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539110114689163395/1541255215330889748.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539110114689163395/1541303164370948127.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539110114689163395/1541255215330889748.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 55,
+              "assets": {
+                "video": {
+                  "url": "quests/1539110114689163395/1541303164370948127_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539110114689163395/1541255215330889748.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539110114689163395/1541303164370948127_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539110114689163395/1541255215330889748.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539110114689163395/1541303164370948127.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539110114689163395/1541255215330889748.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-08T14:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3321460?utm_source=Discord&utm_campaign=August&utm_medium=jp&utm_content=DiscordQuest&utm_term=new_core",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ3JpbXNvbiBEZXNlcnQiLCJnYW1lX3RpdGxlIjoiQ3JpbXNvbiBEZXNlcnQiLCJnYW1lX3B1Ymxpc2hlciI6IlBlYXJsIEFieXNzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjZUMDE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wOFQxNDo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQxNDo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjU1fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTExMDExNDY4OTE2MzM5NS8xNTM5MTQzODk4NDUzMjU0MTQ0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-08-26T01:00:00+00:00",
+      "expires_at": "2026-10-08T14:59:00+00:00",
+      "sent_at": "2026-08-26T01:20:40.161Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-25T21:28:47.497Z"
+  "last_check": "2026-08-26T01:20:41.270Z"
 }
