@@ -1131,114 +1131,6 @@
       "sent_at": "2026-07-26T08:27:27.674Z",
       "type": "new"
     },
-    "1520186290597925067": {
-      "id": "1520186290597925067",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-06-29T17:00:00+00:00",
-        "expires_at": "2026-07-27T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.monopolygo.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1520186290597925067/1527371628831309865.jpg",
-          "hero_video": "quests/1520186290597925067/1520188978349871154_720.mp4",
-          "quest_bar_hero_blurhash": "oHYGK4KfSXeEdxmLe3UAitc=",
-          "quest_bar_hero": "quests/1520186290597925067/1527371564113334322.jpg",
-          "quest_bar_hero_video": "quests/1520186290597925067/1520188978349871154_720.mp4",
-          "game_tile": "1520189186324435105.png",
-          "logotype": "1520189185267339404.png",
-          "game_tile_light": "quests/1520186290597925067/1520188699919253504.png",
-          "game_tile_dark": "quests/1520186290597925067/1520188699919253504.png",
-          "logotype_light": "quests/1520186290597925067/1520188699810463764.png",
-          "logotype_dark": "quests/1520186290597925067/1520188699810463764.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "MONOPOLY GO",
-          "game_title": "MONOPOLY GO",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 39,
-              "assets": {
-                "video": {
-                  "url": "quests/1520186290597925067/1527342724301193216_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1520186290597925067/1520188699948748800.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1520186290597925067/1527342724301193216_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1520186290597925067/1520188699948748800.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1520186290597925067/1527342724301193216.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1520186290597925067/1520188699948748800.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.monopolygo"
-          },
-          "ios": {
-            "ios_app_id": "1621328561"
-          },
-          "link": "https://www.monopolygo.com/",
-          "button_label": "Play Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA3LTI3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTI2VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjozOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjAxODYyOTA1OTc5MjUwNjcvMTUyNzM3MTYyODgzMTMwOTg2NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjAxODYyOTA1OTc5MjUwNjcvMTUyMDE4ODk3ODM0OTg3MTE1NF83MjAubXA0In0=",
-      "starts_at": "2026-06-29T17:00:00+00:00",
-      "expires_at": "2026-08-26T06:59:00+00:00",
-      "sent_at": "2026-07-26T08:27:30.167Z",
-      "type": "new"
-    },
     "1518710044856815737": {
       "id": "1518710044856815737",
       "config": {
@@ -1332,222 +1224,6 @@
       "starts_at": "2026-07-01T17:00:00+00:00",
       "expires_at": "2026-08-31T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:33.870Z",
-      "type": "new"
-    },
-    "1523763717672800276": {
-      "id": "1523763717672800276",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-06T20:50:00+00:00",
-        "expires_at": "2026-07-27T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.monopolygo.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1523763717672800276/1523778226466324532.jpg",
-          "hero_video": "quests/1523763717672800276/1523778151740604546_720.mp4",
-          "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-          "quest_bar_hero": "quests/1523763717672800276/1523778226466324532.jpg",
-          "quest_bar_hero_video": "quests/1523763717672800276/1523778151740604546_720.mp4",
-          "game_tile": "1523778551378219188.png",
-          "logotype": "1523778550338027540.png",
-          "game_tile_light": "quests/1523763717672800276/1523778055250907267.png",
-          "game_tile_dark": "quests/1523763717672800276/1523778055250907267.png",
-          "logotype_light": "quests/1523763717672800276/1523778055053770822.png",
-          "logotype_dark": "quests/1523763717672800276/1523778055053770822.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "MONOPOLY GO",
-          "game_title": "MONOPOLY GO",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 24,
-              "assets": {
-                "video": {
-                  "url": "quests/1523763717672800276/1530249739411652618_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1523763717672800276/1523778016587546696.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1523763717672800276/1530249739411652618_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1523763717672800276/1523778016587546696.png"
-                },
-                "video_hls": {
-                  "url": "quests/1523763717672800276/1530249739411652618.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1523763717672800276/1523778016587546696.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.monopolygo"
-          },
-          "ios": {
-            "ios_app_id": "1621328561"
-          },
-          "link": "https://www.monopolygo.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0wNlQyMDo1MDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA3LTI3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTI2VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjM3NjM3MTc2NzI4MDAyNzYvMTUyMzc3ODIyNjQ2NjMyNDUzMi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjM3NjM3MTc2NzI4MDAyNzYvMTUyMzc3ODE1MTc0MDYwNDU0Nl83MjAubXA0In0=",
-      "starts_at": "2026-07-06T20:50:00+00:00",
-      "expires_at": "2026-08-26T06:59:00+00:00",
-      "sent_at": "2026-07-26T08:27:36.543Z",
-      "type": "new"
-    },
-    "1524177867896783129": {
-      "id": "1524177867896783129",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-07T23:30:00+00:00",
-        "expires_at": "2026-07-27T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.monopolygo.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1524177867896783129/1524181871141982298.jpg",
-          "hero_video": "quests/1524177867896783129/1524181744356557000_720.mp4",
-          "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-          "quest_bar_hero": "quests/1524177867896783129/1524181871141982298.jpg",
-          "quest_bar_hero_video": "quests/1524177867896783129/1524181744356557000_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1524177867896783129/1524181657844842598.png",
-          "game_tile_dark": "quests/1524177867896783129/1524181657844842598.png",
-          "logotype_light": "quests/1524177867896783129/1524181657555435520.png",
-          "logotype_dark": "quests/1524177867896783129/1524181657555435520.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "MONOPOLY GO",
-          "game_title": "MONOPOLY GO",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 39,
-              "assets": {
-                "video": {
-                  "url": "quests/1524177867896783129/1524181657589125220_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1524177867896783129/1524181657530404984.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1524177867896783129/1524181657589125220_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1524177867896783129/1524181657530404984.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1524177867896783129/1524181657589125220.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1524177867896783129/1524181657530404984.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.monopolygo"
-          },
-          "ios": {
-            "ios_app_id": "1621328561"
-          },
-          "link": "https://www.monopolygo.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0wN1QyMzozMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA3LTI3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTI2VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjozOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjQxNzc4Njc4OTY3ODMxMjkvMTUyNDE4MTg3MTE0MTk4MjI5OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjQxNzc4Njc4OTY3ODMxMjkvMTUyNDE4MTc0NDM1NjU1NzAwMF83MjAubXA0In0=",
-      "starts_at": "2026-07-07T23:30:00+00:00",
-      "expires_at": "2026-08-26T06:59:00+00:00",
-      "sent_at": "2026-07-26T08:27:39.086Z",
       "type": "new"
     },
     "1521935381434466505": {
@@ -2780,136 +2456,6 @@
       "starts_at": "2026-07-21T17:00:00+00:00",
       "expires_at": "2026-09-03T00:00:00+00:00",
       "sent_at": "2026-07-26T08:28:02.104Z",
-      "type": "new"
-    },
-    "1527386268546367488": {
-      "id": "1527386268546367488",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-22T17:00:00+00:00",
-        "expires_at": "2026-07-27T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1527386268546367488/1528817843154587738.jpg",
-          "hero_video": "quests/1527386268546367488/1529221041937842488_720.mp4",
-          "quest_bar_hero_blurhash": "kQgKDIBmd4eTaHeAiHxlg5ABGg==",
-          "quest_bar_hero": "quests/1527386268546367488/1529221005212520820.jpg",
-          "quest_bar_hero_video": "quests/1527386268546367488/1529221041937842488_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527386268546367488/1527389620088606901.png",
-          "game_tile_dark": "quests/1527386268546367488/1527389620088606901.png",
-          "logotype_light": "quests/1527386268546367488/1527389620289929376.png",
-          "logotype_dark": "quests/1527386268546367488/1527389620311167056.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The End of Oak Street",
-          "game_title": "Tickets Now on Sale!",
-          "game_publisher": "Warner Bros. Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1527386268546367488/1529179027485491441_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1527386268546367488/1529179027485491441_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1527386268546367488/1529179027485491441.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1527386268546367488/1529284520476413974_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1527386268546367488/1529284520476413974_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1527386268546367488/1529284520476413974.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527386268546367488/1527389620013240633.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-26T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
-          "button_label": "Get Tickets",
-          "subtitle": "Tickets Now on Sale!"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEVuZCBvZiBPYWsgU3RyZWV0IiwiZ2FtZV90aXRsZSI6IlRpY2tldHMgTm93IG9uIFNhbGUhIiwiZ2FtZV9wdWJsaXNoZXIiOiJXYXJuZXIgQnJvcy4gUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMlQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA3LTI3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTI2VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3Mzg2MjY4NTQ2MzY3NDg4LzE1Mjg4MTc4NDMxNTQ1ODc3MzguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTI3Mzg2MjY4NTQ2MzY3NDg4LzE1MjkyMjEwNDE5Mzc4NDI0ODhfNzIwLm1wNCJ9",
-      "starts_at": "2026-07-22T17:00:00+00:00",
-      "expires_at": "2026-08-26T06:59:00+00:00",
-      "sent_at": "2026-07-26T08:28:03.280Z",
       "type": "new"
     },
     "1527015843882340402": {
@@ -12246,7 +11792,91 @@
       "expires_at": "2026-10-08T14:59:00+00:00",
       "sent_at": "2026-08-26T01:20:40.161Z",
       "type": "new"
+    },
+    "1542164786190622741": {
+      "id": "1542164786190622741",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-26T16:15:00+00:00",
+        "expires_at": "2026-09-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/ja/games/101432174163538/Superstar-Baseball",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1542164786190622741/1542165835416739870.jpg",
+          "hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
+          "quest_bar_hero_blurhash": "3/cJIoZOAXV3iKeGYJF3B9k=",
+          "quest_bar_hero": "quests/1542164786190622741/1542165835416739870.jpg",
+          "quest_bar_hero_video": "quests/1542164786190622741/1542165888545984603_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539393111409823906/1539393940086587443.png",
+          "game_tile_dark": "quests/1539393111409823906/1539393939923013652.png",
+          "logotype_light": "quests/1539393111409823906/1539393910680322141.png",
+          "logotype_dark": "quests/1539393111409823906/1539393911150219365.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "スーパースターベースボール",
+          "game_title": "スーパースターベースボール on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-05T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/ja/games/101432174163538/Superstar-Baseball",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoi44K544O844OR44O844K544K/44O844OZ44O844K544Oc44O844OrIiwiZ2FtZV90aXRsZSI6IuOCueODvOODkeODvOOCueOCv+ODvOODmeODvOOCueODnOODvOODqyBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjZUMTY6MTU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDIxNjQ3ODYxOTA2MjI3NDEvMTU0MjE2NTgzNTQxNjczOTg3MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkzOTMxMTE0MDk4MjM5MDYvMTU0MTU0NDU1OTk3OTUyODI4Ml83MjAubXA0In0=",
+      "starts_at": "2026-08-26T16:15:00+00:00",
+      "expires_at": "2026-10-05T00:00:00+00:00",
+      "sent_at": "2026-08-26T19:49:00.261Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-26T16:17:58.066Z"
+  "last_check": "2026-08-26T19:49:01.383Z"
 }
