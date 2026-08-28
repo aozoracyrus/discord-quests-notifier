@@ -7715,7 +7715,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-20T13:00:00+00:00",
-        "expires_at": "2026-08-31T00:00:00+00:00",
+        "expires_at": "2026-08-31T06:59:00+00:00",
         "features": [
           15
         ],
@@ -7795,7 +7795,7 @@
               "premium_orb_quantity": 840
             }
           ],
-          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
+          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -7806,11 +7806,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9ydG5pdGUgT3ZlcnJpZGUiLCJnYW1lX3RpdGxlIjoiRm9ydG5pdGUiLCJnYW1lX3B1Ymxpc2hlciI6IkVwaWMgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MDI0MTg3MDM1NTQ4NDI2OTQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRm9ydG5pdGUiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDEzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTA3NDQ1NDIyNTY5MDY0OC8xNTM5MzA3NTE4ODYwMTk3OTUwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9ydG5pdGUgT3ZlcnJpZGUiLCJnYW1lX3RpdGxlIjoiRm9ydG5pdGUiLCJnYW1lX3B1Ymxpc2hlciI6IkVwaWMgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MDI0MTg3MDM1NTQ4NDI2OTQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRm9ydG5pdGUiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDEzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTA3NDQ1NDIyNTY5MDY0OC8xNTM5MzA3NTE4ODYwMTk3OTUwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-20T13:00:00+00:00",
-      "expires_at": "2026-09-30T00:00:00+00:00",
+      "expires_at": "2026-08-31T06:59:00+00:00",
       "sent_at": "2026-08-20T15:34:27.981Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-28T23:59:35.000Z"
     },
     "1539360322421268627": {
       "id": "1539360322421268627",
@@ -9529,7 +9530,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-24T07:00:00+00:00",
-        "expires_at": "2026-09-07T06:59:00+00:00",
+        "expires_at": "2026-08-31T06:59:00+00:00",
         "features": [
           44,
           15
@@ -9610,7 +9611,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-07T06:59:00+00:00",
+          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -9627,19 +9628,19 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI3fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDQ5MzUyNzEzNjM0MjA0Ny8xNTQwNDk0OTE2NjMzNzU5NzQ0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDQ5MzUyNzEzNjM0MjA0Ny8xNTQwNDk0NzgyMjkwMzMzNzc4XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI3fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDQ5MzUyNzEzNjM0MjA0Ny8xNTQwNDk0OTE2NjMzNzU5NzQ0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDQ5MzUyNzEzNjM0MjA0Ny8xNTQwNDk0NzgyMjkwMzMzNzc4XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-24T07:00:00+00:00",
-      "expires_at": "2026-09-07T06:59:00+00:00",
+      "expires_at": "2026-08-31T06:59:00+00:00",
       "sent_at": "2026-08-24T09:48:48.331Z",
       "type": "updated",
-      "updated_at": "2026-08-28T00:16:34.108Z"
+      "updated_at": "2026-08-28T23:59:36.601Z"
     },
     "1540491844360736810": {
       "id": "1540491844360736810",
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-24T07:00:00+00:00",
-        "expires_at": "2026-09-07T06:59:00+00:00",
+        "expires_at": "2026-08-31T06:59:00+00:00",
         "features": [
           44,
           15
@@ -9720,7 +9721,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-07T06:59:00+00:00",
+          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -9737,12 +9738,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-24T07:00:00+00:00",
-      "expires_at": "2026-09-07T06:59:00+00:00",
+      "expires_at": "2026-08-31T06:59:00+00:00",
       "sent_at": "2026-08-24T09:48:49.938Z",
       "type": "updated",
-      "updated_at": "2026-08-28T00:16:35.451Z"
+      "updated_at": "2026-08-28T23:59:37.975Z"
     },
     "1537900603328434257": {
       "id": "1537900603328434257",
@@ -11372,7 +11373,632 @@
       "expires_at": "2026-10-07T00:00:00+00:00",
       "sent_at": "2026-08-28T00:16:25.105Z",
       "type": "new"
+    },
+    "1539407814785499267": {
+      "id": "1539407814785499267",
+      "config": {
+        "id": "1539407814785499267",
+        "config_version": 2,
+        "starts_at": "2026-08-28T16:00:00+00:00",
+        "expires_at": "2026-09-12T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
+          "id": "1205090671527071784",
+          "name": "Helldivers 2"
+        },
+        "assets": {
+          "hero": "quests/1539407814785499267/1542584983913234522.jpg",
+          "quest_bar_hero_blurhash": "WrYNDIJ1eId/h4eYd4eZgIpJ9g==",
+          "quest_bar_hero": "quests/1539407814785499267/1542584989638463548.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1535350172480053308/1536823568933978253.png",
+          "game_tile_dark": "quests/1535350172480053308/1536823411815219210.png",
+          "logotype_light": "quests/1535350172480053308/1536823306727198780.png",
+          "logotype_dark": "quests/1535350172480053308/1536823306735587429.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Helldivers 2 | Dive Now!",
+          "game_title": "Helldivers 2",
+          "game_publisher": "PlayStation"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1205090671527071784"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1205090671527071784"
+                }
+              ],
+              "external_ids": [
+                "1924639289"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1205090671527071784"
+                }
+              ],
+              "external_ids": [
+                "PPSA06016_00",
+                "PPSA01413_00",
+                "PPSA06020_00",
+                "PPSA06017_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-12T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.playstation.com/en-us/games/helldivers-2/?modal=game-catalog&emcid=dd-1s-536825",
+          "button_label": "Chơi Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSGVsbGRpdmVycyAyIHwgRGl2ZSBOb3chIiwiZ2FtZV90aXRsZSI6IkhlbGxkaXZlcnMgMiIsImdhbWVfcHVibGlzaGVyIjoiUGxheVN0YXRpb24iLCJhcHBsaWNhdGlvbl9pZCI6IjEyMDUwOTA2NzE1MjcwNzE3ODQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbGRpdmVycyAyIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTEyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk0MDc4MTQ3ODU0OTkyNjcvMTU0MjU4NDk4MzkxMzIzNDUyMi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-08-28T16:00:00+00:00",
+      "expires_at": "2026-10-12T00:00:00+00:00",
+      "sent_at": "2026-08-28T23:59:26.849Z",
+      "type": "new"
+    },
+    "1540036377146556556": {
+      "id": "1540036377146556556",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-28T17:00:00+00:00",
+        "expires_at": "2026-09-29T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1540036377146556556/1543004822704361472.jpg",
+          "quest_bar_hero_blurhash": "32cHBIgq+FePdHmCbJRbr3R/eA==",
+          "quest_bar_hero": "quests/1540036377146556556/1541615727566659604.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1540036377146556556/1540080485622087841.png",
+          "game_tile_dark": "quests/1540036377146556556/1540080485622087841.png",
+          "logotype_light": "quests/1540036377146556556/1540083413502001313.png",
+          "logotype_dark": "quests/1540036377146556556/1540080554203025468.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Student Perks",
+          "game_title": "T-Mobile",
+          "game_publisher": "T-Mobile"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1540036377146556556/1540082319606677564_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1540036377146556556/1540082319606677564_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
+                },
+                "video_hls": {
+                  "url": "quests/1540036377146556556/1540082319606677564.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 20,
+              "assets": {
+                "video": {
+                  "url": "quests/1540036377146556556/1540194178984579122_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1540036377146556556/1540194178984579122_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
+                },
+                "video_hls": {
+                  "url": "quests/1540036377146556556/1540194178984579122.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
+          "button_label": "Learn More",
+          "subtitle": "Plans built just for students starting at $30/mo."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwMDM2Mzc3MTQ2NTU2NTU2LzE1NDMwMDQ4MjI3MDQzNjE0NzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-08-28T17:00:00+00:00",
+      "expires_at": "2026-10-29T00:00:00+00:00",
+      "sent_at": "2026-08-28T23:59:28.347Z",
+      "type": "new"
+    },
+    "1539783833002577981": {
+      "id": "1539783833002577981",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-28T17:00:00+00:00",
+        "expires_at": "2026-09-11T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://2kgam.es/3RuZ5v9",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1536795790717091970/1539020923624095875.jpg",
+          "hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
+          "quest_bar_hero_blurhash": "T7kGFIp0dqUEiHmUbnPJQIoNtA==",
+          "quest_bar_hero": "quests/1536795790717091970/1539020923607457952.jpg",
+          "quest_bar_hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1536795790717091970/1536796252459638845.jpg",
+          "game_tile_dark": "quests/1536795790717091970/1536796252459638845.jpg",
+          "logotype_light": "quests/1536795790717091970/1536796236164894801.png",
+          "logotype_dark": "quests/1536795790717091970/1536796203235409980.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "NBA2K27 All Day I Dream About Ball",
+          "game_title": "NBA 2K27",
+          "game_publisher": "NBA 2K27"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 72,
+              "assets": {
+                "video": {
+                  "url": "quests/1539783833002577981/1542570156537159690_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539783833002577981/1542570156537159690_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539783833002577981/1542570156537159690.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 72,
+              "assets": {
+                "video": {
+                  "url": "quests/1539783833002577981/1542570156537159690_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539783833002577981/1542570156537159690_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539783833002577981/1542570156537159690.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-11T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://2kgam.es/3RuZ5v9",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Get the Deluxe or Ultra Edition to play NBA 2K27 Early Access NOW "
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTkJBMksyNyBBbGwgRGF5IEkgRHJlYW0gQWJvdXQgQmFsbCIsImdhbWVfdGl0bGUiOiJOQkEgMksyNyIsImdhbWVfcHVibGlzaGVyIjoiTkJBIDJLMjciLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTExVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTExVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NzJ9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NzJ9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM2Nzk1NzkwNzE3MDkxOTcwLzE1MzkwMjA5MjM2MjQwOTU4NzUuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5NzgzODMzMDAyNTc3OTgxLzE1NDI2ODU5Mzc1NDczNDU5MzAubXA0In0=",
+      "starts_at": "2026-08-28T17:00:00+00:00",
+      "expires_at": "2026-10-11T00:00:00+00:00",
+      "sent_at": "2026-08-28T23:59:30.122Z",
+      "type": "new"
+    },
+    "1542287027578478654": {
+      "id": "1542287027578478654",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-28T17:00:00+00:00",
+        "expires_at": "2026-09-29T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://es.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1542287027578478654/1543004659654852751.jpg",
+          "quest_bar_hero_blurhash": "32cHBIgq+FePdHmCbJRbr3R/eA==",
+          "quest_bar_hero": "quests/1540036377146556556/1541615727566659604.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1540036377146556556/1540080485622087841.png",
+          "game_tile_dark": "quests/1540036377146556556/1540080485622087841.png",
+          "logotype_light": "quests/1540036377146556556/1540083413502001313.png",
+          "logotype_dark": "quests/1540036377146556556/1540080554203025468.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Student Perks",
+          "game_title": "T-Mobile",
+          "game_publisher": "T-Mobile"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1540036377146556556/1540082319606677564_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1540036377146556556/1540082319606677564_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
+                },
+                "video_hls": {
+                  "url": "quests/1540036377146556556/1540082319606677564.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 20,
+              "assets": {
+                "video": {
+                  "url": "quests/1540036377146556556/1540194178984579122_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1540036377146556556/1540194178984579122_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
+                },
+                "video_hls": {
+                  "url": "quests/1540036377146556556/1540194178984579122.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://es.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
+          "button_label": "Learn More",
+          "subtitle": "Plans built just for students starting at $30/mo."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyMjg3MDI3NTc4NDc4NjU0LzE1NDMwMDQ2NTk2NTQ4NTI3NTEuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-08-28T17:00:00+00:00",
+      "expires_at": "2026-10-29T00:00:00+00:00",
+      "sent_at": "2026-08-28T23:59:32.180Z",
+      "type": "new"
+    },
+    "1539267237561503815": {
+      "id": "1539267237561503815",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-08-28T23:00:00+00:00",
+        "expires_at": "2026-09-02T21:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.bandainamcoent.eu/dawnwalker/the-blood-of-dawnwalker/shop-now?utm_source=Discord&utm_medium=VideoQuest&utm_campaign=Dawnwalker-Launch",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1539267237561503815/1541766626163294328.jpg",
+          "hero_video": "quests/1539267237561503815/1539281916035993750_720.mp4",
+          "quest_bar_hero_blurhash": "ixgGDIILR5SWhoqCbJcFplFQGA==",
+          "quest_bar_hero": "quests/1539267237561503815/1541372435507585034.jpg",
+          "quest_bar_hero_video": "quests/1539267237561503815/1539281701962784859_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539267237561503815/1539281347841888276.png",
+          "game_tile_dark": "quests/1539267237561503815/1539281347841888276.png",
+          "logotype_light": "quests/1539267237561503815/1539281501647278223.png",
+          "logotype_dark": "quests/1539267237561503815/1539281501647278223.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Blood Of Dawnwalker",
+          "game_title": "The Blood Of Dawnwalker",
+          "game_publisher": "Bandai Namco"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1539267237561503815/1539282490181685328_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539267237561503815/1541380112132341760.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539267237561503815/1539282490181685328_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539267237561503815/1541380112132341760.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539267237561503815/1539282490181685328.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539267237561503815/1541380112132341760.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1539267237561503815/1539282490181685328_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539267237561503815/1541380112132341760.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1539267237561503815/1539282490181685328_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539267237561503815/1541380112132341760.png"
+                },
+                "video_hls": {
+                  "url": "quests/1539267237561503815/1539282490181685328.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539267237561503815/1541380112132341760.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-02T21:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.bandainamcoent.eu/dawnwalker/the-blood-of-dawnwalker/shop-now?utm_source=Discord&utm_medium=VideoQuest&utm_campaign=Dawnwalker-Launch",
+          "button_label": "Pre-Order Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMjE6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
+      "starts_at": "2026-08-28T23:00:00+00:00",
+      "expires_at": "2026-10-02T21:59:00+00:00",
+      "sent_at": "2026-08-28T23:59:33.581Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-08-28T14:57:56.992Z"
+  "last_check": "2026-08-28T23:59:39.081Z"
 }
