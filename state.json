@@ -1,89 +1,5 @@
 {
   "quests": {
-    "1527668957765697726": {
-      "id": "1527668957765697726",
-      "config": {
-        "id": "1527668957765697726",
-        "config_version": 2,
-        "starts_at": "2026-07-18T17:00:00+00:00",
-        "expires_at": "2026-07-30T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://rs.runescape.com/download",
-          "id": "357606832899883008",
-          "name": "RuneScape"
-        },
-        "assets": {
-          "hero": "quests/1527668957765697726/1527675408135229500.jpg",
-          "quest_bar_hero_blurhash": "nAcOGoRrOnmvh3doBVADVAY=",
-          "quest_bar_hero": "quests/1527668957765697726/1527820046506786926.jpg",
-          "quest_bar_hero_video": "quests/1527668957765697726/1527675268041412628_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527668957765697726/1527674653961748490.jpg",
-          "game_tile_dark": "quests/1527668957765697726/1527674653961748490.jpg",
-          "logotype_light": "quests/1527668957765697726/1527674690913570896.png",
-          "logotype_dark": "quests/1527668957765697726/1527674690913570896.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "RuneScape",
-          "game_title": "RuneScape",
-          "game_publisher": "Jagex"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "357606832899883008"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-08-29T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://rs.runescape.com/download",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUnVuZVNjYXBlIiwiZ2FtZV90aXRsZSI6IlJ1bmVTY2FwZSIsImdhbWVfcHVibGlzaGVyIjoiSmFnZXgiLCJhcHBsaWNhdGlvbl9pZCI6IjM1NzYwNjgzMjg5OTg4MzAwOCIsImFwcGxpY2F0aW9uX25hbWUiOiJSdW5lU2NhcGUiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMzBUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMjlUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NjY4OTU3NzY1Njk3NzI2LzE1Mjc2NzU0MDgxMzUyMjk1MDAuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-18T17:00:00+00:00",
-      "expires_at": "2026-08-29T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:21:59.670Z",
-      "type": "new"
-    },
     "1527003925650083910": {
       "id": "1527003925650083910",
       "config": {
@@ -11644,7 +11560,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "NBA2K27 All Day I Dream About Ball",
+          "quest_name": "NBA 2K27 All Day I Dream About Ball",
           "game_title": "NBA 2K27",
           "game_publisher": "NBA 2K27"
         },
@@ -11736,11 +11652,12 @@
           "subtitle": "Get the Deluxe or Ultra Edition to play NBA 2K27 Early Access NOW "
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTkJBMksyNyBBbGwgRGF5IEkgRHJlYW0gQWJvdXQgQmFsbCIsImdhbWVfdGl0bGUiOiJOQkEgMksyNyIsImdhbWVfcHVibGlzaGVyIjoiTkJBIDJLMjciLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTExVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTExVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NzJ9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NzJ9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM2Nzk1NzkwNzE3MDkxOTcwLzE1MzkwMjA5MjM2MjQwOTU4NzUuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5NzgzODMzMDAyNTc3OTgxLzE1NDI2ODU5Mzc1NDczNDU5MzAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTkJBIDJLMjcgQWxsIERheSBJIERyZWFtIEFib3V0IEJhbGwiLCJnYW1lX3RpdGxlIjoiTkJBIDJLMjciLCJnYW1lX3B1Ymxpc2hlciI6Ik5CQSAySzI3IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjcyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjcyfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNjc5NTc5MDcxNzA5MTk3MC8xNTM5MDIwOTIzNjI0MDk1ODc1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzOTc4MzgzMzAwMjU3Nzk4MS8xNTQyNjg1OTM3NTQ3MzQ1OTMwLm1wNCJ9",
       "starts_at": "2026-08-28T17:00:00+00:00",
-      "expires_at": "2026-10-11T00:00:00+00:00",
+      "expires_at": "2026-09-11T00:00:00+00:00",
       "sent_at": "2026-08-28T23:59:30.122Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-29T23:00:50.223Z"
     },
     "1542287027578478654": {
       "id": "1542287027578478654",
@@ -12000,5 +11917,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-08-29T18:12:19.081Z"
+  "last_check": "2026-08-29T23:00:51.331Z"
 }
