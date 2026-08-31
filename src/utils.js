@@ -98,6 +98,7 @@ export function detectQuestChanges(oldQuest, newQuest) {
     quest_name: false,
     duration: false,
     reward_expires: false,
+    reward_amount: false,
     features: false,
     game: false,
     tasks: false,
@@ -122,6 +123,15 @@ export function detectQuestChanges(oldQuest, newQuest) {
 
   if ((oldConfig.rewards_config?.rewards_expire_at || '') !== (newConfig.rewards_config?.rewards_expire_at || '')) {
     changes.reward_expires = true;
+  }
+
+  const oldReward = oldConfig.rewards_config?.rewards?.[0] || {};
+  const newReward = newConfig.rewards_config?.rewards?.[0] || {};
+  if (
+    (oldReward.orb_quantity ?? '') !== (newReward.orb_quantity ?? '') ||
+    (oldReward.premium_orb_quantity ?? '') !== (newReward.premium_orb_quantity ?? '')
+  ) {
+    changes.reward_amount = true;
   }
 
   const oldFeatures = Array.isArray(oldConfig.features) ? [...oldConfig.features].sort((a, b) => a - b).join(',') : '';
@@ -179,6 +189,12 @@ export function buildChangeDescription(oldQuest, newQuest, changes) {
   const newConfig = newQuest?.config || {};
   const lines = [];
 
+  if (changes?.quest_name) {
+    const oldName = oldConfig.messages?.quest_name || i18n.error.new_quest;
+    const newName = newConfig.messages?.quest_name || i18n.error.new_quest;
+    lines.push(`**${i18n.quest_name_changed || '📝 Tên Nhiệm Vụ'}**: ~~${oldName}~~ → ${newName}`);
+  }
+
   if (changes?.duration) {
     const oldRange = `${formatDateTime(oldConfig.starts_at) || '—'} - ${formatDateTime(oldConfig.expires_at) || '—'}`;
     const newRange = `${formatDateTime(newConfig.starts_at) || '—'} - ${formatDateTime(newConfig.expires_at) || '—'}`;
@@ -189,6 +205,17 @@ export function buildChangeDescription(oldQuest, newQuest, changes) {
     const oldVal = formatDateTime(oldConfig.rewards_config?.rewards_expire_at) || '—';
     const newVal = formatDateTime(newConfig.rewards_config?.rewards_expire_at) || '—';
     lines.push(`**${i18n.reward_expires}**: ~~${oldVal}~~\n→ ${newVal}`);
+  }
+
+  if (changes?.reward_amount) {
+    const oldReward = oldConfig.rewards_config?.rewards?.[0] || {};
+    const newReward = newConfig.rewards_config?.rewards?.[0] || {};
+    if ((oldReward.orb_quantity ?? '') !== (newReward.orb_quantity ?? '')) {
+      lines.push(`**${i18n.reward_name?.normal || 'Phần thưởng'}**: ~~${oldReward.orb_quantity ?? '—'}~~ → ${newReward.orb_quantity ?? '—'}`);
+    }
+    if ((oldReward.premium_orb_quantity ?? '') !== (newReward.premium_orb_quantity ?? '')) {
+      lines.push(`**${i18n.reward_name?.extra || 'Phần thưởng Nitro'}**: ~~${oldReward.premium_orb_quantity ?? '—'}~~ → ${newReward.premium_orb_quantity ?? '—'}`);
+    }
   }
 
   if (changes?.features) {

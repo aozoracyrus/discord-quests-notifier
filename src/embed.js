@@ -177,9 +177,14 @@ export async function buildNewQuestEmbed(content, quest, assets) {
   const taskCondition = config.task_config_v2?.join_operator || 'or';
   const taskList = Object.values(tasks)
     .map(task => {
-      const minutes = task.target ? Math.round(task.target / 60) : 0;
       const taskName = String(task.type || '').replace(/_/g, ' ').trim() || 'TASK';
-      return `*   ${taskName} (${minutes} phút)`;
+      const minutes = task.target ? Math.round(task.target / 60) : 0;
+      // Completion-based task types (ACHIEVEMENT_IN_ACTIVITY, ACHIEVEMENT_IN_GAME)
+      // never have a meaningful `target` — showing "(0 phút)" for those (or
+      // for anything else where target is genuinely absent) is misleading,
+      // so the duration suffix only appears when there's a real value.
+      const durationSuffix = minutes > 0 ? ` (${minutes} phút)` : '';
+      return `*   ${taskName}${durationSuffix}`;
     })
     .join('\n');
 

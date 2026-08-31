@@ -69,6 +69,11 @@ export const QUEST_FEATURES = {
     40: 'NITRO_2_POINT_0_CTA',
     41: 'ORBS_MULTIPLIER_QUEST',
     42: 'XBOX_GAME_PASS_QUEST',
+    // 43/44 confirmed by you from another source — not yet in
+    // docs.discord.food (which only goes to 42). Note: 43 duplicates the
+    // name already at 25 below — see chat, need to confirm which is right.
+    43: 'CLOUD_GAMING_ACTIVITY',
+    44: 'RENEWABLE_END_DATE',
 };
 
 /** Decode a quest's raw numeric `features` array into readable flag names. */
@@ -122,6 +127,8 @@ export function hashQuestData(quest) {
         starts_at: config.starts_at,
         expires_at: config.expires_at,
         reward_expires_at: config.rewards_config?.rewards_expire_at,
+        reward_orb_quantity: config.rewards_config?.rewards?.[0]?.orb_quantity ?? null,
+        reward_premium_orb_quantity: config.rewards_config?.rewards?.[0]?.premium_orb_quantity ?? null,
 
         features: Array.isArray(config.features) ? [...config.features].sort((a, b) => a - b) : null,
         platforms: derivePlatformsFromTasks(tasks),
