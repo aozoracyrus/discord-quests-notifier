@@ -204,192 +204,6 @@
       "sent_at": "2026-07-26T08:22:02.292Z",
       "type": "new"
     },
-    "1527583638571450408": {
-      "id": "1527583638571450408",
-      "config": {
-        "id": "1527583638571450408",
-        "config_version": 2,
-        "starts_at": "2026-07-23T01:00:00+00:00",
-        "expires_at": "2026-07-31T14:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://umamusume.com/",
-          "id": "1387281194043048067",
-          "name": "Umamusume: Pretty Derby"
-        },
-        "assets": {
-          "hero": "quests/1527583638571450408/1527584930144452638.jpg",
-          "quest_bar_hero_blurhash": "8QgGFIj5ZauKd4gatGoroG/hfw==",
-          "quest_bar_hero": "quests/1527583638571450408/1527584932031893534.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527583638571450408/1527584532251934811.png",
-          "game_tile_dark": "quests/1527583638571450408/1527584532251934811.png",
-          "logotype_light": "quests/1527583638571450408/1527584613357191238.png",
-          "logotype_dark": "quests/1527583638571450408/1527584613357191238.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Umamusume: Pretty Derby",
-          "game_title": "Umamusume: Pretty Derby",
-          "game_publisher": "Cygames"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1387281194043048067"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-08-30T14:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.cygames.umamusume"
-          },
-          "ios": {
-            "ios_app_id": "6480433538"
-          },
-          "link": "https://umamusume.com/",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVW1hbXVzdW1lOiBQcmV0dHkgRGVyYnkiLCJnYW1lX3RpdGxlIjoiVW1hbXVzdW1lOiBQcmV0dHkgRGVyYnkiLCJnYW1lX3B1Ymxpc2hlciI6IkN5Z2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjEzODcyODExOTQwNDMwNDgwNjciLCJhcHBsaWNhdGlvbl9uYW1lIjoiVW1hbXVzdW1lOiBQcmV0dHkgRGVyYnkiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTIzVDAxOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMzFUMTQ6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMzBUMTQ6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NTgzNjM4NTcxNDUwNDA4LzE1Mjc1ODQ5MzAxNDQ0NTI2MzguanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-23T01:00:00+00:00",
-      "expires_at": "2026-08-30T14:59:00+00:00",
-      "sent_at": "2026-07-26T08:22:03.565Z",
-      "type": "new"
-    },
-    "1527492070242259005": {
-      "id": "1527492070242259005",
-      "config": {
-        "id": "1527492070242259005",
-        "config_version": 2,
-        "starts_at": "2026-07-23T07:00:00+00:00",
-        "expires_at": "2026-08-01T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1527492070242259005/1527530427471106178.jpg",
-          "hero_video": "quests/1527492070242259005/1527500497550835782_720.mp4",
-          "quest_bar_hero_blurhash": "iucFDIJCinc/mYd5TIjP0/k8ng==",
-          "quest_bar_hero": "quests/1527492070242259005/1527530391240708278.jpg",
-          "quest_bar_hero_video": "quests/1527492070242259005/1527500393930555452_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527492070242259005/1527499419564507216.png",
-          "game_tile_dark": "quests/1527492070242259005/1527499419564507216.png",
-          "logotype_light": "quests/1527492070242259005/1527499420013432943.png",
-          "logotype_dark": "quests/1527492070242259005/1527499420013432943.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ],
-              "external_ids": [
-                "PPSA23355_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-08-31T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTIzVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc0OTIwNzAyNDIyNTkwMDUvMTUyNzUzMDQyNzQ3MTEwNjE3OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mjc0OTIwNzAyNDIyNTkwMDUvMTUyNzUwMDQ5NzU1MDgzNTc4Ml83MjAubXA0In0=",
-      "starts_at": "2026-07-23T07:00:00+00:00",
-      "expires_at": "2026-08-31T06:59:00+00:00",
-      "sent_at": "2026-07-26T08:22:05.165Z",
-      "type": "new"
-    },
     "1528893107893174404": {
       "id": "1528893107893174404",
       "config": {
@@ -599,11 +413,12 @@
           "subtitle": "A battery built for late-night studying"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFjIFN0dWRlbnRzIiwiZ2FtZV90aXRsZSI6Ik1hYyBTdHVkZW50cyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkwOTY4MTA4NjQ1MTMwOTQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkxMDE1NTUwNDE4OTg2NTBfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFjIFN0dWRlbnRzIiwiZ2FtZV90aXRsZSI6Ik1hYyBTdHVkZW50cyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkwOTY4MTA4NjQ1MTMwOTQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkxMDE1NTUwNDE4OTg2NTBfNzIwLm1wNCJ9",
       "starts_at": "2026-06-28T17:00:00+00:00",
-      "expires_at": "2026-10-07T00:00:00+00:00",
+      "expires_at": "2026-09-07T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:25.253Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:16.621Z"
     },
     "1519102841594187796": {
       "id": "1519102841594187796",
@@ -729,11 +544,12 @@
           "subtitle": "Use your iPhone from your Mac"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFjIFN0dWRlbnRzIiwiZ2FtZV90aXRsZSI6Ik1hYyBTdHVkZW50cyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkwOTY4MTA4NjQ1MTMwOTQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTE5MTAyODQxNTk0MTg3Nzk2LzE1MTkxMDMwMzgzMTk2Mjg0MzlfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFjIFN0dWRlbnRzIiwiZ2FtZV90aXRsZSI6Ik1hYyBTdHVkZW50cyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUxOTA5NTg4MTAyNTE5MTk2Ni8xNTE5MDk2ODEwODY0NTEzMDk0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUxOTEwMjg0MTU5NDE4Nzc5Ni8xNTE5MTAzMDM4MzE5NjI4NDM5XzcyMC5tcDQifQ==",
       "starts_at": "2026-06-28T17:00:00+00:00",
-      "expires_at": "2026-10-07T00:00:00+00:00",
+      "expires_at": "2026-09-07T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:26.469Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:17.943Z"
     },
     "1519095881025191966": {
       "id": "1519095881025191966",
@@ -859,106 +675,12 @@
           "subtitle": "Superfast AI performance"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFjIFN0dWRlbnRzIiwiZ2FtZV90aXRsZSI6Ik1hYyBTdHVkZW50cyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkwOTY4MTA4NjQ1MTMwOTQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTE5MDk1ODgxMDI1MTkxOTY2LzE1MTkwOTY5MzE0MjEzOTMwMDZfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFjIFN0dWRlbnRzIiwiZ2FtZV90aXRsZSI6Ik1hYyBTdHVkZW50cyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNi0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUxOTA5NTg4MTAyNTE5MTk2Ni8xNTE5MDk2ODEwODY0NTEzMDk0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUxOTA5NTg4MTAyNTE5MTk2Ni8xNTE5MDk2OTMxNDIxMzkzMDA2XzcyMC5tcDQifQ==",
       "starts_at": "2026-06-28T17:00:00+00:00",
-      "expires_at": "2026-10-07T00:00:00+00:00",
+      "expires_at": "2026-09-07T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:27.674Z",
-      "type": "new"
-    },
-    "1518710044856815737": {
-      "id": "1518710044856815737",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-01T17:00:00+00:00",
-        "expires_at": "2026-08-01T00:00:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://www.redbull.com/us-en/hubs/gaming",
-          "id": "1504045545457586206",
-          "name": "Red Bull Crate"
-        },
-        "assets": {
-          "hero": "quests/1518710044856815737/1521272795642990743.jpg",
-          "hero_video": "quests/1518710044856815737/1521657384802582668.mp4",
-          "quest_bar_hero_blurhash": "NigGHIT5p2d4iHZuhIcGmnLECQ==",
-          "quest_bar_hero": "quests/1518710044856815737/1521272702902468700.jpg",
-          "quest_bar_hero_video": "quests/1518710044856815737/1521272743708856421_720.mp4",
-          "game_tile": "1521656065513488569.png",
-          "logotype": "1521888243447234632.png",
-          "game_tile_light": "quests/1518710044856815737/1521654340996038666.png",
-          "game_tile_dark": "quests/1518710044856815737/1521654340996038666.png",
-          "logotype_light": "quests/1518710044856815737/1521888031550865600.png",
-          "logotype_dark": "quests/1518710044856815737/1521888175230812241.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Red Bull Crate",
-          "game_title": "Red Bull",
-          "game_publisher": "Red Bull"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 1,
-              "applications": [
-                {
-                  "id": "1504045545457586206"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Red Bull Crate",
-                "task_description": "Unlock the crate to earn a Red Bull Avatar Decoration and a chance to claim a Red Bull Reward - while supplies last. 18+. US only."
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1521661571665756180",
-              "asset": "quests/1518710044856815737/1521680306514690218.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Red Bull Avatar Decoration",
-                "name_with_article": "a Red Bull Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-09-28T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 1
-            }
-          ],
-          "rewards_expire_at": "2026-08-31T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.redbull.com/us-en/hubs/gaming",
-          "button_label": "Get Promotions",
-          "subtitle": "Gives You Wiiings"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVkIEJ1bGwgQ3JhdGUiLCJnYW1lX3RpdGxlIjoiUmVkIEJ1bGwiLCJnYW1lX3B1Ymxpc2hlciI6IlJlZCBCdWxsIiwiYXBwbGljYXRpb25faWQiOiIxNTA0MDQ1NTQ1NDU3NTg2MjA2IiwiYXBwbGljYXRpb25fbmFtZSI6IlJlZCBCdWxsIENyYXRlIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0wMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTAxVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA4LTMxVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6MX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MTg3MTAwNDQ4NTY4MTU3MzcvMTUyMTI3Mjc5NTY0Mjk5MDc0My5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MTg3MTAwNDQ4NTY4MTU3MzcvMTUyMTY1NzM4NDgwMjU4MjY2OC5tcDQifQ==",
-      "starts_at": "2026-07-01T17:00:00+00:00",
-      "expires_at": "2026-08-31T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:27:33.870Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:19.320Z"
     },
     "1521935381434466505": {
       "id": "1521935381434466505",
@@ -1220,264 +942,6 @@
       "sent_at": "2026-07-26T08:27:41.529Z",
       "type": "new"
     },
-    "1517297856287997984": {
-      "id": "1517297856287997984",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-17T17:00:00+00:00",
-        "expires_at": "2026-07-31T22:55:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://tcg.pokemon.com/en-us/expansions/pitch-black/?utm_content=tcg&utm_medium=paidsocial&utm_source=disc&utm_campaign=2026_me05&utm_term=us_u_2p_me03participantsigdbkidsgamersanimefans_video_hero30s",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1517297856287997984/1517298578194694234.jpg",
-          "hero_video": "quests/1517297856287997984/1517298622822219836_720.mp4",
-          "quest_bar_hero_blurhash": "0vYNFIQziWiQdoh7d4V6n0EJuQ==",
-          "quest_bar_hero": "quests/1517297856287997984/1517298375978913802.jpg",
-          "quest_bar_hero_video": "quests/1517297856287997984/1517298491725058099_720.mp4",
-          "game_tile": "1517298708356661289.png",
-          "logotype": "1517298707278594198.png",
-          "game_tile_light": "quests/1517297856287997984/1517298221443977276.png",
-          "game_tile_dark": "quests/1517297856287997984/1517298221443977276.png",
-          "logotype_light": "quests/1517297856287997984/1517298221716603080.png",
-          "logotype_dark": "quests/1517297856287997984/1517298221716603080.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Pitch Black - ",
-          "game_title": "ME05 - Pitch Black",
-          "game_publisher": "Pokémon Trading Card Game"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1517297856287997984/1517298221884506122_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1517297856287997984/1517298221917933719.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1517297856287997984/1517298221884506122_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1517297856287997984/1517298221917933719.png"
-                },
-                "video_hls": {
-                  "url": "quests/1517297856287997984/1517298221884506122.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1517297856287997984/1517298221917933719.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1517297856287997984/1517298221804814497_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1517297856287997984/1517298221917933719.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1517297856287997984/1517298221804814497_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1517297856287997984/1517298221917933719.png"
-                },
-                "video_hls": {
-                  "url": "quests/1517297856287997984/1517298221804814497.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1517297856287997984/1517298221917933719.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-30T22:55:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://tcg.pokemon.com/en-us/expansions/pitch-black/?utm_content=tcg&utm_medium=paidsocial&utm_source=disc&utm_campaign=2026_me05&utm_term=us_u_2p_me03participantsigdbkidsgamersanimefans_video_hero30s",
-          "button_label": "Learn More",
-          "subtitle": "Mega Evolution - Pitch Black"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUGl0Y2ggQmxhY2sgLSAiLCJnYW1lX3RpdGxlIjoiTUUwNSAtIFBpdGNoIEJsYWNrIiwiZ2FtZV9wdWJsaXNoZXIiOiJQb2vDqW1vbiBUcmFkaW5nIENhcmQgR2FtZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMzFUMjI6NTU6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMzBUMjI6NTU6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MTcyOTc4NTYyODc5OTc5ODQvMTUxNzI5ODU3ODE5NDY5NDIzNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MTcyOTc4NTYyODc5OTc5ODQvMTUxNzI5ODYyMjgyMjIxOTgzNl83MjAubXA0In0=",
-      "starts_at": "2026-07-17T17:00:00+00:00",
-      "expires_at": "2026-08-30T22:55:00+00:00",
-      "sent_at": "2026-07-26T08:27:46.358Z",
-      "type": "new"
-    },
-    "1527079584561102938": {
-      "id": "1527079584561102938",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-17T22:05:00+00:00",
-        "expires_at": "2026-08-01T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://freetrial.finalfantasyxiv.com/na?utm_source=discord&utm_medium=dcpm_video&utm_campaign=ffxiv_awa_ffxiv_evergreen_ffxiv_mmorpg_0_fy27_na_lqa&utm_content=0",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1527079584561102938/1527750907075367072.jpg",
-          "quest_bar_hero_blurhash": "F0YKJIQDpohWqJeHiHa/qhYCxg==",
-          "quest_bar_hero": "quests/1527079584561102938/1527090005086965850.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527079584561102938/1527089547593125958.jpg",
-          "game_tile_dark": "quests/1527079584561102938/1527089547593125958.jpg",
-          "logotype_light": "quests/1527079584561102938/1527463165799960626.png",
-          "logotype_dark": "quests/1527079584561102938/1527463243247915008.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "FINAL FANTASY XIV Online Trailer",
-          "game_title": "FINAL FANTASY XIV ",
-          "game_publisher": "SQUARE ENIX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 62,
-              "assets": {
-                "video": {
-                  "url": "quests/1527079584561102938/1527090840302780589_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1527079584561102938/1527090840302780589_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1527079584561102938/1527090840302780589.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 62,
-              "assets": {
-                "video": {
-                  "url": "quests/1527079584561102938/1527090840302780589_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1527079584561102938/1527090840302780589_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1527079584561102938/1527090840302780589.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1527079584561102938/1527093511449743472.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-31T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://freetrial.finalfantasyxiv.com/na?utm_source=discord&utm_medium=dcpm_video&utm_campaign=ffxiv_awa_ffxiv_evergreen_ffxiv_mmorpg_0_fy27_na_lqa&utm_content=0",
-          "button_label": "Play Now",
-          "subtitle": "Play the Free Trial"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRklOQUwgRkFOVEFTWSBYSVYgT25saW5lIFRyYWlsZXIiLCJnYW1lX3RpdGxlIjoiRklOQUwgRkFOVEFTWSBYSVYgIiwiZ2FtZV9wdWJsaXNoZXIiOiJTUVVBUkUgRU5JWCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTE3VDIyOjA1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo2Mn0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo2Mn1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjcwNzk1ODQ1NjExMDI5MzgvMTUyNzc1MDkwNzA3NTM2NzA3Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-07-17T22:05:00+00:00",
-      "expires_at": "2026-08-31T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:27:49.539Z",
-      "type": "new"
-    },
     "1519693428148015284": {
       "id": "1519693428148015284",
       "config": {
@@ -1605,136 +1069,6 @@
       "starts_at": "2026-07-20T17:00:00+00:00",
       "expires_at": "2026-09-03T00:00:00+00:00",
       "sent_at": "2026-07-26T08:27:52.134Z",
-      "type": "new"
-    },
-    "1521294642631409845": {
-      "id": "1521294642631409845",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-20T17:00:00+00:00",
-        "expires_at": "2026-07-31T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://geni.us/Apex-Pro-TKL-Gen3",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1521294642631409845/1524183610339496186.jpg",
-          "hero_video": "quests/1521294642631409845/1524183075368599692_720.mp4",
-          "quest_bar_hero_blurhash": "SRgCHIQFdXq/aIi6Za18v833yw==",
-          "quest_bar_hero": "quests/1521294642631409845/1524182988517281842.jpg",
-          "quest_bar_hero_video": "quests/1521294642631409845/1524183075368599692_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1521294642631409845/1524182428053278760.png",
-          "game_tile_dark": "quests/1521294642631409845/1524182427780513792.png",
-          "logotype_light": "quests/1521294642631409845/1524182427684044880.png",
-          "logotype_dark": "quests/1521294642631409845/1524182428212531430.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Apex Pro Triple Threat",
-          "game_title": "Apex Pro Triple Threat",
-          "game_publisher": "Steelseries"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1521294642631409845/1524182638007418971_1080.mp4",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1521294642631409845/1524182638007418971_720.mp4",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
-                },
-                "video_hls": {
-                  "url": "quests/1521294642631409845/1524182638007418971.m3u8",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1521294642631409845/1524182638024196207_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1521294642631409845/1524182638024196207_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
-                },
-                "video_hls": {
-                  "url": "quests/1521294642631409845/1524182638024196207.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521294642631409845/1524182427914731690.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-08-30T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://geni.us/Apex-Pro-TKL-Gen3",
-          "button_label": "Buy Now",
-          "subtitle": "The Only Keyboard That Has It All - Shop Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQXBleCBQcm8gVHJpcGxlIFRocmVhdCIsImdhbWVfdGl0bGUiOiJBcGV4IFBybyBUcmlwbGUgVGhyZWF0IiwiZ2FtZV9wdWJsaXNoZXIiOiJTdGVlbHNlcmllcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA3LTIwVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDctMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDgtMzBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjEyOTQ2NDI2MzE0MDk4NDUvMTUyNDE4MzYxMDMzOTQ5NjE4Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjEyOTQ2NDI2MzE0MDk4NDUvMTUyNDE4MzA3NTM2ODU5OTY5Ml83MjAubXA0In0=",
-      "starts_at": "2026-07-20T17:00:00+00:00",
-      "expires_at": "2026-08-30T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:27:53.338Z",
       "type": "new"
     },
     "1526986140928708638": {
@@ -2501,135 +1835,6 @@
       "starts_at": "2026-07-24T17:00:00+00:00",
       "expires_at": "2026-09-07T00:00:00+00:00",
       "sent_at": "2026-07-26T08:28:15.743Z",
-      "type": "new"
-    },
-    "1529229208340140092": {
-      "id": "1529229208340140092",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-27T15:50:00+00:00",
-        "expires_at": "2026-07-31T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.youtube.com/sonypicturesaus",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1529229208340140092/1529710799453552710.jpg",
-          "quest_bar_hero_blurhash": "AwgGDIIJl6d5hnhwe4QIioKgWA==",
-          "quest_bar_hero": "quests/1529229208340140092/1529911498955161732.jpg",
-          "quest_bar_hero_video": "quests/1529229208340140092/1529911532354408558_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1529229208340140092/1529710799671787540.jpg",
-          "game_tile_dark": "quests/1529229208340140092/1529710799671787540.jpg",
-          "logotype_light": "quests/1529229208340140092/1529713710992589011.png",
-          "logotype_dark": "quests/1529229208340140092/1529713710992589011.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Resident Evil",
-          "game_title": "In Cinemas September 17. Filmed for IMAX",
-          "game_publisher": "Sony Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 144,
-              "assets": {
-                "video": {
-                  "url": "quests/1529229208340140092/1529999880771211465_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1529229208340140092/1529999880771211465_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1529229208340140092/1529999880771211465.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 144,
-              "assets": {
-                "video": {
-                  "url": "quests/1529229208340140092/1531322135094624346_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1529229208340140092/1531322135094624346_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1529229208340140092/1531322135094624346.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1529229208340140092/1529710800053338122.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-08-30T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.youtube.com/sonypicturesaus",
-          "button_label": "Learn More",
-          "subtitle": "In Cinemas September 17. Filmed for IMAX"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxNy4gRmlsbWVkIGZvciBJTUFYIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjdUMTU6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wNy0zMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOC0zMFQwNjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0NH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNDR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5MjI5MjA4MzQwMTQwMDkyLzE1Mjk3MTA3OTk0NTM1NTI3MTAuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-27T15:50:00+00:00",
-      "expires_at": "2026-08-30T06:59:00+00:00",
-      "sent_at": "2026-07-27T19:28:18.069Z",
       "type": "new"
     },
     "1529570389154467900": {
@@ -4522,137 +3727,6 @@
       "sent_at": "2026-08-01T08:25:12.686Z",
       "type": "new"
     },
-    "1532150126540361938": {
-      "id": "1532150126540361938",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-03T17:00:00+00:00",
-        "expires_at": "2026-08-31T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.hulu.com/start?cmp=21610&utm_campaign=BM_SOC_Discord_FY26Animayhem&utm_medium=Social&utm_source=Discord",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1532150126540361938/1532856403763531776.jpg",
-          "hero_video": "quests/1532150126540361938/1541491360165658695.mp4",
-          "quest_bar_hero_blurhash": "GegNJIZWiJiKh4eAeIeYiIBnBw==",
-          "quest_bar_hero": "quests/1532150126540361938/1532869261364559982.jpg",
-          "quest_bar_hero_video": "quests/1532150126540361938/1541491360165658695.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1532150126540361938/1532856210087350443.png",
-          "game_tile_dark": "quests/1532150126540361938/1532856210087350443.png",
-          "logotype_light": "quests/1532150126540361938/1532856210167038204.png",
-          "logotype_dark": "quests/1532150126540361938/1532856210167038204.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Hulu Animayhem",
-          "game_title": "Watch adult animation on Hulu and Disney+",
-          "game_publisher": "Hulu"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1532150126540361938/1541487784387149915_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1532150126540361938/1541487784387149915_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
-                },
-                "video_hls": {
-                  "url": "quests/1532150126540361938/1541487784387149915.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1532150126540361938/1541487784106270770_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1532150126540361938/1541487784106270770_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
-                },
-                "video_hls": {
-                  "url": "quests/1532150126540361938/1541487784106270770.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1532150126540361938/1532856169310195722.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.hulu.com/start?cmp=21610&utm_campaign=BM_SOC_Discord_FY26Animayhem&utm_medium=Social&utm_source=Discord",
-          "button_label": "Stream Now",
-          "subtitle": "Watch adult animation on Hulu and Disney+"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiSHVsdSBBbmltYXloZW0iLCJnYW1lX3RpdGxlIjoiV2F0Y2ggYWR1bHQgYW5pbWF0aW9uIG9uIEh1bHUgYW5kIERpc25leSsiLCJnYW1lX3B1Ymxpc2hlciI6Ikh1bHUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0wM1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTMxVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTMwVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyMTUwMTI2NTQwMzYxOTM4LzE1MzI4NTY0MDM3NjM1MzE3NzYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTMyMTUwMTI2NTQwMzYxOTM4LzE1NDE0OTEzNjAxNjU2NTg2OTUubXA0In0=",
-      "starts_at": "2026-08-03T17:00:00+00:00",
-      "expires_at": "2026-08-31T00:00:00+00:00",
-      "sent_at": "2026-08-03T19:38:40.124Z",
-      "type": "updated",
-      "updated_at": "2026-08-24T18:40:33.629Z"
-    },
     "1523842681770475550": {
       "id": "1523842681770475550",
       "config": {
@@ -5735,12 +4809,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjozOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc3ODE2MjQyNzAyOTUyMjMvMTUzNzk1Njg0MDk2MzQ0MDcxMC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mjc3ODE2MjQyNzAyOTUyMjMvMTUzNzk1Njg2NjMyMjIwMjYyNF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mzl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NDA5NjM0NDA3MTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NjYzMjIyMDI2MjRfNzIwLm1wNCJ9",
       "starts_at": "2026-07-20T17:00:00+00:00",
       "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-08-10T18:58:10.799Z",
       "type": "updated",
-      "updated_at": "2026-08-28T00:16:26.386Z"
+      "updated_at": "2026-08-31T12:56:20.747Z"
     },
     "1536472460059349192": {
       "id": "1536472460059349192",
@@ -6000,116 +5074,6 @@
       "sent_at": "2026-08-11T19:02:47.931Z",
       "type": "new"
     },
-    "1536670919660142672": {
-      "id": "1536670919660142672",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-11T17:00:00+00:00",
-        "expires_at": "2026-08-31T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://onestate.com/shop/coins",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1536670919660142672/1536688798325542983.jpg",
-          "hero_video": "quests/1536670919660142672/1536676295298129920_720.mp4",
-          "quest_bar_hero_blurhash": "zPcJDIIIZYh8d4Z2eXgf4fU0fQ==",
-          "quest_bar_hero": "quests/1536670919660142672/1536688798325542983.jpg",
-          "quest_bar_hero_video": "quests/1536670919660142672/1536676295298129920_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536670919660142672/1536672832812224532.jpg",
-          "game_tile_dark": "quests/1536670919660142672/1536672832812224532.jpg",
-          "logotype_light": "quests/1536670919660142672/1536672832673546341.png",
-          "logotype_dark": "quests/1536670919660142672/1536672832673546341.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "OneState RP - Role Play Life",
-          "game_title": "OneState RP - Role Play Life",
-          "game_publisher": "Chillbase"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 79,
-              "assets": {
-                "video": {
-                  "url": "quests/1536670919660142672/1536674493458550784_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1536670919660142672/1536688763449770004.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1536670919660142672/1536674493458550784_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1536670919660142672/1536688763449770004.png"
-                },
-                "video_hls": {
-                  "url": "quests/1536670919660142672/1536674493458550784.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1536670919660142672/1536688763449770004.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.Chillgaming.oneState"
-          },
-          "ios": {
-            "ios_app_id": "1597760047"
-          },
-          "link": "https://onestate.com/shop/coins",
-          "button_label": "Install"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT25lU3RhdGUgUlAgLSBSb2xlIFBsYXkgTGlmZSIsImdhbWVfdGl0bGUiOiJPbmVTdGF0ZSBSUCAtIFJvbGUgUGxheSBMaWZlIiwiZ2FtZV9wdWJsaXNoZXIiOiJDaGlsbGJhc2UiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTMxVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTMwVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo3OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzY2NzA5MTk2NjAxNDI2NzIvMTUzNjY4ODc5ODMyNTU0Mjk4My5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzY2NzA5MTk2NjAxNDI2NzIvMTUzNjY3NjI5NTI5ODEyOTkyMF83MjAubXA0In0=",
-      "starts_at": "2026-08-11T17:00:00+00:00",
-      "expires_at": "2026-08-31T00:00:00+00:00",
-      "sent_at": "2026-08-11T19:02:49.415Z",
-      "type": "updated",
-      "updated_at": "2026-08-20T21:28:34.150Z"
-    },
     "1529174839141597276": {
       "id": "1529174839141597276",
       "config": {
@@ -6120,7 +5084,7 @@
           15
         ],
         "application": {
-          "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+          "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -6235,155 +5199,17 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+          "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
           "button_label": "Learn More",
           "subtitle": "Build greatness with Azure"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR3JlYXRuZXNzIGlzIEJ1aWxkaW5nIiwiZ2FtZV90aXRsZSI6IkdyZWF0bmVzcyBpcyBCdWlsZGluZyIsImdhbWVfcHVibGlzaGVyIjoiTWljcm9zb2Z0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjYwfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjYwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUyOTE3NDgzOTE0MTU5NzI3Ni8xNTM1MzUxNTAzODkwNDE5NzYyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUyOTE3NDgzOTE0MTU5NzI3Ni8xNTM1NDAzNzMzNTI0MTU2NDk3XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JlYXRuZXNzIGlzIEJ1aWxkaW5nIiwiZ2FtZV90aXRsZSI6IkdyZWF0bmVzcyBpcyBCdWlsZGluZyIsImdhbWVfcHVibGlzaGVyIjoiTWljcm9zb2Z0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjYwfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjYwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUyOTE3NDgzOTE0MTU5NzI3Ni8xNTM1MzUxNTAzODkwNDE5NzYyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUyOTE3NDgzOTE0MTU5NzI3Ni8xNTM1NDAzNzMzNTI0MTU2NDk3XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-12T17:00:00+00:00",
-      "expires_at": "2026-10-01T00:00:00+00:00",
+      "expires_at": "2026-09-01T00:00:00+00:00",
       "sent_at": "2026-08-12T19:02:40.925Z",
-      "type": "new"
-    },
-    "1536914989577797702": {
-      "id": "1536914989577797702",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-14T02:00:00+00:00",
-        "expires_at": "2026-08-31T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=Discord&utm_campaign=preorder&utm_medium=pmedia&utm_content=quest&utm_term=global",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1536914989577797702/1537356365184376892.jpg",
-          "hero_video": "quests/1536914989577797702/1537627078181126164_720.mp4",
-          "quest_bar_hero_blurhash": "RxgGDIIHmoaFWJl2mIYHhmVwSA==",
-          "quest_bar_hero": "quests/1536914989577797702/1537356317851787334.jpg",
-          "quest_bar_hero_video": "quests/1536914989577797702/1537356390169972776_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536914989577797702/1537355992071802940.png",
-          "game_tile_dark": "quests/1536914989577797702/1537355992071802940.png",
-          "logotype_light": "quests/1536914989577797702/1537371389680680960.png",
-          "logotype_dark": "quests/1536914989577797702/1537355992130396180.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Phantom Blade Zero Pre-Order Video",
-          "game_title": "Phantom Blade Zero",
-          "game_publisher": "S-GAME"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 67,
-              "assets": {
-                "video": {
-                  "url": "quests/1536914989577797702/1537371605754314913_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
-                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1536914989577797702/1537371605754314913_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
-                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1536914989577797702/1537371605754314913.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
-                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 67,
-              "assets": {
-                "video": {
-                  "url": "quests/1536914989577797702/1537371605754314913_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
-                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
-                },
-                "video_low_res": {
-                  "url": "quests/1536914989577797702/1537371605754314913_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
-                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
-                },
-                "video_hls": {
-                  "url": "quests/1536914989577797702/1537371605754314913.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1536914989577797702/1537356317851787334.jpg",
-                  "caption": "quests/1536914989577797702/1537480632404418631.vtt"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1537474334333997248",
-              "asset": "quests/1536914989577797702/1537474718536564786.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Mó Yuan Avatar Decoration",
-                "name_with_article": "a Mó Yuan Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-10-27T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero?utm_source=Discord&utm_campaign=preorder&utm_medium=pmedia&utm_content=quest&utm_term=global",
-          "button_label": "Pre-Order Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUGhhbnRvbSBCbGFkZSBaZXJvIFByZS1PcmRlciBWaWRlbyIsImdhbWVfdGl0bGUiOiJQaGFudG9tIEJsYWRlIFplcm8iLCJnYW1lX3B1Ymxpc2hlciI6IlMtR0FNRSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE0VDAyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo2N30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo2N31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzY5MTQ5ODk1Nzc3OTc3MDIvMTUzNzM1NjM2NTE4NDM3Njg5Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzY5MTQ5ODk1Nzc3OTc3MDIvMTUzNzYyNzA3ODE4MTEyNjE2NF83MjAubXA0In0=",
-      "starts_at": "2026-08-14T02:00:00+00:00",
-      "expires_at": "2026-08-31T00:00:00+00:00",
-      "sent_at": "2026-08-14T04:48:18.514Z",
       "type": "updated",
-      "updated_at": "2026-08-24T18:40:34.848Z"
+      "updated_at": "2026-08-31T12:56:22.270Z"
     },
     "1537498680968482856": {
       "id": "1537498680968482856",
@@ -6516,19 +5342,19 @@
                   "url": "quests/1537163738577117337/1537967732480413757_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1526313972947488949/1526316898604683284.png"
+                  "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_low_res": {
                   "url": "quests/1537163738577117337/1537967732480413757_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1526313972947488949/1526316898604683284.png"
+                  "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_hls": {
                   "url": "quests/1537163738577117337/1537967732480413757.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1526313972947488949/1526316898604683284.png"
+                  "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 }
               },
               "messages": {
@@ -6543,19 +5369,19 @@
                   "url": "quests/1537163738577117337/1537967733365547108_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1526313972947488949/1526316898604683284.png"
+                  "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_low_res": {
                   "url": "quests/1537163738577117337/1537967733365547108_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1526313972947488949/1526316898604683284.png"
+                  "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_hls": {
                   "url": "quests/1537163738577117337/1537967733365547108.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1526313972947488949/1526316898604683284.png"
+                  "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 }
               },
               "messages": {
@@ -6590,16 +5416,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://theuprising.movie",
-          "button_label": "Learn More",
+          "button_label": "Get Tickets",
           "subtitle": "The Uprising | Only In Theaters September 10"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNjMxNjkxMzU1MzMxMzk2NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNzMyOTY3NDA3MjU1NTY1MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNjMxNjkxMzU1MzMxMzk2NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNzMyOTY3NDA3MjU1NTY1MF83MjAubXA0In0=",
       "starts_at": "2026-08-17T17:00:00+00:00",
       "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-08-17T18:39:42.607Z",
       "type": "updated",
-      "updated_at": "2026-08-24T21:29:46.714Z"
+      "updated_at": "2026-08-31T12:56:23.634Z"
     },
     "1538813720396955708": {
       "id": "1538813720396955708",
@@ -6854,11 +5680,12 @@
           "subtitle": "Meet Noor, the first shield counter!"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUjYgU2llZ2UiLCJnYW1lX3RpdGxlIjoiUmFpbmJvdyA2IFNpZWdlIiwiZ2FtZV9wdWJsaXNoZXIiOiJVYmlzb2Z0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjU3fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU3fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzMjc5NDY0MzUyNjE5MzM3Mi8xNTM3MjQxNDkxOTgwOTUxNjUyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzMjc5NDY0MzUyNjE5MzM3Mi8xNTM3MjQxNjI5MDUwNTQwMDgyXzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUjYgU2llZ2UiLCJnYW1lX3RpdGxlIjoiUmFpbmJvdyA2IFNpZWdlIiwiZ2FtZV9wdWJsaXNoZXIiOiJVYmlzb2Z0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjU3fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU3fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzMjc5NDY0MzUyNjE5MzM3Mi8xNTM3MjQxNDkxOTgwOTUxNjUyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzMjc5NDY0MzUyNjE5MzM3Mi8xNTM3MjQxNjI5MDUwNTQwMDgyXzcyMC5tcDQifQ==",
       "starts_at": "2026-08-17T17:00:00+00:00",
-      "expires_at": "2026-10-01T00:00:00+00:00",
+      "expires_at": "2026-09-01T00:00:00+00:00",
       "sent_at": "2026-08-17T18:39:47.801Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:25.000Z"
     },
     "1534613925767676096": {
       "id": "1534613925767676096",
@@ -6950,11 +5777,12 @@
           "button_label": "Chơi Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNDYxMzkyNTc2NzY3NjA5Ni8xNTM2NDYzMDQ3NDUzOTcwNDMyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNDYxMzkyNTc2NzY3NjA5Ni8xNTM2NDYzMDQ3NDUzOTcwNDMyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-17T20:50:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-17T21:26:25.936Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:26.452Z"
     },
     "1537137394975772693": {
       "id": "1537137394975772693",
@@ -7043,12 +5871,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNzEzNzM5NDk3NTc3MjY5My8xNTM3MTM3OTIwMzYyODE1NjA5LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFRva29uOiBGaWdodGluZyBTb3VscyIsImdhbWVfdGl0bGUiOiJNYXJ2ZWwgVG9rb246IEZpZ2h0aW5nIFNvdWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5U3RhdGlvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTQyODIwNzg1NDE1MzYzMzg1MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNQVJWRUwgVMWNa29uOiBGaWdodGluZyBTb3VscyIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTdUMjA6NTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxMzczOTQ5NzU3NzI2OTMvMTUzNzEzNzkyMDM2MjgxNTYwOS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-17T20:50:00+00:00",
       "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-18T01:15:28.841Z",
       "type": "updated",
-      "updated_at": "2026-08-18T03:45:10.547Z"
+      "updated_at": "2026-08-31T12:56:27.846Z"
     },
     "1536795790717091970": {
       "id": "1536795790717091970",
@@ -7266,12 +6094,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmF0dGxlZmllbGQgNiBUb3AgR3VuLU1pc3Npb24iLCJnYW1lX3RpdGxlIjoiQmF0dGxlZmllbGQiLCJnYW1lX3B1Ymxpc2hlciI6IkVsZWN0cm9uaWMgQXJ0cyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNDU0NTU3MDU5OTkzMTk2NiIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXZlcmljayIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTlUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM0NTkzNjkyNzM5MDQzMzQ4LzE1MzkzNDcxNTUzMzEwNTk4NTMuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmF0dGxlZmllbGQgNiBUb3AgR3VuLU1pc3Npb24iLCJnYW1lX3RpdGxlIjoiQmF0dGxlZmllbGQiLCJnYW1lX3B1Ymxpc2hlciI6IkVsZWN0cm9uaWMgQXJ0cyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNDU0NTU3MDU5OTkzMTk2NiIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXZlcmljayIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTlUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM0NTkzNjkyNzM5MDQzMzQ4LzE1MzkzNDcxNTUzMzEwNTk4NTMuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-08-19T16:00:00+00:00",
       "expires_at": "2026-09-04T00:00:00+00:00",
       "sent_at": "2026-08-19T18:36:05.133Z",
       "type": "updated",
-      "updated_at": "2026-08-28T00:16:27.750Z"
+      "updated_at": "2026-08-31T12:56:29.357Z"
     },
     "1539602832150364182": {
       "id": "1539602832150364182",
@@ -7395,11 +6223,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUG9rw6ltb24gR08gLSBTdW1tZXIiLCJnYW1lX3RpdGxlIjoiUG9rw6ltb24gR08gLSBTdW1tZXIiLCJnYW1lX3B1Ymxpc2hlciI6IlBva8OpbW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTlUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTYwMjgzMjE1MDM2NDE4Mi8xNTM5NjAzMzUxMDAyNDE1MTY0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUG9rw6ltb24gR08gLSBTdW1tZXIiLCJnYW1lX3RpdGxlIjoiUG9rw6ltb24gR08gLSBTdW1tZXIiLCJnYW1lX3B1Ymxpc2hlciI6IlBva8OpbW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTlUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk2MDI4MzIxNTAzNjQxODIvMTUzOTYwMzM1MTAwMjQxNTE2NC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-19T17:00:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-19T18:36:06.480Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:30.838Z"
     },
     "1529450273515245618": {
       "id": "1529450273515245618",
@@ -7523,11 +6352,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUG9rw6ltb24gR08gLSAxMHRoIEFubml2ZXJzYXJ5IiwiZ2FtZV90aXRsZSI6IlBva8OpbW9uIEdPIC0gMTB0aCBBbm5pdmVyc2FyeSIsImdhbWVfcHVibGlzaGVyIjoiUG9rw6ltb24iLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5NDUwMjczNTE1MjQ1NjE4LzE1Mzk2MDA4MzAwNzQ3MjAzNDYuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUG9rw6ltb24gR08gLSAxMHRoIEFubml2ZXJzYXJ5IiwiZ2FtZV90aXRsZSI6IlBva8OpbW9uIEdPIC0gMTB0aCBBbm5pdmVyc2FyeSIsImdhbWVfcHVibGlzaGVyIjoiUG9rw6ltb24iLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUyOTQ1MDI3MzUxNTI0NTYxOC8xNTM5NjAwODMwMDc0NzIwMzQ2LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-19T17:00:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-19T18:36:07.966Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:32.444Z"
     },
     "1539100692541743216": {
       "id": "1539100692541743216",
@@ -7620,228 +6450,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkxMDA2OTI1NDE3NDMyMTYvMTUzOTEwNzAwMjA4MzU3NzkxNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkxMDA2OTI1NDE3NDMyMTYvMTUzOTEwNzE5MDM2MTgyNTMxMF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkxMDA2OTI1NDE3NDMyMTYvMTUzOTEwNzAwMjA4MzU3NzkxNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkxMDA2OTI1NDE3NDMyMTYvMTUzOTEwNzE5MDM2MTgyNTMxMF83MjAubXA0In0=",
       "starts_at": "2026-08-20T07:00:00+00:00",
-      "expires_at": "2026-10-01T06:59:00+00:00",
+      "expires_at": "2026-09-01T06:59:00+00:00",
       "sent_at": "2026-08-20T09:35:11.931Z",
-      "type": "new"
-    },
-    "1539838784705798294": {
-      "id": "1539838784705798294",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-20T13:00:00+00:00",
-        "expires_at": "2026-08-31T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://fortnite.com/b/override",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1539074454225690648/1539307518860197950.jpg",
-          "quest_bar_hero_blurhash": "1OYRFIJHN5l/hYeFh4V6gOgFZg==",
-          "quest_bar_hero": "quests/1539074454225690648/1539307494793420921.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1539074454225690648/1539307443274776626.png",
-          "game_tile_dark": "quests/1539074454225690648/1539307443274776626.png",
-          "logotype_light": "quests/1539074454225690648/1539307443119726763.png",
-          "logotype_dark": "quests/1539074454225690648/1539307443119726763.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnite Override",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ],
-              "external_ids": []
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ],
-              "external_ids": []
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://fortnite.com/b/override",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9ydG5pdGUgT3ZlcnJpZGUiLCJnYW1lX3RpdGxlIjoiRm9ydG5pdGUiLCJnYW1lX3B1Ymxpc2hlciI6IkVwaWMgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MDI0MTg3MDM1NTQ4NDI2OTQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRm9ydG5pdGUiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDEzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTA3NDQ1NDIyNTY5MDY0OC8xNTM5MzA3NTE4ODYwMTk3OTUwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
-      "starts_at": "2026-08-20T13:00:00+00:00",
-      "expires_at": "2026-08-31T06:59:00+00:00",
-      "sent_at": "2026-08-20T15:34:27.981Z",
       "type": "updated",
-      "updated_at": "2026-08-28T23:59:35.000Z"
-    },
-    "1539360322421268627": {
-      "id": "1539360322421268627",
-      "config": {
-        "id": "1539360322421268627",
-        "config_version": 2,
-        "starts_at": "2026-08-20T13:00:00+00:00",
-        "expires_at": "2026-08-31T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://fortnite.com/b/override",
-          "id": "1402418703554842694",
-          "name": "Fortnite"
-        },
-        "assets": {
-          "hero": "quests/1539074454225690648/1539307518860197950.jpg",
-          "quest_bar_hero_blurhash": "1OYRFIJHN5l/hYeFh4V6gOgFZg==",
-          "quest_bar_hero": "quests/1539074454225690648/1539307494793420921.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1539074454225690648/1539307443274776626.png",
-          "game_tile_dark": "quests/1539074454225690648/1539307443274776626.png",
-          "logotype_light": "quests/1539074454225690648/1539307443119726763.png",
-          "logotype_dark": "quests/1539074454225690648/1539307443119726763.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Fortnite Override",
-          "game_title": "Fortnite",
-          "game_publisher": "Epic Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ],
-              "external_ids": [
-                "267695549"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1402418703554842694"
-                }
-              ],
-              "external_ids": [
-                "PPSA01922_00",
-                "CUSA07669_00",
-                "PPSA01923_00",
-                "CUSA07022_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1539361544284938270",
-              "asset": "quests/1539074454225690648/1539361796601684089.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Fortnite Override Avatar Decoration",
-                "name_with_article": "a Fortnite Override Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-10-30T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://fortnite.com/b/override",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9ydG5pdGUgT3ZlcnJpZGUiLCJnYW1lX3RpdGxlIjoiRm9ydG5pdGUiLCJnYW1lX3B1Ymxpc2hlciI6IkVwaWMgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MDI0MTg3MDM1NTQ4NDI2OTQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRm9ydG5pdGUiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIwVDEzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTA3NDQ1NDIyNTY5MDY0OC8xNTM5MzA3NTE4ODYwMTk3OTUwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
-      "starts_at": "2026-08-20T13:00:00+00:00",
-      "expires_at": "2026-08-31T06:59:00+00:00",
-      "sent_at": "2026-08-20T15:34:29.244Z",
-      "type": "updated",
-      "updated_at": "2026-08-28T14:57:55.886Z"
+      "updated_at": "2026-08-31T12:56:33.865Z"
     },
     "1535350172480053308": {
       "id": "1535350172480053308",
@@ -7953,116 +6567,6 @@
       "sent_at": "2026-08-20T18:40:03.867Z",
       "type": "new"
     },
-    "1537161325170532412": {
-      "id": "1537161325170532412",
-      "config": {
-        "id": "1537161325170532412",
-        "config_version": 2,
-        "starts_at": "2026-08-20T17:00:00+00:00",
-        "expires_at": "2026-08-31T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451843323;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "1425690433018925056",
-          "name": "Battlefield 6"
-        },
-        "assets": {
-          "hero": "quests/1537161325170532412/1537163384959533136.jpg",
-          "quest_bar_hero_blurhash": "nggOHIi3dHdfl4h0hYZGQHYEdQ==",
-          "quest_bar_hero": "quests/1537161325170532412/1537892223704637551.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1537161325170532412/1537163384863334552.jpg",
-          "game_tile_dark": "quests/1537161325170532412/1537163384863334552.jpg",
-          "logotype_light": "quests/1537161325170532412/1537163385303732234.png",
-          "logotype_dark": "quests/1537161325170532412/1537163384854946013.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 Top Gun",
-          "game_title": "Battlefield",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ],
-              "external_ids": [
-                "1840884885"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1425690433018925056"
-                }
-              ],
-              "external_ids": [
-                "PPSA19534_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1537161325170532413",
-              "asset": "quests/1537161325170532412/1539735321665732768.jpg",
-              "asset_video": null,
-              "messages": {
-                "name": "2XP Boost",
-                "name_with_article": "a 2XP Boost",
-                "redemption_instructions_by_platform": {
-                  "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem    \n\n1. Log in to your EA Account  \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451843323;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "button_label": "Chơi Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmF0dGxlZmllbGQgNiBUb3AgR3VuIiwiZ2FtZV90aXRsZSI6IkJhdHRsZWZpZWxkIiwiZ2FtZV9wdWJsaXNoZXIiOiJFbGVjdHJvbmljIEFydHMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0MjU2OTA0MzMwMTg5MjUwNTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQmF0dGxlZmllbGQgNiIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjBUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0zMFQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3MTYxMzI1MTcwNTMyNDEyLzE1MzcxNjMzODQ5NTk1MzMxMzYuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-08-20T17:00:00+00:00",
-      "expires_at": "2026-08-31T00:00:00+00:00",
-      "sent_at": "2026-08-20T18:40:05.348Z",
-      "type": "updated",
-      "updated_at": "2026-08-28T00:16:29.178Z"
-    },
     "1539783929567911996": {
       "id": "1539783929567911996",
       "config": {
@@ -8165,11 +6669,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQXZhdGFyOiBSZWFsbXMgQ29sbGlkZSIsImdhbWVfdGl0bGUiOiJDaG9vc2UgWW91ciBOYXRpb24iLCJnYW1lX3B1Ymxpc2hlciI6IlRpbHRpbmcgUG9pbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yMFQxNzo0NTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAzVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk3ODM5Mjk1Njc5MTE5OTYvMTUzOTc4NjgyNjE4NzkzMTY5OS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk3ODM5Mjk1Njc5MTE5OTYvMTUzOTc4NjYwMDk0MTM2MzIyMl83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQXZhdGFyOiBSZWFsbXMgQ29sbGlkZSIsImdhbWVfdGl0bGUiOiJDaG9vc2UgWW91ciBOYXRpb24iLCJnYW1lX3B1Ymxpc2hlciI6IlRpbHRpbmcgUG9pbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yMFQxNzo0NTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk3ODM5Mjk1Njc5MTE5OTYvMTUzOTc4NjgyNjE4NzkzMTY5OS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk3ODM5Mjk1Njc5MTE5OTYvMTUzOTc4NjYwMDk0MTM2MzIyMl83MjAubXA0In0=",
       "starts_at": "2026-08-20T17:45:00+00:00",
-      "expires_at": "2026-10-03T00:00:00+00:00",
+      "expires_at": "2026-09-03T00:00:00+00:00",
       "sent_at": "2026-08-20T18:40:06.758Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:35.308Z"
     },
     "1534502540371038239": {
       "id": "1534502540371038239",
@@ -8265,11 +6770,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQWxiaW9uIE9ubGluZTogRHJhZ29uZmlyZSIsImdhbWVfdGl0bGUiOiJBbGJpb24gT25saW5lIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbGJpb24gT25saW5lIiwiYXBwbGljYXRpb25faWQiOiI0OTY1MjY2NDU2NzEyMzE0ODgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQWxiaW9uIE9ubGluZSIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMDA6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQyMjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQyMjo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNDUwMjU0MDM3MTAzODIzOS8xNTM5MjI4NTc4MjIxMjYwODgyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzNDUwMjU0MDM3MTAzODIzOS8xNTM5MjI4ODMxNjQxMjQzNjU4XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQWxiaW9uIE9ubGluZTogRHJhZ29uZmlyZSIsImdhbWVfdGl0bGUiOiJBbGJpb24gT25saW5lIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbGJpb24gT25saW5lIiwiYXBwbGljYXRpb25faWQiOiI0OTY1MjY2NDU2NzEyMzE0ODgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQWxiaW9uIE9ubGluZSIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMDA6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQyMjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQyMjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM0NTAyNTQwMzcxMDM4MjM5LzE1MzkyMjg1NzgyMjEyNjA4ODIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM0NTAyNTQwMzcxMDM4MjM5LzE1MzkyMjg4MzE2NDEyNDM2NThfNzIwLm1wNCJ9",
       "starts_at": "2026-08-21T00:00:00+00:00",
-      "expires_at": "2026-10-04T22:59:00+00:00",
+      "expires_at": "2026-09-04T22:59:00+00:00",
       "sent_at": "2026-08-21T01:20:05.971Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:36.692Z"
     },
     "1540084308683784265": {
       "id": "1540084308683784265",
@@ -8373,12 +6879,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR2FtZSBvZiBUaHJvbmVzOiBEcmFnb25maXJlIiwiZ2FtZV90aXRsZSI6IkdhbWUgb2YgVGhyb25lczogRHJhZ29uZmlyZSIsImdhbWVfcHVibGlzaGVyIjoiV2FybmVyIEJyb3MuIEludGVybmF0aW9uYWwgRW50ZXJwcmlzZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA0VDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo0MH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc0NjQ3MjAxODM5ODQyNjgvMTUyNzQ3NTI2ODcwMzIyODAyNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR2FtZSBvZiBUaHJvbmVzOiBEcmFnb25maXJlIiwiZ2FtZV90aXRsZSI6IkdhbWUgb2YgVGhyb25lczogRHJhZ29uZmlyZSIsImdhbWVfcHVibGlzaGVyIjoiV2FybmVyIEJyb3MuIEludGVybmF0aW9uYWwgRW50ZXJwcmlzZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo0MH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc0NjQ3MjAxODM5ODQyNjgvMTUyNzQ3NTI2ODcwMzIyODAyNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-21T17:00:00+00:00",
       "expires_at": "2026-09-04T06:59:00+00:00",
       "sent_at": "2026-08-21T18:37:00.203Z",
       "type": "updated",
-      "updated_at": "2026-08-28T00:16:30.523Z"
+      "updated_at": "2026-08-31T12:56:38.047Z"
     },
     "1537145020958900394": {
       "id": "1537145020958900394",
@@ -8504,11 +7010,12 @@
           "subtitle": "Resident Evil - Filmed for IMAX - in theatres 9.18"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgOS4xOCIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0NH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1MzcxNDUzNzA4NTYwMDU2NTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1NDAxMDM3MDE1MjIyODQ2MjdfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgOS4xOCIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0NH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1MzcxNDUzNzA4NTYwMDU2NTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1NDAxMDM3MDE1MjIyODQ2MjdfNzIwLm1wNCJ9",
       "starts_at": "2026-08-21T17:00:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-21T18:37:01.963Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:39.535Z"
     },
     "1540204098790494268": {
       "id": "1540204098790494268",
@@ -8666,21 +7173,21 @@
                 }
               ],
               "external_ids": [
-                "PPSA07951_00",
-                "PPSA07950_00",
-                "CUSA34030_00",
-                "PPSA37417_00",
-                "CUSA34031_00",
-                "PPSA01649_00",
                 "CUSA23827_00",
-                "CUSA34029_00",
+                "PPSA01649_00",
+                "PPSA07951_00",
                 "PPSA37416_00",
-                "PPSA07953_00",
+                "PPSA37417_00",
                 "PPSA37413_00",
-                "PPSA37415_00",
                 "CUSA34032_00",
                 "PPSA37414_00",
-                "PPSA07952_00"
+                "CUSA34031_00",
+                "PPSA07950_00",
+                "PPSA07952_00",
+                "PPSA07953_00",
+                "PPSA37415_00",
+                "CUSA34029_00",
+                "CUSA34030_00"
               ]
             }
           },
@@ -8715,11 +7222,12 @@
           "subtitle": "Pre-Order to play the MW4 BETA"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUzOTgxMjgxMjg1NDEzMjg2NyIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MjI0ODQ4MjQ0ODA2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MzU1Mjc0MDU5ODI2XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUzOTgxMjgxMjg1NDEzMjg2NyIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MjI0ODQ4MjQ0ODA2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MzU1Mjc0MDU5ODI2XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-21T18:00:00+00:00",
-      "expires_at": "2026-10-02T00:00:00+00:00",
+      "expires_at": "2026-09-02T00:00:00+00:00",
       "sent_at": "2026-08-21T18:37:05.136Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:41.371Z"
     },
     "1532170700591206410": {
       "id": "1532170700591206410",
@@ -8958,19 +7466,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1532567061241528410/1540142742644985856_1080.mp4",
+                  "url": "quests/1532567061241528410/1542669001623085146_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1532567061241528410/1540142742644985856_720.mp4",
+                  "url": "quests/1532567061241528410/1542669001623085146_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1532567061241528410/1540142742644985856.m3u8",
+                  "url": "quests/1532567061241528410/1542669001623085146.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
@@ -8985,21 +7493,21 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1532567061241528410/1540141189490020402_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1532567061241528410/1542669001417556108_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1532567061241528410/1540141189490020402_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1532567061241528410/1542669001417556108_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1532567061241528410/1540141189490020402.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1532567061241528410/1542669001417556108.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
                 }
               },
@@ -9035,15 +7543,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "http://www.callofduty.com/playnow/modernwarfare4",
-          "button_label": "Pre-Order Now",
+          "button_label": "Play Now",
           "subtitle": "Welcome to Modern Warfare 4 multiplayer."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTUzOTgzNDg1NTcxMjYyMDU3NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTU0MDAzNTUyNzQ2NDcyMjU2M183MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTUzOTgzNDg1NTcxMjYyMDU3NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTU0MDAzNTUyNzQ2NDcyMjU2M183MjAubXA0In0=",
       "starts_at": "2026-08-21T18:00:00+00:00",
-      "expires_at": "2026-10-02T00:00:00+00:00",
+      "expires_at": "2026-09-02T00:00:00+00:00",
       "sent_at": "2026-08-21T21:25:01.001Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:42.938Z"
     },
     "1539533765070553089": {
       "id": "1539533765070553089",
@@ -9102,8 +7611,8 @@
                 }
               ],
               "external_ids": [
-                "PPSA22751_00",
-                "PPSA18538_00"
+                "PPSA18538_00",
+                "PPSA22751_00"
               ]
             }
           },
@@ -9137,11 +7646,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IFlpbmdsdW5nIFBhc3MiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTUzNTMwNjg1NDc2MDQ4OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTUzNTQ1MDgxMTc5NzU2NF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IFlpbmdsdW5nIFBhc3MiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTUzNTMwNjg1NDc2MDQ4OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTUzNTQ1MDgxMTc5NzU2NF83MjAubXA0In0=",
       "starts_at": "2026-08-22T04:00:00+00:00",
-      "expires_at": "2026-10-01T04:00:00+00:00",
+      "expires_at": "2026-09-01T04:00:00+00:00",
       "sent_at": "2026-08-22T06:40:27.917Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:44.368Z"
     },
     "1539750562176696320": {
       "id": "1539750562176696320",
@@ -9231,11 +7741,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IE4uVy4gRXhjbHVzaW9uIFpvbmUiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTc1MDgyNzY2MzY4Nzc3Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MzM3NjUwNzA1NTMwODkvMTUzOTc1MDkwMTA0MzE3MTM5OV83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IE4uVy4gRXhjbHVzaW9uIFpvbmUiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5NTMzNzY1MDcwNTUzMDg5LzE1Mzk3NTA4Mjc2NjM2ODc3NzIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5NTMzNzY1MDcwNTUzMDg5LzE1Mzk3NTA5MDEwNDMxNzEzOTlfNzIwLm1wNCJ9",
       "starts_at": "2026-08-22T04:00:00+00:00",
-      "expires_at": "2026-10-01T04:00:00+00:00",
+      "expires_at": "2026-09-01T04:00:00+00:00",
       "sent_at": "2026-08-22T06:40:29.567Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:45.751Z"
     },
     "1539528344608182353": {
       "id": "1539528344608182353",
@@ -9325,11 +7836,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IFlpbmdsdW5nIFBhc3MiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk1MjgzNDQ2MDgxODIzNTMvMTUzOTUzMzA1MDM0NDUwNTM4Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzk1MjgzNDQ2MDgxODIzNTMvMTUzOTUzMzA5MDIzNjM5OTc0Nl83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV3IEFyZWE6IFlpbmdsdW5nIFBhc3MiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIyVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5NTI4MzQ0NjA4MTgyMzUzLzE1Mzk1MzMwNTAzNDQ1MDUzODYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5NTI4MzQ0NjA4MTgyMzUzLzE1Mzk1MzMwOTAyMzYzOTk3NDZfNzIwLm1wNCJ9",
       "starts_at": "2026-08-22T04:00:00+00:00",
-      "expires_at": "2026-10-01T04:00:00+00:00",
+      "expires_at": "2026-09-01T04:00:00+00:00",
       "sent_at": "2026-08-22T06:40:30.917Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:47.354Z"
     },
     "1540487682805731389": {
       "id": "1540487682805731389",
@@ -9434,232 +7946,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-24T07:00:00+00:00",
       "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-08-24T09:48:46.831Z",
       "type": "updated",
-      "updated_at": "2026-08-28T00:16:32.105Z"
-    },
-    "1540493527136342047": {
-      "id": "1540493527136342047",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-24T07:00:00+00:00",
-        "expires_at": "2026-08-31T06:59:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://www.monopolygo.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1540493527136342047/1540494916633759744.jpg",
-          "hero_video": "quests/1540493527136342047/1540494782290333778_720.mp4",
-          "quest_bar_hero_blurhash": "XKkGJIzt35pFd5VoiJdQiAqFqA==",
-          "quest_bar_hero": "quests/1540493527136342047/1540494757346811994.jpg",
-          "quest_bar_hero_video": "quests/1540493527136342047/1540494782290333778_720.mp4",
-          "game_tile": "1510024971651387603.png",
-          "logotype": "1510024970380771578.png",
-          "game_tile_light": "quests/1509683146239512726/1510024521875460116.png",
-          "game_tile_dark": "quests/1509683146239512726/1510024521875460116.png",
-          "logotype_light": "quests/1509683146239512726/1510024576896204811.png",
-          "logotype_dark": "quests/1509683146239512726/1510024576896204811.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "MONOPOLY GO!",
-          "game_title": "MONOPOLY GO!",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 27,
-              "assets": {
-                "video": {
-                  "url": "quests/1540493527136342047/1540495018777903145_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540493527136342047/1540494757346811994.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1540493527136342047/1540495018777903145_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540493527136342047/1540494757346811994.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1540493527136342047/1540495018777903145.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540493527136342047/1540494757346811994.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.monopolygo"
-          },
-          "ios": {
-            "ios_app_id": "1621328561"
-          },
-          "link": "https://www.monopolygo.com/",
-          "button_label": "Play Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI3fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDQ5MzUyNzEzNjM0MjA0Ny8xNTQwNDk0OTE2NjMzNzU5NzQ0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDQ5MzUyNzEzNjM0MjA0Ny8xNTQwNDk0NzgyMjkwMzMzNzc4XzcyMC5tcDQifQ==",
-      "starts_at": "2026-08-24T07:00:00+00:00",
-      "expires_at": "2026-08-31T06:59:00+00:00",
-      "sent_at": "2026-08-24T09:48:48.331Z",
-      "type": "updated",
-      "updated_at": "2026-08-28T23:59:36.601Z"
-    },
-    "1540491844360736810": {
-      "id": "1540491844360736810",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-24T07:00:00+00:00",
-        "expires_at": "2026-08-31T06:59:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://www.monopolygo.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1509683146239512726/1537953141847498814.jpg",
-          "hero_video": "quests/1509683146239512726/1537953191847534644_720.mp4",
-          "quest_bar_hero_blurhash": "X1gKSp6vZ5d3iIeHYHcId4g=",
-          "quest_bar_hero": "quests/1509683146239512726/1537953141847498814.jpg",
-          "quest_bar_hero_video": "quests/1509683146239512726/1537953191847534644_720.mp4",
-          "game_tile": "1510024971651387603.png",
-          "logotype": "1510024970380771578.png",
-          "game_tile_light": "quests/1509683146239512726/1510024521875460116.png",
-          "game_tile_dark": "quests/1509683146239512726/1510024521875460116.png",
-          "logotype_light": "quests/1509683146239512726/1510024576896204811.png",
-          "logotype_dark": "quests/1509683146239512726/1510024576896204811.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "MONOPOLY GO!",
-          "game_title": "MONOPOLY GO!",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1540487682805731389/1540490659314536468_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1509683146239512726/1537953480445010021.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540487682805731389/1540490659314536468_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1509683146239512726/1537953480445010021.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540487682805731389/1540490659314536468.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1509683146239512726/1537953480445010021.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-09-30T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.monopolygo"
-          },
-          "ios": {
-            "ios_app_id": "1621328561"
-          },
-          "link": "https://www.monopolygo.com/",
-          "button_label": "Play Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
-      "starts_at": "2026-08-24T07:00:00+00:00",
-      "expires_at": "2026-08-31T06:59:00+00:00",
-      "sent_at": "2026-08-24T09:48:49.938Z",
-      "type": "updated",
-      "updated_at": "2026-08-28T23:59:37.975Z"
+      "updated_at": "2026-08-31T12:56:48.812Z"
     },
     "1537900603328434257": {
       "id": "1537900603328434257",
@@ -9758,11 +8050,12 @@
           "subtitle": "Mayday. New Movie Sep 4 on Apple TV"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWF5ZGF5IiwiZ2FtZV90aXRsZSI6Ik1heWRheS4gTmV3IE1vdmllIFNlcCA0IG9uIEFwcGxlIFRWIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSBUViIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzc5MDA2MDMzMjg0MzQyNTcvMTUzNzkwNzkwODMwMDM3ODEyMi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzc5MDA2MDMzMjg0MzQyNTcvMTUzNzkwODQ3ODU3NDcyNzI0OF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF5ZGF5IiwiZ2FtZV90aXRsZSI6Ik1heWRheS4gTmV3IE1vdmllIFNlcCA0IG9uIEFwcGxlIFRWIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSBUViIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNzN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3OTAwNjAzMzI4NDM0MjU3LzE1Mzc5MDc5MDgzMDAzNzgxMjIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3OTAwNjAzMzI4NDM0MjU3LzE1Mzc5MDg0Nzg1NzQ3MjcyNDhfNzIwLm1wNCJ9",
       "starts_at": "2026-08-24T16:00:00+00:00",
-      "expires_at": "2026-10-04T00:59:00+00:00",
+      "expires_at": "2026-09-04T00:59:00+00:00",
       "sent_at": "2026-08-24T18:40:32.400Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:50.192Z"
     },
     "1540425879824371852": {
       "id": "1540425879824371852",
@@ -9866,11 +8159,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTUFSVkVMIFNOQVAiLCJnYW1lX3RpdGxlIjoiTUFSVkVMIFNOQVAgeCBEcmFmdCBNb2RlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWNvbmQgRGlubmVyIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjRUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wN1QwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwNDI1ODc5ODI0MzcxODUyLzE1NDA0NTU3OTMwMjU4NzYxNDAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQwNDI1ODc5ODI0MzcxODUyLzE1NDA0NTYxNzI2MDE5OTk0MTBfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTUFSVkVMIFNOQVAiLCJnYW1lX3RpdGxlIjoiTUFSVkVMIFNOQVAgeCBEcmFmdCBNb2RlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWNvbmQgRGlubmVyIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjRUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwNDI1ODc5ODI0MzcxODUyLzE1NDA0NTU3OTMwMjU4NzYxNDAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQwNDI1ODc5ODI0MzcxODUyLzE1NDA0NTYxNzI2MDE5OTk0MTBfNzIwLm1wNCJ9",
       "starts_at": "2026-08-24T21:00:00+00:00",
-      "expires_at": "2026-10-07T00:00:00+00:00",
+      "expires_at": "2026-09-07T00:00:00+00:00",
       "sent_at": "2026-08-25T01:17:32.809Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:51.604Z"
     },
     "1539393111409823906": {
       "id": "1539393111409823906",
@@ -9951,11 +8245,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3VwZXJzdGFyIEJhc2ViYWxsIiwiZ2FtZV90aXRsZSI6IlN1cGVyc3RhciBCYXNlYmFsbCBvbiBSb2Jsb3ggIiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI1VDE2OjE1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1MTc4NTE2ODA4NzguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1NTk5Nzk1MjgyODJfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3VwZXJzdGFyIEJhc2ViYWxsIiwiZ2FtZV90aXRsZSI6IlN1cGVyc3RhciBCYXNlYmFsbCBvbiBSb2Jsb3ggIiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI1VDE2OjE1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1MTc4NTE2ODA4NzguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1NTk5Nzk1MjgyODJfNzIwLm1wNCJ9",
       "starts_at": "2026-08-25T16:15:00+00:00",
-      "expires_at": "2026-10-04T00:00:00+00:00",
+      "expires_at": "2026-09-04T00:00:00+00:00",
       "sent_at": "2026-08-25T18:39:44.097Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:53.937Z"
     },
     "1540476174520557620": {
       "id": "1540476174520557620",
@@ -10036,11 +8331,12 @@
           "button_label": "Nhận Trò Chơi"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTUFSVkVMIFNOQVAiLCJnYW1lX3RpdGxlIjoiTUFSVkVMIFNOQVAgeCBEcmFmdCBNb2RlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWNvbmQgRGlubmVyICIsImFwcGxpY2F0aW9uX2lkIjoiMTA2NzU1MjA2NjQ1NDY5NTk2NSIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXJ2ZWwgU25hcCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDA0NzYxNzQ1MjA1NTc2MjAvMTU0MDQ3ODUwMTUwMzYzNTUwNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDA0NzYxNzQ1MjA1NTc2MjAvMTU0MDQ3ODIxNjI1NzY3NTMxNF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTUFSVkVMIFNOQVAiLCJnYW1lX3RpdGxlIjoiTUFSVkVMIFNOQVAgeCBEcmFmdCBNb2RlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWNvbmQgRGlubmVyICIsImFwcGxpY2F0aW9uX2lkIjoiMTA2NzU1MjA2NjQ1NDY5NTk2NSIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXJ2ZWwgU25hcCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDA0NzYxNzQ1MjA1NTc2MjAvMTU0MDQ3ODUwMTUwMzYzNTUwNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDA0NzYxNzQ1MjA1NTc2MjAvMTU0MDQ3ODIxNjI1NzY3NTMxNF83MjAubXA0In0=",
       "starts_at": "2026-08-25T17:00:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-25T18:39:45.486Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:55.379Z"
     },
     "1541371710417272834": {
       "id": "1541371710417272834",
@@ -10165,11 +8461,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgxMTk3Mzk4NTA3ODIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgxMTk3Mzk4NTA3ODIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-11-11T06:59:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:27.727Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:57.066Z"
     },
     "1537189839588294657": {
       "id": "1537189839588294657",
@@ -10295,11 +8592,12 @@
           "subtitle": "Your EXODUS Begins April 7, 2027"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRVhPRFVT4oSiIFdpc2hsaXN0IiwiZ2FtZV90aXRsZSI6IkVYT0RVU+KEoiIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAxVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTQ4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0OH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MDA2MDYyMjAyNzQ5MzQ3OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MTU0NTY4NDYxMDcxNTcyOC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRVhPRFVT4oSiIFdpc2hsaXN0IiwiZ2FtZV90aXRsZSI6IkVYT0RVU+KEoiIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTQ4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0OH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MDA2MDYyMjAyNzQ5MzQ3OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MTU0NTY4NDYxMDcxNTcyOC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-10-01T06:59:00+00:00",
+      "expires_at": "2026-09-01T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:29.768Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:58.402Z"
     },
     "1539708932245692476": {
       "id": "1539708932245692476",
@@ -10424,11 +8722,12 @@
           "subtitle": "Gameplay Reveal Out Now - Game Launching 2027"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2FybG9jazogRHVuZ2VvbnMgJiBEcmFnb25zIiwiZ2FtZV90aXRsZSI6IldhcmxvY2s6IER1bmdlb25zICYgRHJhZ29ucyIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA4VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTc5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk3MDg5MzIyNDU2OTI0NzYvMTUzOTcxMDM2NzI3NjQ3MDM0Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2FybG9jazogRHVuZ2VvbnMgJiBEcmFnb25zIiwiZ2FtZV90aXRsZSI6IldhcmxvY2s6IER1bmdlb25zICYgRHJhZ29ucyIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTc5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk3MDg5MzIyNDU2OTI0NzYvMTUzOTcxMDM2NzI3NjQ3MDM0Mi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-10-08T00:00:00+00:00",
+      "expires_at": "2026-09-08T00:00:00+00:00",
       "sent_at": "2026-08-26T01:20:31.905Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:56:59.806Z"
     },
     "1541369647985594369": {
       "id": "1541369647985594369",
@@ -10553,11 +8852,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzY5NjQ3OTg1NTk0MzY5LzE1NDE1OTgyNDEyODI1OTI4MjkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2OTY0Nzk4NTU5NDM2OS8xNTQxNTk4MjQxMjgyNTkyODI5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-11-11T06:59:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:33.488Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:01.363Z"
     },
     "1541366408632475670": {
       "id": "1541366408632475670",
@@ -10576,8 +8876,8 @@
         "assets": {
           "hero": "quests/1541366408632475670/1541597134753632296.jpg",
           "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
-          "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
-          "quest_bar_hero": "quests/1541366408632475670/1541597336529018931.jpg",
+          "quest_bar_hero_blurhash": "KfcRDIQIl7d7eYd6iXoBrQNtWg==",
+          "quest_bar_hero": "quests/1541366408632475670/1541998403263791135.jpg",
           "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
@@ -10605,19 +8905,19 @@
                   "url": "quests/1541366408632475670/1541367042261909574_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                  "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_low_res": {
                   "url": "quests/1541366408632475670/1541367042261909574_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                  "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_hls": {
                   "url": "quests/1541366408632475670/1541367042261909574.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                  "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 }
               },
               "messages": {
@@ -10632,19 +8932,19 @@
                   "url": "quests/1541366408632475670/1541367024964599898_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                  "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_low_res": {
                   "url": "quests/1541366408632475670/1541367024964599898_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                  "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_hls": {
                   "url": "quests/1541366408632475670/1541367024964599898.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541366408632475670/1541596992617054331.png"
+                  "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 }
               },
               "messages": {
@@ -10682,11 +8982,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzY2NDA4NjMyNDc1NjcwLzE1NDE1OTcxMzQ3NTM2MzIyOTYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2NjQwODYzMjQ3NTY3MC8xNTQxNTk3MTM0NzUzNjMyMjk2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-11-11T06:59:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:35.265Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:02.703Z"
     },
     "1541360124457779283": {
       "id": "1541360124457779283",
@@ -10811,11 +9112,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzYwMTI0NDU3Nzc5MjgzLzE1NDE1OTc3MTg1ODM5Njc3NjQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2MDEyNDQ1Nzc3OTI4My8xNTQxNTk3NzE4NTgzOTY3NzY0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-11-11T06:59:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:36.912Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:04.300Z"
     },
     "1541363735791280209": {
       "id": "1541363735791280209",
@@ -10835,7 +9137,7 @@
           "hero": "quests/1541363735791280209/1541597492628553819.jpg",
           "hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
           "quest_bar_hero_blurhash": "KvcRDIQIl7d6eYd6iXoCnANtWg==",
-          "quest_bar_hero": "quests/1541363735791280209/1541597434025742479.jpg",
+          "quest_bar_hero": "quests/1541363735791280209/1541998467864469535.jpg",
           "quest_bar_hero_video": "quests/1541318428281929758/1541358004383916104_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
@@ -10863,19 +9165,19 @@
                   "url": "quests/1541363735791280209/1541365630710583368_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541363735791280209/1541597413712728114.png"
+                  "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_low_res": {
                   "url": "quests/1541363735791280209/1541365630710583368_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541363735791280209/1541597413712728114.png"
+                  "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_hls": {
                   "url": "quests/1541363735791280209/1541365630710583368.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541363735791280209/1541597413712728114.png"
+                  "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 }
               },
               "messages": {
@@ -10890,19 +9192,19 @@
                   "url": "quests/1541363735791280209/1541592844181962825_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541363735791280209/1541597434025742479.jpg"
+                  "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_low_res": {
                   "url": "quests/1541363735791280209/1541592844181962825_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541363735791280209/1541597434025742479.jpg"
+                  "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_hls": {
                   "url": "quests/1541363735791280209/1541592844181962825.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541363735791280209/1541597434025742479.jpg"
+                  "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 }
               },
               "messages": {
@@ -10940,11 +9242,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzYzNzM1NzkxMjgwMjA5LzE1NDE1OTc0OTI2Mjg1NTM4MTkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2MzczNTc5MTI4MDIwOS8xNTQxNTk3NDkyNjI4NTUzODE5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-11-11T06:59:00+00:00",
+      "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:38.832Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:05.767Z"
     },
     "1539110114689163395": {
       "id": "1539110114689163395",
@@ -11068,11 +9371,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ3JpbXNvbiBEZXNlcnQiLCJnYW1lX3RpdGxlIjoiQ3JpbXNvbiBEZXNlcnQiLCJnYW1lX3B1Ymxpc2hlciI6IlBlYXJsIEFieXNzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjZUMDE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wOFQxNDo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQxNDo1OTowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjU1fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTExMDExNDY4OTE2MzM5NS8xNTM5MTQzODk4NDUzMjU0MTQ0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ3JpbXNvbiBEZXNlcnQiLCJnYW1lX3RpdGxlIjoiQ3JpbXNvbiBEZXNlcnQiLCJnYW1lX3B1Ymxpc2hlciI6IlBlYXJsIEFieXNzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjZUMDE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wOFQxNDo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQxNDo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjU1fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTExMDExNDY4OTE2MzM5NS8xNTM5MTQzODk4NDUzMjU0MTQ0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-26T01:00:00+00:00",
-      "expires_at": "2026-10-08T14:59:00+00:00",
+      "expires_at": "2026-09-08T14:59:00+00:00",
       "sent_at": "2026-08-26T01:20:40.161Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:07.126Z"
     },
     "1542164786190622741": {
       "id": "1542164786190622741",
@@ -11152,11 +9456,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoi44K544O844OR44O844K544K/44O844OZ44O844K544Oc44O844OrIiwiZ2FtZV90aXRsZSI6IuOCueODvOODkeODvOOCueOCv+ODvOODmeODvOOCueODnOODvOODqyBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjZUMTY6MTU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDIxNjQ3ODYxOTA2MjI3NDEvMTU0MjE2NTgzNTQxNjczOTg3MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkzOTMxMTE0MDk4MjM5MDYvMTU0MTU0NDU1OTk3OTUyODI4Ml83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoi44K544O844OR44O844K544K/44O844OZ44O844K544Oc44O844OrIiwiZ2FtZV90aXRsZSI6IuOCueODvOODkeODvOOCueOCv+ODvOODmeODvOOCueODnOODvOODqyBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjZUMTY6MTU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyMTY0Nzg2MTkwNjIyNzQxLzE1NDIxNjU4MzU0MTY3Mzk4NzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1NTk5Nzk1MjgyODJfNzIwLm1wNCJ9",
       "starts_at": "2026-08-26T16:15:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T00:00:00+00:00",
       "sent_at": "2026-08-26T19:49:00.261Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:08.841Z"
     },
     "1540105702612144199": {
       "id": "1540105702612144199",
@@ -11284,11 +9589,12 @@
           "subtitle": "Available now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU1RBUiBXQVJTIFplcm8gQ29tcGFueeKEoiIsImdhbWVfdGl0bGUiOiJTVEFSIFdBUlMgWmVybyBDb21wYW554oSiIE9mZmljaWFsIEZpbmFsIFRyYWlsZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkVsZWN0cm9uaWMgQXJ0cyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDA6MDA6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxMzF9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTMxfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNTAyNTQ5ODk0MDI0Mzk4OC8xNTM3NTc3MDk2NTY0NDQ5MzgwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiU1RBUiBXQVJTIFplcm8gQ29tcGFueeKEoiIsImdhbWVfdGl0bGUiOiJTVEFSIFdBUlMgWmVybyBDb21wYW554oSiIE9mZmljaWFsIEZpbmFsIFRyYWlsZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkVsZWN0cm9uaWMgQXJ0cyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjEzMX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxMzF9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM1MDI1NDk4OTQwMjQzOTg4LzE1Mzc1NzcwOTY1NjQ0NDkzODAuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-08-27T17:00:00+00:00",
-      "expires_at": "2026-10-07T00:00:00+00:00",
+      "expires_at": "2026-09-07T00:00:00+00:00",
       "sent_at": "2026-08-28T00:16:25.105Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:10.296Z"
     },
     "1539407814785499267": {
       "id": "1539407814785499267",
@@ -11357,8 +9663,8 @@
                 }
               ],
               "external_ids": [
-                "PPSA06016_00",
                 "PPSA01413_00",
+                "PPSA06016_00",
                 "PPSA06020_00",
                 "PPSA06017_00"
               ]
@@ -11394,11 +9700,12 @@
           "button_label": "Chơi Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiSGVsbGRpdmVycyAyIHwgRGl2ZSBOb3chIiwiZ2FtZV90aXRsZSI6IkhlbGxkaXZlcnMgMiIsImdhbWVfcHVibGlzaGVyIjoiUGxheVN0YXRpb24iLCJhcHBsaWNhdGlvbl9pZCI6IjEyMDUwOTA2NzE1MjcwNzE3ODQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbGRpdmVycyAyIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTEyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk0MDc4MTQ3ODU0OTkyNjcvMTU0MjU4NDk4MzkxMzIzNDUyMi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiSGVsbGRpdmVycyAyIHwgRGl2ZSBOb3chIiwiZ2FtZV90aXRsZSI6IkhlbGxkaXZlcnMgMiIsImdhbWVfcHVibGlzaGVyIjoiUGxheVN0YXRpb24iLCJhcHBsaWNhdGlvbl9pZCI6IjEyMDUwOTA2NzE1MjcwNzE3ODQiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbGRpdmVycyAyIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTEyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzk0MDc4MTQ3ODU0OTkyNjcvMTU0MjU4NDk4MzkxMzIzNDUyMi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-08-28T16:00:00+00:00",
-      "expires_at": "2026-10-12T00:00:00+00:00",
+      "expires_at": "2026-09-12T00:00:00+00:00",
       "sent_at": "2026-08-28T23:59:26.849Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:11.670Z"
     },
     "1540036377146556556": {
       "id": "1540036377146556556",
@@ -11522,11 +9829,12 @@
           "subtitle": "Plans built just for students starting at $30/mo."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwMDM2Mzc3MTQ2NTU2NTU2LzE1NDMwMDQ4MjI3MDQzNjE0NzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwMDM2Mzc3MTQ2NTU2NTU2LzE1NDMwMDQ4MjI3MDQzNjE0NzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-08-28T17:00:00+00:00",
-      "expires_at": "2026-10-29T00:00:00+00:00",
+      "expires_at": "2026-09-29T00:00:00+00:00",
       "sent_at": "2026-08-28T23:59:28.347Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:13.164Z"
     },
     "1539783833002577981": {
       "id": "1539783833002577981",
@@ -11652,12 +9960,12 @@
           "subtitle": "Get the Deluxe or Ultra Edition to play NBA 2K27 Early Access NOW "
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTkJBIDJLMjcgQWxsIERheSBJIERyZWFtIEFib3V0IEJhbGwiLCJnYW1lX3RpdGxlIjoiTkJBIDJLMjciLCJnYW1lX3B1Ymxpc2hlciI6Ik5CQSAySzI3IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjcyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjcyfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNjc5NTc5MDcxNzA5MTk3MC8xNTM5MDIwOTIzNjI0MDk1ODc1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzOTc4MzgzMzAwMjU3Nzk4MS8xNTQyNjg1OTM3NTQ3MzQ1OTMwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTkJBIDJLMjcgQWxsIERheSBJIERyZWFtIEFib3V0IEJhbGwiLCJnYW1lX3RpdGxlIjoiTkJBIDJLMjciLCJnYW1lX3B1Ymxpc2hlciI6Ik5CQSAySzI3IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjcyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjcyfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNjc5NTc5MDcxNzA5MTk3MC8xNTM5MDIwOTIzNjI0MDk1ODc1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzOTc4MzgzMzAwMjU3Nzk4MS8xNTQyNjg1OTM3NTQ3MzQ1OTMwLm1wNCJ9",
       "starts_at": "2026-08-28T17:00:00+00:00",
       "expires_at": "2026-09-11T00:00:00+00:00",
       "sent_at": "2026-08-28T23:59:30.122Z",
       "type": "updated",
-      "updated_at": "2026-08-29T23:00:50.223Z"
+      "updated_at": "2026-08-31T12:57:14.556Z"
     },
     "1542287027578478654": {
       "id": "1542287027578478654",
@@ -11781,11 +10089,12 @@
           "subtitle": "Plans built just for students starting at $30/mo."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyMjg3MDI3NTc4NDc4NjU0LzE1NDMwMDQ2NTk2NTQ4NTI3NTEuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjIwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MjI4NzAyNzU3ODQ3ODY1NC8xNTQzMDA0NjU5NjU0ODUyNzUxLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-08-28T17:00:00+00:00",
-      "expires_at": "2026-10-29T00:00:00+00:00",
+      "expires_at": "2026-09-29T00:00:00+00:00",
       "sent_at": "2026-08-28T23:59:32.180Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:16.284Z"
     },
     "1539267237561503815": {
       "id": "1539267237561503815",
@@ -11910,12 +10219,13 @@
           "button_label": "Pre-Order Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMjE6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
       "starts_at": "2026-08-28T23:00:00+00:00",
-      "expires_at": "2026-10-02T21:59:00+00:00",
+      "expires_at": "2026-09-02T21:59:00+00:00",
       "sent_at": "2026-08-28T23:59:33.581Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-08-31T12:57:17.620Z"
     }
   },
-  "last_check": "2026-08-31T04:12:14.347Z"
+  "last_check": "2026-08-31T12:57:18.729Z"
 }
