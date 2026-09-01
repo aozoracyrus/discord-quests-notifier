@@ -6617,7 +6617,7 @@
         "id": "1540167642952761424",
         "config_version": 2,
         "starts_at": "2026-08-21T18:00:00+00:00",
-        "expires_at": "2026-09-02T00:00:00+00:00",
+        "expires_at": "2026-09-02T06:59:00+00:00",
         "features": [
           15
         ],
@@ -6668,8 +6668,8 @@
                 }
               ],
               "external_ids": [
-                "2001700854",
-                "1680003655"
+                "1680003655",
+                "2001700854"
               ]
             },
             "PLAY_ON_PLAYSTATION": {
@@ -6681,21 +6681,21 @@
                 }
               ],
               "external_ids": [
-                "CUSA23827_00",
-                "PPSA01649_00",
-                "PPSA07951_00",
-                "PPSA37416_00",
                 "PPSA37417_00",
+                "CUSA23827_00",
+                "PPSA07951_00",
                 "PPSA37413_00",
-                "CUSA34032_00",
-                "PPSA37414_00",
-                "CUSA34031_00",
-                "PPSA07950_00",
-                "PPSA07952_00",
-                "PPSA07953_00",
                 "PPSA37415_00",
+                "PPSA37414_00",
+                "CUSA34032_00",
+                "PPSA07952_00",
                 "CUSA34029_00",
-                "CUSA34030_00"
+                "PPSA37416_00",
+                "CUSA34030_00",
+                "PPSA07950_00",
+                "PPSA01649_00",
+                "CUSA34031_00",
+                "PPSA07953_00"
               ]
             }
           },
@@ -6718,7 +6718,7 @@
               "premium_orb_quantity": 840
             }
           ],
-          "rewards_expire_at": "2026-10-02T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-02T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -6730,12 +6730,12 @@
           "subtitle": "Pre-Order to play the MW4 BETA"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUzOTgxMjgxMjg1NDEzMjg2NyIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MjI0ODQ4MjQ0ODA2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MzU1Mjc0MDU5ODI2XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUzOTgxMjgxMjg1NDEzMjg2NyIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MjI0ODQ4MjQ0ODA2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MzU1Mjc0MDU5ODI2XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-21T18:00:00+00:00",
-      "expires_at": "2026-09-02T00:00:00+00:00",
+      "expires_at": "2026-09-02T06:59:00+00:00",
       "sent_at": "2026-08-21T18:37:05.136Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:56:41.371Z"
+      "updated_at": "2026-09-01T18:12:47.613Z"
     },
     "1532170700591206410": {
       "id": "1532170700591206410",
@@ -10187,7 +10187,191 @@
       "expires_at": "2026-10-31T06:59:00+00:00",
       "sent_at": "2026-09-01T08:22:32.916Z",
       "type": "new"
+    },
+    "1542308634728464455": {
+      "id": "1542308634728464455",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-01T16:00:00+00:00",
+        "expires_at": "2026-09-16T06:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.streetfightermovie.com/",
+          "id": "1534554125130399915",
+          "name": "Crossup"
+        },
+        "assets": {
+          "hero": "quests/1542308634728464455/1542959161585958985.jpg",
+          "hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
+          "quest_bar_hero_blurhash": "2NsKLIZPaZeXZ3iElnZPl9MQyg==",
+          "quest_bar_hero": "quests/1534598499134472324/1542303020606431272.jpg",
+          "quest_bar_hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534598499134472324/1542300526845239357.png",
+          "game_tile_dark": "quests/1534598499134472324/1542300526845239357.png",
+          "logotype_light": "quests/1542308634728464455/1542591360534585475.png",
+          "logotype_dark": "quests/1534598499134472324/1542300468649267380.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Street Fighter Trailer",
+          "game_title": "Street Fighter in Theaters 10/16/26",
+          "game_publisher": "Paramount Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1534554125130399915"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Street Fighter Trailer",
+                "task_description": "Complete the Street Fighter trailer experience to earn 700 Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-16T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.streetfightermovie.com/",
+          "button_label": "Learn More",
+          "subtitle": "Street Fighter in Theaters 10/16/26"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3RyZWV0IEZpZ2h0ZXIgVHJhaWxlciIsImdhbWVfdGl0bGUiOiJTdHJlZXQgRmlnaHRlciBpbiBUaGVhdGVycyAxMC8xNi8yNiIsImdhbWVfcHVibGlzaGVyIjoiUGFyYW1vdW50IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM0NTU0MTI1MTMwMzk5OTE1IiwiYXBwbGljYXRpb25fbmFtZSI6IkNyb3NzdXAiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MjMwODYzNDcyODQ2NDQ1NS8xNTQyOTU5MTYxNTg1OTU4OTg1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzNDU5ODQ5OTEzNDQ3MjMyNC8xNTQyMzAzMDQ4MDU4MDE1NzY0XzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-01T16:00:00+00:00",
+      "expires_at": "2026-10-16T06:59:00+00:00",
+      "sent_at": "2026-09-01T18:12:43.758Z",
+      "type": "new"
+    },
+    "1534598499134472324": {
+      "id": "1534598499134472324",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-01T16:00:00+00:00",
+        "expires_at": "2026-09-16T06:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.streetfightermovie.com/",
+          "id": "1534554125130399915",
+          "name": "Crossup"
+        },
+        "assets": {
+          "hero": "quests/1534598499134472324/1542959261087309834.jpg",
+          "hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
+          "quest_bar_hero_blurhash": "2NsKLIZPaZeXZ3iElnZPl9MQyg==",
+          "quest_bar_hero": "quests/1534598499134472324/1542303020606431272.jpg",
+          "quest_bar_hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534598499134472324/1542300526845239357.png",
+          "game_tile_dark": "quests/1534598499134472324/1542300526845239357.png",
+          "logotype_light": "quests/1534598499134472324/1542591488418914324.png",
+          "logotype_dark": "quests/1534598499134472324/1542300468649267380.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Street Fighter Trailer",
+          "game_title": "Street Fighter in Theaters 10/16/26",
+          "game_publisher": "Paramount Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1534554125130399915"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Street Fighter Trailer",
+                "task_description": "Complete the Street Fighter trailer experience to earn 700 Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-16T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.streetfightermovie.com/",
+          "button_label": "Learn More",
+          "subtitle": "Street Fighter in Theaters 10/16/26"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3RyZWV0IEZpZ2h0ZXIgVHJhaWxlciIsImdhbWVfdGl0bGUiOiJTdHJlZXQgRmlnaHRlciBpbiBUaGVhdGVycyAxMC8xNi8yNiIsImdhbWVfcHVibGlzaGVyIjoiUGFyYW1vdW50IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM0NTU0MTI1MTMwMzk5OTE1IiwiYXBwbGljYXRpb25fbmFtZSI6IkNyb3NzdXAiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzQ1OTg0OTkxMzQ0NzIzMjQvMTU0Mjk1OTI2MTA4NzMwOTgzNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzQ1OTg0OTkxMzQ0NzIzMjQvMTU0MjMwMzA0ODA1ODAxNTc2NF83MjAubXA0In0=",
+      "starts_at": "2026-09-01T16:00:00+00:00",
+      "expires_at": "2026-10-16T06:59:00+00:00",
+      "sent_at": "2026-09-01T18:12:46.196Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-01T13:58:19.819Z"
+  "last_check": "2026-09-01T18:12:48.717Z"
 }
