@@ -6936,7 +6936,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-21T18:00:00+00:00",
-        "expires_at": "2026-09-02T00:00:00+00:00",
+        "expires_at": "2026-09-02T06:59:00+00:00",
         "features": [
           15
         ],
@@ -7043,7 +7043,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-02T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-02T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -7055,12 +7055,12 @@
           "subtitle": "Welcome to Modern Warfare 4 multiplayer."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTUzOTgzNDg1NTcxMjYyMDU3NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTU0MDAzNTUyNzQ2NDcyMjU2M183MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTUzOTgzNDg1NTcxMjYyMDU3NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTU0MDAzNTUyNzQ2NDcyMjU2M183MjAubXA0In0=",
       "starts_at": "2026-08-21T18:00:00+00:00",
-      "expires_at": "2026-09-02T00:00:00+00:00",
+      "expires_at": "2026-09-02T06:59:00+00:00",
       "sent_at": "2026-08-21T21:25:01.001Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:56:42.938Z"
+      "updated_at": "2026-09-01T23:04:39.383Z"
     },
     "1540487682805731389": {
       "id": "1540487682805731389",
@@ -7692,7 +7692,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-25T22:00:00+00:00",
-        "expires_at": "2026-09-02T06:59:00+00:00",
+        "expires_at": "2026-09-03T06:59:00+00:00",
         "features": [
           15
         ],
@@ -7799,7 +7799,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-02T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-03T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -7811,12 +7811,12 @@
           "subtitle": "Your EXODUS Begins April 7, 2027"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRVhPRFVT4oSiIFdpc2hsaXN0IiwiZ2FtZV90aXRsZSI6IkVYT0RVU+KEoiIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTQ4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0OH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MDA2MDYyMjAyNzQ5MzQ3OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MTU0NTY4NDYxMDcxNTcyOC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRVhPRFVT4oSiIFdpc2hsaXN0IiwiZ2FtZV90aXRsZSI6IkVYT0RVU+KEoiIsImdhbWVfcHVibGlzaGVyIjoiV2l6YXJkcyBvZiB0aGUgQ29hc3QiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTAzVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTAzVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTQ4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE0OH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MDA2MDYyMjAyNzQ5MzQ3OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzcxODk4Mzk1ODgyOTQ2NTcvMTU0MTU0NTY4NDYxMDcxNTcyOC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
-      "expires_at": "2026-09-02T06:59:00+00:00",
+      "expires_at": "2026-09-03T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:29.768Z",
       "type": "updated",
-      "updated_at": "2026-09-01T00:25:08.220Z"
+      "updated_at": "2026-09-01T23:04:41.050Z"
     },
     "1539708932245692476": {
       "id": "1539708932245692476",
@@ -9320,7 +9320,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-28T23:00:00+00:00",
-        "expires_at": "2026-09-02T21:59:00+00:00",
+        "expires_at": "2026-09-03T06:59:00+00:00",
         "features": [
           15
         ],
@@ -9427,7 +9427,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-02T21:59:00+00:00",
+          "rewards_expire_at": "2026-10-03T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -9438,12 +9438,12 @@
           "button_label": "Pre-Order Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDNUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDNUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
       "starts_at": "2026-08-28T23:00:00+00:00",
-      "expires_at": "2026-09-02T21:59:00+00:00",
+      "expires_at": "2026-09-03T06:59:00+00:00",
       "sent_at": "2026-08-28T23:59:33.581Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:57:17.620Z"
+      "updated_at": "2026-09-01T23:04:42.498Z"
     },
     "1516889218218197062": {
       "id": "1516889218218197062",
@@ -10373,5 +10373,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-01T18:12:48.717Z"
+  "last_check": "2026-09-01T23:04:43.602Z"
 }
