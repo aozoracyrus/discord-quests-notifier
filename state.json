@@ -1944,139 +1944,6 @@
       "sent_at": "2026-07-27T19:28:19.676Z",
       "type": "new"
     },
-    "1530231567459287251": {
-      "id": "1530231567459287251",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-27T17:00:00+00:00",
-        "expires_at": "2026-08-03T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1530231567459287251/1530232086693417252.jpg",
-          "hero_video": "quests/1530231567459287251/1530234437760057515_720.mp4",
-          "quest_bar_hero_blurhash": "T/gFDIIUiIRhiVlwepo7pYAFqQ==",
-          "quest_bar_hero": "quests/1530231567459287251/1530234409842901092.jpg",
-          "quest_bar_hero_video": "quests/1530231567459287251/1530234437760057515_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1530231567459287251/1530232038307663872.png",
-          "game_tile_dark": "quests/1530231567459287251/1530232038307663872.png",
-          "logotype_light": "quests/1530231567459287251/1530232036344860764.png",
-          "logotype_dark": "quests/1530231567459287251/1530232036520890450.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The End of Oak Street",
-          "game_title": "Tickets Now on Sale!",
-          "game_publisher": "Warner Bros. Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1530231567459287251/1530234731830972486_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1530231567459287251/1530234731830972486_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1530231567459287251/1530234731830972486.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1530231567459287251/1530234731784962208_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1530231567459287251/1530234731784962208_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1530231567459287251/1530234731784962208.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1530231567459287251/1530232036353376427.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1530330733036441770",
-              "asset": "quests/1530231567459287251/1530330922497478766.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "The End of Oak Street Avatar Decoration",
-                "name_with_article": "a The End of Oak Street Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-10-02T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-09-02T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.fandango.com/the-end-of-oak-street-2026-245149/movie-overview",
-          "button_label": "Get Tickets",
-          "subtitle": "Tickets Now on Sale!"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEVuZCBvZiBPYWsgU3RyZWV0IiwiZ2FtZV90aXRsZSI6IlRpY2tldHMgTm93IG9uIFNhbGUhIiwiZ2FtZV9wdWJsaXNoZXIiOiJXYXJuZXIgQnJvcy4gUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yN1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTAzVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTAyVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMwMjMxNTY3NDU5Mjg3MjUxLzE1MzAyMzIwODY2OTM0MTcyNTIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTMwMjMxNTY3NDU5Mjg3MjUxLzE1MzAyMzQ0Mzc3NjAwNTc1MTVfNzIwLm1wNCJ9",
-      "starts_at": "2026-07-27T17:00:00+00:00",
-      "expires_at": "2026-09-02T06:59:00+00:00",
-      "sent_at": "2026-07-27T19:28:22.893Z",
-      "type": "new"
-    },
     "1526631789316276374": {
       "id": "1526631789316276374",
       "config": {
@@ -3114,133 +2981,6 @@
       "starts_at": "2026-07-30T21:10:00+00:00",
       "expires_at": "2026-09-12T00:00:00+00:00",
       "sent_at": "2026-07-30T22:07:27.735Z",
-      "type": "new"
-    },
-    "1532531590243287131": {
-      "id": "1532531590243287131",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-31T03:00:00+00:00",
-        "expires_at": "2026-08-03T05:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://discord.com/store",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1532531590243287131/1532531930858258632.jpg",
-          "quest_bar_hero_blurhash": "X3YKDIQGiGeIh4iCeYUBlrNDBQ==",
-          "quest_bar_hero": "quests/1532531590243287131/1532531930669518959.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1532531590243287131/1532531930984222800.png",
-          "game_tile_dark": "quests/1532531590243287131/1532531930984222800.png",
-          "logotype_light": "quests/1532531590243287131/1532531930858258633.png",
-          "logotype_dark": "quests/1532531590243287131/1532531930858258633.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Nitro",
-          "game_title": "Nitro",
-          "game_publisher": "Discord"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 43,
-              "assets": {
-                "video": {
-                  "url": "quests/1532531590243287131/1532531930812256477_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532531590243287131/1532531931101794555.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1532531590243287131/1532531930812256477_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532531590243287131/1532531931101794555.png"
-                },
-                "video_hls": {
-                  "url": "quests/1532531590243287131/1532531930812256477.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532531590243287131/1532531931101794555.png"
-                }
-              },
-              "messages": {
-                "video_title": ""
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 43,
-              "assets": {
-                "video": {
-                  "url": "quests/1532531590243287131/1532531930812256477_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532531590243287131/1532531931101794555.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1532531590243287131/1532531930812256477_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532531590243287131/1532531931101794555.png"
-                },
-                "video_hls": {
-                  "url": "quests/1532531590243287131/1532531930812256477.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532531590243287131/1532531931101794555.png"
-                }
-              },
-              "messages": {
-                "video_title": ""
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-09-02T05:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://discord.com/store",
-          "button_label": "Learn More"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTml0cm8iLCJnYW1lX3RpdGxlIjoiTml0cm8iLCJnYW1lX3B1Ymxpc2hlciI6IkRpc2NvcmQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0zMVQwMzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTAzVDA1OjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTAyVDA1OjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NDN9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMyNTMxNTkwMjQzMjg3MTMxLzE1MzI1MzE5MzA4NTgyNTg2MzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-31T03:00:00+00:00",
-      "expires_at": "2026-09-02T05:00:00+00:00",
-      "sent_at": "2026-07-31T06:15:09.875Z",
       "type": "new"
     },
     "1529267592324321490": {
@@ -6611,132 +6351,6 @@
       "sent_at": "2026-08-21T18:37:03.389Z",
       "type": "new"
     },
-    "1540167642952761424": {
-      "id": "1540167642952761424",
-      "config": {
-        "id": "1540167642952761424",
-        "config_version": 2,
-        "starts_at": "2026-08-21T18:00:00+00:00",
-        "expires_at": "2026-09-02T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://www.callofduty.com/playnow/modernwarfare4",
-          "id": "1539812812854132867",
-          "name": "Call of Duty: Modern Warfare 4"
-        },
-        "assets": {
-          "hero": "quests/1540167642952761424/1540179224848244806.jpg",
-          "hero_video": "quests/1540167642952761424/1540179355274059826_720.mp4",
-          "quest_bar_hero_blurhash": "mRgKDILdemqfhodeeHewsSwOqw==",
-          "quest_bar_hero": "quests/1540167642952761424/1540179149132406814.jpg",
-          "quest_bar_hero_video": "quests/1540167642952761424/1540179355274059826_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1540167642952761424/1540178368337678386.png",
-          "game_tile_dark": "quests/1540167642952761424/1540178368924745849.png",
-          "logotype_light": "quests/1540167642952761424/1540178456195768441.png",
-          "logotype_dark": "quests/1540167642952761424/1540178456183046144.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Call of Duty: Modern Warfare 4",
-          "game_title": "Call of Duty: Modern Warfare 4",
-          "game_publisher": "Activision"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1539812812854132867"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1539812812854132867"
-                }
-              ],
-              "external_ids": [
-                "1680003655",
-                "2001700854"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1539812812854132867"
-                }
-              ],
-              "external_ids": [
-                "PPSA37417_00",
-                "CUSA23827_00",
-                "PPSA07951_00",
-                "PPSA37413_00",
-                "PPSA37415_00",
-                "PPSA37414_00",
-                "CUSA34032_00",
-                "PPSA07952_00",
-                "CUSA34029_00",
-                "PPSA37416_00",
-                "CUSA34030_00",
-                "PPSA07950_00",
-                "PPSA01649_00",
-                "CUSA34031_00",
-                "PPSA07953_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-02T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://www.callofduty.com/playnow/modernwarfare4",
-          "button_label": "Đặt Trước Ngay",
-          "subtitle": "Pre-Order to play the MW4 BETA"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUzOTgxMjgxMjg1NDEzMjg2NyIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MjI0ODQ4MjQ0ODA2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MDE2NzY0Mjk1Mjc2MTQyNC8xNTQwMTc5MzU1Mjc0MDU5ODI2XzcyMC5tcDQifQ==",
-      "starts_at": "2026-08-21T18:00:00+00:00",
-      "expires_at": "2026-09-02T06:59:00+00:00",
-      "sent_at": "2026-08-21T18:37:05.136Z",
-      "type": "updated",
-      "updated_at": "2026-09-01T18:12:47.613Z"
-    },
     "1532170700591206410": {
       "id": "1532170700591206410",
       "config": {
@@ -6930,137 +6544,6 @@
       "expires_at": "2026-09-30T00:00:00+00:00",
       "sent_at": "2026-08-21T21:24:59.577Z",
       "type": "new"
-    },
-    "1532567061241528410": {
-      "id": "1532567061241528410",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-21T18:00:00+00:00",
-        "expires_at": "2026-09-02T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://www.callofduty.com/playnow/modernwarfare4",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1532567061241528410/1539834855712620574.jpg",
-          "hero_video": "quests/1532567061241528410/1540035527464722563_720.mp4",
-          "quest_bar_hero_blurhash": "1fcNDIKTaImPhpaXeGr1mLe/lw==",
-          "quest_bar_hero": "quests/1532567061241528410/1539834805456208032.jpg",
-          "quest_bar_hero_video": "quests/1532567061241528410/1540035527464722563_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1532567061241528410/1539786899047055440.png",
-          "game_tile_dark": "quests/1532567061241528410/1539786860157739098.png",
-          "logotype_light": "quests/1532567061241528410/1539787771571609720.png",
-          "logotype_dark": "quests/1532567061241528410/1539787771051384832.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Call of Duty: Modern Warfare 4",
-          "game_title": "Call of Duty: Modern Warfare 4",
-          "game_publisher": "Activision"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1532567061241528410/1542669001623085146_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1532567061241528410/1542669001623085146_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1532567061241528410/1542669001623085146.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1532567061241528410/1542669001417556108_1080.mp4",
-                  "width": 607,
-                  "height": 1080,
-                  "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1532567061241528410/1542669001417556108_720.mp4",
-                  "width": 607,
-                  "height": 1080,
-                  "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1532567061241528410/1542669001417556108.m3u8",
-                  "width": 607,
-                  "height": 1080,
-                  "thumbnail": "quests/1532567061241528410/1539834806236610700.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-02T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://www.callofduty.com/playnow/modernwarfare4",
-          "button_label": "Play Now",
-          "subtitle": "Welcome to Modern Warfare 4 multiplayer."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTIxVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTUzOTgzNDg1NTcxMjYyMDU3NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzI1NjcwNjEyNDE1Mjg0MTAvMTU0MDAzNTUyNzQ2NDcyMjU2M183MjAubXA0In0=",
-      "starts_at": "2026-08-21T18:00:00+00:00",
-      "expires_at": "2026-09-02T06:59:00+00:00",
-      "sent_at": "2026-08-21T21:25:01.001Z",
-      "type": "updated",
-      "updated_at": "2026-09-01T23:04:39.383Z"
     },
     "1540487682805731389": {
       "id": "1540487682805731389",
@@ -10482,7 +9965,104 @@
       "expires_at": "2026-10-08T01:00:00+00:00",
       "sent_at": "2026-09-02T03:19:26.995Z",
       "type": "new"
+    },
+    "1542685543295361096": {
+      "id": "1542685543295361096",
+      "config": {
+        "id": "1542685543295361096",
+        "config_version": 2,
+        "starts_at": "2026-09-02T04:00:00+00:00",
+        "expires_at": "2026-09-15T04:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "id": "1461154307171811401",
+          "name": "Arknights: Endfield"
+        },
+        "assets": {
+          "hero": "quests/1542685543295361096/1542691631273087036.jpg",
+          "hero_video": "quests/1542685543295361096/1542691798726475906_720.mp4",
+          "quest_bar_hero_blurhash": "LvcNCoC/g6WGdql274G2Brs=",
+          "quest_bar_hero": "quests/1542685543295361096/1542691631273087036.jpg",
+          "quest_bar_hero_video": "quests/1542685543295361096/1542691687615172699_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
+          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
+          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
+          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Version Update: Typhoeus",
+          "game_title": "Arknights: Endfield",
+          "game_publisher": "GRYPHLINE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1461154307171811401"
+                }
+              ],
+              "external_ids": [
+                "PPSA18538_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-15T04:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVmVyc2lvbiBVcGRhdGU6IFR5cGhvZXVzIiwiZ2FtZV90aXRsZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJnYW1lX3B1Ymxpc2hlciI6IkdSWVBITElORSIsImFwcGxpY2F0aW9uX2lkIjoiMTQ2MTE1NDMwNzE3MTgxMTQwMSIsImFwcGxpY2F0aW9uX25hbWUiOiJBcmtuaWdodHM6IEVuZGZpZWxkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wMlQwNDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTE1VDA0OjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTE1VDA0OjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyNjg1NTQzMjk1MzYxMDk2LzE1NDI2OTE2MzEyNzMwODcwMzYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQyNjg1NTQzMjk1MzYxMDk2LzE1NDI2OTE3OTg3MjY0NzU5MDZfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-02T04:00:00+00:00",
+      "expires_at": "2026-10-15T04:00:00+00:00",
+      "sent_at": "2026-09-02T10:48:26.910Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-02T03:19:28.099Z"
+  "last_check": "2026-09-02T10:48:28.017Z"
 }
