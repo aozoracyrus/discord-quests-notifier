@@ -8803,7 +8803,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-28T23:00:00+00:00",
-        "expires_at": "2026-09-03T06:59:00+00:00",
+        "expires_at": "2026-09-03T06:00:00+00:00",
         "features": [
           15
         ],
@@ -8910,7 +8910,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-03T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-03T06:00:00+00:00",
           "platforms": [
             0
           ]
@@ -8921,12 +8921,12 @@
           "button_label": "Pre-Order Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDNUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDNUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3RpdGxlIjoiVGhlIEJsb29kIE9mIERhd253YWxrZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJhbmRhaSBOYW1jbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI4VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDNUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDNUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTU0MTc2NjYyNjE2MzI5NDMyOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkyNjcyMzc1NjE1MDM4MTUvMTUzOTI4MTkxNjAzNTk5Mzc1MF83MjAubXA0In0=",
       "starts_at": "2026-08-28T23:00:00+00:00",
-      "expires_at": "2026-09-03T06:59:00+00:00",
+      "expires_at": "2026-09-03T06:00:00+00:00",
       "sent_at": "2026-08-28T23:59:33.581Z",
       "type": "updated",
-      "updated_at": "2026-09-01T23:04:42.498Z"
+      "updated_at": "2026-09-02T23:02:18.038Z"
     },
     "1516889218218197062": {
       "id": "1516889218218197062",
@@ -10064,5 +10064,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-02T20:37:57.768Z"
+  "last_check": "2026-09-02T23:02:19.143Z"
 }
