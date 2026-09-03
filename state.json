@@ -3638,7 +3638,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-20T17:00:00+00:00",
-        "expires_at": "2026-09-07T06:59:00+00:00",
+        "expires_at": "2026-09-14T06:59:00+00:00",
         "features": [
           44,
           15
@@ -3719,7 +3719,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-07T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-14T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -3736,12 +3736,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mzl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NDA5NjM0NDA3MTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NjYzMjIyMDI2MjRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mzl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NDA5NjM0NDA3MTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NjYzMjIyMDI2MjRfNzIwLm1wNCJ9",
       "starts_at": "2026-07-20T17:00:00+00:00",
-      "expires_at": "2026-09-07T06:59:00+00:00",
+      "expires_at": "2026-09-14T06:59:00+00:00",
       "sent_at": "2026-08-10T18:58:10.799Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:56:20.747Z"
+      "updated_at": "2026-09-03T23:00:52.515Z"
     },
     "1536472460059349192": {
       "id": "1536472460059349192",
@@ -5214,7 +5214,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-21T17:00:00+00:00",
-        "expires_at": "2026-09-05T00:00:00+00:00",
+        "expires_at": "2026-09-05T06:59:00+00:00",
         "features": [
           15
         ],
@@ -5252,19 +5252,19 @@
               "target": 150,
               "assets": {
                 "video": {
-                  "url": "quests/1537145020958900394/1537224111816708206_1080.mp4",
+                  "url": "quests/1537145020958900394/1544090176152670278_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1537145020958900394/1537145370608406598.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1537145020958900394/1537224111816708206_720.mp4",
+                  "url": "quests/1537145020958900394/1544090176152670278_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1537145020958900394/1537145370608406598.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1537145020958900394/1537224111816708206.m3u8",
+                  "url": "quests/1537145020958900394/1544090176152670278.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1537145020958900394/1537145370608406598.jpg"
@@ -5279,21 +5279,21 @@
               "target": 150,
               "assets": {
                 "video": {
-                  "url": "quests/1537145020958900394/1537224392440938526_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1537145020958900394/1544090176517574676_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1537145020958900394/1537145370608406598.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1537145020958900394/1537224392440938526_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1537145020958900394/1544090176517574676_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1537145020958900394/1537145370608406598.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1537145020958900394/1537224392440938526.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1537145020958900394/1544090176517574676.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1537145020958900394/1537145370608406598.jpg"
                 }
               },
@@ -5321,7 +5321,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-05T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-05T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -5329,16 +5329,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://residentevil.movie?utm_source=discord&utm_medium=core",
-          "button_label": "Learn More",
+          "button_label": "Get Tickets",
           "subtitle": "Resident Evil - Filmed for IMAX - in theatres 9.18"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgOS4xOCIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE1MH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1MzcxNDUzNzA4NTYwMDU2NTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1NDAxMDM3MDE1MjIyODQ2MjdfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgOS4xOCIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE1MH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1MzcxNDUzNzA4NTYwMDU2NTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3MTQ1MDIwOTU4OTAwMzk0LzE1NDAxMDM3MDE1MjIyODQ2MjdfNzIwLm1wNCJ9",
       "starts_at": "2026-08-21T17:00:00+00:00",
-      "expires_at": "2026-09-05T00:00:00+00:00",
+      "expires_at": "2026-09-05T06:59:00+00:00",
       "sent_at": "2026-08-21T18:37:01.963Z",
       "type": "updated",
-      "updated_at": "2026-09-01T00:25:06.841Z"
+      "updated_at": "2026-09-03T23:00:53.851Z"
     },
     "1540204098790494268": {
       "id": "1540204098790494268",
@@ -5625,7 +5625,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-08-24T07:00:00+00:00",
-        "expires_at": "2026-09-07T06:59:00+00:00",
+        "expires_at": "2026-09-14T06:59:00+00:00",
         "features": [
           44,
           15
@@ -5706,7 +5706,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-07T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-14T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -5723,12 +5723,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTQxODQ3NDk4ODE0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTM3OTUzMTkxODQ3NTM0NjQ0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-24T07:00:00+00:00",
-      "expires_at": "2026-09-07T06:59:00+00:00",
+      "expires_at": "2026-09-14T06:59:00+00:00",
       "sent_at": "2026-08-24T09:48:46.831Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:56:48.812Z"
+      "updated_at": "2026-09-03T23:00:55.284Z"
     },
     "1537900603328434257": {
       "id": "1537900603328434257",
@@ -9519,5 +9519,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-03T20:37:12.487Z"
+  "last_check": "2026-09-03T23:00:56.387Z"
 }
