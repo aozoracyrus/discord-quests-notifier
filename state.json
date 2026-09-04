@@ -4005,10 +4005,10 @@
         },
         "assets": {
           "hero": "quests/1526313972947488949/1526316913553313965.jpg",
-          "hero_video": "quests/1526313972947488949/1527329674072555650_720.mp4",
+          "hero_video": "quests/1537163738577117337/1545497848584347728_720.mp4",
           "quest_bar_hero_blurhash": "FfgJFIJ3d3h/iHiGeIKIcGYJeA==",
           "quest_bar_hero": "quests/1526313972947488949/1527329397399486655.jpg",
-          "quest_bar_hero_video": "quests/1526313972947488949/1527329674072555650_720.mp4",
+          "quest_bar_hero_video": "quests/1537163738577117337/1545497848584347728_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1526313972947488949/1526316124835156118.png",
@@ -4032,19 +4032,19 @@
               "target": 28,
               "assets": {
                 "video": {
-                  "url": "quests/1537163738577117337/1537967732480413757_1080.mp4",
+                  "url": "quests/1537163738577117337/1545497794125631728_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1537163738577117337/1537967732480413757_720.mp4",
+                  "url": "quests/1537163738577117337/1545497794125631728_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_hls": {
-                  "url": "quests/1537163738577117337/1537967732480413757.m3u8",
+                  "url": "quests/1537163738577117337/1545497794125631728.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
@@ -4059,21 +4059,21 @@
               "target": 28,
               "assets": {
                 "video": {
-                  "url": "quests/1537163738577117337/1537967733365547108_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1537163738577117337/1545497794679279746_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1537163738577117337/1537967733365547108_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1537163738577117337/1545497794679279746_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 },
                 "video_hls": {
-                  "url": "quests/1537163738577117337/1537967733365547108.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1537163738577117337/1545497794679279746.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1537163738577117337/1542622590777172008.png"
                 }
               },
@@ -4098,7 +4098,7 @@
                 }
               },
               "orb_quantity": 200,
-              "premium_orb_quantity": 240
+              "premium_orb_quantity": null
             }
           ],
           "rewards_expire_at": "2026-10-07T06:59:00+00:00",
@@ -4113,12 +4113,12 @@
           "subtitle": "The Uprising | Only In Theaters September 10"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNjMxNjkxMzU1MzMxMzk2NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MjYzMTM5NzI5NDc0ODg5NDkvMTUyNzMyOTY3NDA3MjU1NTY1MF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTE3VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI2MzEzOTcyOTQ3NDg4OTQ5LzE1MjYzMTY5MTM1NTMzMTM5NjUuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3MTYzNzM4NTc3MTE3MzM3LzE1NDU0OTc4NDg1ODQzNDc3MjhfNzIwLm1wNCJ9",
       "starts_at": "2026-08-17T17:00:00+00:00",
       "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-08-17T18:39:42.607Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:56:23.634Z"
+      "updated_at": "2026-09-04T20:23:15.922Z"
     },
     "1534613925767676096": {
       "id": "1534613925767676096",
@@ -9178,6 +9178,33 @@
         },
         "task_config_v2": {
           "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 173,
+              "assets": {
+                "video": {
+                  "url": "quests/1537932527795183658/1539377806943723560_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1537932527795183658/1540250401130025020.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1537932527795183658/1539377806943723560_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1537932527795183658/1540250401130025020.png"
+                },
+                "video_hls": {
+                  "url": "quests/1537932527795183658/1539377806943723560.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1537932527795183658/1540250401130025020.png"
+                }
+              },
+              "messages": {
+                "video_title": ""
+              }
+            },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
               "target": 173,
@@ -9222,7 +9249,7 @@
                 }
               },
               "orb_quantity": 200,
-              "premium_orb_quantity": 240
+              "premium_orb_quantity": null
             }
           ],
           "rewards_expire_at": "2026-10-07T06:59:00+00:00",
@@ -9237,12 +9264,649 @@
           "subtitle": "Mayday. New Movie on Apple TV"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWF5ZGF5IiwiZ2FtZV90aXRsZSI6Ik1heWRheS4gTmV3IE1vdmllIG9uIEFwcGxlIFRWIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSBUViIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDAxOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzc5MDA2MDMzMjg0MzQyNTcvMTUzNzkwNzkwODMwMDM3ODEyMi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzc5MzI1Mjc3OTUxODM2NTgvMTUzOTAwODIwNDMxNzM5NzA3NF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF5ZGF5IiwiZ2FtZV90aXRsZSI6Ik1heWRheS4gTmV3IE1vdmllIG9uIEFwcGxlIFRWIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSBUViIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDAxOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTczfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzc5MDA2MDMzMjg0MzQyNTcvMTUzNzkwNzkwODMwMDM3ODEyMi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzc5MzI1Mjc3OTUxODM2NTgvMTUzOTAwODIwNDMxNzM5NzA3NF83MjAubXA0In0=",
       "starts_at": "2026-09-04T01:00:00+00:00",
-      "expires_at": "2026-10-07T06:59:00+00:00",
+      "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-09-04T10:51:57.664Z",
+      "type": "updated",
+      "updated_at": "2026-09-04T20:23:17.615Z"
+    },
+    "1536465227946926190": {
+      "id": "1536465227946926190",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-04T16:00:00+00:00",
+        "expires_at": "2026-09-14T06:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://theuprising.movie",
+          "id": "1534944074153463858",
+          "name": "Revolt"
+        },
+        "assets": {
+          "hero": "quests/1536465227946926190/1545104910583079073.jpg",
+          "hero_video": "quests/1536465227946926190/1544751089776201788_720.mp4",
+          "quest_bar_hero_blurhash": "0vcJAoAwhnZrd3d4r4P4h5Y=",
+          "quest_bar_hero": "quests/1536465227946926190/1545104910583079073.jpg",
+          "quest_bar_hero_video": "quests/1536465227946926190/1544751089776201788_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1536465227946926190/1544749823838781470.png",
+          "game_tile_dark": "quests/1536465227946926190/1544749823838781470.png",
+          "logotype_light": "quests/1536465227946926190/1544749952280821790.png",
+          "logotype_dark": "quests/1536465227946926190/1544753521864474724.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Uprising",
+          "game_title": "The Uprising | Only In Theaters September 10",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1534944074153463858"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "The Uprising",
+                "task_description": "Lead The Uprising by making it to London Bridge and earn 700 Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-14T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://theuprising.movie",
+          "button_label": "Get Tickets",
+          "subtitle": "The Uprising | Only In Theaters September 10"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNDk0NDA3NDE1MzQ2Mzg1OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSZXZvbHQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzY0NjUyMjc5NDY5MjYxOTAvMTU0NTEwNDkxMDU4MzA3OTA3My5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzY0NjUyMjc5NDY5MjYxOTAvMTU0NDc1MTA4OTc3NjIwMTc4OF83MjAubXA0In0=",
+      "starts_at": "2026-09-04T16:00:00+00:00",
+      "expires_at": "2026-10-14T06:59:00+00:00",
+      "sent_at": "2026-09-04T20:23:06.214Z",
+      "type": "new"
+    },
+    "1545079125243600947": {
+      "id": "1545079125243600947",
+      "config": {
+        "id": "1545079125243600947",
+        "config_version": 2,
+        "starts_at": "2026-09-04T17:00:00+00:00",
+        "expires_at": "2026-09-14T06:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/117533937949084/Iron-Soul-Dungeon?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1545079125243600947/1545080606906654760.jpg",
+          "hero_video": "quests/1545079125243600947/1545080741237620746_720.mp4",
+          "quest_bar_hero_blurhash": "lEgKGogJmUWHhTqme4DFBEg=",
+          "quest_bar_hero": "quests/1545079125243600947/1545080606906654760.jpg",
+          "quest_bar_hero_video": "quests/1545079125243600947/1545080741237620746_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+          "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+          "logotype_light": "quests/1545079125243600947/1545080642969145344.png",
+          "logotype_dark": "quests/1545079125243600947/1545080642935726190.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Iron Soul: Dungeon",
+          "game_title": "Iron Soul: Dungeon on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-14T06:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/117533937949084/Iron-Soul-Dungeon?gsrbx=1",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSXJvbiBTb3VsOiBEdW5nZW9uIiwiZ2FtZV90aXRsZSI6Iklyb24gU291bDogRHVuZ2VvbiBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDRUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xNFQwNjowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xNFQwNjowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDUwNzkxMjUyNDM2MDA5NDcvMTU0NTA4MDYwNjkwNjY1NDc2MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDUwNzkxMjUyNDM2MDA5NDcvMTU0NTA4MDc0MTIzNzYyMDc0Nl83MjAubXA0In0=",
+      "starts_at": "2026-09-04T17:00:00+00:00",
+      "expires_at": "2026-10-14T06:00:00+00:00",
+      "sent_at": "2026-09-04T20:23:07.453Z",
+      "type": "new"
+    },
+    "1544127680528781423": {
+      "id": "1544127680528781423",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-04T17:00:00+00:00",
+        "expires_at": "2026-09-08T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://discord.gg/forgottenisland",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1544127680528781423/1544128241223209070.jpg",
+          "hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
+          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+          "quest_bar_hero": "quests/1544127680528781423/1544128277310996571.jpg",
+          "quest_bar_hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1544127680528781423/1544128135652573225.png",
+          "game_tile_dark": "quests/1544127680528781423/1544128135652573225.png",
+          "logotype_light": "quests/1544127680528781423/1544128182242902096.png",
+          "logotype_dark": "quests/1544127680528781423/1544128182242902096.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "FORGOTTEN ISLAND",
+          "game_title": "IN THEATERS SEPTEMBER 25",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1544127680528781423/1545224197574500372_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1544127680528781423/1545224197574500372_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+                },
+                "video_hls": {
+                  "url": "quests/1544127680528781423/1545224197574500372.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1544127680528781423/1544390288716603514_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1544127680528781423/1544390288716603514_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+                },
+                "video_hls": {
+                  "url": "quests/1544127680528781423/1544390288716603514.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544127680528781423/1544422321366896640.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-08T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.gg/forgottenisland",
+          "button_label": "Join Server",
+          "subtitle": "IN THEATERS SEPTEMBER 25"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRk9SR09UVEVOIElTTEFORCIsImdhbWVfdGl0bGUiOiJJTiBUSEVBVEVSUyBTRVBURU1CRVIgMjUiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDhUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDhUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQxMjc2ODA1Mjg3ODE0MjMvMTU0NDEyODI0MTIyMzIwOTA3MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDQxMjc2ODA1Mjg3ODE0MjMvMTU0NDEyOTYxMzY2MjM5NjQ0Ny5tcDQifQ==",
+      "starts_at": "2026-09-04T17:00:00+00:00",
+      "expires_at": "2026-10-08T06:59:00+00:00",
+      "sent_at": "2026-09-04T20:23:10.310Z",
+      "type": "new"
+    },
+    "1544130689316691989": {
+      "id": "1544130689316691989",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-04T17:00:00+00:00",
+        "expires_at": "2026-09-08T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.forgottenislandmovie.ca/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1544127680528781423/1544128241223209070.jpg",
+          "hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
+          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
+          "quest_bar_hero": "quests/1544127680528781423/1544128277310996571.jpg",
+          "quest_bar_hero_video": "quests/1544127680528781423/1544129613662396447.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1544127680528781423/1544128135652573225.png",
+          "game_tile_dark": "quests/1544127680528781423/1544128135652573225.png",
+          "logotype_light": "quests/1544127680528781423/1544128182242902096.png",
+          "logotype_dark": "quests/1544127680528781423/1544128182242902096.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "FORGOTTEN ISLAND",
+          "game_title": "IN THEATRES SEPTEMBER 25",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1544130689316691989/1544802104630059048_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1544130689316691989/1544802104630059048_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
+                },
+                "video_hls": {
+                  "url": "quests/1544130689316691989/1544802104630059048.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1544130689316691989/1544801991090372618_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1544130689316691989/1544801991090372618_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
+                },
+                "video_hls": {
+                  "url": "quests/1544130689316691989/1544801991090372618.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544130689316691989/1544422482608398336.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-08T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.forgottenislandmovie.ca/",
+          "button_label": "Learn More",
+          "subtitle": "IN THEATRES SEPTEMBER 25"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRk9SR09UVEVOIElTTEFORCIsImdhbWVfdGl0bGUiOiJJTiBUSEVBVFJFUyBTRVBURU1CRVIgMjUiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDhUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDhUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ0MTI3NjgwNTI4NzgxNDIzLzE1NDQxMjgyNDEyMjMyMDkwNzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ0MTI3NjgwNTI4NzgxNDIzLzE1NDQxMjk2MTM2NjIzOTY0NDcubXA0In0=",
+      "starts_at": "2026-09-04T17:00:00+00:00",
+      "expires_at": "2026-10-08T06:59:00+00:00",
+      "sent_at": "2026-09-04T20:23:11.635Z",
+      "type": "new"
+    },
+    "1539692903037796422": {
+      "id": "1539692903037796422",
+      "config": {
+        "id": "1539692903037796422",
+        "config_version": 2,
+        "starts_at": "2026-09-04T17:00:00+00:00",
+        "expires_at": "2026-09-12T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.capcom-games.com/onimusha/ws/",
+          "id": "1512292746889662576",
+          "name": "Onimusha: Way of the Sword"
+        },
+        "assets": {
+          "hero": "quests/1539692903037796422/1539693705773060167.jpg",
+          "quest_bar_hero_blurhash": "UhgKDIKWmYhvh3mIqHqf/vb4nw==",
+          "quest_bar_hero": "quests/1539692903037796422/1539693640031404032.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539692903037796422/1539693513761886278.png",
+          "game_tile_dark": "quests/1539692903037796422/1539693513761886278.png",
+          "logotype_light": "quests/1539692903037796422/1539693570460749905.png",
+          "logotype_dark": "quests/1539692903037796422/1539693570460749905.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Onimusha: Way of the Sword Demo",
+          "game_title": "Onimusha: Way of the Sword (Demo)",
+          "game_publisher": "CAPCOM"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1512292746889662576"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1512292746889662576"
+                }
+              ],
+              "external_ids": [
+                "2016984284",
+                "2131196662",
+                "1923321130"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1512292746889662576"
+                }
+              ],
+              "external_ids": [
+                "PPSA27836_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-12T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.capcom-games.com/onimusha/ws/",
+          "button_label": "Chơi miễn phí ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiT25pbXVzaGE6IFdheSBvZiB0aGUgU3dvcmQgRGVtbyIsImdhbWVfdGl0bGUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCAoRGVtbykiLCJnYW1lX3B1Ymxpc2hlciI6IkNBUENPTSIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMjI5Mjc0Njg4OTY2MjU3NiIsImFwcGxpY2F0aW9uX25hbWUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDRUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5NjkyOTAzMDM3Nzk2NDIyLzE1Mzk2OTM3MDU3NzMwNjAxNjcuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-04T17:00:00+00:00",
+      "expires_at": "2026-10-12T00:00:00+00:00",
+      "sent_at": "2026-09-04T20:23:13.022Z",
+      "type": "new"
+    },
+    "1541855122747953324": {
+      "id": "1541855122747953324",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-04T17:00:00+00:00",
+        "expires_at": "2026-09-15T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.455373167;dc_trk_aid=649556188;dc_trk_cid=263707959;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "id": "1405836009584988170",
+          "name": "Battlefield 6"
+        },
+        "assets": {
+          "hero": "quests/1541855122747953324/1542262400139665458.jpg",
+          "quest_bar_hero_blurhash": "nggOHIi3dHdfl4h0hYZGQHYEdQ==",
+          "quest_bar_hero": "quests/1541855122747953324/1542262081733005422.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1541855122747953324/1541874911273029673.jpg",
+          "game_tile_dark": "quests/1541855122747953324/1541874911273029673.jpg",
+          "logotype_light": "quests/1541855122747953324/1541874911369232464.png",
+          "logotype_dark": "quests/1541855122747953324/1541874911277092974.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Battlefield 6 Multiplayer",
+          "game_title": "Battlefield",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_GAME": {
+              "type": "ACHIEVEMENT_IN_GAME",
+              "target": 3,
+              "applications": [
+                {
+                  "id": "1405836009584988170"
+                }
+              ],
+              "event_name": "matches_played_daily",
+              "messages": {
+                "task_title": "Complete 3 multiplayer matches",
+                "task_description": "Play 3 multiplayer matches"
+              },
+              "account_link_instructions": "https://help.ea.com/en/articles/ea-account/ea-account-linking/"
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1541855122747953325",
+              "asset": "quests/1541855122747953324/1542972727286177933.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Hypersonic Weapon Skin",
+                "name_with_article": "a Hypersonic Weapon Skin",
+                "redemption_instructions_by_platform": {
+                  "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem\n\n1. Log in to your EA Account  \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": "https://www.ea.com/games/battlefield/battlefield-6/redeem"
+            }
+          ],
+          "rewards_expire_at": "2026-10-15T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.455373167;dc_trk_aid=649556188;dc_trk_cid=263707959;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1",
+          "button_label": "Play Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmF0dGxlZmllbGQgNiBNdWx0aXBsYXllciIsImdhbWVfdGl0bGUiOiJCYXR0bGVmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNDA1ODM2MDA5NTg0OTg4MTcwIiwiYXBwbGljYXRpb25fbmFtZSI6IkJhdHRsZWZpZWxkIDYiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTVUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTVUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fR0FNRSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9HQU1FIiwidGFyZ2V0IjozfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTg1NTEyMjc0Nzk1MzMyNC8xNTQyMjYyNDAwMTM5NjY1NDU4LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-09-04T17:00:00+00:00",
+      "expires_at": "2026-10-15T00:00:00+00:00",
+      "sent_at": "2026-09-04T20:23:14.558Z",
       "type": "new"
     }
   },
-  "last_check": "2026-09-04T15:53:37.265Z"
+  "last_check": "2026-09-04T20:23:18.720Z"
 }
