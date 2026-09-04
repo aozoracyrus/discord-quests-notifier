@@ -1,102 +1,5 @@
 {
   "quests": {
-    "1525222987165597817": {
-      "id": "1525222987165597817",
-      "config": {
-        "id": "1525222987165597817",
-        "config_version": 2,
-        "starts_at": "2026-07-22T17:00:00+00:00",
-        "expires_at": "2026-08-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3722330/Shift_At_Midnight/",
-          "id": "1445976735597330513",
-          "name": "Shift At Midnight"
-        },
-        "assets": {
-          "hero": "quests/1525222987165597817/1525224175323582485.jpg",
-          "hero_video": "quests/1525222987165597817/1525224752921317486_720.mp4",
-          "quest_bar_hero_blurhash": "TQgGFIJAOWnBhlqCiUkKaySQJw==",
-          "quest_bar_hero": "quests/1525222987165597817/1525224175323582485.jpg",
-          "quest_bar_hero_video": "quests/1525222987165597817/1525224628920778832_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1525222987165597817/1525224175722299422.png",
-          "game_tile_dark": "quests/1525222987165597817/1525224175722299422.png",
-          "logotype_light": "quests/1525222987165597817/1526655147785322516.png",
-          "logotype_dark": "quests/1525222987165597817/1525224175231307908.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Shift At Midnight",
-          "game_title": "Shift At Midnight",
-          "game_publisher": "Kwalee"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1445976735597330513"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1445976735597330513"
-                }
-              ],
-              "external_ids": [
-                "2050201640"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-09-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3722330/Shift_At_Midnight/",
-          "button_label": "Chơi Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU2hpZnQgQXQgTWlkbmlnaHQiLCJnYW1lX3RpdGxlIjoiU2hpZnQgQXQgTWlkbmlnaHQiLCJnYW1lX3B1Ymxpc2hlciI6Ikt3YWxlZSIsImFwcGxpY2F0aW9uX2lkIjoiMTQ0NTk3NjczNTU5NzMzMDUxMyIsImFwcGxpY2F0aW9uX25hbWUiOiJTaGlmdCBBdCBNaWRuaWdodCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUyNTIyMjk4NzE2NTU5NzgxNy8xNTI1MjI0MTc1MzIzNTgyNDg1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUyNTIyMjk4NzE2NTU5NzgxNy8xNTI1MjI0NzUyOTIxMzE3NDg2XzcyMC5tcDQifQ==",
-      "starts_at": "2026-07-22T17:00:00+00:00",
-      "expires_at": "2026-09-04T00:00:00+00:00",
-      "sent_at": "2026-07-26T08:22:02.292Z",
-      "type": "new"
-    },
     "1519101313168838726": {
       "id": "1519101313168838726",
       "config": {
@@ -4540,97 +4443,6 @@
       "sent_at": "2026-08-18T21:25:01.078Z",
       "type": "new"
     },
-    "1534593692739043348": {
-      "id": "1534593692739043348",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-19T16:00:00+00:00",
-        "expires_at": "2026-09-04T00:00:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451316698;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "id": "1534545570599931966",
-          "name": "Maverick"
-        },
-        "assets": {
-          "hero": "quests/1534593692739043348/1539347155331059853.jpg",
-          "quest_bar_hero_blurhash": "FggODICHmYdvd3eKiIh4X1ZhCQ==",
-          "quest_bar_hero": "quests/1534593692739043348/1539324571696636104.jpg",
-          "quest_bar_hero_video": "quests/1534593692739043348/1539325344585351188_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534593692739043348/1538997507022004235.jpg",
-          "game_tile_dark": "quests/1534593692739043348/1538997507022004235.jpg",
-          "logotype_light": "quests/1534593692739043348/1538997507713929216.png",
-          "logotype_dark": "quests/1534593692739043348/1538997507290439700.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Battlefield 6 Top Gun-Mission",
-          "game_title": "Battlefield",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 3,
-              "applications": [
-                {
-                  "id": "1534545570599931966"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Maverick",
-                "task_description": "Fly 3 fighter jet missions over Wake Island and win 700 Orbs!  "
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B36324648.451316698;dc_trk_aid=645325703;dc_trk_cid=259523000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
-          "button_label": "Play Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmF0dGxlZmllbGQgNiBUb3AgR3VuLU1pc3Npb24iLCJnYW1lX3RpdGxlIjoiQmF0dGxlZmllbGQiLCJnYW1lX3B1Ymxpc2hlciI6IkVsZWN0cm9uaWMgQXJ0cyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNDU0NTU3MDU5OTkzMTk2NiIsImFwcGxpY2F0aW9uX25hbWUiOiJNYXZlcmljayIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMTlUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM0NTkzNjkyNzM5MDQzMzQ4LzE1MzkzNDcxNTUzMzEwNTk4NTMuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-08-19T16:00:00+00:00",
-      "expires_at": "2026-09-04T00:00:00+00:00",
-      "sent_at": "2026-08-19T18:36:05.133Z",
-      "type": "updated",
-      "updated_at": "2026-08-31T12:56:29.357Z"
-    },
     "1539602832150364182": {
       "id": "1539602832150364182",
       "config": {
@@ -5730,110 +5542,6 @@
       "type": "updated",
       "updated_at": "2026-09-03T23:00:55.284Z"
     },
-    "1537900603328434257": {
-      "id": "1537900603328434257",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-24T16:00:00+00:00",
-        "expires_at": "2026-09-04T00:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://tv.apple.com/us/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07263136",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1537900603328434257/1537907908300378122.jpg",
-          "hero_video": "quests/1537900603328434257/1537908478574727248_720.mp4",
-          "quest_bar_hero_blurhash": "jxgGCoAliSqPaSiYho838dg=",
-          "quest_bar_hero": "quests/1537900603328434257/1537907908300378122.jpg",
-          "quest_bar_hero_video": "quests/1537900603328434257/1537908478574727248_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1537900603328434257/1537907905062502410.png",
-          "game_tile_dark": "quests/1537900603328434257/1537907905062502410.png",
-          "logotype_light": "quests/1537900603328434257/1537907905167228978.png",
-          "logotype_dark": "quests/1537900603328434257/1537907905167228978.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Mayday",
-          "game_title": "Mayday. New Movie Sep 4 on Apple TV",
-          "game_publisher": "Apple TV"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 173,
-              "assets": {
-                "video": {
-                  "url": "quests/1537900603328434257/1539377235180392568_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1537900603328434257/1540132358974480549.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1537900603328434257/1539377235180392568_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1537900603328434257/1540132358974480549.png"
-                },
-                "video_hls": {
-                  "url": "quests/1537900603328434257/1539377235180392568.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1537900603328434257/1540132358974480549.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-04T00:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://tv.apple.com/us/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07263136",
-          "button_label": "Learn More",
-          "subtitle": "Mayday. New Movie Sep 4 on Apple TV"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWF5ZGF5IiwiZ2FtZV90aXRsZSI6Ik1heWRheS4gTmV3IE1vdmllIFNlcCA0IG9uIEFwcGxlIFRWIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSBUViIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNzN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM3OTAwNjAzMzI4NDM0MjU3LzE1Mzc5MDc5MDgzMDAzNzgxMjIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM3OTAwNjAzMzI4NDM0MjU3LzE1Mzc5MDg0Nzg1NzQ3MjcyNDhfNzIwLm1wNCJ9",
-      "starts_at": "2026-08-24T16:00:00+00:00",
-      "expires_at": "2026-09-04T00:59:00+00:00",
-      "sent_at": "2026-08-24T18:40:32.400Z",
-      "type": "updated",
-      "updated_at": "2026-08-31T12:56:50.192Z"
-    },
     "1540425879824371852": {
       "id": "1540425879824371852",
       "config": {
@@ -5942,92 +5650,6 @@
       "sent_at": "2026-08-25T01:17:32.809Z",
       "type": "updated",
       "updated_at": "2026-08-31T12:56:51.604Z"
-    },
-    "1539393111409823906": {
-      "id": "1539393111409823906",
-      "config": {
-        "id": "1539393111409823906",
-        "config_version": 2,
-        "starts_at": "2026-08-25T16:15:00+00:00",
-        "expires_at": "2026-09-04T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
-          "id": "363445589247131668",
-          "name": "Roblox"
-        },
-        "assets": {
-          "hero": "quests/1539393111409823906/1541544517851680878.jpg",
-          "hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
-          "quest_bar_hero_blurhash": "kxYKEoIJlIZlh3uJ4Hc5T5s=",
-          "quest_bar_hero": "quests/1539393111409823906/1541544517851680878.jpg",
-          "quest_bar_hero_video": "quests/1539393111409823906/1541544559979528282_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1539393111409823906/1539393940086587443.png",
-          "game_tile_dark": "quests/1539393111409823906/1539393939923013652.png",
-          "logotype_light": "quests/1539393111409823906/1539393910680322141.png",
-          "logotype_dark": "quests/1539393111409823906/1539393911150219365.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Superstar Baseball",
-          "game_title": "Superstar Baseball on Roblox ",
-          "game_publisher": "ROBLOX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "363445589247131668"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.roblox.com/games/101432174163538/Superstar-Baseball?gsrbx=1",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3VwZXJzdGFyIEJhc2ViYWxsIiwiZ2FtZV90aXRsZSI6IlN1cGVyc3RhciBCYXNlYmFsbCBvbiBSb2Jsb3ggIiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTA4LTI1VDE2OjE1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1MTc4NTE2ODA4NzguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5MzkzMTExNDA5ODIzOTA2LzE1NDE1NDQ1NTk5Nzk1MjgyODJfNzIwLm1wNCJ9",
-      "starts_at": "2026-08-25T16:15:00+00:00",
-      "expires_at": "2026-09-04T00:00:00+00:00",
-      "sent_at": "2026-08-25T18:39:44.097Z",
-      "type": "updated",
-      "updated_at": "2026-08-31T12:56:53.937Z"
     },
     "1540476174520557620": {
       "id": "1540476174520557620",
@@ -9517,7 +9139,110 @@
       "expires_at": "2026-10-31T00:00:00+00:00",
       "sent_at": "2026-09-03T20:37:10.020Z",
       "type": "new"
+    },
+    "1537932527795183658": {
+      "id": "1537932527795183658",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-04T01:00:00+00:00",
+        "expires_at": "2026-09-07T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/us/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07263137",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1537900603328434257/1537907908300378122.jpg",
+          "hero_video": "quests/1537932527795183658/1539008204317397074_720.mp4",
+          "quest_bar_hero_blurhash": "jxgGCoAliSqPaSiYho838dg=",
+          "quest_bar_hero": "quests/1537900603328434257/1537907908300378122.jpg",
+          "quest_bar_hero_video": "quests/1537932527795183658/1539008204317397074_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1537900603328434257/1537907905062502410.png",
+          "game_tile_dark": "quests/1537900603328434257/1537907905062502410.png",
+          "logotype_light": "quests/1537900603328434257/1537907905167228978.png",
+          "logotype_dark": "quests/1537900603328434257/1537907905167228978.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Mayday",
+          "game_title": "Mayday. New Movie on Apple TV",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 173,
+              "assets": {
+                "video": {
+                  "url": "quests/1537932527795183658/1539377806943723560_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1537932527795183658/1540250401130025020.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1537932527795183658/1539377806943723560_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1537932527795183658/1540250401130025020.png"
+                },
+                "video_hls": {
+                  "url": "quests/1537932527795183658/1539377806943723560.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1537932527795183658/1540250401130025020.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-07T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/us/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07263137",
+          "button_label": "Watch Now",
+          "subtitle": "Mayday. New Movie on Apple TV"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF5ZGF5IiwiZ2FtZV90aXRsZSI6Ik1heWRheS4gTmV3IE1vdmllIG9uIEFwcGxlIFRWIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSBUViIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDAxOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mzc5MDA2MDMzMjg0MzQyNTcvMTUzNzkwNzkwODMwMDM3ODEyMi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mzc5MzI1Mjc3OTUxODM2NTgvMTUzOTAwODIwNDMxNzM5NzA3NF83MjAubXA0In0=",
+      "starts_at": "2026-09-04T01:00:00+00:00",
+      "expires_at": "2026-10-07T06:59:00+00:00",
+      "sent_at": "2026-09-04T10:51:57.664Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-04T03:24:31.770Z"
+  "last_check": "2026-09-04T10:51:58.770Z"
 }
