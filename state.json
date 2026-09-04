@@ -3541,7 +3541,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-07-20T17:00:00+00:00",
-        "expires_at": "2026-09-14T06:59:00+00:00",
+        "expires_at": "2026-09-07T06:59:00+00:00",
         "features": [
           44,
           15
@@ -3622,7 +3622,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-14T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-07T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -3639,12 +3639,12 @@
           "button_label": "Play Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mzl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NDA5NjM0NDA3MTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NjYzMjIyMDI2MjRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08iLCJnYW1lX3RpdGxlIjoiTU9OT1BPTFkgR08iLCJnYW1lX3B1Ymxpc2hlciI6IlNjb3BlbHkiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0yMFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTA3VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mzl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NDA5NjM0NDA3MTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTI3NzgxNjI0MjcwMjk1MjIzLzE1Mzc5NTY4NjYzMjIyMDI2MjRfNzIwLm1wNCJ9",
       "starts_at": "2026-07-20T17:00:00+00:00",
-      "expires_at": "2026-09-14T06:59:00+00:00",
+      "expires_at": "2026-09-07T06:59:00+00:00",
       "sent_at": "2026-08-10T18:58:10.799Z",
       "type": "updated",
-      "updated_at": "2026-09-03T23:00:52.515Z"
+      "updated_at": "2026-09-04T22:48:47.670Z"
     },
     "1536472460059349192": {
       "id": "1536472460059349192",
@@ -9908,5 +9908,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-04T20:23:18.720Z"
+  "last_check": "2026-09-04T22:48:48.773Z"
 }
