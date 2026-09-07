@@ -7851,7 +7851,136 @@
       "expires_at": "2026-10-22T00:00:00+00:00",
       "sent_at": "2026-09-07T17:24:44.516Z",
       "type": "new"
+    },
+    "1545527302681661540": {
+      "id": "1545527302681661540",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-07T17:00:00+00:00",
+        "expires_at": "2026-09-22T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://games.capcomusa.com/?utm_campaign=tgs26&utm_source=discordquest",
+          "id": "1456485028350656512",
+          "name": "Resident Evil Requiem"
+        },
+        "assets": {
+          "hero": "quests/1544412209935814758/1545185568877445230.jpg",
+          "quest_bar_hero_blurhash": "ohsGVIKKyJOKd4WPZZb4dq5/6A==",
+          "quest_bar_hero": "quests/1544412209935814758/1545130808694669312.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1544412209935814758/1544414262456221807.png",
+          "game_tile_dark": "quests/1544412209935814758/1544414262456221807.png",
+          "logotype_light": "quests/1544412209935814758/1544414295054360656.png",
+          "logotype_dark": "quests/1544412209935814758/1544414382887538858.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "CAPCOM TGS Deals",
+          "game_title": "CAPCOM TGS Deals",
+          "game_publisher": "CAPCOM"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1456485028350656512"
+                },
+                {
+                  "id": "1448369915462549616"
+                },
+                {
+                  "id": "1344912009807794256"
+                },
+                {
+                  "id": "1129504307851567196"
+                },
+                {
+                  "id": "1257440761763598526"
+                },
+                {
+                  "id": "1129504209226711190"
+                },
+                {
+                  "id": "1025084469306200064"
+                },
+                {
+                  "id": "1129504165727584307"
+                },
+                {
+                  "id": "1162153766859059241"
+                },
+                {
+                  "id": "1283713756605452308"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1456485028350656512"
+                }
+              ],
+              "external_ids": []
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1456485028350656512"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-22T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://games.capcomusa.com/?utm_campaign=tgs26&utm_source=discordquest",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ0FQQ09NIFRHUyBEZWFscyIsImdhbWVfdGl0bGUiOiJDQVBDT00gVEdTIERlYWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJDQVBDT00iLCJhcHBsaWNhdGlvbl9pZCI6IjE0NTY0ODUwMjgzNTA2NTY1MTIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiUmVzaWRlbnQgRXZpbCBSZXF1aWVtIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wN1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MTIyMDk5MzU4MTQ3NTgvMTU0NTE4NTU2ODg3NzQ0NTIzMC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-09-07T17:00:00+00:00",
+      "expires_at": "2026-10-22T00:00:00+00:00",
+      "sent_at": "2026-09-07T21:12:28.397Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-07T17:24:45.620Z"
+  "last_check": "2026-09-07T21:12:29.502Z"
 }
