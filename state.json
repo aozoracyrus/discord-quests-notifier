@@ -130,113 +130,6 @@
       "sent_at": "2026-07-26T08:27:40.269Z",
       "type": "new"
     },
-    "1529570389154467900": {
-      "id": "1529570389154467900",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-27T17:00:00+00:00",
-        "expires_at": "2026-08-10T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://wwechampions.scopely.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1529570389154467900/1530376064747049091.jpg",
-          "quest_bar_hero_blurhash": "WOcNLIJpZnaPeXdoiHeXf0zm9g==",
-          "quest_bar_hero": "quests/1529570389154467900/1529576539916734504.jpg",
-          "quest_bar_hero_video": "quests/1529570389154467900/1529966409780822157_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1529570389154467900/1529572129048100945.png",
-          "game_tile_dark": "quests/1529570389154467900/1529572129048100945.png",
-          "logotype_light": "quests/1529570389154467900/1529572129199100034.png",
-          "logotype_dark": "quests/1529570389154467900/1529572129526386698.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "WWE Champions: Wrestling RPG",
-          "game_title": "WWE Champions: Wrestling RPG",
-          "game_publisher": "Scopely"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1529570389154467900/1529574055366230267_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1529570389154467900/1529576472849940611.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1529570389154467900/1529574055366230267_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1529570389154467900/1529576472849940611.png"
-                },
-                "video_hls": {
-                  "url": "quests/1529570389154467900/1529574055366230267.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1529570389154467900/1529576472849940611.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-09T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.scopely.whiplash"
-          },
-          "ios": {
-            "ios_app_id": "1017432937"
-          },
-          "link": "http://wwechampions.scopely.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV1dFIENoYW1waW9uczogV3Jlc3RsaW5nIFJQRyIsImdhbWVfdGl0bGUiOiJXV0UgQ2hhbXBpb25zOiBXcmVzdGxpbmcgUlBHIiwiZ2FtZV9wdWJsaXNoZXIiOiJTY29wZWx5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDctMjdUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOC0xMFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0wOS0wOVQwMDowMDowMCswMDowMCIsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTI5NTcwMzg5MTU0NDY3OTAwLzE1MzAzNzYwNjQ3NDcwNDkwOTEuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-07-27T17:00:00+00:00",
-      "expires_at": "2026-09-09T00:00:00+00:00",
-      "sent_at": "2026-07-27T19:28:19.676Z",
-      "type": "new"
-    },
     "1530173428542341120": {
       "id": "1530173428542341120",
       "config": {
@@ -956,136 +849,6 @@
       "starts_at": "2026-07-31T16:00:00+00:00",
       "expires_at": "2026-09-24T00:00:00+00:00",
       "sent_at": "2026-07-31T19:26:48.065Z",
-      "type": "new"
-    },
-    "1521297240402956400": {
-      "id": "1521297240402956400",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-07-31T17:00:00+00:00",
-        "expires_at": "2026-08-10T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://geni.us/Apex-Pro-TKL-Gen3",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1521297240402956400/1531438956208455750.jpg",
-          "hero_video": "quests/1521297240402956400/1531439007420911777_720.mp4",
-          "quest_bar_hero_blurhash": "SRgCHIQFdXq/aIi6Za18v833yw==",
-          "quest_bar_hero": "quests/1521297240402956400/1531438786742063227.jpg",
-          "quest_bar_hero_video": "quests/1521297240402956400/1531438842807058543_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1521297240402956400/1531438665056780509.png",
-          "game_tile_dark": "quests/1521297240402956400/1531438665627205662.png",
-          "logotype_light": "quests/1521297240402956400/1531438664922435594.png",
-          "logotype_dark": "quests/1521297240402956400/1531438665610559509.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Apex Pro Quick Set",
-          "game_title": "Apex Pro Quick Set",
-          "game_publisher": "SteelSeries"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 25,
-              "assets": {
-                "video": {
-                  "url": "quests/1521297240402956400/1531440175597617152_1080.mp4",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1521297240402956400/1531440175597617152_720.mp4",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
-                },
-                "video_hls": {
-                  "url": "quests/1521297240402956400/1531440175597617152.m3u8",
-                  "width": 3840,
-                  "height": 2160,
-                  "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 25,
-              "assets": {
-                "video": {
-                  "url": "quests/1521297240402956400/1531440035541549146_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1521297240402956400/1531440035541549146_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
-                },
-                "video_hls": {
-                  "url": "quests/1521297240402956400/1531440035541549146.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1521297240402956400/1531440068982472774.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-09T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://geni.us/Apex-Pro-TKL-Gen3",
-          "button_label": "Buy Now",
-          "subtitle": "The Only Keyboard That Has It All - Shop Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQXBleCBQcm8gUXVpY2sgU2V0IiwiZ2FtZV90aXRsZSI6IkFwZXggUHJvIFF1aWNrIFNldCIsImdhbWVfcHVibGlzaGVyIjoiU3RlZWxTZXJpZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wNy0zMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTEwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTA5VDAwOjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MjV9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTIxMjk3MjQwNDAyOTU2NDAwLzE1MzE0Mzg5NTYyMDg0NTU3NTAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTIxMjk3MjQwNDAyOTU2NDAwLzE1MzE0MzkwMDc0MjA5MTE3NzdfNzIwLm1wNCJ9",
-      "starts_at": "2026-07-31T17:00:00+00:00",
-      "expires_at": "2026-09-09T00:00:00+00:00",
-      "sent_at": "2026-07-31T19:26:49.647Z",
       "type": "new"
     },
     "1527502945875263548": {
@@ -6504,7 +6267,6 @@
     "1539692903037796422": {
       "id": "1539692903037796422",
       "config": {
-        "id": "1539692903037796422",
         "config_version": 2,
         "starts_at": "2026-09-04T17:00:00+00:00",
         "expires_at": "2026-09-12T00:00:00+00:00",
@@ -6555,11 +6317,7 @@
                   "id": "1512292746889662576"
                 }
               ],
-              "external_ids": [
-                "2016984284",
-                "2131196662",
-                "1923321130"
-              ]
+              "external_ids": []
             },
             "PLAY_ON_PLAYSTATION": {
               "type": "PLAY_ON_PLAYSTATION",
@@ -6569,9 +6327,7 @@
                   "id": "1512292746889662576"
                 }
               ],
-              "external_ids": [
-                "PPSA27836_00"
-              ]
+              "external_ids": []
             }
           },
           "join_operator": "or"
@@ -6590,7 +6346,7 @@
                 }
               },
               "orb_quantity": 700,
-              "premium_orb_quantity": 840
+              "premium_orb_quantity": null
             }
           ],
           "rewards_expire_at": "2026-10-12T00:00:00+00:00",
@@ -6601,14 +6357,15 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.capcom-games.com/onimusha/ws/",
-          "button_label": "Chơi miễn phí ngay"
+          "button_label": "Play Free Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT25pbXVzaGE6IFdheSBvZiB0aGUgU3dvcmQgRGVtbyIsImdhbWVfdGl0bGUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCAoRGVtbykiLCJnYW1lX3B1Ymxpc2hlciI6IkNBUENPTSIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMjI5Mjc0Njg4OTY2MjU3NiIsImFwcGxpY2F0aW9uX25hbWUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDRUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5NjkyOTAzMDM3Nzk2NDIyLzE1Mzk2OTM3MDU3NzMwNjAxNjcuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiT25pbXVzaGE6IFdheSBvZiB0aGUgU3dvcmQgRGVtbyIsImdhbWVfdGl0bGUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCAoRGVtbykiLCJnYW1lX3B1Ymxpc2hlciI6IkNBUENPTSIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMjI5Mjc0Njg4OTY2MjU3NiIsImFwcGxpY2F0aW9uX25hbWUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDRUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTY5MjkwMzAzNzc5NjQyMi8xNTM5NjkzNzA1NzczMDYwMTY3LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-09-04T17:00:00+00:00",
-      "expires_at": "2026-10-12T00:00:00+00:00",
+      "expires_at": "2026-09-12T00:00:00+00:00",
       "sent_at": "2026-09-04T20:23:13.022Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-09T03:31:37.051Z"
     },
     "1541855122747953324": {
       "id": "1541855122747953324",
@@ -7975,5 +7732,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-08T23:13:29.611Z"
+  "last_check": "2026-09-09T03:31:38.157Z"
 }
