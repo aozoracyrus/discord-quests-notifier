@@ -3533,137 +3533,6 @@
       "type": "updated",
       "updated_at": "2026-08-31T12:57:13.164Z"
     },
-    "1539783833002577981": {
-      "id": "1539783833002577981",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-28T17:00:00+00:00",
-        "expires_at": "2026-09-11T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://2kgam.es/3RuZ5v9",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1536795790717091970/1539020923624095875.jpg",
-          "hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
-          "quest_bar_hero_blurhash": "T7kGFIp0dqUEiHmUbnPJQIoNtA==",
-          "quest_bar_hero": "quests/1536795790717091970/1539020923607457952.jpg",
-          "quest_bar_hero_video": "quests/1539783833002577981/1542685937547345930.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536795790717091970/1536796252459638845.jpg",
-          "game_tile_dark": "quests/1536795790717091970/1536796252459638845.jpg",
-          "logotype_light": "quests/1536795790717091970/1536796236164894801.png",
-          "logotype_dark": "quests/1536795790717091970/1536796203235409980.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "NBA 2K27 All Day I Dream About Ball",
-          "game_title": "NBA 2K27",
-          "game_publisher": "NBA 2K27"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 72,
-              "assets": {
-                "video": {
-                  "url": "quests/1539783833002577981/1542570156537159690_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1539783833002577981/1542570156537159690_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
-                },
-                "video_hls": {
-                  "url": "quests/1539783833002577981/1542570156537159690.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 72,
-              "assets": {
-                "video": {
-                  "url": "quests/1539783833002577981/1542570156537159690_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1539783833002577981/1542570156537159690_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
-                },
-                "video_hls": {
-                  "url": "quests/1539783833002577981/1542570156537159690.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-11T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://2kgam.es/3RuZ5v9",
-          "button_label": "Pre-Order Now",
-          "subtitle": "Get the Deluxe or Ultra Edition to play NBA 2K27 Early Access NOW "
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTkJBIDJLMjcgQWxsIERheSBJIERyZWFtIEFib3V0IEJhbGwiLCJnYW1lX3RpdGxlIjoiTkJBIDJLMjciLCJnYW1lX3B1Ymxpc2hlciI6Ik5CQSAySzI3IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjcyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjcyfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNjc5NTc5MDcxNzA5MTk3MC8xNTM5MDIwOTIzNjI0MDk1ODc1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzOTc4MzgzMzAwMjU3Nzk4MS8xNTQyNjg1OTM3NTQ3MzQ1OTMwLm1wNCJ9",
-      "starts_at": "2026-08-28T17:00:00+00:00",
-      "expires_at": "2026-09-11T00:00:00+00:00",
-      "sent_at": "2026-08-28T23:59:30.122Z",
-      "type": "updated",
-      "updated_at": "2026-08-31T12:57:14.556Z"
-    },
     "1542287027578478654": {
       "id": "1542287027578478654",
       "config": {
@@ -5604,7 +5473,7 @@
         },
         "messages": {
           "quest_name": "The Uprising",
-          "game_title": "The Uprising | Only In Theaters September 10",
+          "game_title": "The Uprising | In Theaters Now",
           "game_publisher": "Focus Features"
         },
         "task_config_v2": {
@@ -5652,14 +5521,15 @@
         "cta_config": {
           "link": "https://theuprising.movie",
           "button_label": "Get Tickets",
-          "subtitle": "The Uprising | Only In Theaters September 10"
+          "subtitle": "The Uprising | In Theaters Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IE9ubHkgSW4gVGhlYXRlcnMgU2VwdGVtYmVyIDEwIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNDk0NDA3NDE1MzQ2Mzg1OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSZXZvbHQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzY0NjUyMjc5NDY5MjYxOTAvMTU0NTEwNDkxMDU4MzA3OTA3My5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzY0NjUyMjc5NDY5MjYxOTAvMTU0NDc1MTA4OTc3NjIwMTc4OF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IEluIFRoZWF0ZXJzIE5vdyIsImdhbWVfcHVibGlzaGVyIjoiRm9jdXMgRmVhdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1MzQ5NDQwNzQxNTM0NjM4NTgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiUmV2b2x0Iiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wNFQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM2NDY1MjI3OTQ2OTI2MTkwLzE1NDUxMDQ5MTA1ODMwNzkwNzMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM2NDY1MjI3OTQ2OTI2MTkwLzE1NDQ3NTEwODk3NzYyMDE3ODhfNzIwLm1wNCJ9",
       "starts_at": "2026-09-04T16:00:00+00:00",
-      "expires_at": "2026-10-14T06:59:00+00:00",
+      "expires_at": "2026-09-14T06:59:00+00:00",
       "sent_at": "2026-09-04T20:23:06.214Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-11T03:27:03.510Z"
     },
     "1545079125243600947": {
       "id": "1545079125243600947",
@@ -6476,10 +6346,10 @@
         },
         "assets": {
           "hero": "quests/1544416823662088333/1544424869712760862.jpg",
-          "hero_video": "quests/1544416823662088333/1544425759840403596_720.mp4",
+          "hero_video": "quests/1544416823662088333/1547741490720022538_720.mp4",
           "quest_bar_hero_blurhash": "0fcJDIKKeIiTeHdwh2i7YIw/6g==",
           "quest_bar_hero": "quests/1544416823662088333/1544425742467862760.jpg",
-          "quest_bar_hero_video": "quests/1544416823662088333/1544425759840403596_720.mp4",
+          "quest_bar_hero_video": "quests/1544416823662088333/1547741490720022538_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1544416823662088333/1544424809713107076.png",
@@ -6503,19 +6373,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1544416823662088333/1544792117749092463_1080.mp4",
+                  "url": "quests/1544416823662088333/1547741677773390004_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1544416823662088333/1544792117749092463_720.mp4",
+                  "url": "quests/1544416823662088333/1547741677773390004_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
                 },
                 "video_hls": {
-                  "url": "quests/1544416823662088333/1544792117749092463.m3u8",
+                  "url": "quests/1544416823662088333/1547741677773390004.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
@@ -6530,19 +6400,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1544416823662088333/1544792118072057856_1080.mp4",
+                  "url": "quests/1544416823662088333/1547741678494949426_1080.mp4",
                   "width": 1080,
                   "height": 1920,
                   "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1544416823662088333/1544792118072057856_720.mp4",
+                  "url": "quests/1544416823662088333/1547741678494949426_720.mp4",
                   "width": 1080,
                   "height": 1920,
                   "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
                 },
                 "video_hls": {
-                  "url": "quests/1544416823662088333/1544792118072057856.m3u8",
+                  "url": "quests/1544416823662088333/1547741678494949426.m3u8",
                   "width": 1080,
                   "height": 1920,
                   "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
@@ -6580,15 +6450,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "http://forgottenislandmovie.com.au/",
-          "button_label": "Learn More",
+          "button_label": "Get Tickets",
           "subtitle": "In Cinemas September 17"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxNyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDZUMTQ6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xNVQxMzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xNVQxMzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MTY4MjM2NjIwODgzMzMvMTU0NDQyNDg2OTcxMjc2MDg2Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDQ0MTY4MjM2NjIwODgzMzMvMTU0NDQyNTc1OTg0MDQwMzU5Nl83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxNyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDZUMTQ6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xNVQxMzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xNVQxMzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MTY4MjM2NjIwODgzMzMvMTU0NDQyNDg2OTcxMjc2MDg2Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDQ0MTY4MjM2NjIwODgzMzMvMTU0Nzc0MTQ5MDcyMDAyMjUzOF83MjAubXA0In0=",
       "starts_at": "2026-09-06T14:00:00+00:00",
-      "expires_at": "2026-10-15T13:59:00+00:00",
+      "expires_at": "2026-09-15T13:59:00+00:00",
       "sent_at": "2026-09-06T15:03:11.142Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-11T03:27:05.040Z"
     },
     "1544426987215527988": {
       "id": "1544426987215527988",
@@ -9231,5 +9102,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-10T22:57:25.052Z"
+  "last_check": "2026-09-11T03:27:06.147Z"
 }
