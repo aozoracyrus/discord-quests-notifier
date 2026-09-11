@@ -6219,8 +6219,8 @@
           "quest_bar_hero_video": "quests/1541517876953878650/1544741413315416204_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1541517876953878650/1545168922427400303.png",
-          "game_tile_dark": "quests/1541517876953878650/1545168922427400303.png",
+          "game_tile_light": "quests/1541517876953878650/1545168922259750967.jpg",
+          "game_tile_dark": "quests/1541517876953878650/1545168922259750967.jpg",
           "logotype_light": "quests/1541517876953878650/1545168922217545778.png",
           "logotype_dark": "quests/1541517876953878650/1545168922217545778.png"
         },
@@ -6230,7 +6230,7 @@
         },
         "messages": {
           "quest_name": "Resident Evil",
-          "game_title": "Resident Evil - Filmed for IMAX - in theatres 9.18",
+          "game_title": "Resident Evil - Filmed for IMAX - in theatres Thursday",
           "game_publisher": "Sony Pictures Entertainment"
         },
         "task_config_v2": {
@@ -6240,22 +6240,22 @@
               "target": 52,
               "assets": {
                 "video": {
-                  "url": "quests/1541517876953878650/1544755056795062402_1080.mp4",
+                  "url": "quests/1541517876953878650/1548030372032417833_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541517876953878650/1545168922465148968.jpg"
+                  "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1541517876953878650/1544755056795062402_720.mp4",
+                  "url": "quests/1541517876953878650/1548030372032417833_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541517876953878650/1545168922465148968.jpg"
+                  "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1541517876953878650/1544755056795062402.m3u8",
+                  "url": "quests/1541517876953878650/1548030372032417833.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1541517876953878650/1545168922465148968.jpg"
+                  "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 }
               },
               "messages": {
@@ -6270,19 +6270,19 @@
                   "url": "quests/1541517876953878650/1544755056421769338_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541517876953878650/1545168922465148968.jpg"
+                  "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 },
                 "video_low_res": {
                   "url": "quests/1541517876953878650/1544755056421769338_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541517876953878650/1545168922465148968.jpg"
+                  "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 },
                 "video_hls": {
                   "url": "quests/1541517876953878650/1544755056421769338.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1541517876953878650/1545168922465148968.jpg"
+                  "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 }
               },
               "messages": {
@@ -6321,14 +6321,15 @@
         "cta_config": {
           "link": "https://residentevil.movie?utm_source=discord&utm_medium=core",
           "button_label": "Get Tickets",
-          "subtitle": "Resident Evil - Filmed for IMAX - in theatres 9.18"
+          "subtitle": "Resident Evil - Filmed for IMAX - in theatres Thursday"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgOS4xOCIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NTJ9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NTZ9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxNTE3ODc2OTUzODc4NjUwLzE1NDUxNjg5MjIzNzY5MzMzOTYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxNTE3ODc2OTUzODc4NjUwLzE1NDQ3NDE0MTMzMTU0MTYyMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgVGh1cnNkYXkiLCJnYW1lX3B1Ymxpc2hlciI6IlNvbnkgUGljdHVyZXMgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA1VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjUyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU2fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTUxNzg3Njk1Mzg3ODY1MC8xNTQ1MTY4OTIyMzc2OTMzMzk2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTUxNzg3Njk1Mzg3ODY1MC8xNTQ0NzQxNDEzMzE1NDE2MjA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-09-05T17:00:00+00:00",
-      "expires_at": "2026-10-21T00:00:00+00:00",
+      "expires_at": "2026-09-21T00:00:00+00:00",
       "sent_at": "2026-09-05T20:01:18.113Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-11T20:36:06.412Z"
     },
     "1544416823662088333": {
       "id": "1544416823662088333",
@@ -9100,7 +9101,394 @@
       "expires_at": "2026-10-24T00:00:00+00:00",
       "sent_at": "2026-09-10T20:30:30.099Z",
       "type": "new"
+    },
+    "1547667360964542526": {
+      "id": "1547667360964542526",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-11T17:00:00+00:00",
+        "expires_at": "2026-09-19T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.sonypictures.es/pelicula/resident-evil-1?utm_source=discord&utm_medium=programmatic&utm_campaign=resident_evil&utm_term=video&utm_content=theatrical",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547667360964542526/1547687292095701184.jpg",
+          "quest_bar_hero_blurhash": "SxgGDIRgpsBul3ZymYV0f6T3Og==",
+          "quest_bar_hero": "quests/1547667360964542526/1547687292091498566.jpg",
+          "quest_bar_hero_video": "quests/1547667360964542526/1547687518042980372_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547667360964542526/1547687292108546170.png",
+          "game_tile_dark": "quests/1547667360964542526/1547687291890311288.png",
+          "logotype_light": "quests/1547667360964542526/1547687292129255424.png",
+          "logotype_dark": "quests/1547667360964542526/1547687291915345950.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Resident Evil",
+          "game_title": "Exclusivamente en cines el 18 de septiembre",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547667360964542526/1547687292150218832_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547667360964542526/1547687292091498566.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547667360964542526/1547687292150218832_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547667360964542526/1547687292091498566.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547667360964542526/1547687292150218832.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547667360964542526/1547687292091498566.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547667360964542526/1547687291995037868_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547667360964542526/1547687292091498566.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547667360964542526/1547687291995037868_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547667360964542526/1547687292091498566.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547667360964542526/1547687291995037868.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547667360964542526/1547687292091498566.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-19T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.sonypictures.es/pelicula/resident-evil-1?utm_source=discord&utm_medium=programmatic&utm_campaign=resident_evil&utm_term=video&utm_content=theatrical",
+          "button_label": "Get Tickets",
+          "subtitle": "Exclusivamente en cines el 18 de septiembre"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJFeGNsdXNpdmFtZW50ZSBlbiBjaW5lcyBlbCAxOCBkZSBzZXB0aWVtYnJlIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIEVudGVydGFpbm1lbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NzY2NzM2MDk2NDU0MjUyNi8xNTQ3Njg3MjkyMDk1NzAxMTg0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-09-11T17:00:00+00:00",
+      "expires_at": "2026-10-19T00:00:00+00:00",
+      "sent_at": "2026-09-11T20:36:01.517Z",
+      "type": "new"
+    },
+    "1547688577440157808": {
+      "id": "1547688577440157808",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-11T17:00:00+00:00",
+        "expires_at": "2026-09-19T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547688577440157808/1547690751943778414.jpg",
+          "quest_bar_hero_blurhash": "BQgKCoKgaJhpeHd4sGoIm4Y=",
+          "quest_bar_hero": "quests/1547688577440157808/1547690751943778414.jpg",
+          "quest_bar_hero_video": "quests/1547688577440157808/1547690792540184756_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547688577440157808/1547690575783010356.png",
+          "game_tile_dark": "quests/1547688577440157808/1547690575476695151.png",
+          "logotype_light": "quests/1547688577440157808/1547690575396864041.png",
+          "logotype_dark": "quests/1547688577440157808/1547690575401058424.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Resident Evil",
+          "game_title": "Only In Cinemas September 18 ",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 30,
+              "assets": {
+                "video": {
+                  "url": "quests/1547688577440157808/1547995541680554035_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547688577440157808/1547690575770288128.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1547688577440157808/1547995541680554035_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547688577440157808/1547690575770288128.png"
+                },
+                "video_hls": {
+                  "url": "quests/1547688577440157808/1547995541680554035.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547688577440157808/1547690575770288128.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 30,
+              "assets": {
+                "video": {
+                  "url": "quests/1547688577440157808/1547995542162772129_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547688577440157808/1547690575770288128.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1547688577440157808/1547995542162772129_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547688577440157808/1547690575770288128.png"
+                },
+                "video_hls": {
+                  "url": "quests/1547688577440157808/1547995542162772129.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547688577440157808/1547690575770288128.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-19T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+          "button_label": "Get Showtimes",
+          "subtitle": "Only In Cinemas September 18"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJPbmx5IEluIENpbmVtYXMgU2VwdGVtYmVyIDE4ICIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjozMH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjozMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDc2ODg1Nzc0NDAxNTc4MDgvMTU0NzY5MDc1MTk0Mzc3ODQxNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-09-11T17:00:00+00:00",
+      "expires_at": "2026-10-19T00:00:00+00:00",
+      "sent_at": "2026-09-11T20:36:03.216Z",
+      "type": "new"
+    },
+    "1547693277430423594": {
+      "id": "1547693277430423594",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-11T18:10:00+00:00",
+        "expires_at": "2026-09-19T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.sonypictures.in/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547693277430423594/1547694622447243324.jpeg",
+          "quest_bar_hero_blurhash": "QSgCDIYHp5iKdoeDe3QHinOgOA==",
+          "quest_bar_hero": "quests/1547693277430423594/1547694622397038742.jpeg",
+          "quest_bar_hero_video": "quests/1547693277430423594/1547694824172556408_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547693277430423594/1547694622489182291.jpeg",
+          "game_tile_dark": "quests/1547693277430423594/1547694622489182291.jpeg",
+          "logotype_light": "quests/1547693277430423594/1547694622422081637.png",
+          "logotype_dark": "quests/1547693277430423594/1547694622388650044.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Resident Evil",
+          "game_title": "Only In Cinemas September 18 ",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547693277430423594/1547694623755870319_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547693277430423594/1547694622397038742.jpeg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547693277430423594/1547694623755870319_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547693277430423594/1547694622397038742.jpeg"
+                },
+                "video_hls": {
+                  "url": "quests/1547693277430423594/1547694623755870319.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547693277430423594/1547694622397038742.jpeg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547693277430423594/1548027379136471111_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547693277430423594/1547694622397038742.jpeg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547693277430423594/1548027379136471111_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547693277430423594/1547694622397038742.jpeg"
+                },
+                "video_hls": {
+                  "url": "quests/1547693277430423594/1548027379136471111.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547693277430423594/1547694622397038742.jpeg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-19T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.sonypictures.in/",
+          "button_label": "Learn More",
+          "subtitle": "Only In Cinemas September 18 "
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJPbmx5IEluIENpbmVtYXMgU2VwdGVtYmVyIDE4ICIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTFUMTg6MTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDc2OTMyNzc0MzA0MjM1OTQvMTU0NzY5NDYyMjQ0NzI0MzMyNC5qcGVnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-11T18:10:00+00:00",
+      "expires_at": "2026-10-19T00:00:00+00:00",
+      "sent_at": "2026-09-11T20:36:05.045Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-11T16:00:38.292Z"
+  "last_check": "2026-09-11T20:36:07.515Z"
 }
