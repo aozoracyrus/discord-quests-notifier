@@ -9233,7 +9233,303 @@
       "expires_at": "2026-10-31T06:59:00+00:00",
       "sent_at": "2026-09-12T10:14:20.226Z",
       "type": "new"
+    },
+    "1546358702544658462": {
+      "id": "1546358702544658462",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-12T12:00:00+00:00",
+        "expires_at": "2026-09-28T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://gsght.com/c/qriuej",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1546358702544658462/1547434219989368842.jpg",
+          "hero_video": "quests/1546358702544658462/1547435156975915018_720.mp4",
+          "quest_bar_hero_blurhash": "mygKFIIjCZkNloh2l4dgHhf8gA==",
+          "quest_bar_hero": "quests/1546358702544658462/1547434245331484693.jpg",
+          "quest_bar_hero_video": "quests/1546358702544658462/1547434918643236924_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1546358702544658462/1547434147100889208.png",
+          "game_tile_dark": "quests/1546358702544658462/1547434147100889208.png",
+          "logotype_light": "quests/1546358702544658462/1547434168353427497.png",
+          "logotype_dark": "quests/1546358702544658462/1547434168361947147.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
+          "game_title": "Marvel Rivals",
+          "game_publisher": "NetEase Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 85,
+              "assets": {
+                "video": {
+                  "url": "quests/1546358702544658462/1547434279317938246_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1546358702544658462/1547434279317938246_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
+                },
+                "video_hls": {
+                  "url": "quests/1546358702544658462/1547434279317938246.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 85,
+              "assets": {
+                "video": {
+                  "url": "quests/1546358702544658462/1547434280874020955_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1546358702544658462/1547434280874020955_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
+                },
+                "video_hls": {
+                  "url": "quests/1546358702544658462/1547434280874020955.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://gsght.com/c/qriuej",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFJpdmFscyBTMTA6IHZlcmlmeSBzY2hvb2wgZW1haWwsIGdldCAxMCBmcmVlIHRyaWFsIGNvc3R1bWVzIiwiZ2FtZV90aXRsZSI6Ik1hcnZlbCBSaXZhbHMiLCJnYW1lX3B1Ymxpc2hlciI6Ik5ldEVhc2UgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xMlQxMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODV9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ2MzU4NzAyNTQ0NjU4NDYyLzE1NDc0MzQyMTk5ODkzNjg4NDIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ2MzU4NzAyNTQ0NjU4NDYyLzE1NDc0MzUxNTY5NzU5MTUwMThfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-12T12:00:00+00:00",
+      "expires_at": "2026-10-28T00:00:00+00:00",
+      "sent_at": "2026-09-12T15:08:46.656Z",
+      "type": "new"
+    },
+    "1547678204398014494": {
+      "id": "1547678204398014494",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-12T12:00:00+00:00",
+        "expires_at": "2026-09-28T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://gsght.com/c/qriuej",
+          "id": "1314395942253756416",
+          "name": "Marvel Rivals"
+        },
+        "assets": {
+          "hero": "quests/1546355323118420009/1547443173155020860.jpg",
+          "hero_video": "quests/1546355323118420009/1547443232709935265_720.mp4",
+          "quest_bar_hero_blurhash": "mygKFIIjCZkNloh2l4dgHhf8gA==",
+          "quest_bar_hero": "quests/1546355323118420009/1547443173071126608.jpg",
+          "quest_bar_hero_video": "quests/1546355323118420009/1547443264058040420_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1546355323118420009/1547432204274110534.png",
+          "game_tile_dark": "quests/1546355323118420009/1547432204274110534.png",
+          "logotype_light": "quests/1546355323118420009/1547432227124547594.png",
+          "logotype_dark": "quests/1546355323118420009/1547432227028336811.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
+          "game_title": "Marvel Rivals",
+          "game_publisher": "NetEase Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://gsght.com/c/qriuej",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFJpdmFscyBTMTA6IHZlcmlmeSBzY2hvb2wgZW1haWwsIGdldCAxMCBmcmVlIHRyaWFsIGNvc3R1bWVzIiwiZ2FtZV90aXRsZSI6Ik1hcnZlbCBSaXZhbHMiLCJnYW1lX3B1Ymxpc2hlciI6Ik5ldEVhc2UgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjEzMTQzOTU5NDIyNTM3NTY0MTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiTWFydmVsIFJpdmFscyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTJUMTI6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDYzNTUzMjMxMTg0MjAwMDkvMTU0NzQ0MzE3MzE1NTAyMDg2MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDYzNTUzMjMxMTg0MjAwMDkvMTU0NzQ0MzIzMjcwOTkzNTI2NV83MjAubXA0In0=",
+      "starts_at": "2026-09-12T12:00:00+00:00",
+      "expires_at": "2026-10-28T00:00:00+00:00",
+      "sent_at": "2026-09-12T15:08:48.124Z",
+      "type": "new"
+    },
+    "1546355323118420009": {
+      "id": "1546355323118420009",
+      "config": {
+        "id": "1546355323118420009",
+        "config_version": 2,
+        "starts_at": "2026-09-12T12:00:00+00:00",
+        "expires_at": "2026-09-28T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://gsght.com/c/qriuej",
+          "id": "1314395942253756416",
+          "name": "Marvel Rivals"
+        },
+        "assets": {
+          "hero": "quests/1546355323118420009/1547432270531403807.jpg",
+          "quest_bar_hero_blurhash": "mScKHIRwYVlaW1qReWlghvVnKg==",
+          "quest_bar_hero": "quests/1546355323118420009/1547432270627995769.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1546355323118420009/1547432204274110534.png",
+          "game_tile_dark": "quests/1546355323118420009/1547432204274110534.png",
+          "logotype_light": "quests/1546355323118420009/1547432227124547594.png",
+          "logotype_dark": "quests/1546355323118420009/1547432227028336811.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
+          "game_title": "Marvel Rivals",
+          "game_publisher": "NetEase Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1314395942253756416"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://gsght.com/c/qriuej",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFJpdmFscyBTMTA6IHZlcmlmeSBzY2hvb2wgZW1haWwsIGdldCAxMCBmcmVlIHRyaWFsIGNvc3R1bWVzIiwiZ2FtZV90aXRsZSI6Ik1hcnZlbCBSaXZhbHMiLCJnYW1lX3B1Ymxpc2hlciI6Ik5ldEVhc2UgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjEzMTQzOTU5NDIyNTM3NTY0MTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiTWFydmVsIFJpdmFscyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTJUMTI6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDYzNTUzMjMxMTg0MjAwMDkvMTU0NzQzMjI3MDUzMTQwMzgwNy5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-09-12T12:00:00+00:00",
+      "expires_at": "2026-10-28T00:00:00+00:00",
+      "sent_at": "2026-09-12T15:08:49.549Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-12T10:14:21.364Z"
+  "last_check": "2026-09-12T15:08:50.653Z"
 }
