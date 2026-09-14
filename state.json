@@ -4970,99 +4970,6 @@
       "sent_at": "2026-09-03T20:37:10.020Z",
       "type": "new"
     },
-    "1536465227946926190": {
-      "id": "1536465227946926190",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-04T16:00:00+00:00",
-        "expires_at": "2026-09-14T06:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://theuprising.movie",
-          "id": "1534944074153463858",
-          "name": "Revolt"
-        },
-        "assets": {
-          "hero": "quests/1536465227946926190/1545104910583079073.jpg",
-          "hero_video": "quests/1536465227946926190/1544751089776201788_720.mp4",
-          "quest_bar_hero_blurhash": "0vcJAoAwhnZrd3d4r4P4h5Y=",
-          "quest_bar_hero": "quests/1536465227946926190/1545104910583079073.jpg",
-          "quest_bar_hero_video": "quests/1536465227946926190/1544751089776201788_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536465227946926190/1544749823838781470.png",
-          "game_tile_dark": "quests/1536465227946926190/1544749823838781470.png",
-          "logotype_light": "quests/1536465227946926190/1544749952280821790.png",
-          "logotype_dark": "quests/1536465227946926190/1544753521864474724.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The Uprising",
-          "game_title": "The Uprising | In Theaters Now",
-          "game_publisher": "Focus Features"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1534944074153463858"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "The Uprising",
-                "task_description": "Lead The Uprising by making it to London Bridge and earn 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-14T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://theuprising.movie",
-          "button_label": "Get Tickets",
-          "subtitle": "The Uprising | In Theaters Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFVwcmlzaW5nIiwiZ2FtZV90aXRsZSI6IlRoZSBVcHJpc2luZyB8IEluIFRoZWF0ZXJzIE5vdyIsImdhbWVfcHVibGlzaGVyIjoiRm9jdXMgRmVhdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1MzQ5NDQwNzQxNTM0NjM4NTgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiUmV2b2x0Iiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wNFQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTE0VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM2NDY1MjI3OTQ2OTI2MTkwLzE1NDUxMDQ5MTA1ODMwNzkwNzMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM2NDY1MjI3OTQ2OTI2MTkwLzE1NDQ3NTEwODk3NzYyMDE3ODhfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-04T16:00:00+00:00",
-      "expires_at": "2026-09-14T06:59:00+00:00",
-      "sent_at": "2026-09-04T20:23:06.214Z",
-      "type": "updated",
-      "updated_at": "2026-09-11T03:27:03.510Z"
-    },
     "1545079125243600947": {
       "id": "1545079125243600947",
       "config": {
@@ -5407,109 +5314,6 @@
       "expires_at": "2026-10-08T06:59:00+00:00",
       "sent_at": "2026-09-04T20:23:11.635Z",
       "type": "new"
-    },
-    "1539692903037796422": {
-      "id": "1539692903037796422",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-04T17:00:00+00:00",
-        "expires_at": "2026-09-14T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.capcom-games.com/onimusha/ws/",
-          "id": "1512292746889662576",
-          "name": "Onimusha: Way of the Sword"
-        },
-        "assets": {
-          "hero": "quests/1539692903037796422/1539693705773060167.jpg",
-          "quest_bar_hero_blurhash": "UhgKDIKWmYhvh3mIqHqf/vb4nw==",
-          "quest_bar_hero": "quests/1539692903037796422/1539693640031404032.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1539692903037796422/1539693513761886278.png",
-          "game_tile_dark": "quests/1539692903037796422/1539693513761886278.png",
-          "logotype_light": "quests/1539692903037796422/1539693570460749905.png",
-          "logotype_dark": "quests/1539692903037796422/1539693570460749905.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Onimusha: Way of the Sword Demo",
-          "game_title": "Onimusha: Way of the Sword (Demo)",
-          "game_publisher": "CAPCOM"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1512292746889662576"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1512292746889662576"
-                }
-              ],
-              "external_ids": []
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1512292746889662576"
-                }
-              ],
-              "external_ids": []
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-14T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.capcom-games.com/onimusha/ws/",
-          "button_label": "Play Free Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT25pbXVzaGE6IFdheSBvZiB0aGUgU3dvcmQgRGVtbyIsImdhbWVfdGl0bGUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCAoRGVtbykiLCJnYW1lX3B1Ymxpc2hlciI6IkNBUENPTSIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMjI5Mjc0Njg4OTY2MjU3NiIsImFwcGxpY2F0aW9uX25hbWUiOiJPbmltdXNoYTogV2F5IG9mIHRoZSBTd29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDRUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xNFQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xNFQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzOTY5MjkwMzAzNzc5NjQyMi8xNTM5NjkzNzA1NzczMDYwMTY3LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
-      "starts_at": "2026-09-04T17:00:00+00:00",
-      "expires_at": "2026-09-14T06:59:00+00:00",
-      "sent_at": "2026-09-04T20:23:13.022Z",
-      "type": "updated",
-      "updated_at": "2026-09-12T03:32:33.164Z"
     },
     "1541855122747953324": {
       "id": "1541855122747953324",
@@ -9964,7 +9768,137 @@
       "expires_at": "2026-10-20T21:59:00+00:00",
       "sent_at": "2026-09-14T03:47:49.024Z",
       "type": "new"
+    },
+    "1547328231630446672": {
+      "id": "1547328231630446672",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-14T03:00:00+00:00",
+        "expires_at": "2026-09-21T02:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "http://www.ilhaesquecidafilme.com.br/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547328231630446672/1547342515802214420.jpg",
+          "hero_video": "quests/1547328231630446672/1547342568344264724_720.mp4",
+          "quest_bar_hero_blurhash": "0fcJDIKKd4iTeHdwh2i7cIw/6w==",
+          "quest_bar_hero": "quests/1547328231630446672/1547342436014231652.jpg",
+          "quest_bar_hero_video": "quests/1547328231630446672/1547342568344264724_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547328231630446672/1547342456687697980.png",
+          "game_tile_dark": "quests/1547328231630446672/1547342456687697980.png",
+          "logotype_light": "quests/1547328231630446672/1547342472256950333.png",
+          "logotype_dark": "quests/1547328231630446672/1547342472256950333.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "A Ilha Esquecida",
+          "game_title": "24 de setembro nos cinemas",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1547328231630446672/1547342421199822868_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547328231630446672/1547342488174465165.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1547328231630446672/1547342421199822868_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547328231630446672/1547342488174465165.png"
+                },
+                "video_hls": {
+                  "url": "quests/1547328231630446672/1547342421199822868.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547328231630446672/1547342488174465165.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1547328231630446672/1547342421312938126_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547328231630446672/1547342488174465165.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1547328231630446672/1547342421312938126_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547328231630446672/1547342488174465165.png"
+                },
+                "video_hls": {
+                  "url": "quests/1547328231630446672/1547342421312938126.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547328231630446672/1547342488174465165.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-21T02:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "http://www.ilhaesquecidafilme.com.br/",
+          "button_label": "Learn More",
+          "subtitle": "24 de setembro nos cinemas"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQSBJbGhhIEVzcXVlY2lkYSIsImdhbWVfdGl0bGUiOiIyNCBkZSBzZXRlbWJybyBub3MgY2luZW1hcyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTRUMDM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yMVQwMjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yMVQwMjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo1OX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo1OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczMjgyMzE2MzA0NDY2NzIvMTU0NzM0MjUxNTgwMjIxNDQyMC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDczMjgyMzE2MzA0NDY2NzIvMTU0NzM0MjU2ODM0NDI2NDcyNF83MjAubXA0In0=",
+      "starts_at": "2026-09-14T03:00:00+00:00",
+      "expires_at": "2026-10-21T02:59:00+00:00",
+      "sent_at": "2026-09-14T12:02:15.587Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-14T03:47:50.131Z"
+  "last_check": "2026-09-14T12:02:16.693Z"
 }
