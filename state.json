@@ -5549,7 +5549,7 @@
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1541517876953878650/1545168922376933396.jpg",
+          "hero": "quests/1541517876953878650/1549458038954532986.jpg",
           "hero_video": "quests/1541517876953878650/1544741413315416204_720.mp4",
           "quest_bar_hero_blurhash": "RwgGDIIHaKtshZeWh4QFfkXQVw==",
           "quest_bar_hero": "quests/1541517876953878650/1545168922431594549.jpg",
@@ -5604,19 +5604,19 @@
               "target": 56,
               "assets": {
                 "video": {
-                  "url": "quests/1541517876953878650/1544755056421769338_1080.mp4",
+                  "url": "quests/1541517876953878650/1548118441016430622_1080.mp4",
                   "width": 1080,
                   "height": 1920,
                   "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1541517876953878650/1544755056421769338_720.mp4",
+                  "url": "quests/1541517876953878650/1548118441016430622_720.mp4",
                   "width": 1080,
                   "height": 1920,
                   "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1541517876953878650/1544755056421769338.m3u8",
+                  "url": "quests/1541517876953878650/1548118441016430622.m3u8",
                   "width": 1080,
                   "height": 1920,
                   "thumbnail": "quests/1541517876953878650/1545168922213482546.jpg"
@@ -5661,12 +5661,12 @@
           "subtitle": "Resident Evil - Filmed for IMAX - in theatres Thursday"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgVGh1cnNkYXkiLCJnYW1lX3B1Ymxpc2hlciI6IlNvbnkgUGljdHVyZXMgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA1VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjUyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU2fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTUxNzg3Njk1Mzg3ODY1MC8xNTQ1MTY4OTIyMzc2OTMzMzk2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTUxNzg3Njk1Mzg3ODY1MC8xNTQ0NzQxNDEzMzE1NDE2MjA0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJSZXNpZGVudCBFdmlsIC0gRmlsbWVkIGZvciBJTUFYIC0gaW4gdGhlYXRyZXMgVGh1cnNkYXkiLCJnYW1lX3B1Ymxpc2hlciI6IlNvbnkgUGljdHVyZXMgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA1VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjUyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjU2fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTUxNzg3Njk1Mzg3ODY1MC8xNTQ5NDU4MDM4OTU0NTMyOTg2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTUxNzg3Njk1Mzg3ODY1MC8xNTQ0NzQxNDEzMzE1NDE2MjA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-09-05T17:00:00+00:00",
       "expires_at": "2026-09-21T00:00:00+00:00",
       "sent_at": "2026-09-05T20:01:18.113Z",
       "type": "updated",
-      "updated_at": "2026-09-11T20:36:06.412Z"
+      "updated_at": "2026-09-15T20:56:53.712Z"
     },
     "1544426987215527988": {
       "id": "1544426987215527988",
@@ -10521,7 +10521,629 @@
       "expires_at": "2026-10-30T00:00:00+00:00",
       "sent_at": "2026-09-15T16:27:04.510Z",
       "type": "new"
+    },
+    "1544553334097190922": {
+      "id": "1544553334097190922",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-15T17:00:00+00:00",
+        "expires_at": "2026-10-01T00:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://pageload.itddo2.com/v2/app-landing/prod/index.html?o2_id=1549&container_id=GTM-5DDSWRK8&o2_app_id=107897&o2_ascribe=3",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1544553334097190922/1547130566976208896.jpg",
+          "hero_video": "quests/1544553334097190922/1547073055854174298_720.mp4",
+          "quest_bar_hero_blurhash": "zqYJGopAmVeVl5Z3v2r1ylY=",
+          "quest_bar_hero": "quests/1544553334097190922/1547130566976208896.jpg",
+          "quest_bar_hero_video": "quests/1544553334097190922/1547072966443929690_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1544553334097190922/1547072817999388692.png",
+          "game_tile_dark": "quests/1544553334097190922/1547072817999388692.png",
+          "logotype_light": "quests/1544553334097190922/1547779727438258267.png",
+          "logotype_dark": "quests/1544553334097190922/1547779728923168908.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Dragonheir: Chaos Revelry",
+          "game_title": "Dragonstride: Legacy Reborn",
+          "game_publisher": "Level Infinite"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 45,
+              "assets": {
+                "video": {
+                  "url": "quests/1544553334097190922/1547072817785339955_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544553334097190922/1547072818016030880.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1544553334097190922/1547072817785339955_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544553334097190922/1547072818016030880.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1544553334097190922/1547072817785339955.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544553334097190922/1547072818016030880.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.sgra.dragon"
+          },
+          "ios": {
+            "ios_app_id": "1668757233"
+          },
+          "link": "https://pageload.itddo2.com/v2/app-landing/prod/index.html?o2_id=1549&container_id=GTM-5DDSWRK8&o2_app_id=107897&o2_ascribe=3",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRHJhZ29uaGVpcjogQ2hhb3MgUmV2ZWxyeSIsImdhbWVfdGl0bGUiOiJEcmFnb25zdHJpZGU6IExlZ2FjeSBSZWJvcm4iLCJnYW1lX3B1Ymxpc2hlciI6IkxldmVsIEluZmluaXRlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ0NTUzMzM0MDk3MTkwOTIyLzE1NDcxMzA1NjY5NzYyMDg4OTYuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ0NTUzMzM0MDk3MTkwOTIyLzE1NDcwNzMwNTU4NTQxNzQyOThfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-15T17:00:00+00:00",
+      "expires_at": "2026-10-31T00:00:00+00:00",
+      "sent_at": "2026-09-15T20:56:41.874Z",
+      "type": "new"
+    },
+    "1544550568742101012": {
+      "id": "1544550568742101012",
+      "config": {
+        "id": "1544550568742101012",
+        "config_version": 2,
+        "starts_at": "2026-09-15T17:00:00+00:00",
+        "expires_at": "2026-10-01T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://pageload.itddo2.com/o2-gtm/sdk/page/transfer.html?o2_app_id=107897&page_id=10789702&o2_ascribe=4&page_sort=3&utm_source=discord&utm_campaign=dragonheir_quest_2609&utm_term=pc&utm_content=video_quest&utm_medium=32648&steam_path=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2203070%2FDragonheir_Silent_Gods%2F",
+          "id": "1168655587958063205",
+          "name": "Dragonheir"
+        },
+        "assets": {
+          "hero": "quests/1544550568742101012/1547129380038381598.jpg",
+          "hero_video": "quests/1544550568742101012/1547068700685893632_720.mp4",
+          "quest_bar_hero_blurhash": "zqYJGopAmVeVl5Z3v2r1ylY=",
+          "quest_bar_hero": "quests/1544550568742101012/1547129380038381598.jpg",
+          "quest_bar_hero_video": "quests/1544550568742101012/1547068489921986690_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1544550568742101012/1547068181154365460.png",
+          "game_tile_dark": "quests/1544550568742101012/1547068181154365460.png",
+          "logotype_light": "quests/1544550568742101012/1547781017794912366.png",
+          "logotype_dark": "quests/1544550568742101012/1547781016398073917.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Dragonheir: Chaos Revelry",
+          "game_title": "Dragonstride: Legacy Reborn",
+          "game_publisher": "Level Infinite"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1168655587958063205"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pageload.itddo2.com/o2-gtm/sdk/page/transfer.html?o2_app_id=107897&page_id=10789702&o2_ascribe=4&page_sort=3&utm_source=discord&utm_campaign=dragonheir_quest_2609&utm_term=pc&utm_content=video_quest&utm_medium=32648&steam_path=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2203070%2FDragonheir_Silent_Gods%2F",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRHJhZ29uaGVpcjogQ2hhb3MgUmV2ZWxyeSIsImdhbWVfdGl0bGUiOiJEcmFnb25zdHJpZGU6IExlZ2FjeSBSZWJvcm4iLCJnYW1lX3B1Ymxpc2hlciI6IkxldmVsIEluZmluaXRlIiwiYXBwbGljYXRpb25faWQiOiIxMTY4NjU1NTg3OTU4MDYzMjA1IiwiYXBwbGljYXRpb25fbmFtZSI6IkRyYWdvbmhlaXIiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE1VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ0NTUwNTY4NzQyMTAxMDEyLzE1NDcxMjkzODAwMzgzODE1OTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ0NTUwNTY4NzQyMTAxMDEyLzE1NDcwNjg3MDA2ODU4OTM2MzJfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-15T17:00:00+00:00",
+      "expires_at": "2026-10-31T00:00:00+00:00",
+      "sent_at": "2026-09-15T20:56:43.234Z",
+      "type": "new"
+    },
+    "1547065378205736991": {
+      "id": "1547065378205736991",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-15T17:00:00+00:00",
+        "expires_at": "2026-10-01T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://pageload.itddo2.com/o2-gtm/sdk/page/transfer.html?o2_app_id=107897&page_id=10789703&o2_ascribe=4&page_sort=3&utm_source=discord&utm_campaign=dragonheir_quest_tw_2609&utm_term=pc&utm_content=video_quest&utm_medium=32648&steam_path=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3795380%2F_%2F",
+          "id": "1168655587958063205",
+          "name": "Dragonheir"
+        },
+        "assets": {
+          "hero": "quests/1547065378205736991/1547129908906565702.jpg",
+          "hero_video": "quests/1547065378205736991/1547069993965981766_720.mp4",
+          "quest_bar_hero_blurhash": "zqYJGopAmVeVl5Z3v2r1ylY=",
+          "quest_bar_hero": "quests/1547065378205736991/1547129908906565702.jpg",
+          "quest_bar_hero_video": "quests/1547065378205736991/1547069911577272410_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547065378205736991/1547069754404110366.png",
+          "game_tile_dark": "quests/1547065378205736991/1547069754404110366.png",
+          "logotype_light": "quests/1547065378205736991/1547781351577751582.png",
+          "logotype_dark": "quests/1547065378205736991/1547781351464247356.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Dragonheir: Chaos Revelry",
+          "game_title": "Dragonstride: Legacy Reborn",
+          "game_publisher": "Level Infinite"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1168655587958063205"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pageload.itddo2.com/o2-gtm/sdk/page/transfer.html?o2_app_id=107897&page_id=10789703&o2_ascribe=4&page_sort=3&utm_source=discord&utm_campaign=dragonheir_quest_tw_2609&utm_term=pc&utm_content=video_quest&utm_medium=32648&steam_path=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3795380%2F_%2F",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRHJhZ29uaGVpcjogQ2hhb3MgUmV2ZWxyeSIsImdhbWVfdGl0bGUiOiJEcmFnb25zdHJpZGU6IExlZ2FjeSBSZWJvcm4iLCJnYW1lX3B1Ymxpc2hlciI6IkxldmVsIEluZmluaXRlIiwiYXBwbGljYXRpb25faWQiOiIxMTY4NjU1NTg3OTU4MDYzMjA1IiwiYXBwbGljYXRpb25fbmFtZSI6IkRyYWdvbmhlaXIiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE1VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NzA2NTM3ODIwNTczNjk5MS8xNTQ3MTI5OTA4OTA2NTY1NzAyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0NzA2NTM3ODIwNTczNjk5MS8xNTQ3MDY5OTkzOTY1OTgxNzY2XzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-15T17:00:00+00:00",
+      "expires_at": "2026-10-31T00:00:00+00:00",
+      "sent_at": "2026-09-15T20:56:45.472Z",
+      "type": "new"
+    },
+    "1544963709678522439": {
+      "id": "1544963709678522439",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-15T17:00:00+00:00",
+        "expires_at": "2026-10-01T00:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://pageload.itddo2.com/v2/app-landing/prod/index.html?o2_id=1549&container_id=GTM-5DDSWRK8&o2_app_id=107897&o2_ascribe=3",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1544963709678522439/1547130826230206464.jpg",
+          "hero_video": "quests/1544963709678522439/1547078669799792660_720.mp4",
+          "quest_bar_hero_blurhash": "zqYJGopAmVeVl5Z3v2r1ylY=",
+          "quest_bar_hero": "quests/1544963709678522439/1547130826230206464.jpg",
+          "quest_bar_hero_video": "quests/1544963709678522439/1547078502069829734_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1544963709678522439/1547078179334918144.png",
+          "game_tile_dark": "quests/1544963709678522439/1547078179334918144.png",
+          "logotype_light": "quests/1544963709678522439/1547780267379396739.png",
+          "logotype_dark": "quests/1544963709678522439/1547780267433787503.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Dragonheir: Chaos Revelry",
+          "game_title": "Dragonstride: Legacy Reborn",
+          "game_publisher": "Level Infinite"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 45,
+              "assets": {
+                "video": {
+                  "url": "quests/1544963709678522439/1547078177354940436_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544963709678522439/1547078177334108231.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1544963709678522439/1547078177354940436_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544963709678522439/1547078177334108231.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1544963709678522439/1547078177354940436.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1544963709678522439/1547078177334108231.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.sgra.dragonzhtw"
+          },
+          "ios": {
+            "ios_app_id": "6746432809"
+          },
+          "link": "https://pageload.itddo2.com/v2/app-landing/prod/index.html?o2_id=1549&container_id=GTM-5DDSWRK8&o2_app_id=107897&o2_ascribe=3",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRHJhZ29uaGVpcjogQ2hhb3MgUmV2ZWxyeSIsImdhbWVfdGl0bGUiOiJEcmFnb25zdHJpZGU6IExlZ2FjeSBSZWJvcm4iLCJnYW1lX3B1Ymxpc2hlciI6IkxldmVsIEluZmluaXRlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjQ1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NDk2MzcwOTY3ODUyMjQzOS8xNTQ3MTMwODI2MjMwMjA2NDY0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0NDk2MzcwOTY3ODUyMjQzOS8xNTQ3MDc4NjY5Nzk5NzkyNjYwXzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-15T17:00:00+00:00",
+      "expires_at": "2026-10-31T00:00:00+00:00",
+      "sent_at": "2026-09-15T20:56:47.217Z",
+      "type": "new"
+    },
+    "1547897426755457146": {
+      "id": "1547897426755457146",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-15T17:00:00+00:00",
+        "expires_at": "2026-09-30T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.deepsilver.com/games/metro2039/mlp-wl?utm_source=discord_us&utm_medium=paid&utm_campaign=metro2039_gamescom&utm_term=discord&utm_content=videoquest&redirect=false",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547897426755457146/1547898373330309160.jpg",
+          "hero_video": "quests/1547897426755457146/1547898519535230997_720.mp4",
+          "quest_bar_hero_blurhash": "FTkKRIxXKKWcZomwZ5SPmfeZiA==",
+          "quest_bar_hero": "quests/1547897426755457146/1547898373561122876.jpg",
+          "quest_bar_hero_video": "quests/1547897426755457146/1547898513214668810_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547897426755457146/1547898373506342953.png",
+          "game_tile_dark": "quests/1547897426755457146/1547898373476982834.png",
+          "logotype_light": "quests/1547897426755457146/1547898373380644984.png",
+          "logotype_dark": "quests/1547897426755457146/1547898373380636672.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "METRO 2039",
+          "game_title": "METRO 2039",
+          "game_publisher": "Plaion"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547897426755457146/1547898374324494386_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547897426755457146/1547898373561122876.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547897426755457146/1547898374324494386_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547897426755457146/1547898373561122876.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547897426755457146/1547898374324494386.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547897426755457146/1547898373561122876.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547897426755457146/1547898373464395786_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547897426755457146/1547898373561122876.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547897426755457146/1547898373464395786_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547897426755457146/1547898373561122876.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547897426755457146/1547898373464395786.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547897426755457146/1547898373561122876.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-30T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.deepsilver.com/games/metro2039/mlp-wl?utm_source=discord_us&utm_medium=paid&utm_campaign=metro2039_gamescom&utm_term=discord&utm_content=videoquest&redirect=false",
+          "button_label": "Wishlist Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTUVUUk8gMjAzOSIsImdhbWVfdGl0bGUiOiJNRVRSTyAyMDM5IiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGFpb24iLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTMwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTMwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0Nzg5NzQyNjc1NTQ1NzE0Ni8xNTQ3ODk4MzczMzMwMzA5MTYwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0Nzg5NzQyNjc1NTQ1NzE0Ni8xNTQ3ODk4NTE5NTM1MjMwOTk3XzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-15T17:00:00+00:00",
+      "expires_at": "2026-10-30T00:00:00+00:00",
+      "sent_at": "2026-09-15T20:56:50.453Z",
+      "type": "new"
+    },
+    "1547895090830250055": {
+      "id": "1547895090830250055",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-15T18:00:00+00:00",
+        "expires_at": "2026-09-28T22:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547895090830250055/1547951058309877770.jpg",
+          "quest_bar_hero_blurhash": "GdcJJIQYd0iPeIZwhngHcocAhw==",
+          "quest_bar_hero": "quests/1547895090830250055/1547951081353519187.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547895090830250055/1547951013405917304.png",
+          "game_tile_dark": "quests/1547895090830250055/1547951013405917304.png",
+          "logotype_light": "quests/1547895090830250055/1547951013279830187.png",
+          "logotype_dark": "quests/1547895090830250055/1547951013279830187.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": " Invincible: Guarding the Globe ",
+          "game_title": " Invincible: Guarding the Globe ",
+          "game_publisher": "Ubisoft Mobile"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547895090830250055/1547951013183496292_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547895090830250055/1547951013183496292_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547895090830250055/1547951013183496292.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T22:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.ubisoft.invincible.guardians.globe.idle.superhero.rpg.battle.afk"
+          },
+          "ios": {
+            "ios_app_id": "6449294809"
+          },
+          "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiIEludmluY2libGU6IEd1YXJkaW5nIHRoZSBHbG9iZSAiLCJnYW1lX3RpdGxlIjoiIEludmluY2libGU6IEd1YXJkaW5nIHRoZSBHbG9iZSAiLCJnYW1lX3B1Ymxpc2hlciI6IlViaXNvZnQgTW9iaWxlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTVUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQyMjowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQyMjowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3ODk1MDkwODMwMjUwMDU1LzE1NDc5NTEwNTgzMDk4Nzc3NzAuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-15T18:00:00+00:00",
+      "expires_at": "2026-10-28T22:00:00+00:00",
+      "sent_at": "2026-09-15T20:56:52.382Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-15T16:27:07.425Z"
+  "last_check": "2026-09-15T20:56:54.817Z"
 }
