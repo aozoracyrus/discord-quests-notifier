@@ -3856,11 +3856,11 @@
           "name": "Where Winds Meet"
         },
         "assets": {
-          "hero": "quests/1541642467881783337/1541660628853194883.jpg",
-          "hero_video": "quests/1541642467881783337/1541660837800841216_720.mp4",
-          "quest_bar_hero_blurhash": "lTkKFIIHloedhIdhiXkJmgSY3A==",
-          "quest_bar_hero": "quests/1541642467881783337/1541660667390599249.jpg",
-          "quest_bar_hero_video": "quests/1541642467881783337/1541660722499559506_720.mp4",
+          "hero": "quests/1541642467881783337/1549183759625232404.jpg",
+          "hero_video": "quests/1541642467881783337/1549448468622475305_720.mp4",
+          "quest_bar_hero_blurhash": "GXoKFIRAJ6mIdImDiIdweAOoVg==",
+          "quest_bar_hero": "quests/1541642467881783337/1549183682332459169.jpg",
+          "quest_bar_hero_video": "quests/1541642467881783337/1549448358110699540_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
@@ -3931,11 +3931,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0MTY2MDYyODg1MzE5NDg4My5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0MTY2MDgzNzgwMDg0MTIxNl83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0OTE4Mzc1OTYyNTIzMjQwNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0OTQ0ODQ2ODYyMjQ3NTMwNV83MjAubXA0In0=",
       "starts_at": "2026-09-01T07:00:00+00:00",
-      "expires_at": "2026-10-31T06:59:00+00:00",
+      "expires_at": "2026-10-01T06:59:00+00:00",
       "sent_at": "2026-09-01T08:22:32.916Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-15T16:27:06.318Z"
     },
     "1542308634728464455": {
       "id": "1542308634728464455",
@@ -5666,137 +5667,6 @@
       "sent_at": "2026-09-05T20:01:18.113Z",
       "type": "updated",
       "updated_at": "2026-09-11T20:36:06.412Z"
-    },
-    "1544416823662088333": {
-      "id": "1544416823662088333",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-06T14:00:00+00:00",
-        "expires_at": "2026-09-15T13:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "http://forgottenislandmovie.com.au/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1544416823662088333/1544424869712760862.jpg",
-          "hero_video": "quests/1544416823662088333/1547741490720022538_720.mp4",
-          "quest_bar_hero_blurhash": "0fcJDIKKeIiTeHdwh2i7YIw/6g==",
-          "quest_bar_hero": "quests/1544416823662088333/1544425742467862760.jpg",
-          "quest_bar_hero_video": "quests/1544416823662088333/1547741490720022538_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1544416823662088333/1544424809713107076.png",
-          "game_tile_dark": "quests/1544416823662088333/1544424809713107076.png",
-          "logotype_light": "quests/1544416823662088333/1544424827526582404.png",
-          "logotype_dark": "quests/1544416823662088333/1544424827526582404.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Forgotten Island",
-          "game_title": "In Cinemas September 17",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1544416823662088333/1547741677773390004_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544416823662088333/1547741677773390004_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544416823662088333/1547741677773390004.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1544416823662088333/1547741678494949426_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544416823662088333/1547741678494949426_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544416823662088333/1547741678494949426.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544416823662088333/1545533842922803230.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-15T13:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "http://forgottenislandmovie.com.au/",
-          "button_label": "Get Tickets",
-          "subtitle": "In Cinemas September 17"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxNyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDZUMTQ6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xNVQxMzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xNVQxMzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MTY4MjM2NjIwODgzMzMvMTU0NDQyNDg2OTcxMjc2MDg2Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDQ0MTY4MjM2NjIwODgzMzMvMTU0Nzc0MTQ5MDcyMDAyMjUzOF83MjAubXA0In0=",
-      "starts_at": "2026-09-06T14:00:00+00:00",
-      "expires_at": "2026-09-15T13:59:00+00:00",
-      "sent_at": "2026-09-06T15:03:11.142Z",
-      "type": "updated",
-      "updated_at": "2026-09-11T03:27:05.040Z"
     },
     "1544426987215527988": {
       "id": "1544426987215527988",
@@ -10519,7 +10389,139 @@
       "expires_at": "2026-10-30T06:59:00+00:00",
       "sent_at": "2026-09-15T11:16:38.906Z",
       "type": "new"
+    },
+    "1547905303356383283": {
+      "id": "1547905303356383283",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-15T15:30:00+00:00",
+        "expires_at": "2026-09-30T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://dragonwilds.runescape.com/platforms",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547905303356383283/1547908519468990484.jpg",
+          "hero_video": "quests/1547905303356383283/1547908784750469261_720.mp4",
+          "quest_bar_hero_blurhash": "kigKFIQyamdrl3mAaJJp0HcHnQ==",
+          "quest_bar_hero": "quests/1547905303356383283/1547908519507001466.jpg",
+          "quest_bar_hero_video": "quests/1547905303356383283/1547908772351967332_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547905303356383283/1547908519569788970.png",
+          "game_tile_dark": "quests/1547905303356383283/1547908519569788970.png",
+          "logotype_light": "quests/1547905303356383283/1549439662941147207.png",
+          "logotype_dark": "quests/1547905303356383283/1549439439791460523.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "RuneScape: Dragonwilds",
+          "game_title": "RuneScape: Dragonwilds",
+          "game_publisher": "Jagex"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 100,
+              "assets": {
+                "video": {
+                  "url": "quests/1547905303356383283/1547908918758342686_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547905303356383283/1547908918758342686_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547905303356383283/1547908918758342686.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 100,
+              "assets": {
+                "video": {
+                  "url": "quests/1547905303356383283/1547908918758342686_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547905303356383283/1547908918758342686_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547905303356383283/1547908918758342686.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1547905303356383283/1547908519507001466.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1549428276177543198",
+              "asset": "quests/1547905303356383283/1549428607934406666.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Dragonwilds Avatar Decoration",
+                "name_with_article": "a Dragonwilds Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-10-30T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-10-30T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://dragonwilds.runescape.com/platforms",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUnVuZVNjYXBlOiBEcmFnb253aWxkcyIsImdhbWVfdGl0bGUiOiJSdW5lU2NhcGU6IERyYWdvbndpbGRzIiwiZ2FtZV9wdWJsaXNoZXIiOiJKYWdleCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE1VDE1OjMwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMzBUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzBUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjEwMH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxMDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3OTA1MzAzMzU2MzgzMjgzLzE1NDc5MDg1MTk0Njg5OTA0ODQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ3OTA1MzAzMzU2MzgzMjgzLzE1NDc5MDg3ODQ3NTA0NjkyNjFfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-15T15:30:00+00:00",
+      "expires_at": "2026-10-30T00:00:00+00:00",
+      "sent_at": "2026-09-15T16:27:04.510Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-15T11:16:40.009Z"
+  "last_check": "2026-09-15T16:27:07.425Z"
 }
