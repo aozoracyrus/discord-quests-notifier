@@ -7407,7 +7407,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-09-10T17:00:00+00:00",
-        "expires_at": "2026-09-18T00:00:00+00:00",
+        "expires_at": "2026-09-21T06:59:00+00:00",
         "features": [
           15
         ],
@@ -7513,7 +7513,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-18T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-21T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -7525,11 +7525,12 @@
           "subtitle": "In Cinemas September 17"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxNyIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTBUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo1M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ4MDQzNjYyOTUzNzU5MDMvMTU0NzM1MTg1MDQ4NTk0ODQ2Ny5qcGVnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAxNyIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTBUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo1M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ4MDQzNjYyOTUzNzU5MDMvMTU0NzM1MTg1MDQ4NTk0ODQ2Ny5qcGVnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-09-10T17:00:00+00:00",
-      "expires_at": "2026-10-18T00:00:00+00:00",
+      "expires_at": "2026-09-21T06:59:00+00:00",
       "sent_at": "2026-09-10T20:30:24.798Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-17T03:50:01.991Z"
     },
     "1540111729902751795": {
       "id": "1540111729902751795",
@@ -13250,5 +13251,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-16T23:36:47.791Z"
+  "last_check": "2026-09-17T03:50:03.096Z"
 }
