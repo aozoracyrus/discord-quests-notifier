@@ -13775,7 +13775,547 @@
       "expires_at": "2026-10-19T09:59:59+00:00",
       "sent_at": "2026-09-18T10:42:39.772Z",
       "type": "new"
+    },
+    "1550283830823231518": {
+      "id": "1550283830823231518",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-18T15:00:00+00:00",
+        "expires_at": "2026-09-25T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.imax.com/movie/resident-evil",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1550283830823231518/1550284823547875388.jpg",
+          "quest_bar_hero_blurhash": "AvgBDIIFu3aEaoeBiXsGhFRQiA==",
+          "quest_bar_hero": "quests/1550283830823231518/1550286566293766215.jpg",
+          "quest_bar_hero_video": "quests/1550283830823231518/1550286238362243072_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1550283830823231518/1550284776953348158.png",
+          "game_tile_dark": "quests/1550283830823231518/1550284776953348158.png",
+          "logotype_light": "quests/1550283830823231518/1550284711539114055.png",
+          "logotype_dark": "quests/1550283830823231518/1550284711945834516.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Filmed for IMAX",
+          "game_title": "Experience Resident Evil in IMAX",
+          "game_publisher": "IMAX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 85,
+              "assets": {
+                "video": {
+                  "url": "quests/1550283830823231518/1550284959355379732_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1550283830823231518/1550284841369477140.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1550283830823231518/1550284959355379732_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1550283830823231518/1550284841369477140.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1550283830823231518/1550284959355379732.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1550283830823231518/1550284841369477140.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 85,
+              "assets": {
+                "video": {
+                  "url": "quests/1550283830823231518/1550522192674951349_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550283830823231518/1550284841369477140.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1550283830823231518/1550522192674951349_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550283830823231518/1550284841369477140.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1550283830823231518/1550522192674951349.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550283830823231518/1550284841369477140.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-25T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.imax.com/movie/resident-evil",
+          "button_label": "Get Tickets",
+          "subtitle": "Experience Resident Evil in IMAX"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRmlsbWVkIGZvciBJTUFYIiwiZ2FtZV90aXRsZSI6IkV4cGVyaWVuY2UgUmVzaWRlbnQgRXZpbCBpbiBJTUFYIiwiZ2FtZV9wdWJsaXNoZXIiOiJJTUFYIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMThUMTU6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yNVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yNVQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo4NX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo4NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTAyODM4MzA4MjMyMzE1MTgvMTU1MDI4NDgyMzU0Nzg3NTM4OC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-09-18T15:00:00+00:00",
+      "expires_at": "2026-10-25T06:59:00+00:00",
+      "sent_at": "2026-09-18T20:32:25.718Z",
+      "type": "new"
+    },
+    "1549871018477092965": {
+      "id": "1549871018477092965",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-18T15:00:00+00:00",
+        "expires_at": "2026-09-19T14:59:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/ja/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1549871018477092965/1550208516680196116.jpg",
+          "hero_video": "quests/1549871018477092965/1550213393963552958_720.mp4",
+          "quest_bar_hero_blurhash": "pMUJHIKwJ4iDmKeOdnRwRQZEJA==",
+          "quest_bar_hero": "quests/1549871018477092965/1550212348256456745.jpg",
+          "quest_bar_hero_video": "quests/1549871018477092965/1550212993613303939_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1548002983260725379/1548030113092739274.png",
+          "game_tile_dark": "quests/1548002983260725379/1548029924919746560.png",
+          "logotype_light": "quests/1549871018477092965/1550225158029971497.png",
+          "logotype_dark": "quests/1549871018477092965/1550208434199208068.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ROBLOX",
+          "game_title": "The Hunt: Roblox 20",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1550260246524723321",
+              "asset": "quests/1549871018477092965/1550168134663671918.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Blurple 8-Bit Wings",
+                "name_with_article": "Blurple 8-Bit Wings",
+                "redemption_instructions_by_platform": {
+                  "0": "コードを使用するには、https://www.roblox.com/ja/redeem を開いてください。コードを入力し、「引き換え」ボタンをクリックしてください。（各コードは一度のみ使用可能です。）"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-19T14:59:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/ja/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUk9CTE9YIiwiZ2FtZV90aXRsZSI6IlRoZSBIdW50OiBSb2Jsb3ggMjAiLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMThUMTU6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xOVQxNDo1OTo1OSswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQxNDo1OTo1OSswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTg3MTAxODQ3NzA5Mjk2NS8xNTUwMjA4NTE2NjgwMTk2MTE2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTg3MTAxODQ3NzA5Mjk2NS8xNTUwMjEzMzkzOTYzNTUyOTU4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-18T15:00:00+00:00",
+      "expires_at": "2026-10-19T14:59:59+00:00",
+      "sent_at": "2026-09-18T20:32:26.945Z",
+      "type": "new"
+    },
+    "1549870356624445583": {
+      "id": "1549870356624445583",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-18T15:00:00+00:00",
+        "expires_at": "2026-09-19T14:59:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/ko/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1549870356624445583/1550209335236497530.jpg",
+          "hero_video": "quests/1549870356624445583/1550213019089375282_720.mp4",
+          "quest_bar_hero_blurhash": "pMUJHIKwJ4iDmKeOdnRwRQZEJA==",
+          "quest_bar_hero": "quests/1549870356624445583/1550212423162536096.jpg",
+          "quest_bar_hero_video": "quests/1549870356624445583/1550213010868543688_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1548002983260725379/1548030113092739274.png",
+          "game_tile_dark": "quests/1548002983260725379/1548029924919746560.png",
+          "logotype_light": "quests/1549870356624445583/1550225215823282327.png",
+          "logotype_dark": "quests/1549870356624445583/1550209271822684160.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ROBLOX",
+          "game_title": "The Hunt: Roblox 20",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1550260246524723322",
+              "asset": "quests/1549870356624445583/1550168253739962479.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Blurple 8-Bit Wings",
+                "name_with_article": "Blurple 8-Bit Wings",
+                "redemption_instructions_by_platform": {
+                  "0": "코드를 사용하려면 https://www.roblox.com/ko/redeem 에 접속하세요. 코드를 입력하고 '사용' 버튼을 클릭하세요. (각 코드는 한 번만 사용할 수 있습니다.)"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-19T14:59:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/ko/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUk9CTE9YIiwiZ2FtZV90aXRsZSI6IlRoZSBIdW50OiBSb2Jsb3ggMjAiLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMThUMTU6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xOVQxNDo1OTo1OSswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQxNDo1OTo1OSswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTg3MDM1NjYyNDQ0NTU4My8xNTUwMjA5MzM1MjM2NDk3NTMwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTg3MDM1NjYyNDQ0NTU4My8xNTUwMjEzMDE5MDg5Mzc1MjgyXzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-18T15:00:00+00:00",
+      "expires_at": "2026-10-19T14:59:59+00:00",
+      "sent_at": "2026-09-18T20:32:28.130Z",
+      "type": "new"
+    },
+    "1549427687603314699": {
+      "id": "1549427687603314699",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-18T17:00:00+00:00",
+        "expires_at": "2026-10-01T00:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://www.innogames.com/games/heroes-of-history/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549427687603314699/1550156234974298234.jpg",
+          "hero_video": "quests/1549427687603314699/1550156324128555068_720.mp4",
+          "quest_bar_hero_blurhash": "GvgJFIIMZ3e5doiEWmiAggw09g==",
+          "quest_bar_hero": "quests/1549427687603314699/1550156291517718588.jpg",
+          "quest_bar_hero_video": "quests/1549427687603314699/1550156324128555068_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549427687603314699/1550156159514845277.png",
+          "game_tile_dark": "quests/1549427687603314699/1550156159514845277.png",
+          "logotype_light": "quests/1549427687603314699/1550156160282140853.png",
+          "logotype_dark": "quests/1549427687603314699/1550156160282140853.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Heroes of History",
+          "game_title": "Heroes of History",
+          "game_publisher": "Innogames"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 39,
+              "assets": {
+                "video": {
+                  "url": "quests/1549427687603314699/1550156057274224659_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549427687603314699/1550156091424383106.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1549427687603314699/1550156057274224659_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549427687603314699/1550156091424383106.png"
+                },
+                "video_hls": {
+                  "url": "quests/1549427687603314699/1550156057274224659.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549427687603314699/1550156091424383106.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.innogames.heroesofhistory"
+          },
+          "ios": {
+            "ios_app_id": "6468993261"
+          },
+          "link": "https://www.innogames.com/games/heroes-of-history/",
+          "button_label": "Download"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3RpdGxlIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3B1Ymxpc2hlciI6Iklubm9nYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MjM0OTc0Mjk4MjM0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MzI0MTI4NTU1MDY4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-18T17:00:00+00:00",
+      "expires_at": "2026-10-31T00:00:00+00:00",
+      "sent_at": "2026-09-18T20:32:29.884Z",
+      "type": "new"
+    },
+    "1546582811790675998": {
+      "id": "1546582811790675998",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-18T17:00:00+00:00",
+        "expires_at": "2026-09-27T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.apple.com/au/iphone-18-pro/?cid=wwa-au-div-iphn-trplh-dpre-discord-skvf-revd-cpv-aos-mul-adevt-gnt-broa-prlp-attnbb-auen-prdflm-video-169ar-15s-trip-btry-na-na-na-na-na-07351501&mpid=7351501",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1546582811790675998/1549861027498299453.jpg",
+          "hero_video": "quests/1546582811790675998/1550218182076407949_720.mp4",
+          "quest_bar_hero_blurhash": "xAcGBIAHyWaDeYaGencId4VwVw==",
+          "quest_bar_hero": "quests/1546582811790675998/1549839196280070204.jpg",
+          "quest_bar_hero_video": "quests/1546582811790675998/1550218182076407949_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1546582811790675998/1549838963513233539.png",
+          "game_tile_dark": "quests/1546582811790675998/1549860843548573948.png",
+          "logotype_light": "quests/1546582811790675998/1549838963542458539.png",
+          "logotype_dark": "quests/1546582811790675998/1549838963458707517.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "iPhone 18 Pro",
+          "game_title": "iPhone 18 Pro",
+          "game_publisher": "Apple"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1546582811790675998/1550218041806037215_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1546582811790675998/1550218041806037215_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
+                },
+                "video_hls": {
+                  "url": "quests/1546582811790675998/1550218041806037215.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1546582811790675998/1550319212839309382_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1546582811790675998/1550319212839309382_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
+                },
+                "video_hls": {
+                  "url": "quests/1546582811790675998/1550319212839309382.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1546582811790675998/1549838963383078942.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-27T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.apple.com/au/iphone-18-pro/?cid=wwa-au-div-iphn-trplh-dpre-discord-skvf-revd-cpv-aos-mul-adevt-gnt-broa-prlp-attnbb-auen-prdflm-video-169ar-15s-trip-btry-na-na-na-na-na-07351501&mpid=7351501",
+          "button_label": "Learn More",
+          "subtitle": "Pro Further"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiaVBob25lIDE4IFBybyIsImdhbWVfdGl0bGUiOiJpUGhvbmUgMTggUHJvIiwiZ2FtZV9wdWJsaXNoZXIiOiJBcHBsZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ2NTgyODExNzkwNjc1OTk4LzE1NDk4NjEwMjc0OTgyOTk0NTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ2NTgyODExNzkwNjc1OTk4LzE1NTAyMTgxODIwNzY0MDc5NDlfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-18T17:00:00+00:00",
+      "expires_at": "2026-10-27T00:00:00+00:00",
+      "sent_at": "2026-09-18T20:32:31.467Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-18T15:58:14.296Z"
+  "last_check": "2026-09-18T20:32:32.572Z"
 }
