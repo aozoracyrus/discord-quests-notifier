@@ -298,7 +298,7 @@ Feel free to submit issues and enhancement requests!
 ## 😍 Acknowledgements
 
 - A special thank you to those who helped me create and refine "Discord Quest Notifier."
-- [@mc-none-vn](https://github.com/mc-none-vn) — the person who created the repository, helped me with the work and creation process.
+- [@x404x-dev](https://github.com/x404x-dev) — the person who created the repository, helped me with the work and creation process.
 
 ## 📄 License
 
