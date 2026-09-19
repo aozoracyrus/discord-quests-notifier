@@ -361,103 +361,6 @@
       "sent_at": "2026-07-31T19:26:48.065Z",
       "type": "new"
     },
-    "1527502945875263548": {
-      "id": "1527502945875263548",
-      "config": {
-        "id": "1527502945875263548",
-        "config_version": 2,
-        "starts_at": "2026-08-01T07:00:00+00:00",
-        "expires_at": "2026-08-20T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1527502945875263548/1528577107901546698.jpg",
-          "hero_video": "quests/1527502945875263548/1527532419362586634_720.mp4",
-          "quest_bar_hero_blurhash": "CfgFDIAGuWV7hnmEeIV2b3f3tw==",
-          "quest_bar_hero": "quests/1527502945875263548/1527532359845675059.jpg",
-          "quest_bar_hero_video": "quests/1527502945875263548/1527532402396889220_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
-          "game_tile_dark": "quests/1527502945875263548/1527507273658667068.png",
-          "logotype_light": "quests/1527502945875263548/1527507273570848781.png",
-          "logotype_dark": "quests/1527502945875263548/1527507273570848781.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Where Winds Meet 2.0 Wuxia New Era",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ],
-              "external_ids": [
-                "PPSA23355_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-09-19T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjAgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA4LTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDgtMjBUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMDktMTlUMDY6NTk6MDArMDA6MDAiLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc1MDI5NDU4NzUyNjM1NDgvMTUyODU3NzEwNzkwMTU0NjY5OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Mjc1MDI5NDU4NzUyNjM1NDgvMTUyNzUzMjQxOTM2MjU4NjYzNF83MjAubXA0In0=",
-      "starts_at": "2026-08-01T07:00:00+00:00",
-      "expires_at": "2026-09-19T06:59:00+00:00",
-      "sent_at": "2026-08-01T08:25:12.686Z",
-      "type": "new"
-    },
     "1516888752536948938": {
       "id": "1516888752536948938",
       "config": {
@@ -14536,7 +14439,94 @@
       "expires_at": "2026-10-31T00:00:00+00:00",
       "sent_at": "2026-09-18T23:04:32.941Z",
       "type": "new"
+    },
+    "1549493465941942383": {
+      "id": "1549493465941942383",
+      "config": {
+        "id": "1549493465941942383",
+        "config_version": 2,
+        "starts_at": "2026-09-19T17:00:00+00:00",
+        "expires_at": "2026-09-28T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1549493465941942383/1549494335261646999.jpg",
+          "hero_video": "quests/1549493465941942383/1550249604270923887_720.mp4",
+          "quest_bar_hero_blurhash": "aLUJHILdZ5VmjptviHY8WO9z9g==",
+          "quest_bar_hero": "quests/1549493465941942383/1549494231628779681.jpg",
+          "quest_bar_hero_video": "quests/1549493465941942383/1550249449530331207_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549493465941942383/1549494713931923526.png",
+          "game_tile_dark": "quests/1549493465941942383/1549494713617490000.png",
+          "logotype_light": "quests/1549493465941942383/1550249575208587335.png",
+          "logotype_dark": "quests/1549493465941942383/1549494161764519998.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ROBLOX",
+          "game_title": "The Hunt: Roblox 20",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1549493465941942384",
+              "asset": "quests/1549493465941942383/1549500549714550944.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Blurple 8-Bit Wings",
+                "name_with_article": "a Blurple 8-Bit Wings",
+                "redemption_instructions_by_platform": {
+                  "0": "Redeem the code below by opening https://www.roblox.com/redeem. Enter your code and click 'Redeem' button. (Each code can only be redeemed once.)"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUk9CTE9YIiwiZ2FtZV90aXRsZSI6IlRoZSBIdW50OiBSb2Jsb3ggMjAiLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTlUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTQ5MzQ2NTk0MTk0MjM4My8xNTQ5NDk0MzM1MjYxNjQ2OTk5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTQ5MzQ2NTk0MTk0MjM4My8xNTUwMjQ5NjA0MjcwOTIzODg3XzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-19T17:00:00+00:00",
+      "expires_at": "2026-10-28T00:00:00+00:00",
+      "sent_at": "2026-09-19T20:09:47.345Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-19T15:30:13.428Z"
+  "last_check": "2026-09-19T20:09:48.680Z"
 }
