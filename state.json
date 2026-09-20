@@ -601,234 +601,6 @@
       "sent_at": "2026-08-07T18:58:04.014Z",
       "type": "new"
     },
-    "1531225068082827325": {
-      "id": "1531225068082827325",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-08T07:00:00+00:00",
-        "expires_at": "2026-08-21T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://share.gamebeast.gg/mrzeslzs4s",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1531225068082827325/1531943437396345013.jpeg",
-          "hero_video": "quests/1531225068082827325/1531943472616050738_720.mp4",
-          "quest_bar_hero_blurhash": "qPcJHIQ1BweJaHaHhnUHa4CgFg==",
-          "quest_bar_hero": "quests/1531225068082827325/1531942991198027826.jpeg",
-          "quest_bar_hero_video": "quests/1531225068082827325/1531943165446324305_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1531225068082827325/1531226155305144460.png",
-          "game_tile_dark": "quests/1531225068082827325/1531581243626618960.png",
-          "logotype_light": "quests/1531225068082827325/1531226155305144460.png",
-          "logotype_dark": "quests/1531225068082827325/1531226155305144460.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Egg Hunt 2026",
-          "game_title": "This summer, a legendary adventure returns to Roblox.",
-          "game_publisher": "Studio Koi Koi"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 59,
-              "assets": {
-                "video": {
-                  "url": "quests/1531225068082827325/1531943211378020363_1080.mp4",
-                  "width": 2560,
-                  "height": 1440,
-                  "thumbnail": "quests/1531225068082827325/1531943741093314590.jpeg"
-                },
-                "video_low_res": {
-                  "url": "quests/1531225068082827325/1531943211378020363_720.mp4",
-                  "width": 2560,
-                  "height": 1440,
-                  "thumbnail": "quests/1531225068082827325/1531943741093314590.jpeg"
-                },
-                "video_hls": {
-                  "url": "quests/1531225068082827325/1531943211378020363.m3u8",
-                  "width": 2560,
-                  "height": 1440,
-                  "thumbnail": "quests/1531225068082827325/1531943741093314590.jpeg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 59,
-              "assets": {
-                "video": {
-                  "url": "quests/1531225068082827325/1531943211378020363_1080.mp4",
-                  "width": 2560,
-                  "height": 1440,
-                  "thumbnail": "quests/1531225068082827325/1531943741093314590.jpeg"
-                },
-                "video_low_res": {
-                  "url": "quests/1531225068082827325/1531943211378020363_720.mp4",
-                  "width": 2560,
-                  "height": 1440,
-                  "thumbnail": "quests/1531225068082827325/1531943741093314590.jpeg"
-                },
-                "video_hls": {
-                  "url": "quests/1531225068082827325/1531943211378020363.m3u8",
-                  "width": 2560,
-                  "height": 1440,
-                  "thumbnail": "quests/1531225068082827325/1531943741093314590.jpeg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-09-20T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://share.gamebeast.gg/mrzeslzs4s",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRWdnIEh1bnQgMjAyNiIsImdhbWVfdGl0bGUiOiJUaGlzIHN1bW1lciwgYSBsZWdlbmRhcnkgYWR2ZW50dXJlIHJldHVybnMgdG8gUm9ibG94LiIsImdhbWVfcHVibGlzaGVyIjoiU3R1ZGlvIEtvaSBLb2kiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0wOFQwNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTIxVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIwVDA2OjU5OjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NTl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NTl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTMxMjI1MDY4MDgyODI3MzI1LzE1MzE5NDM0MzczOTYzNDUwMTMuanBlZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzMTIyNTA2ODA4MjgyNzMyNS8xNTMxOTQzNDcyNjE2MDUwNzM4XzcyMC5tcDQifQ==",
-      "starts_at": "2026-08-08T07:00:00+00:00",
-      "expires_at": "2026-09-20T06:59:00+00:00",
-      "sent_at": "2026-08-08T09:38:31.035Z",
-      "type": "new"
-    },
-    "1534395181334270063": {
-      "id": "1534395181334270063",
-      "config": {
-        "id": "1534395181334270063",
-        "config_version": 2,
-        "starts_at": "2026-08-10T04:00:00+00:00",
-        "expires_at": "2026-08-21T04:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
-          "id": "1461154307171811401",
-          "name": "Arknights: Endfield"
-        },
-        "assets": {
-          "hero": "quests/1534395181334270063/1534399373411090504.jpg",
-          "hero_video": "quests/1534395181334270063/1534399469645201408_720.mp4",
-          "quest_bar_hero_blurhash": "7wYKEoT4lYZ5pniIQHpEwHc=",
-          "quest_bar_hero": "quests/1534395181334270063/1534399373411090504.jpg",
-          "quest_bar_hero_video": "quests/1534395181334270063/1534399231312400565_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
-          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
-          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
-          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Version Update: Liino",
-          "game_title": "Arknights: Endfield",
-          "game_publisher": "GRYPHLINE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ],
-              "external_ids": [
-                "PPSA22751_00",
-                "CUSA18640_00",
-                "PPSA18538_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-09-20T04:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D4DPQ",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVmVyc2lvbiBVcGRhdGU6IExpaW5vIiwiZ2FtZV90aXRsZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJnYW1lX3B1Ymxpc2hlciI6IkdSWVBITElORSIsImFwcGxpY2F0aW9uX2lkIjoiMTQ2MTE1NDMwNzE3MTgxMTQwMSIsImFwcGxpY2F0aW9uX25hbWUiOiJBcmtuaWdodHM6IEVuZGZpZWxkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0xMFQwNDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA4LTIxVDA0OjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTA5LTIwVDA0OjAwOjAwKzAwOjAwIiwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM0Mzk1MTgxMzM0MjcwMDYzLzE1MzQzOTkzNzM0MTEwOTA1MDQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM0Mzk1MTgxMzM0MjcwMDYzLzE1MzQzOTk0Njk2NDUyMDE0MDhfNzIwLm1wNCJ9",
-      "starts_at": "2026-08-10T04:00:00+00:00",
-      "expires_at": "2026-09-20T04:00:00+00:00",
-      "sent_at": "2026-08-10T04:38:39.817Z",
-      "type": "new"
-    },
     "1537498680968482856": {
       "id": "1537498680968482856",
       "config": {
@@ -14339,6 +14111,7 @@
         "starts_at": "2026-09-18T17:00:00+00:00",
         "expires_at": "2026-10-01T00:00:00+00:00",
         "features": [
+          44,
           15
         ],
         "application": {
@@ -14434,11 +14207,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiMm5kIEFubml2ZXJzYXJ5IFNlYXNvbiIsImdhbWVfdGl0bGUiOiJEZWx0YSBGb3JjZSIsImdhbWVfcHVibGlzaGVyIjoiVGVhbSBKYWRlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMThUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQzODE2OTY0NTI1Mzk2MDI4LzE1NDg5NzI2ODc5MTE2ODIxMDguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQzODE2OTY0NTI1Mzk2MDI4LzE1NDg5NzI3MDI1MjQ2MzcyMzVfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiMm5kIEFubml2ZXJzYXJ5IFNlYXNvbiIsImdhbWVfdGl0bGUiOiJEZWx0YSBGb3JjZSIsImdhbWVfcHVibGlzaGVyIjoiVGVhbSBKYWRlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMThUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQzODE2OTY0NTI1Mzk2MDI4LzE1NDg5NzI2ODc5MTE2ODIxMDguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQzODE2OTY0NTI1Mzk2MDI4LzE1NDg5NzI3MDI1MjQ2MzcyMzVfNzIwLm1wNCJ9",
       "starts_at": "2026-09-18T17:00:00+00:00",
-      "expires_at": "2026-10-31T00:00:00+00:00",
+      "expires_at": "2026-10-01T00:00:00+00:00",
       "sent_at": "2026-09-18T23:04:32.941Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-20T10:47:49.905Z"
     },
     "1549493465941942383": {
       "id": "1549493465941942383",
@@ -14526,7 +14300,267 @@
       "expires_at": "2026-10-28T00:00:00+00:00",
       "sent_at": "2026-09-19T20:09:47.345Z",
       "type": "new"
+    },
+    "1549903747918991411": {
+      "id": "1549903747918991411",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-20T04:00:00+00:00",
+        "expires_at": "2026-09-21T09:59:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549897603712286810/1549901041519034469.jpg",
+          "hero_video": "quests/1549897603712286810/1549901119491407995.mp4",
+          "quest_bar_hero_blurhash": "VBgODIRPZpaZd2eId3feYJsIdQ==",
+          "quest_bar_hero": "quests/1549897603712286810/1549901041569370132.jpg",
+          "quest_bar_hero_video": "quests/1549897603712286810/1549901119491407995.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549897603712286810/1549900551028875304.png",
+          "game_tile_dark": "quests/1549897603712286810/1549900551028875304.png",
+          "logotype_light": "quests/1549897603712286810/1549900551620263986.png",
+          "logotype_dark": "quests/1549897603712286810/1549900551620263986.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "FanDuel Everywhere",
+          "game_title": "FanDuel Everywhere",
+          "game_publisher": "FanDuel"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1549897603712286810/1549901940375429130_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1549897603712286810/1549901940375429130_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1549897603712286810/1549901940375429130.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                }
+              },
+              "messages": {
+                "video_title": ""
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 13,
+              "assets": {
+                "video": {
+                  "url": "quests/1549897603712286810/1549901940505313320_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1549897603712286810/1549901940505313320_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1549897603712286810/1549901940505313320.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                }
+              },
+              "messages": {
+                "video_title": ""
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-21T09:59:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+          "button_label": "Join Server",
+          "subtitle": "Join The FanDuel Server"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRmFuRHVlbCBFdmVyeXdoZXJlIiwiZ2FtZV90aXRsZSI6IkZhbkR1ZWwgRXZlcnl3aGVyZSIsImdhbWVfcHVibGlzaGVyIjoiRmFuRHVlbCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIwVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjFUMDk6NTk6NTkrMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjFUMDk6NTk6NTkrMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ5ODk3NjAzNzEyMjg2ODEwLzE1NDk5MDEwNDE1MTkwMzQ0NjkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ5ODk3NjAzNzEyMjg2ODEwLzE1NDk5MDExMTk0OTE0MDc5OTUubXA0In0=",
+      "starts_at": "2026-09-20T04:00:00+00:00",
+      "expires_at": "2026-10-21T09:59:59+00:00",
+      "sent_at": "2026-09-20T10:47:47.250Z",
+      "type": "new"
+    },
+    "1549897603712286810": {
+      "id": "1549897603712286810",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-20T04:00:00+00:00",
+        "expires_at": "2026-09-21T09:59:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549897603712286810/1549901041519034469.jpg",
+          "hero_video": "quests/1549897603712286810/1549901119491407995.mp4",
+          "quest_bar_hero_blurhash": "VBgODIRPZpaZd2eId3feYJsIdQ==",
+          "quest_bar_hero": "quests/1549897603712286810/1549901041569370132.jpg",
+          "quest_bar_hero_video": "quests/1549897603712286810/1549901119491407995.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549897603712286810/1549900551028875304.png",
+          "game_tile_dark": "quests/1549897603712286810/1549900551028875304.png",
+          "logotype_light": "quests/1549897603712286810/1549900551620263986.png",
+          "logotype_dark": "quests/1549897603712286810/1549900551620263986.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "FanDuel Everywhere",
+          "game_title": "FanDuel Everywhere",
+          "game_publisher": "FanDuel"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1549897603712286810/1549901940375429130_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1549897603712286810/1549901940375429130_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1549897603712286810/1549901940375429130.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                }
+              },
+              "messages": {
+                "video_title": ""
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 13,
+              "assets": {
+                "video": {
+                  "url": "quests/1549897603712286810/1549901940505313320_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1549897603712286810/1549901940505313320_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1549897603712286810/1549901940505313320.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549897603712286810/1549902014060826624.jpg"
+                }
+              },
+              "messages": {
+                "video_title": ""
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-21T09:59:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://servedby.flashtalking.com/click/8/307307;11106370;4777753;211;0/?ft_width=1&ft_height=1&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT_78}&us_privacy=${US_PRIVACY}&url=45757731",
+          "button_label": "Join Server",
+          "subtitle": "Join The FanDuel Server"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRmFuRHVlbCBFdmVyeXdoZXJlIiwiZ2FtZV90aXRsZSI6IkZhbkR1ZWwgRXZlcnl3aGVyZSIsImdhbWVfcHVibGlzaGVyIjoiRmFuRHVlbCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIwVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjFUMDk6NTk6NTkrMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjFUMDk6NTk6NTkrMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ5ODk3NjAzNzEyMjg2ODEwLzE1NDk5MDEwNDE1MTkwMzQ0NjkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ5ODk3NjAzNzEyMjg2ODEwLzE1NDk5MDExMTk0OTE0MDc5OTUubXA0In0=",
+      "starts_at": "2026-09-20T04:00:00+00:00",
+      "expires_at": "2026-10-21T09:59:59+00:00",
+      "sent_at": "2026-09-20T10:47:48.638Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-20T03:49:52.480Z"
+  "last_check": "2026-09-20T10:47:51.011Z"
 }
