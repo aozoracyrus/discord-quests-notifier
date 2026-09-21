@@ -2769,6 +2769,7 @@
         "starts_at": "2026-09-01T07:00:00+00:00",
         "expires_at": "2026-10-01T06:59:00+00:00",
         "features": [
+          44,
           15
         ],
         "application": {
@@ -2852,12 +2853,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjIgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0OTE4Mzc1OTYyNTIzMjQwNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0OTQ0ODQ2ODYyMjQ3NTMwNV83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjIgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0OTE4Mzc1OTYyNTIzMjQwNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDE2NDI0Njc4ODE3ODMzMzcvMTU0OTQ0ODQ2ODYyMjQ3NTMwNV83MjAubXA0In0=",
       "starts_at": "2026-09-01T07:00:00+00:00",
       "expires_at": "2026-10-01T06:59:00+00:00",
       "sent_at": "2026-09-01T08:22:32.916Z",
       "type": "updated",
-      "updated_at": "2026-09-16T23:36:46.685Z"
+      "updated_at": "2026-09-21T23:52:41.133Z"
     },
     "1542308634728464455": {
       "id": "1542308634728464455",
@@ -4883,7 +4884,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-06-01T17:00:00+00:00",
-        "expires_at": "2026-09-22T06:59:00+00:00",
+        "expires_at": "2026-09-29T06:59:00+00:00",
         "features": [
           44,
           15
@@ -4964,7 +4965,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-22T06:59:00+00:00",
+          "rewards_expire_at": "2026-10-29T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -4981,12 +4982,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA2LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjJUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTQ2OTIxMTA1NDQ3NzIzMTE4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTQ2OTIxMjI3NTk4NDM0NDI0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA2LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjlUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjlUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTQ2OTIxMTA1NDQ3NzIzMTE4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTQ2OTIxMjI3NTk4NDM0NDI0XzcyMC5tcDQifQ==",
       "starts_at": "2026-06-01T17:00:00+00:00",
-      "expires_at": "2026-09-22T06:59:00+00:00",
+      "expires_at": "2026-09-29T06:59:00+00:00",
       "sent_at": "2026-09-08T20:49:15.308Z",
       "type": "updated",
-      "updated_at": "2026-09-15T03:47:59.558Z"
+      "updated_at": "2026-09-21T23:52:39.739Z"
     },
     "1536463146980483122": {
       "id": "1536463146980483122",
@@ -14750,7 +14751,353 @@
       "expires_at": "2026-10-29T00:00:00+00:00",
       "sent_at": "2026-09-21T19:52:46.960Z",
       "type": "new"
+    },
+    "1551651510004351088": {
+      "id": "1551651510004351088",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-21T17:00:00+00:00",
+        "expires_at": "2026-09-22T17:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://plarium.com/en/game/mech-arena/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1542119360116555856/1544639630136189030.jpg",
+          "hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
+          "quest_bar_hero_blurhash": "FvgFNIZ/KZQsuIhCZnePhPU4ag==",
+          "quest_bar_hero": "quests/1542119360116555856/1544639877285413005.jpg",
+          "quest_bar_hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1542119360116555856/1542119454643720192.png",
+          "game_tile_dark": "quests/1542119360116555856/1542119454643720192.png",
+          "logotype_light": "quests/1542119360116555856/1542119494355386378.png",
+          "logotype_dark": "quests/1542119360116555856/1542119493424259162.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Mech Arena",
+          "game_title": "Mech Arena",
+          "game_publisher": "Plarium"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1542119360116555856/1544640263035822090_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1542119360116555856/1544640263035822090_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                },
+                "video_hls": {
+                  "url": "quests/1542119360116555856/1544640263035822090.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-22T17:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.plarium.mechlegion"
+          },
+          "ios": {
+            "ios_app_id": "1377591228"
+          },
+          "link": "https://plarium.com/en/game/mech-arena/",
+          "button_label": "Download"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWVjaCBBcmVuYSIsImdhbWVfdGl0bGUiOiJNZWNoIEFyZW5hIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGFyaXVtIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yMlQxNzowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yMlQxNzowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyMTE5MzYwMTE2NTU1ODU2LzE1NDQ2Mzk2MzAxMzYxODkwMzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQyMTE5MzYwMTE2NTU1ODU2LzE1NDIxMTk2MTk0ODgyNTE5NDVfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-21T17:00:00+00:00",
+      "expires_at": "2026-10-22T17:00:00+00:00",
+      "sent_at": "2026-09-21T23:52:35.164Z",
+      "type": "new"
+    },
+    "1550471494721871962": {
+      "id": "1550471494721871962",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-21T17:00:00+00:00",
+        "expires_at": "2026-09-28T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1550471494721871962/1550474356449353839.jpg",
+          "hero_video": "quests/1550471494721871962/1550476222553788436.mp4",
+          "quest_bar_hero_blurhash": "WCgKFIKtRMa/Z2eDZoVrv5vD+w==",
+          "quest_bar_hero": "quests/1550471494721871962/1550474356306477146.jpg",
+          "quest_bar_hero_video": "quests/1550471494721871962/1550476222553788436.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1550471494721871962/1550474565036023818.png",
+          "game_tile_dark": "quests/1550471494721871962/1550474356227047494.png",
+          "logotype_light": "quests/1550471494721871962/1550474356197433345.png",
+          "logotype_dark": "quests/1550471494721871962/1550474565077962752.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "CONTROL Resonant",
+          "game_title": "CONTROL Resonant",
+          "game_publisher": "Remedy Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 65,
+              "assets": {
+                "video": {
+                  "url": "quests/1550471494721871962/1550476800138678395_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1550471494721871962/1550476800138678395_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1550471494721871962/1550476800138678395.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 65,
+              "assets": {
+                "video": {
+                  "url": "quests/1550471494721871962/1550489406568267886_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1550471494721871962/1550489406568267886_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1550471494721871962/1550489406568267886.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
+          "button_label": "Pre-Order Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ09OVFJPTCBSZXNvbmFudCIsImdhbWVfdGl0bGUiOiJDT05UUk9MIFJlc29uYW50IiwiZ2FtZV9wdWJsaXNoZXIiOiJSZW1lZHkgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NjV9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwNDcxNDk0NzIxODcxOTYyLzE1NTA0NzQzNTY0NDkzNTM4MzkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUwNDcxNDk0NzIxODcxOTYyLzE1NTA0NzYyMjI1NTM3ODg0MzYubXA0In0=",
+      "starts_at": "2026-09-21T17:00:00+00:00",
+      "expires_at": "2026-10-28T00:00:00+00:00",
+      "sent_at": "2026-09-21T23:52:36.837Z",
+      "type": "new"
+    },
+    "1551702129226293259": {
+      "id": "1551702129226293259",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-21T21:00:00+00:00",
+        "expires_at": "2026-09-28T17:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://f1clashgame.com/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1550179068362621049/1550181068299046932.jpg",
+          "quest_bar_hero_blurhash": "ChgGDIIHaJh6lXiBeYlJj47wmA==",
+          "quest_bar_hero": "quests/1550179068362621049/1550181092747771975.jpg",
+          "quest_bar_hero_video": "quests/1550179068362621049/1550181140541870090_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1550179068362621049/1550180435013668875.png",
+          "game_tile_dark": "quests/1550179068362621049/1550180435013668875.png",
+          "logotype_light": "quests/1550179068362621049/1550180575678042152.png",
+          "logotype_dark": "quests/1550179068362621049/1550180575841755186.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "F1 Clash",
+          "game_title": "F1 Clash",
+          "game_publisher": "Hutch Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1550179068362621049/1550181022941970532_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1550179068362621049/1550181022941970532_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1550179068362621049/1550181022941970532.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-10-28T17:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.hutchgames.formularacing"
+          },
+          "ios": {
+            "ios_app_id": "1434561536"
+          },
+          "link": "https://f1clashgame.com/",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRjEgQ2xhc2giLCJnYW1lX3RpdGxlIjoiRjEgQ2xhc2giLCJnYW1lX3B1Ymxpc2hlciI6Ikh1dGNoIEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjFUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQxNzowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQxNzowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwMTc5MDY4MzYyNjIxMDQ5LzE1NTAxODEwNjgyOTkwNDY5MzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-21T21:00:00+00:00",
+      "expires_at": "2026-10-28T17:00:00+00:00",
+      "sent_at": "2026-09-21T23:52:38.170Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-21T19:52:48.064Z"
+  "last_check": "2026-09-21T23:52:42.239Z"
 }
