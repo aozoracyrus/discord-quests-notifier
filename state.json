@@ -14641,7 +14641,116 @@
       "expires_at": "2026-10-28T02:59:00+00:00",
       "sent_at": "2026-09-21T12:12:30.027Z",
       "type": "new"
+    },
+    "1548040517420449792": {
+      "id": "1548040517420449792",
+      "config": {
+        "id": "1548040517420449792",
+        "config_version": 2,
+        "starts_at": "2026-09-21T17:00:00+00:00",
+        "expires_at": "2026-09-29T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.playnow.wizard101.com/?utm_source=discord&utm_medium=playquest&utm_campaign=18th_anniversary",
+          "id": "363413310474813450",
+          "name": "Wizard101"
+        },
+        "assets": {
+          "hero": "quests/1548040517420449792/1548041405379641404.jpg",
+          "hero_video": "quests/1548040517420449792/1548041397335232572.mp4",
+          "quest_bar_hero_blurhash": "EtcJEoQwVIx2eEeJX3f6aag=",
+          "quest_bar_hero": "quests/1548040517420449792/1548041405379641404.jpg",
+          "quest_bar_hero_video": "quests/1548040517420449792/1549897128346656788_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1548040517420449792/1548041155948711956.png",
+          "game_tile_dark": "quests/1548040517420449792/1548041155948711956.png",
+          "logotype_light": "quests/1548040517420449792/1548041302195699793.png",
+          "logotype_dark": "quests/1548040517420449792/1548041302195699793.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Wizard101 Birthday!",
+          "game_title": "Wizard101",
+          "game_publisher": "KingsIsle Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363413310474813450"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363413310474813450"
+                }
+              ],
+              "external_ids": [
+                "1676173709"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363413310474813450"
+                }
+              ],
+              "external_ids": [
+                "CUSA49075_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.playnow.wizard101.com/?utm_source=discord&utm_medium=playquest&utm_campaign=18th_anniversary",
+          "button_label": "Chơi miễn phí ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2l6YXJkMTAxIEJpcnRoZGF5ISIsImdhbWVfdGl0bGUiOiJXaXphcmQxMDEiLCJnYW1lX3B1Ymxpc2hlciI6IktpbmdzSXNsZSBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiIzNjM0MTMzMTA0NzQ4MTM0NTAiLCJhcHBsaWNhdGlvbl9uYW1lIjoiV2l6YXJkMTAxIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0yMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDgwNDA1MTc0MjA0NDk3OTIvMTU0ODA0MTQwNTM3OTY0MTQwNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDgwNDA1MTc0MjA0NDk3OTIvMTU0ODA0MTM5NzMzNTIzMjU3Mi5tcDQifQ==",
+      "starts_at": "2026-09-21T17:00:00+00:00",
+      "expires_at": "2026-10-29T00:00:00+00:00",
+      "sent_at": "2026-09-21T19:52:46.960Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-21T12:12:31.136Z"
+  "last_check": "2026-09-21T19:52:48.064Z"
 }
