@@ -9804,266 +9804,6 @@
       "sent_at": "2026-09-15T20:56:52.382Z",
       "type": "new"
     },
-    "1549472153454387273": {
-      "id": "1549472153454387273",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-15T18:00:00+00:00",
-        "expires_at": "2026-09-22T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.othermommymovie.ca",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1548013708163285023/1548015165792850012.jpg",
-          "quest_bar_hero_blurhash": "V/gRDIKJOoiPmYWId4ePXZkGpA==",
-          "quest_bar_hero": "quests/1548013708163285023/1549470152435695907.jpg",
-          "quest_bar_hero_video": "quests/1548013708163285023/1549470258837065818_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1548013708163285023/1548015097434083478.png",
-          "game_tile_dark": "quests/1548013708163285023/1548015097430020226.png",
-          "logotype_light": "quests/1548013708163285023/1548015079805681747.png",
-          "logotype_dark": "quests/1548013708163285023/1548015080116064256.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Other Mommy",
-          "game_title": "In Theatres October 9",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 105,
-              "assets": {
-                "video": {
-                  "url": "quests/1548013708163285023/1549470083410042960_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1548013708163285023/1549470083410042960_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_hls": {
-                  "url": "quests/1548013708163285023/1549470083410042960.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 105,
-              "assets": {
-                "video": {
-                  "url": "quests/1549472153454387273/1549474795752788019_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1549472153454387273/1549474795752788019_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_hls": {
-                  "url": "quests/1549472153454387273/1549474795752788019.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.othermommymovie.ca",
-          "button_label": "Get Tickets",
-          "subtitle": "In Theatres October 9"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT3RoZXIgTW9tbXkiLCJnYW1lX3RpdGxlIjoiSW4gVGhlYXRyZXMgT2N0b2JlciA5IiwiZ2FtZV9wdWJsaXNoZXIiOiJVbml2ZXJzYWwgUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xNVQxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjEwNX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxMDV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ4MDEzNzA4MTYzMjg1MDIzLzE1NDgwMTUxNjU3OTI4NTAwMTIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-15T18:00:00+00:00",
-      "expires_at": "2026-09-22T06:59:00+00:00",
-      "sent_at": "2026-09-15T23:28:03.269Z",
-      "type": "updated",
-      "updated_at": "2026-09-16T20:58:15.632Z"
-    },
-    "1548013708163285023": {
-      "id": "1548013708163285023",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-15T19:01:00+00:00",
-        "expires_at": "2026-09-22T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.othermommymovie.com/tickets",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1548013708163285023/1548015165792850012.jpg",
-          "quest_bar_hero_blurhash": "V/gRDIKJOoiPmYWId4ePXZkGpA==",
-          "quest_bar_hero": "quests/1548013708163285023/1549470152435695907.jpg",
-          "quest_bar_hero_video": "quests/1548013708163285023/1549470258837065818_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1548013708163285023/1548015097434083478.png",
-          "game_tile_dark": "quests/1548013708163285023/1548015097430020226.png",
-          "logotype_light": "quests/1548013708163285023/1548015079805681747.png",
-          "logotype_dark": "quests/1548013708163285023/1548015080116064256.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Other Mommy",
-          "game_title": "In Theaters October 9",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 105,
-              "assets": {
-                "video": {
-                  "url": "quests/1548013708163285023/1549470083410042960_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1548013708163285023/1549470083410042960_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_hls": {
-                  "url": "quests/1548013708163285023/1549470083410042960.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 105,
-              "assets": {
-                "video": {
-                  "url": "quests/1548013708163285023/1549470084076933140_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1548013708163285023/1549470084076933140_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                },
-                "video_hls": {
-                  "url": "quests/1548013708163285023/1549470084076933140.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1548013708163285023/1548015148587810908.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.othermommymovie.com/tickets",
-          "button_label": "Get Tickets",
-          "subtitle": "In Theaters October 9"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT3RoZXIgTW9tbXkiLCJnYW1lX3RpdGxlIjoiSW4gVGhlYXRlcnMgT2N0b2JlciA5IiwiZ2FtZV9wdWJsaXNoZXIiOiJVbml2ZXJzYWwgUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xNVQxOTowMTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjEwNX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxMDV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ4MDEzNzA4MTYzMjg1MDIzLzE1NDgwMTUxNjU3OTI4NTAwMTIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-15T19:01:00+00:00",
-      "expires_at": "2026-09-22T06:59:00+00:00",
-      "sent_at": "2026-09-15T23:28:05.643Z",
-      "type": "updated",
-      "updated_at": "2026-09-16T20:58:14.124Z"
-    },
     "1547374341073674290": {
       "id": "1547374341073674290",
       "config": {
@@ -14222,7 +13962,7 @@
         },
         "messages": {
           "quest_name": "Forgotten Island",
-          "game_title": "In Cinemas September 23",
+          "game_title": "In Cinemas Now",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
@@ -14270,14 +14010,15 @@
         "cta_config": {
           "link": "https://www.facebook.com/universalpicturesph",
           "button_label": "Get Tickets",
-          "subtitle": "In Cinemas September 23"
+          "subtitle": "In Cinemas Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIFNlcHRlbWJlciAyMyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIwVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMTU6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjdUMTU6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIE5vdyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIwVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMTU6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjdUMTU6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-09-20T16:00:00+00:00",
-      "expires_at": "2026-10-27T15:59:00+00:00",
+      "expires_at": "2026-09-27T15:59:00+00:00",
       "sent_at": "2026-09-20T20:26:26.400Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-22T20:58:10.886Z"
     },
     "1549194337928224929": {
       "id": "1549194337928224929",
@@ -14313,7 +14054,7 @@
         },
         "messages": {
           "quest_name": "포가튼 아일랜드",
-          "game_title": "9월 23일 대개봉",
+          "game_title": "절찬 상영중",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
@@ -14361,14 +14102,15 @@
         "cta_config": {
           "link": "https://litt.ly/forgottenisland",
           "button_label": "Get Tickets",
-          "subtitle": "9월 23일 대개봉"
+          "subtitle": "절찬 상영중"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoi7Y+s6rCA7Yq8IOyVhOydvOuenOuTnCIsImdhbWVfdGl0bGUiOiI57JuUIDIz7J28IOuMgOqwnOu0iSIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIwVDE1OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMTQ6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjdUMTQ6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoi7Y+s6rCA7Yq8IOyVhOydvOuenOuTnCIsImdhbWVfdGl0bGUiOiLsoIjssKwg7IOB7JiB7KSRIiwiZ2FtZV9wdWJsaXNoZXIiOiJVbml2ZXJzYWwgUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1MzYzMTQxNDM0MTI0NTc1NTMiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRWxiYSIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjBUMTU6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yN1QxNDo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yN1QxNDo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NzM2NzQxMzMyMDc3NzgzMC8xNTQ5MTIyNDY5OTEzMzA1MTc5LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-09-20T15:00:00+00:00",
-      "expires_at": "2026-10-27T14:59:00+00:00",
+      "expires_at": "2026-09-27T14:59:00+00:00",
       "sent_at": "2026-09-20T23:02:27.644Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-22T20:58:12.166Z"
     },
     "1549194460854878219": {
       "id": "1549194460854878219",
@@ -15097,7 +14839,528 @@
       "expires_at": "2026-10-28T17:00:00+00:00",
       "sent_at": "2026-09-21T23:52:38.170Z",
       "type": "new"
+    },
+    "1539421708417765386": {
+      "id": "1539421708417765386",
+      "config": {
+        "id": "1539421708417765386",
+        "config_version": 2,
+        "starts_at": "2026-09-22T17:00:00+00:00",
+        "expires_at": "2026-10-01T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3613050/Gravebound/",
+          "id": "1551691007387508878",
+          "name": "Gravebound"
+        },
+        "assets": {
+          "hero": "quests/1539421708417765386/1546914021784158218.jpg",
+          "hero_video": "quests/1539421708417765386/1539424583407509504_720.mp4",
+          "quest_bar_hero_blurhash": "0icKDIIhiHePdniId2jmcAKpRg==",
+          "quest_bar_hero": "quests/1539421708417765386/1546914000439214120.jpg",
+          "quest_bar_hero_video": "quests/1539421708417765386/1539424135321493544_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539421708417765386/1539423906274742332.jpg",
+          "game_tile_dark": "quests/1539421708417765386/1539423906274742332.jpg",
+          "logotype_light": "quests/1539421708417765386/1539424409083842620.png",
+          "logotype_dark": "quests/1539421708417765386/1539424270306770995.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Gravebound Early Access Launch",
+          "game_title": "Gravebound",
+          "game_publisher": "Crater Studios"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1551691007387508878"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3613050/Gravebound/",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhdmVib3VuZCBFYXJseSBBY2Nlc3MgTGF1bmNoIiwiZ2FtZV90aXRsZSI6IkdyYXZlYm91bmQiLCJnYW1lX3B1Ymxpc2hlciI6IkNyYXRlciBTdHVkaW9zIiwiYXBwbGljYXRpb25faWQiOiIxNTUxNjkxMDA3Mzg3NTA4ODc4IiwiYXBwbGljYXRpb25fbmFtZSI6IkdyYXZlYm91bmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIyVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5NDIxNzA4NDE3NzY1Mzg2LzE1NDY5MTQwMjE3ODQxNTgyMTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM5NDIxNzA4NDE3NzY1Mzg2LzE1Mzk0MjQ1ODM0MDc1MDk1MDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-22T17:00:00+00:00",
+      "expires_at": "2026-10-31T00:00:00+00:00",
+      "sent_at": "2026-09-22T20:58:03.313Z",
+      "type": "new"
+    },
+    "1549171029241233449": {
+      "id": "1549171029241233449",
+      "config": {
+        "id": "1549171029241233449",
+        "config_version": 2,
+        "starts_at": "2026-09-22T17:00:00+00:00",
+        "expires_at": "2026-10-14T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=APXL_LF_US-JP_WPP_DIRD_CM_S30SNA_AXN-001-002&caudience=C3-LAPSED30&ccreative=S30-SNAPBACK-KEY-ART",
+          "id": "542075586886107149",
+          "name": "Apex Legends"
+        },
+        "assets": {
+          "hero": "quests/1549171029241233449/1549172049606475986.jpg",
+          "quest_bar_hero_blurhash": "TQcKJIQEqneIh3iTeXmPd/yHhg==",
+          "quest_bar_hero": "quests/1549171029241233449/1549172049669394472.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549171029241233449/1549171819775533056.png",
+          "game_tile_dark": "quests/1549171029241233449/1549171819775533056.png",
+          "logotype_light": "quests/1549171029241233449/1549171857477869578.png",
+          "logotype_dark": "quests/1549171029241233449/1549171857452830801.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Apex VS Street Fighter 6 Event",
+          "game_title": "Apex Legends",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "542075586886107149"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "542075586886107149"
+                }
+              ],
+              "external_ids": [
+                "175227487"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "542075586886107149"
+                }
+              ],
+              "external_ids": [
+                "PPSA04874_00",
+                "CUSA12552_00",
+                "PPSA04873_00",
+                "CUSA12540_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1549171029241233450",
+              "asset": "quests/1549171029241233449/1549172050067857438.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Kung Fu Coach tracker set",
+                "name_with_article": "a Kung Fu Coach tracker set",
+                "redemption_instructions_by_platform": {
+                  "0": "Redeem the code below on the Apex Legends redemption page to access your reward.\n\nCodes are not platform specific and are redeemed from within the Apex Legends Storefront.  \n1. Boot Apex Legends on your platform of choice.  \n2. When on the lobby screen select [Store].  \n3. Select [Redeem Code] on the bottom left.  \n4. Enter the code you received.  \n5. Select [Redeem].  \n"
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-13T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=APXL_LF_US-JP_WPP_DIRD_CM_S30SNA_AXN-001-002&caudience=C3-LAPSED30&ccreative=S30-SNAPBACK-KEY-ART",
+          "button_label": "Nhận Trò Chơi",
+          "subtitle": "Street Fighter 6 smashes into the Outlands"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQXBleCBWUyBTdHJlZXQgRmlnaHRlciA2IEV2ZW50IiwiZ2FtZV90aXRsZSI6IkFwZXggTGVnZW5kcyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiI1NDIwNzU1ODY4ODYxMDcxNDkiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQXBleCBMZWdlbmRzIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0yMlQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTE0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTEzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTE3MTAyOTI0MTIzMzQ0OS8xNTQ5MTcyMDQ5NjA2NDc1OTg2LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-09-22T17:00:00+00:00",
+      "expires_at": "2026-11-13T00:00:00+00:00",
+      "sent_at": "2026-09-22T20:58:04.894Z",
+      "type": "new"
+    },
+    "1551999809626439731": {
+      "id": "1551999809626439731",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-22T17:00:00+00:00",
+        "expires_at": "2026-10-06T00:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://plarium.com/en/game/mech-arena/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1542119360116555856/1544639630136189030.jpg",
+          "hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
+          "quest_bar_hero_blurhash": "FvgFNIZ/KZQsuIhCZnePhPU4ag==",
+          "quest_bar_hero": "quests/1542119360116555856/1544639877285413005.jpg",
+          "quest_bar_hero_video": "quests/1542119360116555856/1542119619488251945_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1542119360116555856/1542119454643720192.png",
+          "game_tile_dark": "quests/1542119360116555856/1542119454643720192.png",
+          "logotype_light": "quests/1542119360116555856/1542119494355386378.png",
+          "logotype_dark": "quests/1542119360116555856/1542119493424259162.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Mech Arena",
+          "game_title": "Mech Arena",
+          "game_publisher": "Plarium"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1542119360116555856/1544640263035822090_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1542119360116555856/1544640263035822090_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                },
+                "video_hls": {
+                  "url": "quests/1542119360116555856/1544640263035822090.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1542119360116555856/1544640816931151902.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.plarium.mechlegion"
+          },
+          "ios": {
+            "ios_app_id": "1377591228"
+          },
+          "link": "https://plarium.com/en/game/mech-arena/",
+          "button_label": "Download"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWVjaCBBcmVuYSIsImdhbWVfdGl0bGUiOiJNZWNoIEFyZW5hIiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGFyaXVtIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyMTE5MzYwMTE2NTU1ODU2LzE1NDQ2Mzk2MzAxMzYxODkwMzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQyMTE5MzYwMTE2NTU1ODU2LzE1NDIxMTk2MTk0ODgyNTE5NDVfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-22T17:00:00+00:00",
+      "expires_at": "2026-11-05T00:00:00+00:00",
+      "sent_at": "2026-09-22T20:58:06.278Z",
+      "type": "new"
+    },
+    "1552002448975994942": {
+      "id": "1552002448975994942",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-22T17:00:00+00:00",
+        "expires_at": "2026-10-06T00:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://f1clashgame.com/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1550179068362621049/1550181068299046932.jpg",
+          "quest_bar_hero_blurhash": "ChgGDIIHaJh6lXiBeYlJj47wmA==",
+          "quest_bar_hero": "quests/1550179068362621049/1550181092747771975.jpg",
+          "quest_bar_hero_video": "quests/1550179068362621049/1550181140541870090_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1550179068362621049/1550180435013668875.png",
+          "game_tile_dark": "quests/1550179068362621049/1550180435013668875.png",
+          "logotype_light": "quests/1550179068362621049/1550180575678042152.png",
+          "logotype_dark": "quests/1550179068362621049/1550180575841755186.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "F1 Clash",
+          "game_title": "F1 Clash",
+          "game_publisher": "Hutch Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1550179068362621049/1550181022941970532_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1550179068362621049/1550181022941970532_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1550179068362621049/1550181022941970532.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.hutchgames.formularacing"
+          },
+          "ios": {
+            "ios_app_id": "1434561536"
+          },
+          "link": "https://f1clashgame.com/",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRjEgQ2xhc2giLCJnYW1lX3RpdGxlIjoiRjEgQ2xhc2giLCJnYW1lX3B1Ymxpc2hlciI6Ikh1dGNoIEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjJUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwMTc5MDY4MzYyNjIxMDQ5LzE1NTAxODEwNjgyOTkwNDY5MzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-22T17:00:00+00:00",
+      "expires_at": "2026-11-05T00:00:00+00:00",
+      "sent_at": "2026-09-22T20:58:07.698Z",
+      "type": "new"
+    },
+    "1552010656952356925": {
+      "id": "1552010656952356925",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-22T18:00:00+00:00",
+        "expires_at": "2026-10-06T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1547895090830250055/1547951058309877770.jpg",
+          "quest_bar_hero_blurhash": "GdcJJIQYd0iPeIZwhngHcocAhw==",
+          "quest_bar_hero": "quests/1547895090830250055/1547951081353519187.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547895090830250055/1547951013405917304.png",
+          "game_tile_dark": "quests/1547895090830250055/1547951013405917304.png",
+          "logotype_light": "quests/1547895090830250055/1549521113950851213.png",
+          "logotype_dark": "quests/1547895090830250055/1549521113950851213.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": " Invincible: Guarding the Globe ",
+          "game_title": " Invincible: Guarding the Globe ",
+          "game_publisher": "Ubisoft Mobile"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1547895090830250055/1547951013183496292_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1547895090830250055/1547951013183496292_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1547895090830250055/1547951013183496292.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1547895090830250055/1547951081353519187.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-05T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.ubisoft.invincible.guardians.globe.idle.superhero.rpg.battle.afk"
+          },
+          "ios": {
+            "ios_app_id": "6449294809"
+          },
+          "link": "https://www.ubisoft.com/en-us/game/invincible-guarding-the-globe",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiIEludmluY2libGU6IEd1YXJkaW5nIHRoZSBHbG9iZSAiLCJnYW1lX3RpdGxlIjoiIEludmluY2libGU6IEd1YXJkaW5nIHRoZSBHbG9iZSAiLCJnYW1lX3B1Ymxpc2hlciI6IlViaXNvZnQgTW9iaWxlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3ODk1MDkwODMwMjUwMDU1LzE1NDc5NTEwNTgzMDk4Nzc3NzAuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-22T18:00:00+00:00",
+      "expires_at": "2026-11-05T00:00:00+00:00",
+      "sent_at": "2026-09-22T20:58:09.383Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-22T16:27:02.997Z"
+  "last_check": "2026-09-22T20:58:13.275Z"
 }
