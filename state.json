@@ -901,7 +901,7 @@
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_US_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_US_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -931,22 +931,22 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541318428281929758/1541354497266294834_1080.mp4",
+                  "url": "quests/1541371710417272834/1551722925680492599_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541318428281929758/1541354497266294834_720.mp4",
+                  "url": "quests/1541371710417272834/1551722925680492599_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541318428281929758/1541354497266294834.m3u8",
+                  "url": "quests/1541371710417272834/1551722925680492599.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
@@ -958,24 +958,24 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541371710417272834/1541593288899829830_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541371710417272834/1551722925609062470_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541371710417272834/1541593288899829830_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541371710417272834/1551722925609062470_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541371710417272834/1541593288899829830.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541371710417272834/1551722925609062470.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541318428281929758/1541354114557157476.png"
                 }
               },
@@ -1010,16 +1010,16 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_US_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_US_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjh9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjh9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgxMTk3Mzk4NTA3ODIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgxMTk3Mzk4NTA3ODIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQxMzE4NDI4MjgxOTI5NzU4LzE1NDEzNTgwMDQzODM5MTYxMDRfNzIwLm1wNCJ9",
       "starts_at": "2026-08-25T22:00:00+00:00",
       "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:27.727Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:56:57.066Z"
+      "updated_at": "2026-09-23T16:17:00.053Z"
     },
     "1541369647985594369": {
       "id": "1541369647985594369",
@@ -1031,7 +1031,7 @@
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_CA_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_CA_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -1061,22 +1061,22 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541369647985594369/1541370430550577244_1080.mp4",
+                  "url": "quests/1541369647985594369/1551723017644548196_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541369647985594369/1541370430550577244_720.mp4",
+                  "url": "quests/1541369647985594369/1551723017644548196_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541369647985594369/1541370430550577244.m3u8",
+                  "url": "quests/1541369647985594369/1551723017644548196.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541369647985594369/1541598197598785636.png"
@@ -1088,24 +1088,24 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541369647985594369/1541593220495056966_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541369647985594369/1551723017095086090_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1541369647985594369/1541593220495056966_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541369647985594369/1551723017095086090_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1541369647985594369/1541593220495056966.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541369647985594369/1551723017095086090.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541369647985594369/1541598239969644655.jpg"
                 }
               },
@@ -1140,16 +1140,16 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_CA_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_CA_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2OTY0Nzk4NTU5NDM2OS8xNTQxNTk4MjQxMjgyNTkyODI5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2OTY0Nzk4NTU5NDM2OS8xNTQxNTk4MjQxMjgyNTkyODI5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
       "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:33.488Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:57:01.363Z"
+      "updated_at": "2026-09-23T16:17:01.495Z"
     },
     "1541366408632475670": {
       "id": "1541366408632475670",
@@ -1161,7 +1161,7 @@
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_FR_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_FR_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -1191,22 +1191,22 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541366408632475670/1541367042261909574_1080.mp4",
+                  "url": "quests/1541366408632475670/1551723081616203806_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541366408632475670/1541367042261909574_720.mp4",
+                  "url": "quests/1541366408632475670/1551723081616203806_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541366408632475670/1541367042261909574.m3u8",
+                  "url": "quests/1541366408632475670/1551723081616203806.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
@@ -1218,24 +1218,24 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541366408632475670/1541367024964599898_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541366408632475670/1551723080903041034_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541366408632475670/1541367024964599898_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541366408632475670/1551723080903041034_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541366408632475670/1541367024964599898.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541366408632475670/1551723080903041034.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541366408632475670/1541998004800593920.png"
                 }
               },
@@ -1270,16 +1270,16 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_FR_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_FR_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2NjQwODYzMjQ3NTY3MC8xNTQxNTk3MTM0NzUzNjMyMjk2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2NjQwODYzMjQ3NTY3MC8xNTQxNTk3MTM0NzUzNjMyMjk2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
       "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:35.265Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:57:02.703Z"
+      "updated_at": "2026-09-23T16:17:02.830Z"
     },
     "1541360124457779283": {
       "id": "1541360124457779283",
@@ -1291,7 +1291,7 @@
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_UK_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_UK_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -1321,22 +1321,22 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541360124457779283/1541362165426950224_1080.mp4",
+                  "url": "quests/1541360124457779283/1551723189758074971_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541360124457779283/1541597601659494521.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541360124457779283/1541362165426950224_720.mp4",
+                  "url": "quests/1541360124457779283/1551723189758074971_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541360124457779283/1541597601659494521.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541360124457779283/1541362165426950224.m3u8",
+                  "url": "quests/1541360124457779283/1551723189758074971.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541360124457779283/1541597601659494521.png"
@@ -1348,24 +1348,24 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541360124457779283/1541593172029874318_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541360124457779283/1551723189720059925_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541360124457779283/1541597663047196682.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1541360124457779283/1541593172029874318_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541360124457779283/1551723189720059925_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541360124457779283/1541597663047196682.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1541360124457779283/1541593172029874318.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541360124457779283/1551723189720059925.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541360124457779283/1541597663047196682.jpg"
                 }
               },
@@ -1400,16 +1400,16 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_UK_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_UK_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2MDEyNDQ1Nzc3OTI4My8xNTQxNTk3NzE4NTgzOTY3NzY0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2MDEyNDQ1Nzc3OTI4My8xNTQxNTk3NzE4NTgzOTY3NzY0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
       "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:36.912Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:57:04.300Z"
+      "updated_at": "2026-09-23T16:17:04.102Z"
     },
     "1541363735791280209": {
       "id": "1541363735791280209",
@@ -1421,7 +1421,7 @@
           15
         ],
         "application": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_DE_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_DE_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "id": "545364944258990091",
           "name": "Discord"
         },
@@ -1451,22 +1451,22 @@
           "tasks": {
             "WATCH_VIDEO": {
               "type": "WATCH_VIDEO",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541363735791280209/1541365630710583368_1080.mp4",
+                  "url": "quests/1541363735791280209/1551723141514928198_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541363735791280209/1541365630710583368_720.mp4",
+                  "url": "quests/1541363735791280209/1551723141514928198_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541363735791280209/1541365630710583368.m3u8",
+                  "url": "quests/1541363735791280209/1551723141514928198.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
@@ -1478,24 +1478,24 @@
             },
             "WATCH_VIDEO_ON_MOBILE": {
               "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 28,
+              "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1541363735791280209/1541592844181962825_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541363735791280209/1551723141586358342_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_low_res": {
-                  "url": "quests/1541363735791280209/1541592844181962825_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541363735791280209/1551723141586358342_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 },
                 "video_hls": {
-                  "url": "quests/1541363735791280209/1541592844181962825.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1541363735791280209/1551723141586358342.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1541363735791280209/1541998192881827892.png"
                 }
               },
@@ -1530,16 +1530,16 @@
         },
         "share_policy": "shareable_everywhere",
         "cta_config": {
-          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260825_Pre_A2_DE_Pre_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers",
+          "link": "https://store.steampowered.com/app/3393110/AION_2/?utm_source=discord&utm_campaign=cheil_20260923_Countdown_A2_DE_Countdown_All_NEW_By_DISCORD_Quest&utm_medium=interest_mmoplayers&utm_content=gamescomwos",
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2MzczNTc5MTI4MDIwOS8xNTQxNTk3NDkyNjI4NTUzODE5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yNVQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MTM2MzczNTc5MTI4MDIwOS8xNTQxNTk3NDkyNjI4NTUzODE5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0MTMxODQyODI4MTkyOTc1OC8xNTQxMzU4MDA0MzgzOTE2MTA0XzcyMC5tcDQifQ==",
       "starts_at": "2026-08-25T22:00:00+00:00",
       "expires_at": "2026-10-12T06:59:00+00:00",
       "sent_at": "2026-08-26T01:20:38.832Z",
       "type": "updated",
-      "updated_at": "2026-08-31T12:57:05.767Z"
+      "updated_at": "2026-09-23T16:17:05.396Z"
     },
     "1540036377146556556": {
       "id": "1540036377146556556",
@@ -15155,5 +15155,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-23T10:56:20.623Z"
+  "last_check": "2026-09-23T16:17:06.502Z"
 }
