@@ -13883,7 +13883,7 @@
         },
         "messages": {
           "quest_name": "A Ilha Esquecida",
-          "game_title": "24 de setembro nos cinemas",
+          "game_title": "HOJE nos cinemas",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
@@ -13931,14 +13931,15 @@
         "cta_config": {
           "link": "https://app.powster.com/universalstudios/forgotten-island-intl/br/",
           "button_label": "Get Tickets",
-          "subtitle": "24 de setembro nos cinemas"
+          "subtitle": "HOJE nos cinemas"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQSBJbGhhIEVzcXVlY2lkYSIsImdhbWVfdGl0bGUiOiIyNCBkZSBzZXRlbWJybyBub3MgY2luZW1hcyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIxVDAzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjhUMDI6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjhUMDI6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQSBJbGhhIEVzcXVlY2lkYSIsImdhbWVfdGl0bGUiOiJIT0pFIG5vcyBjaW5lbWFzIiwiZ2FtZV9wdWJsaXNoZXIiOiJVbml2ZXJzYWwgUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1MzYzMTQxNDM0MTI0NTc1NTMiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRWxiYSIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjFUMDM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NzM2NzQxMzMyMDc3NzgzMC8xNTQ5MTIyNDY5OTEzMzA1MTc5LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-09-21T03:00:00+00:00",
-      "expires_at": "2026-10-28T02:59:00+00:00",
+      "expires_at": "2026-09-28T02:59:00+00:00",
       "sent_at": "2026-09-21T12:12:30.027Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-24T21:14:31.989Z"
     },
     "1548040517420449792": {
       "id": "1548040517420449792",
@@ -15206,7 +15207,313 @@
       "expires_at": "2026-11-04T06:00:00+00:00",
       "sent_at": "2026-09-24T16:38:55.242Z",
       "type": "new"
+    },
+    "1537134637686591699": {
+      "id": "1537134637686591699",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-24T16:00:00+00:00",
+        "expires_at": "2026-10-05T06:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+          "id": "1536318183873454090",
+          "name": "Spades"
+        },
+        "assets": {
+          "hero": "quests/1537134637686591699/1552442586097127464.jpg",
+          "hero_video": "quests/1537134637686591699/1552442502571753512_720.mp4",
+          "quest_bar_hero_blurhash": "jfcJEoJAbYd4eViJb5b5aKk=",
+          "quest_bar_hero": "quests/1537134637686591699/1552442586097127464.jpg",
+          "quest_bar_hero_video": "quests/1537134637686591699/1552442502571753512_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1537134637686591699/1552442240171905034.png",
+          "game_tile_dark": "quests/1537134637686591699/1552442240171905034.png",
+          "logotype_light": "quests/1537134637686591699/1552448717464801350.png",
+          "logotype_dark": "quests/1537134637686591699/1552442239391895794.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "VALORANT Aces",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 1,
+              "applications": [
+                {
+                  "id": "1536318183873454090"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Take the shot. Beat the clock. Land the ACE.",
+                "task_description": "Relive some of the greatest plays in VALORANT esports history, but this time YOU'RE in the driver's seat. Can you ACE it?"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+          "button_label": "Play Free Now",
+          "subtitle": "VALORANT Aces"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgQWNlcyIsImdhbWVfdGl0bGUiOiJWQUxPUkFOVCIsImdhbWVfcHVibGlzaGVyIjoiUmlvdCBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxODE4Mzg3MzQ1NDA5MCIsImFwcGxpY2F0aW9uX25hbWUiOiJTcGFkZXMiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTI0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDVUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0IjoxfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNzEzNDYzNzY4NjU5MTY5OS8xNTUyNDQyNTg2MDk3MTI3NDY0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzNzEzNDYzNzY4NjU5MTY5OS8xNTUyNDQyNTAyNTcxNzUzNTEyXzcyMC5tcDQifQ==",
+      "starts_at": "2026-09-24T16:00:00+00:00",
+      "expires_at": "2026-11-04T06:59:00+00:00",
+      "sent_at": "2026-09-24T21:14:25.402Z",
+      "type": "new"
+    },
+    "1552029588132200532": {
+      "id": "1552029588132200532",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-24T16:00:00+00:00",
+        "expires_at": "2026-10-05T06:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1552026065491202149/1552027741996716062.jpg",
+          "hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
+          "quest_bar_hero_blurhash": "yxcGEoQIk0iDeViXBq5RcDk=",
+          "quest_bar_hero": "quests/1552026065491202149/1552027741996716062.jpg",
+          "quest_bar_hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+          "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+          "logotype_light": "quests/1552029588132200532/1552080028819525763.png",
+          "logotype_dark": "quests/1552029588132200532/1552080028819525763.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Animal Hospital",
+          "game_title": "Animal Hospital on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T06:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQW5pbWFsIEhvc3BpdGFsIiwiZ2FtZV90aXRsZSI6IkFuaW1hbCBIb3NwaXRhbCBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjRUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwNjowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwNjowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMDI2MDY1NDkxMjAyMTQ5LzE1NTIwMjc3NDE5OTY3MTYwNjIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyMDI2MDY1NDkxMjAyMTQ5LzE1NTIwMjc4MDAzNzcxMDI0NjlfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-24T16:00:00+00:00",
+      "expires_at": "2026-11-04T06:00:00+00:00",
+      "sent_at": "2026-09-24T21:14:26.744Z",
+      "type": "new"
+    },
+    "1549139459264741497": {
+      "id": "1549139459264741497",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-24T16:30:00+00:00",
+        "expires_at": "2026-10-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=championsanthem2026",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549139459264741497/1550542111445749842.jpg",
+          "hero_video": "quests/1549139459264741497/1549140285416542378_720.mp4",
+          "quest_bar_hero_blurhash": "H6cJJIiRdHcPh4hThpySnwr6yQ==",
+          "quest_bar_hero": "quests/1549139459264741497/1550542245713813625.jpg",
+          "quest_bar_hero_video": "quests/1549139459264741497/1549140285416542378_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549139459264741497/1549140233520545947.png",
+          "game_tile_dark": "quests/1549139459264741497/1549140233520545947.png",
+          "logotype_light": "quests/1549139459264741497/1549143006991618180.png",
+          "logotype_dark": "quests/1549139459264741497/1549140206391656508.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "VALORANT Champions Anthem",
+          "game_title": "If the Sun Burns Out Tonight",
+          "game_publisher": "Riot Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 233,
+              "assets": {
+                "video": {
+                  "url": "quests/1549139459264741497/1549140853266849943_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1549139459264741497/1549140853266849943_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                },
+                "video_hls": {
+                  "url": "quests/1549139459264741497/1549140853266849943.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 233,
+              "assets": {
+                "video": {
+                  "url": "quests/1549139459264741497/1549140853266849943_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1549139459264741497/1549140853266849943_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                },
+                "video_hls": {
+                  "url": "quests/1549139459264741497/1549140853266849943.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=championsanthem2026",
+          "button_label": "Play Free Now",
+          "subtitle": "Champions starts Sept. 24"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgQ2hhbXBpb25zIEFudGhlbSIsImdhbWVfdGl0bGUiOiJJZiB0aGUgU3VuIEJ1cm5zIE91dCBUb25pZ2h0IiwiZ2FtZV9wdWJsaXNoZXIiOiJSaW90IEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjRUMTY6MzA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjIzM30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyMzN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ5MTM5NDU5MjY0NzQxNDk3LzE1NTA1NDIxMTE0NDU3NDk4NDIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ5MTM5NDU5MjY0NzQxNDk3LzE1NDkxNDAyODU0MTY1NDIzNzhfNzIwLm1wNCJ9",
+      "starts_at": "2026-09-24T16:30:00+00:00",
+      "expires_at": "2026-11-04T00:00:00+00:00",
+      "sent_at": "2026-09-24T21:14:29.740Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-24T16:38:56.349Z"
+  "last_check": "2026-09-24T21:14:33.096Z"
 }
