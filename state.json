@@ -372,115 +372,6 @@
       "sent_at": "2026-08-20T18:40:03.867Z",
       "type": "new"
     },
-    "1540084308683784265": {
-      "id": "1540084308683784265",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-21T17:00:00+00:00",
-        "expires_at": "2026-09-25T06:59:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://gotdragonfire.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1527464720183984268/1527475268703228024.jpg",
-          "quest_bar_hero_blurhash": "1fcJBIBsRpd8hnlwiHQ/ivZyZw==",
-          "quest_bar_hero": "quests/1527464720183984268/1527475268594438374.jpg",
-          "quest_bar_hero_video": "quests/1527464720183984268/1527475268846092449.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527464720183984268/1527474781635477675.png",
-          "game_tile_dark": "quests/1527464720183984268/1527474781635477675.png",
-          "logotype_light": "quests/1527464720183984268/1527474907963850862.png",
-          "logotype_dark": "quests/1527464720183984268/1527474971545309225.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Game of Thrones: Dragonfire",
-          "game_title": "Game of Thrones: Dragonfire",
-          "game_publisher": "Warner Bros. International Enterprises"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 40,
-              "assets": {
-                "video": {
-                  "url": "quests/1527464720183984268/1527475602129686698_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527464720183984268/1527475602062311535.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1527464720183984268/1527475602129686698_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527464720183984268/1527475602062311535.png"
-                },
-                "video_hls": {
-                  "url": "quests/1527464720183984268/1527475602129686698.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1527464720183984268/1527475602062311535.png"
-                }
-              },
-              "messages": {
-                "video_title": ""
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-25T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.wb.goog.hotd.socialstrategy"
-          },
-          "ios": {
-            "ios_app_id": "1642607669"
-          },
-          "link": "https://gotdragonfire.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR2FtZSBvZiBUaHJvbmVzOiBEcmFnb25maXJlIiwiZ2FtZV90aXRsZSI6IkdhbWUgb2YgVGhyb25lczogRHJhZ29uZmlyZSIsImdhbWVfcHVibGlzaGVyIjoiV2FybmVyIEJyb3MuIEludGVybmF0aW9uYWwgRW50ZXJwcmlzZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yMVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI1VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI1VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo0MH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Mjc0NjQ3MjAxODM5ODQyNjgvMTUyNzQ3NTI2ODcwMzIyODAyNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-08-21T17:00:00+00:00",
-      "expires_at": "2026-09-25T06:59:00+00:00",
-      "sent_at": "2026-08-21T18:37:00.203Z",
-      "type": "updated",
-      "updated_at": "2026-09-17T21:01:26.979Z"
-    },
     "1540204098790494268": {
       "id": "1540204098790494268",
       "config": {
@@ -15514,7 +15405,429 @@
       "expires_at": "2026-11-04T00:00:00+00:00",
       "sent_at": "2026-09-24T21:14:29.740Z",
       "type": "new"
+    },
+    "1552793125028634754": {
+      "id": "1552793125028634754",
+      "config": {
+        "id": "1552793125028634754",
+        "config_version": 2,
+        "starts_at": "2026-09-25T17:00:00+00:00",
+        "expires_at": "2026-10-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
+          "id": "1531874756096295054",
+          "name": "EA Sports FC 27"
+        },
+        "assets": {
+          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
+          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
+          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
+          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
+          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
+          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EA SPORTS FC™ 27",
+          "game_title": "EA SPORTS FC™ 27",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": [
+                "1675858627",
+                "2047118660"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": [
+                "CUSA57220_00",
+                "PPSA34015_00",
+                "CUSA58964_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
+          "button_label": "Nhận Trò Chơi"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-09-25T17:00:00+00:00",
+      "expires_at": "2026-11-04T00:00:00+00:00",
+      "sent_at": "2026-09-25T21:11:44.237Z",
+      "type": "new"
+    },
+    "1551982502347022347": {
+      "id": "1551982502347022347",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-25T17:00:00+00:00",
+        "expires_at": "2026-10-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_DE_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
+          "id": "1531874756096295054",
+          "name": "EA Sports FC 27"
+        },
+        "assets": {
+          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
+          "hero_video": "quests/1551969525602451497/1551970363032862821.mp4",
+          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
+          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
+          "quest_bar_hero_video": "quests/1551969525602451497/1551970362114179082.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
+          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
+          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
+          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EA SPORTS FC™ 27",
+          "game_title": "EA SPORTS FC™ 27",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": []
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_DE_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
+          "button_label": "Get Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTgxNTgxMTE4MzQ1MzU3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTcwMzYzMDMyODYyODIxLm1wNCJ9",
+      "starts_at": "2026-09-25T17:00:00+00:00",
+      "expires_at": "2026-11-04T00:00:00+00:00",
+      "sent_at": "2026-09-25T21:11:45.595Z",
+      "type": "new"
+    },
+    "1551969525602451497": {
+      "id": "1551969525602451497",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-25T17:00:00+00:00",
+        "expires_at": "2026-10-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
+          "id": "1531874756096295054",
+          "name": "EA Sports FC 27"
+        },
+        "assets": {
+          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
+          "hero_video": "quests/1551969525602451497/1551970363032862821.mp4",
+          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
+          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
+          "quest_bar_hero_video": "quests/1551969525602451497/1551970362114179082.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
+          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
+          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
+          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EA SPORTS FC™ 27",
+          "game_title": "EA SPORTS FC™ 27",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": []
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
+          "button_label": "Get Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTgxNTgxMTE4MzQ1MzU3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTcwMzYzMDMyODYyODIxLm1wNCJ9",
+      "starts_at": "2026-09-25T17:00:00+00:00",
+      "expires_at": "2026-11-04T00:00:00+00:00",
+      "sent_at": "2026-09-25T21:11:47.463Z",
+      "type": "new"
+    },
+    "1551983210601382063": {
+      "id": "1551983210601382063",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-25T17:00:00+00:00",
+        "expires_at": "2026-10-05T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
+          "id": "1531874756096295054",
+          "name": "EA Sports FC 27"
+        },
+        "assets": {
+          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
+          "hero_video": "quests/1551969525602451497/1551970363032862821.mp4",
+          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
+          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
+          "quest_bar_hero_video": "quests/1551969525602451497/1551970362114179082.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
+          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
+          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
+          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "EA SPORTS FC™ 27",
+          "game_title": "EA SPORTS FC™ 27",
+          "game_publisher": "Electronic Arts"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": []
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1531874756096295054"
+                }
+              ],
+              "external_ids": []
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
+          "button_label": "Get Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTgxNTgxMTE4MzQ1MzU3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTcwMzYzMDMyODYyODIxLm1wNCJ9",
+      "starts_at": "2026-09-25T17:00:00+00:00",
+      "expires_at": "2026-11-04T00:00:00+00:00",
+      "sent_at": "2026-09-25T21:11:48.937Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-25T16:44:36.937Z"
+  "last_check": "2026-09-25T21:11:50.047Z"
 }
