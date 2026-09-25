@@ -13792,7 +13792,7 @@
         },
         "messages": {
           "quest_name": "La Isla Olvidada",
-          "game_title": "25 de septiembre solo en cines",
+          "game_title": "Ya en cines",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
@@ -13840,14 +13840,15 @@
         "cta_config": {
           "link": "https://www.laislaolvidada-lapelicula.es/entradas",
           "button_label": "Get Tickets",
-          "subtitle": "25 de septiembre solo en cines"
+          "subtitle": "Ya en cines"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTGEgSXNsYSBPbHZpZGFkYSIsImdhbWVfdGl0bGUiOiIyNSBkZSBzZXB0aWVtYnJlIHNvbG8gZW4gY2luZXMiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxNDE0MzQxMjQ1NzU1MyIsImFwcGxpY2F0aW9uX25hbWUiOiJFbGJhIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0yMFQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI3VDIxOjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI3VDIxOjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3MzY3NDEzMzIwNzc3ODMwLzE1NDkxMjI0Njk5MTMzMDUxNzkuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTGEgSXNsYSBPbHZpZGFkYSIsImdhbWVfdGl0bGUiOiJZYSBlbiBjaW5lcyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIwVDIyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjdUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjdUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-09-20T22:00:00+00:00",
-      "expires_at": "2026-10-27T21:59:00+00:00",
+      "expires_at": "2026-09-27T21:59:00+00:00",
       "sent_at": "2026-09-21T03:46:20.735Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-25T03:50:56.616Z"
     },
     "1549194407641747487": {
       "id": "1549194407641747487",
@@ -15515,5 +15516,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-09-24T21:14:33.096Z"
+  "last_check": "2026-09-25T03:50:57.721Z"
 }
