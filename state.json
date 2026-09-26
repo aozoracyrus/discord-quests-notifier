@@ -15860,7 +15860,7 @@
         },
         "messages": {
           "quest_name": "Beware Boiúna",
-          "game_title": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters October 2.",
+          "game_title": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters FRIDAY.",
           "game_publisher": "Lionsgate"
         },
         "task_config_v2": {
@@ -15870,19 +15870,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1552026570229813258/1552778974445445120_1080.mp4",
+                  "url": "quests/1552026570229813258/1552778974332190851_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1552026570229813258/1552778974445445120_720.mp4",
+                  "url": "quests/1552026570229813258/1552778974332190851_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1552026570229813258/1552778974445445120.m3u8",
+                  "url": "quests/1552026570229813258/1552778974332190851.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
@@ -15897,19 +15897,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1552026570229813258/1552779905715146842_1080.mp4",
+                  "url": "quests/1552026570229813258/1552778974315417791_1080.mp4",
                   "width": 607,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1552026570229813258/1552779905715146842_720.mp4",
+                  "url": "quests/1552026570229813258/1552778974315417791_720.mp4",
                   "width": 607,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1552026570229813258/1552779905715146842.m3u8",
+                  "url": "quests/1552026570229813258/1552778974315417791.m3u8",
                   "width": 607,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
@@ -15948,15 +15948,16 @@
         "cta_config": {
           "link": "https://www.bewareboiuna.movie/?utm_source=Discord&utm_medium=paidmedia&utm_content=bewareboiunadiscord&utm_campaign=bewareboiuna",
           "button_label": "Get Tickets",
-          "subtitle": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters October 2."
+          "subtitle": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters FRIDAY."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmV3YXJlIEJvacO6bmEiLCJnYW1lX3RpdGxlIjoiU2hlIGRlY2lkZXMgd2hvIGxpdmVzLiBTaGUgZGVjaWRlcyB3aG8gZGllcy4gR2V0IHRpY2tldHMgbm93LiAjQmV3YXJlQm9pdW5hIC0gb25seSBpbiB0aGVhdGVycyBPY3RvYmVyIDIuIiwiZ2FtZV9wdWJsaXNoZXIiOiJMaW9uc2dhdGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0yNlQwMDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTA0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MjAyNjU3MDIyOTgxMzI1OC8xNTUyMDM4NzgxNDA4Nzc2MjIyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmV3YXJlIEJvacO6bmEiLCJnYW1lX3RpdGxlIjoiU2hlIGRlY2lkZXMgd2hvIGxpdmVzLiBTaGUgZGVjaWRlcyB3aG8gZGllcy4gR2V0IHRpY2tldHMgbm93LiAjQmV3YXJlQm9pdW5hIC0gb25seSBpbiB0aGVhdGVycyBGUklEQVkuIiwiZ2FtZV9wdWJsaXNoZXIiOiJMaW9uc2dhdGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0yNlQwMDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTA0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MjAyNjU3MDIyOTgxMzI1OC8xNTUyMDM4NzgxNDA4Nzc2MjIyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-09-26T00:00:00+00:00",
-      "expires_at": "2026-11-04T00:00:00+00:00",
+      "expires_at": "2026-10-05T00:00:00+00:00",
       "sent_at": "2026-09-26T03:56:43.422Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-26T15:56:39.725Z"
     }
   },
-  "last_check": "2026-09-26T10:56:54.163Z"
+  "last_check": "2026-09-26T15:56:40.829Z"
 }
