@@ -951,264 +951,6 @@
       "type": "updated",
       "updated_at": "2026-09-23T16:17:05.396Z"
     },
-    "1540036377146556556": {
-      "id": "1540036377146556556",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-28T17:00:00+00:00",
-        "expires_at": "2026-09-29T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1540036377146556556/1543004822704361472.jpg",
-          "quest_bar_hero_blurhash": "32cHBIgq+FePdHmCbJRbr3R/eA==",
-          "quest_bar_hero": "quests/1540036377146556556/1541615727566659604.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1540036377146556556/1540080485622087841.png",
-          "game_tile_dark": "quests/1540036377146556556/1540080485622087841.png",
-          "logotype_light": "quests/1540036377146556556/1540083413502001313.png",
-          "logotype_dark": "quests/1540036377146556556/1540080554203025468.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Student Perks",
-          "game_title": "T-Mobile",
-          "game_publisher": "T-Mobile"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1540036377146556556/1540082319606677564_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540036377146556556/1540082319606677564_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540036377146556556/1540082319606677564.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 20,
-              "assets": {
-                "video": {
-                  "url": "quests/1540036377146556556/1540194178984579122_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540036377146556556/1540194178984579122_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540036377146556556/1540194178984579122.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
-          "button_label": "Learn More",
-          "subtitle": "Plans built just for students starting at $30/mo."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MjB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQwMDM2Mzc3MTQ2NTU2NTU2LzE1NDMwMDQ4MjI3MDQzNjE0NzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-08-28T17:00:00+00:00",
-      "expires_at": "2026-09-29T00:00:00+00:00",
-      "sent_at": "2026-08-28T23:59:28.347Z",
-      "type": "updated",
-      "updated_at": "2026-08-31T12:57:13.164Z"
-    },
-    "1542287027578478654": {
-      "id": "1542287027578478654",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-28T17:00:00+00:00",
-        "expires_at": "2026-09-29T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://es.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1542287027578478654/1543004659654852751.jpg",
-          "quest_bar_hero_blurhash": "32cHBIgq+FePdHmCbJRbr3R/eA==",
-          "quest_bar_hero": "quests/1540036377146556556/1541615727566659604.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1540036377146556556/1540080485622087841.png",
-          "game_tile_dark": "quests/1540036377146556556/1540080485622087841.png",
-          "logotype_light": "quests/1540036377146556556/1540083413502001313.png",
-          "logotype_dark": "quests/1540036377146556556/1540080554203025468.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Student Perks",
-          "game_title": "T-Mobile",
-          "game_publisher": "T-Mobile"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1540036377146556556/1540082319606677564_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540036377146556556/1540082319606677564_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540036377146556556/1540082319606677564.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540036377146556556/1541615238040789042.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 20,
-              "assets": {
-                "video": {
-                  "url": "quests/1540036377146556556/1540194178984579122_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540036377146556556/1540194178984579122_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540036377146556556/1540194178984579122.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1540036377146556556/1541596257787580416.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://es.t-mobile.com/cell-phone-plans/student-discounts?cmpid=MGPO_DS_P_PPSTUPRKSE_%epid!_%eaid!_%ecid!_%ebuy!",
-          "button_label": "Learn More",
-          "subtitle": "Plans built just for students starting at $30/mo."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3R1ZGVudCBQZXJrcyIsImdhbWVfdGl0bGUiOiJULU1vYmlsZSIsImdhbWVfcHVibGlzaGVyIjoiVC1Nb2JpbGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjIwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MjI4NzAyNzU3ODQ3ODY1NC8xNTQzMDA0NjU5NjU0ODUyNzUxLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
-      "starts_at": "2026-08-28T17:00:00+00:00",
-      "expires_at": "2026-09-29T00:00:00+00:00",
-      "sent_at": "2026-08-28T23:59:32.180Z",
-      "type": "updated",
-      "updated_at": "2026-08-31T12:57:16.284Z"
-    },
     "1516889218218197062": {
       "id": "1516889218218197062",
       "config": {
@@ -3978,7 +3720,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-06-01T17:00:00+00:00",
-        "expires_at": "2026-09-29T06:59:00+00:00",
+        "expires_at": "2026-10-06T06:59:00+00:00",
         "features": [
           44,
           15
@@ -4059,7 +3801,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-29T06:59:00+00:00",
+          "rewards_expire_at": "2026-11-05T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -4076,12 +3818,12 @@
           "button_label": "Play Game"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA2LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjlUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjlUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTUzMTk4Mzc0MDI1NTY0MTcwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTUzMTk4NDQyMjMzMjA5MDAzXzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA2LTAxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDVUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTUzMTk4Mzc0MDI1NTY0MTcwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUwOTY4MzE0NjIzOTUxMjcyNi8xNTUzMTk4NDQyMjMzMjA5MDAzXzcyMC5tcDQifQ==",
       "starts_at": "2026-06-01T17:00:00+00:00",
-      "expires_at": "2026-09-29T06:59:00+00:00",
+      "expires_at": "2026-10-06T06:59:00+00:00",
       "sent_at": "2026-09-08T20:49:15.308Z",
       "type": "updated",
-      "updated_at": "2026-09-26T03:56:44.800Z"
+      "updated_at": "2026-09-29T04:41:11.170Z"
     },
     "1536463146980483122": {
       "id": "1536463146980483122",
@@ -15405,7 +15147,526 @@
       "expires_at": "2026-11-03T21:59:00+00:00",
       "sent_at": "2026-09-28T04:08:46.779Z",
       "type": "new"
+    },
+    "1552370451727261738": {
+      "id": "1552370451727261738",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-28T16:00:00+00:00",
+        "expires_at": "2026-10-09T16:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433708",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "hero_video": "quests/1552370451727261738/1552704730340262019_720.mp4",
+          "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+          "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "quest_bar_hero_video": "quests/1552370451727261738/1552704730340262019_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+          "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+          "logotype_light": "quests/1552370451727261738/1553171988045107312.png",
+          "logotype_dark": "quests/1552370451727261738/1553171988045107312.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Matchbox The Movie",
+          "game_title": "Streaming October 9",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1552370451727261738/1552703270667948072_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552370451727261738/1552703270667948072_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552370451727261738/1552703270667948072.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1553092380834406460",
+              "asset": "quests/1552370451727261738/1553179316353892422.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Matchbox 1968 Mustang Avatar Decoration",
+                "name_with_article": "a Matchbox 1968 Mustang Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-10T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-03T16:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433708",
+          "button_label": "View More",
+          "subtitle": "Streaming October 9"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6IlN0cmVhbWluZyBPY3RvYmVyIDkiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOVQxNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QxNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MTQxNTMxMzQ3NDc4OTQ1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTIzNzA0NTE3MjcyNjE3MzgvMTU1MjcwNDczMDM0MDI2MjAxOV83MjAubXA0In0=",
+      "starts_at": "2026-09-28T16:00:00+00:00",
+      "expires_at": "2026-11-03T16:59:00+00:00",
+      "sent_at": "2026-09-29T04:41:04.164Z",
+      "type": "new"
+    },
+    "1552782554845806643": {
+      "id": "1552782554845806643",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-28T16:00:00+00:00",
+        "expires_at": "2026-10-09T16:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423619",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "hero_video": "quests/1552782554845806643/1552823964705886260_720.mp4",
+          "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+          "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "quest_bar_hero_video": "quests/1552782554845806643/1552823964705886260_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+          "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+          "logotype_light": "quests/1552782554845806643/1553170776755150958.png",
+          "logotype_dark": "quests/1552782554845806643/1553170776755150958.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Matchbox The Movie",
+          "game_title": "Streaming October 9",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1552782554845806643/1552814902312173690_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552782554845806643/1552814902312173690_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552782554845806643/1552814902312173690.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1553093599992746004",
+              "asset": "quests/1552782554845806643/1553179643538841710.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Matchbox Land Rover 6x6 Avatar Decoration",
+                "name_with_article": "a Matchbox Land Rover 6x6 Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-10T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-04T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423619",
+          "button_label": "View More",
+          "subtitle": "Streaming October 9"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6IlN0cmVhbWluZyBPY3RvYmVyIDkiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOVQxNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MTQxNTMxMzQ3NDc4OTQ1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTI3ODI1NTQ4NDU4MDY2NDMvMTU1MjgyMzk2NDcwNTg4NjI2MF83MjAubXA0In0=",
+      "starts_at": "2026-09-28T16:00:00+00:00",
+      "expires_at": "2026-11-04T06:59:00+00:00",
+      "sent_at": "2026-09-29T04:41:05.537Z",
+      "type": "new"
+    },
+    "1549819328193364061": {
+      "id": "1549819328193364061",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-28T16:00:00+00:00",
+        "expires_at": "2026-10-09T16:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423618",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "hero_video": "quests/1549819328193364061/1552816554800844860_720.mp4",
+          "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+          "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "quest_bar_hero_video": "quests/1549819328193364061/1552816554800844860_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+          "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+          "logotype_light": "quests/1549819328193364061/1553169864628117564.png",
+          "logotype_dark": "quests/1549819328193364061/1553169864628117564.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Matchbox The Movie",
+          "game_title": "Streaming October 9",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1549819328193364061/1552814648192147476_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1549819328193364061/1552814648192147476_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1549819328193364061/1552814648192147476.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1553092380834406460",
+              "asset": "quests/1549819328193364061/1553179019908874362.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Matchbox 1968 Mustang Avatar Decoration",
+                "name_with_article": "a Matchbox 1968 Mustang Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-10T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-08T16:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423618",
+          "button_label": "View More",
+          "subtitle": "Streaming October 9"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6IlN0cmVhbWluZyBPY3RvYmVyIDkiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOVQxNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wOFQxNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MTQxNTMxMzQ3NDc4OTQ1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MjgxNjU1NDgwMDg0NDg2MF83MjAubXA0In0=",
+      "starts_at": "2026-09-28T16:00:00+00:00",
+      "expires_at": "2026-11-08T16:59:00+00:00",
+      "sent_at": "2026-09-29T04:41:06.877Z",
+      "type": "new"
+    },
+    "1552698676017766541": {
+      "id": "1552698676017766541",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-28T16:00:00+00:00",
+        "expires_at": "2026-10-09T16:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433707",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+          "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+          "quest_bar_hero_video": "quests/1552698676017766541/1552705302003060816_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+          "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+          "logotype_light": "quests/1552698676017766541/1553171816137101382.png",
+          "logotype_dark": "quests/1552698676017766541/1553171816137101382.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Matchbox The Movie",
+          "game_title": "Streaming October 9",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1552698676017766541/1552702892736249856_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552698676017766541/1552702892736249856_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552698676017766541/1552702892736249856.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1553093599992746004",
+              "asset": "quests/1552698676017766541/1553179715479797860.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Matchbox Land Rover 6x6 Avatar Decoration",
+                "name_with_article": "a Matchbox Land Rover 6x6 Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-10T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-08T16:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433707",
+          "button_label": "View More",
+          "subtitle": "Streaming October 9"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6IlN0cmVhbWluZyBPY3RvYmVyIDkiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOVQxNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wOFQxNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MTQxNTMxMzQ3NDc4OTQ1Ni5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-09-28T16:00:00+00:00",
+      "expires_at": "2026-11-08T16:59:00+00:00",
+      "sent_at": "2026-09-29T04:41:08.629Z",
+      "type": "new"
+    },
+    "1552790924445356043": {
+      "id": "1552790924445356043",
+      "config": {
+        "id": "1552790924445356043",
+        "config_version": 2,
+        "starts_at": "2026-09-28T17:00:00+00:00",
+        "expires_at": "2026-10-08T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://connect-hellraiser.saber.games/DiscordPlayQuest",
+          "id": "1552168352116641822",
+          "name": "Hellraiser: Revival"
+        },
+        "assets": {
+          "hero": "quests/1552790924445356043/1552792117854601327.jpg",
+          "quest_bar_hero_blurhash": "SvcFDIChiJiHpYSQeIQPeb6C9g==",
+          "quest_bar_hero": "quests/1552790924445356043/1552792064104726708.jpg",
+          "quest_bar_hero_video": "quests/1552790924445356043/1553086271683825704_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552790924445356043/1552791916662231160.png",
+          "game_tile_dark": "quests/1552790924445356043/1552791916662231160.png",
+          "logotype_light": "quests/1552790924445356043/1552791996790214736.png",
+          "logotype_dark": "quests/1552790924445356043/1552791996790214736.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Clive Barker's Hellraiser: Revival ",
+          "game_title": "Clive Barker's Hellraiser: Revival (free demo)",
+          "game_publisher": "Saber Interactive"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1552168352116641822"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1552168352116641822"
+                }
+              ],
+              "external_ids": [
+                "2079449748"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-07T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://connect-hellraiser.saber.games/DiscordPlayQuest",
+          "button_label": "Nhận Trò Chơi"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAiLCJnYW1lX3RpdGxlIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAoZnJlZSBkZW1vKSIsImdhbWVfcHVibGlzaGVyIjoiU2FiZXIgSW50ZXJhY3RpdmUiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTIxNjgzNTIxMTY2NDE4MjIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbHJhaXNlcjogUmV2aXZhbCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjc5MDkyNDQ0NTM1NjA0My8xNTUyNzkyMTE3ODU0NjAxMzI3LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-09-28T17:00:00+00:00",
+      "expires_at": "2026-11-07T00:00:00+00:00",
+      "sent_at": "2026-09-29T04:41:09.895Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-28T21:05:47.872Z"
+  "last_check": "2026-09-29T04:41:12.279Z"
 }
