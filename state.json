@@ -10419,7 +10419,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-09-16T17:00:00+00:00",
-        "expires_at": "2026-09-29T00:00:00+00:00",
+        "expires_at": "2026-10-07T00:00:00+00:00",
         "features": [
           44,
           15
@@ -10500,7 +10500,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-29T00:00:00+00:00",
+          "rewards_expire_at": "2026-11-06T00:00:00+00:00",
           "platforms": [
             0
           ]
@@ -10517,11 +10517,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2FyIFRodW5kZXIiLCJnYW1lX3RpdGxlIjoiV2FyIFRodW5kZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkdhaWppbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjlUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjlUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjQ5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0Nzg5MTk2NzEyMjM0NjAxNS8xNTQ3OTQ4ODA2ODg3MzA5MzIyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0Nzg5MTk2NzEyMjM0NjAxNS8xNTQ3OTQ4ODU2NTQzNjgyNTgwXzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2FyIFRodW5kZXIiLCJnYW1lX3RpdGxlIjoiV2FyIFRodW5kZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkdhaWppbiIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDZUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjQ5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0Nzg5MTk2NzEyMjM0NjAxNS8xNTQ3OTQ4ODA2ODg3MzA5MzIyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0Nzg5MTk2NzEyMjM0NjAxNS8xNTQ3OTQ4ODU2NTQzNjgyNTgwXzcyMC5tcDQifQ==",
       "starts_at": "2026-09-16T17:00:00+00:00",
-      "expires_at": "2026-10-29T00:00:00+00:00",
+      "expires_at": "2026-10-07T00:00:00+00:00",
       "sent_at": "2026-09-16T20:58:07.704Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-29T19:49:09.927Z"
     },
     "1544503579912572989": {
       "id": "1544503579912572989",
@@ -11960,7 +11961,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-09-18T17:00:00+00:00",
-        "expires_at": "2026-10-01T00:00:00+00:00",
+        "expires_at": "2026-10-08T00:00:00+00:00",
         "features": [
           44,
           15
@@ -12041,7 +12042,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "rewards_expire_at": "2026-11-07T00:00:00+00:00",
           "platforms": [
             0
           ]
@@ -12058,11 +12059,12 @@
           "button_label": "Download"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3RpdGxlIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3B1Ymxpc2hlciI6Iklubm9nYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MjM0OTc0Mjk4MjM0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MzI0MTI4NTU1MDY4XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3RpdGxlIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3B1Ymxpc2hlciI6Iklubm9nYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MjM0OTc0Mjk4MjM0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MzI0MTI4NTU1MDY4XzcyMC5tcDQifQ==",
       "starts_at": "2026-09-18T17:00:00+00:00",
-      "expires_at": "2026-10-31T00:00:00+00:00",
+      "expires_at": "2026-10-08T00:00:00+00:00",
       "sent_at": "2026-09-18T20:32:29.884Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-09-29T19:49:11.367Z"
     },
     "1546582811790675998": {
       "id": "1546582811790675998",
@@ -15588,6 +15590,7 @@
         },
         "assets": {
           "hero": "quests/1552790924445356043/1552792117854601327.jpg",
+          "hero_video": "quests/1552790924445356043/1554560864852516874_720.mp4",
           "quest_bar_hero_blurhash": "SvcFDIChiJiHpYSQeIQPeb6C9g==",
           "quest_bar_hero": "quests/1552790924445356043/1552792064104726708.jpg",
           "quest_bar_hero_video": "quests/1552790924445356043/1553086271683825704_720.mp4",
@@ -15661,12 +15664,271 @@
           "button_label": "Nhận Trò Chơi"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAiLCJnYW1lX3RpdGxlIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAoZnJlZSBkZW1vKSIsImdhbWVfcHVibGlzaGVyIjoiU2FiZXIgSW50ZXJhY3RpdmUiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTIxNjgzNTIxMTY2NDE4MjIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbHJhaXNlcjogUmV2aXZhbCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjc5MDkyNDQ0NTM1NjA0My8xNTUyNzkyMTE3ODU0NjAxMzI3LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAiLCJnYW1lX3RpdGxlIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAoZnJlZSBkZW1vKSIsImdhbWVfcHVibGlzaGVyIjoiU2FiZXIgSW50ZXJhY3RpdmUiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTIxNjgzNTIxMTY2NDE4MjIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbHJhaXNlcjogUmV2aXZhbCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjc5MDkyNDQ0NTM1NjA0My8xNTUyNzkyMTE3ODU0NjAxMzI3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1Mjc5MDkyNDQ0NTM1NjA0My8xNTU0NTYwODY0ODUyNTE2ODc0XzcyMC5tcDQifQ==",
       "starts_at": "2026-09-28T17:00:00+00:00",
-      "expires_at": "2026-11-07T00:00:00+00:00",
+      "expires_at": "2026-10-08T00:00:00+00:00",
       "sent_at": "2026-09-29T04:41:09.895Z",
+      "type": "updated",
+      "updated_at": "2026-09-29T19:49:12.685Z"
+    },
+    "1553392150924890112": {
+      "id": "1553392150924890112",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-29T16:00:00+00:00",
+        "expires_at": "2026-10-07T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://thewitcher.com/de/de/buy?utm_source=discord&utm_medium=cpm&utm_campaign=W3RE_DISCORD_DE_LAUNCH_0926&utm_term=W3RE_LAUNCH_AAA",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1553392150924890112/1553394394843844618.jpg",
+          "hero_video": "quests/1553392150924890112/1553394705297838151_720.mp4",
+          "quest_bar_hero_blurhash": "5ecNDITccop/eIhlpokA0QcgjA==",
+          "quest_bar_hero": "quests/1553392150924890112/1553394394843844618.jpg",
+          "quest_bar_hero_video": "quests/1553392150924890112/1553394705297838151_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1553392150924890112/1553394395758465165.png",
+          "game_tile_dark": "quests/1553392150924890112/1553394395758465165.png",
+          "logotype_light": "quests/1553392150924890112/1554417640989134919.png",
+          "logotype_dark": "quests/1553392150924890112/1554417640989134919.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Witcher 3: Wild Hunt — Remastered",
+          "game_title": "The Witcher 3: Wild Hunt — Remastered",
+          "game_publisher": "CD PROJEKT RED "
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553392150924890112/1553394395577852074_1080.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553392150924890112/1553394395577852074_720.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553392150924890112/1553394395577852074.m3u8",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553392150924890112/1553394395577852074_1080.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553392150924890112/1553394395577852074_720.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553392150924890112/1553394395577852074.m3u8",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-06T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://thewitcher.com/de/de/buy?utm_source=discord&utm_medium=cpm&utm_campaign=W3RE_DISCORD_DE_LAUNCH_0926&utm_term=W3RE_LAUNCH_AAA",
+          "button_label": "Buy Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFdpdGNoZXIgMzogV2lsZCBIdW50IOKAlCBSZW1hc3RlcmVkIiwiZ2FtZV90aXRsZSI6IlRoZSBXaXRjaGVyIDM6IFdpbGQgSHVudCDigJQgUmVtYXN0ZXJlZCIsImdhbWVfcHVibGlzaGVyIjoiQ0QgUFJPSkVLVCBSRUQgIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjlUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTMzOTIxNTA5MjQ4OTAxMTIvMTU1MzM5NDM5NDg0Mzg0NDYxOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTMzOTIxNTA5MjQ4OTAxMTIvMTU1MzM5NDcwNTI5NzgzODE1MV83MjAubXA0In0=",
+      "starts_at": "2026-09-29T16:00:00+00:00",
+      "expires_at": "2026-11-06T00:00:00+00:00",
+      "sent_at": "2026-09-29T19:49:07.172Z",
+      "type": "new"
+    },
+    "1554438460041863280": {
+      "id": "1554438460041863280",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-29T16:00:00+00:00",
+        "expires_at": "2026-10-07T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://thewitcher.com/gb/en/buy?utm_source=discord&utm_medium=cpm&utm_campaign=W3RE_DISCORD_UK_LAUNCH_0926&utm_term=W3RE_LAUNCH_AAA",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1553392150924890112/1553394394843844618.jpg",
+          "hero_video": "quests/1553392150924890112/1553394705297838151_720.mp4",
+          "quest_bar_hero_blurhash": "5ecNDITccop/eIhlpokA0QcgjA==",
+          "quest_bar_hero": "quests/1553392150924890112/1553394394843844618.jpg",
+          "quest_bar_hero_video": "quests/1553392150924890112/1553394705297838151_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1553392150924890112/1553394395758465165.png",
+          "game_tile_dark": "quests/1553392150924890112/1553394395758465165.png",
+          "logotype_light": "quests/1553392150924890112/1554417640989134919.png",
+          "logotype_dark": "quests/1553392150924890112/1554417640989134919.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Witcher 3: Wild Hunt — Remastered",
+          "game_title": "The Witcher 3: Wild Hunt — Remastered",
+          "game_publisher": "CD PROJEKT RED "
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553392150924890112/1553394395695546408_1080.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553392150924890112/1553394395695546408_720.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553392150924890112/1553394395695546408.m3u8",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553392150924890112/1553394395695546408_1080.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553392150924890112/1553394395695546408_720.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553392150924890112/1553394395695546408.m3u8",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1553392150924890112/1553394395305345064.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-06T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://thewitcher.com/gb/en/buy?utm_source=discord&utm_medium=cpm&utm_campaign=W3RE_DISCORD_UK_LAUNCH_0926&utm_term=W3RE_LAUNCH_AAA",
+          "button_label": "Buy Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFdpdGNoZXIgMzogV2lsZCBIdW50IOKAlCBSZW1hc3RlcmVkIiwiZ2FtZV90aXRsZSI6IlRoZSBXaXRjaGVyIDM6IFdpbGQgSHVudCDigJQgUmVtYXN0ZXJlZCIsImdhbWVfcHVibGlzaGVyIjoiQ0QgUFJPSkVLVCBSRUQgIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjlUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTMzOTIxNTA5MjQ4OTAxMTIvMTU1MzM5NDM5NDg0Mzg0NDYxOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTMzOTIxNTA5MjQ4OTAxMTIvMTU1MzM5NDcwNTI5NzgzODE1MV83MjAubXA0In0=",
+      "starts_at": "2026-09-29T16:00:00+00:00",
+      "expires_at": "2026-11-06T00:00:00+00:00",
+      "sent_at": "2026-09-29T19:49:08.617Z",
       "type": "new"
     }
   },
-  "last_check": "2026-09-29T12:17:39.259Z"
+  "last_check": "2026-09-29T19:49:13.813Z"
 }
