@@ -15628,7 +15628,105 @@
       "expires_at": "2026-11-06T00:00:00+00:00",
       "sent_at": "2026-09-29T19:49:08.617Z",
       "type": "new"
+    },
+    "1550563498394787951": {
+      "id": "1550563498394787951",
+      "config": {
+        "id": "1550563498394787951",
+        "config_version": 2,
+        "starts_at": "2026-09-30T14:00:00+00:00",
+        "expires_at": "2026-10-07T14:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://pwgam.es/4ygDZRw",
+          "id": "1470616226995765409",
+          "name": "Neverness to Everness"
+        },
+        "assets": {
+          "hero": "quests/1550563498394787951/1551657575488036925.jpg",
+          "hero_video": "quests/1550563498394787951/1552727440621830154_720.mp4",
+          "quest_bar_hero_blurhash": "lgcGDIAAOWtiemqiiXT/q9zPuA==",
+          "quest_bar_hero": "quests/1550563498394787951/1551657546354270288.jpg",
+          "quest_bar_hero_video": "quests/1550563498394787951/1552727461513666751_720.mp4",
+          "game_tile": "1521701516283744326.jpeg",
+          "logotype": "1521701787801747568.png",
+          "game_tile_light": "quests/1521699040776159282/1521701197248200794.jpeg",
+          "game_tile_dark": "quests/1521699040776159282/1521701197248200794.jpeg",
+          "logotype_light": "quests/1521699040776159282/1521701197248200795.png",
+          "logotype_dark": "quests/1521699040776159282/1521701197248200795.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "NTE Half Anni",
+          "game_title": "NTE: Neverness to Everness",
+          "game_publisher": "Perfect World Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1470616226995765409"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1470616226995765409"
+                }
+              ],
+              "external_ids": [
+                "PPSA26558_00",
+                "PPSA32192_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-06T14:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://pwgam.es/4ygDZRw",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTlRFIEhhbGYgQW5uaSIsImdhbWVfdGl0bGUiOiJOVEU6IE5ldmVybmVzcyB0byBFdmVybmVzcyIsImdhbWVfcHVibGlzaGVyIjoiUGVyZmVjdCBXb3JsZCBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiMTQ3MDYxNjIyNjk5NTc2NTQwOSIsImFwcGxpY2F0aW9uX25hbWUiOiJOZXZlcm5lc3MgdG8gRXZlcm5lc3MiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTMwVDE0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMTQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDZUMTQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTA1NjM0OTgzOTQ3ODc5NTEvMTU1MTY1NzU3NTQ4ODAzNjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTA1NjM0OTgzOTQ3ODc5NTEvMTU1MjcyNzQ0MDYyMTgzMDE1NF83MjAubXA0In0=",
+      "starts_at": "2026-09-30T14:00:00+00:00",
+      "expires_at": "2026-11-06T14:00:00+00:00",
+      "sent_at": "2026-09-30T17:42:45.022Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-30T09:23:45.507Z"
+  "last_check": "2026-09-30T17:42:46.126Z"
 }
