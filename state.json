@@ -4247,7 +4247,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-09-09T20:45:00+00:00",
-        "expires_at": "2026-10-01T00:00:00+00:00",
+        "expires_at": "2026-10-01T06:59:00+00:00",
         "features": [
           44,
           15
@@ -4355,7 +4355,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-31T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -4367,11 +4367,12 @@
           "subtitle": "Join The FanDuel Server"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRmFuRHVlbCBFdmVyeXdoZXJlIiwiZ2FtZV90aXRsZSI6IkZhbkR1ZWwgRXZlcnl3aGVyZSIsImdhbWVfcHVibGlzaGVyIjoiRmFuRHVlbCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA5VDIwOjQ1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ1MDc1NDE4NDg5NTUzMDE2LzE1NDU0ODIwNTk1MTcyNjgwOTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ1NTA0MTA2OTU1ODA4OTAwLzE1NDY4OTA4NDYwOTg0Mjc5NTRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRmFuRHVlbCBFdmVyeXdoZXJlIiwiZ2FtZV90aXRsZSI6IkZhbkR1ZWwgRXZlcnl3aGVyZSIsImdhbWVfcHVibGlzaGVyIjoiRmFuRHVlbCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA5VDIwOjQ1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ1MDc1NDE4NDg5NTUzMDE2LzE1NDU0ODIwNTk1MTcyNjgwOTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ1NTA0MTA2OTU1ODA4OTAwLzE1NDY4OTA4NDYwOTg0Mjc5NTRfNzIwLm1wNCJ9",
       "starts_at": "2026-09-09T20:45:00+00:00",
-      "expires_at": "2026-10-31T00:00:00+00:00",
+      "expires_at": "2026-10-01T06:59:00+00:00",
       "sent_at": "2026-09-09T22:59:29.966Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-01T04:37:04.394Z"
     },
     "1545504106955808900": {
       "id": "1545504106955808900",
@@ -4509,7 +4510,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-09-09T20:45:00+00:00",
-        "expires_at": "2026-10-01T00:00:00+00:00",
+        "expires_at": "2026-10-01T06:59:00+00:00",
         "features": [
           44,
           15
@@ -4617,7 +4618,7 @@
               "premium_orb_quantity": null
             }
           ],
-          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+          "rewards_expire_at": "2026-10-31T06:59:00+00:00",
           "platforms": [
             0
           ]
@@ -4629,11 +4630,12 @@
           "subtitle": "Join The FanDuel Server"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRmFuRHVlbCBFdmVyeXdoZXJlIiwiZ2FtZV90aXRsZSI6IkZhbkR1ZWwgRXZlcnl3aGVyZSIsImdhbWVfcHVibGlzaGVyIjoiRmFuRHVlbCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA5VDIwOjQ1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3MzcwODg2NjQ1MDI2ODc2LzE1NDczNzMwNDkxNzM2MzkyNTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ3MzcwODg2NjQ1MDI2ODc2LzE1NDczNzMxMDE0OTc1ODE2NTgubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRmFuRHVlbCBFdmVyeXdoZXJlIiwiZ2FtZV90aXRsZSI6IkZhbkR1ZWwgRXZlcnl3aGVyZSIsImdhbWVfcHVibGlzaGVyIjoiRmFuRHVlbCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA5VDIwOjQ1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3MzcwODg2NjQ1MDI2ODc2LzE1NDczNzMwNDkxNzM2MzkyNTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ3MzcwODg2NjQ1MDI2ODc2LzE1NDczNzMxMDE0OTc1ODE2NTgubXA0In0=",
       "starts_at": "2026-09-09T20:45:00+00:00",
-      "expires_at": "2026-10-31T00:00:00+00:00",
+      "expires_at": "2026-10-01T06:59:00+00:00",
       "sent_at": "2026-09-10T03:29:19.259Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-01T04:37:05.705Z"
     },
     "1546343004569084006": {
       "id": "1546343004569084006",
@@ -4719,139 +4721,6 @@
       "expires_at": "2026-10-23T00:00:00+00:00",
       "sent_at": "2026-09-10T10:48:52.929Z",
       "type": "new"
-    },
-    "1544639617083510845": {
-      "id": "1544639617083510845",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-10T14:00:00+00:00",
-        "expires_at": "2026-10-01T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.dumbwaystodie.com/build?utm_source=discord&utm_medium=quest&utm_campaign=dwtbuild_launch",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1544639617083510845/1546406672082403468.jpg",
-          "hero_video": "quests/1544639617083510845/1546406691795378276_720.mp4",
-          "quest_bar_hero_blurhash": "6qYFLIhSFDgPmYthhnoCYlEANw==",
-          "quest_bar_hero": "quests/1544639617083510845/1546406589328785418.jpg",
-          "quest_bar_hero_video": "quests/1544639617083510845/1546699705948438568_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1544639617083510845/1546406472756363274.png",
-          "game_tile_dark": "quests/1544639617083510845/1546406472756363274.png",
-          "logotype_light": "quests/1544639617083510845/1546699148034834512.png",
-          "logotype_dark": "quests/1544639617083510845/1546699148034834512.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Dumb Ways to Build",
-          "game_title": "Dumb Ways to Build",
-          "game_publisher": "Dumb Ways to Die"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 61,
-              "assets": {
-                "video": {
-                  "url": "quests/1544639617083510845/1546425239020380221_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544639617083510845/1546425239020380221_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544639617083510845/1546425239020380221.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 61,
-              "assets": {
-                "video": {
-                  "url": "quests/1544639617083510845/1546425239020380221_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544639617083510845/1546425239020380221_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544639617083510845/1546425239020380221.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544639617083510845/1546425094795173888.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1545463001182642218",
-              "asset": "quests/1544639617083510845/1548082773280030841.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Builder Bean Avatar Decoration",
-                "name_with_article": "a Builder Bean Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-11-30T01:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.dumbwaystodie.com/build?utm_source=discord&utm_medium=quest&utm_campaign=dwtbuild_launch",
-          "button_label": "Learn More"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRHVtYiBXYXlzIHRvIEJ1aWxkIiwiZ2FtZV90aXRsZSI6IkR1bWIgV2F5cyB0byBCdWlsZCIsImdhbWVfcHVibGlzaGVyIjoiRHVtYiBXYXlzIHRvIERpZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTEwVDE0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMzFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjYxfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjYxfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NDYzOTYxNzA4MzUxMDg0NS8xNTQ2NDA2NjcyMDgyNDAzNDY4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0NDYzOTYxNzA4MzUxMDg0NS8xNTQ2NDA2NjkxNzk1Mzc4Mjc2XzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-10T14:00:00+00:00",
-      "expires_at": "2026-10-01T00:00:00+00:00",
-      "sent_at": "2026-09-10T15:57:31.247Z",
-      "type": "updated",
-      "updated_at": "2026-09-16T16:18:29.529Z"
     },
     "1544810991022374933": {
       "id": "1544810991022374933",
@@ -12009,116 +11878,6 @@
       "sent_at": "2026-09-18T23:04:31.595Z",
       "type": "new"
     },
-    "1543816964525396028": {
-      "id": "1543816964525396028",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-18T17:00:00+00:00",
-        "expires_at": "2026-10-01T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://dfgame.onelink.me/QUad/discord",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1543816964525396028/1548972687911682108.jpg",
-          "hero_video": "quests/1543816964525396028/1548972702524637235_720.mp4",
-          "quest_bar_hero_blurhash": "3PcNFIKvl2Z6dnd3hXkyUFYQhQ==",
-          "quest_bar_hero": "quests/1543816964525396028/1548972570974355516.jpg",
-          "quest_bar_hero_video": "quests/1543816964525396028/1548972618038644807_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1543816964525396028/1548972264769200138.png",
-          "game_tile_dark": "quests/1543816964525396028/1548972264769200138.png",
-          "logotype_light": "quests/1543816964525396028/1548972394897477632.png",
-          "logotype_dark": "quests/1543816964525396028/1548972383560409139.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "2nd Anniversary Season",
-          "game_title": "Delta Force",
-          "game_publisher": "Team Jade"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1543816964525396028/1548973096608731178_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1543816964525396028/1548973389635657728.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1543816964525396028/1548973096608731178_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1543816964525396028/1548973389635657728.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1543816964525396028/1548973096608731178.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1543816964525396028/1548973389635657728.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-31T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.proxima.dfm"
-          },
-          "ios": {
-            "ios_app_id": "6451399876"
-          },
-          "link": "https://dfgame.onelink.me/QUad/discord",
-          "button_label": "Learn More"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiMm5kIEFubml2ZXJzYXJ5IFNlYXNvbiIsImdhbWVfdGl0bGUiOiJEZWx0YSBGb3JjZSIsImdhbWVfcHVibGlzaGVyIjoiVGVhbSBKYWRlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMThUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wMVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0zMVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQzODE2OTY0NTI1Mzk2MDI4LzE1NDg5NzI2ODc5MTE2ODIxMDguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQzODE2OTY0NTI1Mzk2MDI4LzE1NDg5NzI3MDI1MjQ2MzcyMzVfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-18T17:00:00+00:00",
-      "expires_at": "2026-10-01T00:00:00+00:00",
-      "sent_at": "2026-09-18T23:04:32.941Z",
-      "type": "updated",
-      "updated_at": "2026-09-20T10:47:49.905Z"
-    },
     "1549493465941942383": {
       "id": "1549493465941942383",
       "config": {
@@ -15726,7 +15485,139 @@
       "expires_at": "2026-11-06T14:00:00+00:00",
       "sent_at": "2026-09-30T17:42:45.022Z",
       "type": "new"
+    },
+    "1552763854692290630": {
+      "id": "1552763854692290630",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-09-30T17:00:00+00:00",
+        "expires_at": "2026-10-08T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552763854692290630/1552766700422697070.jpg",
+          "hero_video": "quests/1552763854692290630/1552766700502393003.mp4",
+          "quest_bar_hero_blurhash": "WCgKFIKtRMa/Z2eDZoVrv5vD+w==",
+          "quest_bar_hero": "quests/1552763854692290630/1552766701051838484.jpg",
+          "quest_bar_hero_video": "quests/1552763854692290630/1552766700502393003.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552763854692290630/1552766700443926689.png",
+          "game_tile_dark": "quests/1552763854692290630/1552766700594925608.png",
+          "logotype_light": "quests/1552763854692290630/1552766700498325645.png",
+          "logotype_dark": "quests/1552763854692290630/1552766700422823996.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "CONTROL Resonant",
+          "game_title": "CONTROL Resonant",
+          "game_publisher": "Remedy Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 18,
+              "assets": {
+                "video": {
+                  "url": "quests/1552763854692290630/1554784407343337482_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552763854692290630/1552766701051838484.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552763854692290630/1554784407343337482_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552763854692290630/1552766701051838484.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552763854692290630/1554784407343337482.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552763854692290630/1552766701051838484.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 18,
+              "assets": {
+                "video": {
+                  "url": "quests/1552763854692290630/1554784408446312478_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552763854692290630/1552766701051838484.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552763854692290630/1554784408446312478_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552763854692290630/1552766701051838484.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552763854692290630/1554784408446312478.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552763854692290630/1552766701051838484.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1552788175884132352",
+              "asset": "quests/1552763854692290630/1552788314854002719.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Artist Avatar Decoration",
+                "name_with_article": "The Artist Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-06T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-07T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
+          "button_label": "Buy Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ09OVFJPTCBSZXNvbmFudCIsImdhbWVfdGl0bGUiOiJDT05UUk9MIFJlc29uYW50IiwiZ2FtZV9wdWJsaXNoZXIiOiJSZW1lZHkgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTMwVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjc2Mzg1NDY5MjI5MDYzMC8xNTUyNzY2NzAwNDIyNjk3MDcwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1Mjc2Mzg1NDY5MjI5MDYzMC8xNTUyNzY2NzAwNTAyMzkzMDAzLm1wNCJ9",
+      "starts_at": "2026-09-30T17:00:00+00:00",
+      "expires_at": "2026-11-07T00:00:00+00:00",
+      "sent_at": "2026-10-01T04:37:03.071Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-09-30T21:56:47.928Z"
+  "last_check": "2026-10-01T04:37:06.815Z"
 }
