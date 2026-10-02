@@ -2878,7 +2878,7 @@
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1542927566568956095/1542952871773872138.jpg",
+          "hero": "quests/1542927566568956095/1555274010663592128.jpg",
           "quest_bar_hero_blurhash": "U1kKHIQueVdfmIZYd4YvbtawRg==",
           "quest_bar_hero": "quests/1542927566568956095/1542994916047585401.jpg",
           "quest_bar_hero_video": "quests/1542927566568956095/1542952655440183416_720.mp4",
@@ -2985,11 +2985,12 @@
           "button_label": "Shop Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiS2l0IEthdCBIYWxsb3dlZW4iLCJnYW1lX3RpdGxlIjoiS0lUIEtBVMKuIFNoYXBlcyIsImdhbWVfcHVibGlzaGVyIjoiS2l0IEthdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDIyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyOTI3NTY2NTY4OTU2MDk1LzE1NDI5NTI4NzE3NzM4NzIxMzguanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiS2l0IEthdCBIYWxsb3dlZW4iLCJnYW1lX3RpdGxlIjoiS0lUIEtBVMKuIFNoYXBlcyIsImdhbWVfcHVibGlzaGVyIjoiS2l0IEthdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTA0VDIyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDFUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQyOTI3NTY2NTY4OTU2MDk1LzE1NTUyNzQwMTA2NjM1OTIxMjguanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-09-04T22:00:00+00:00",
-      "expires_at": "2026-12-01T00:00:00+00:00",
+      "expires_at": "2026-11-01T00:00:00+00:00",
       "sent_at": "2026-09-05T03:22:29.673Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-02T09:26:33.422Z"
     },
     "1544426987215527988": {
       "id": "1544426987215527988",
@@ -13858,7 +13859,7 @@
         },
         "messages": {
           "quest_name": "Beware Boiúna",
-          "game_title": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters FRIDAY.",
+          "game_title": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - NOW PLAYING only in theaters.",
           "game_publisher": "Lionsgate"
         },
         "task_config_v2": {
@@ -13868,19 +13869,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1552026570229813258/1552778974332190851_1080.mp4",
+                  "url": "quests/1552026570229813258/1552778974390648852_1080.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1552026570229813258/1552778974332190851_720.mp4",
+                  "url": "quests/1552026570229813258/1552778974390648852_720.mp4",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1552026570229813258/1552778974332190851.m3u8",
+                  "url": "quests/1552026570229813258/1552778974390648852.m3u8",
                   "width": 1920,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
@@ -13895,19 +13896,19 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1552026570229813258/1552778974315417791_1080.mp4",
+                  "url": "quests/1552026570229813258/1552778974671798383_1080.mp4",
                   "width": 607,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1552026570229813258/1552778974315417791_720.mp4",
+                  "url": "quests/1552026570229813258/1552778974671798383_720.mp4",
                   "width": 607,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1552026570229813258/1552778974315417791.m3u8",
+                  "url": "quests/1552026570229813258/1552778974671798383.m3u8",
                   "width": 607,
                   "height": 1080,
                   "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
@@ -13946,15 +13947,15 @@
         "cta_config": {
           "link": "https://www.bewareboiuna.movie/?utm_source=Discord&utm_medium=paidmedia&utm_content=bewareboiunadiscord&utm_campaign=bewareboiuna",
           "button_label": "Get Tickets",
-          "subtitle": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - only in theaters FRIDAY."
+          "subtitle": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - NOW PLAYING only in theaters."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmV3YXJlIEJvacO6bmEiLCJnYW1lX3RpdGxlIjoiU2hlIGRlY2lkZXMgd2hvIGxpdmVzLiBTaGUgZGVjaWRlcyB3aG8gZGllcy4gR2V0IHRpY2tldHMgbm93LiAjQmV3YXJlQm9pdW5hIC0gb25seSBpbiB0aGVhdGVycyBGUklEQVkuIiwiZ2FtZV9wdWJsaXNoZXIiOiJMaW9uc2dhdGUiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0yNlQwMDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTA1VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTA0VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MjAyNjU3MDIyOTgxMzI1OC8xNTUyMDM4NzgxNDA4Nzc2MjIyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmV3YXJlIEJvacO6bmEiLCJnYW1lX3RpdGxlIjoiU2hlIGRlY2lkZXMgd2hvIGxpdmVzLiBTaGUgZGVjaWRlcyB3aG8gZGllcy4gR2V0IHRpY2tldHMgbm93LiAjQmV3YXJlQm9pdW5hIC0gTk9XIFBMQVlJTkcgb25seSBpbiB0aGVhdGVycy4iLCJnYW1lX3B1Ymxpc2hlciI6Ikxpb25zZ2F0ZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTI2VDAwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDVUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMDI2NTcwMjI5ODEzMjU4LzE1NTIwMzg3ODE0MDg3NzYyMjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-09-26T00:00:00+00:00",
       "expires_at": "2026-10-05T00:00:00+00:00",
       "sent_at": "2026-09-26T03:56:43.422Z",
       "type": "updated",
-      "updated_at": "2026-09-26T15:56:39.725Z"
+      "updated_at": "2026-10-02T09:26:34.722Z"
     },
     "1546583178230235336": {
       "id": "1546583178230235336",
@@ -15954,5 +15955,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-02T00:34:20.399Z"
+  "last_check": "2026-10-02T09:26:35.873Z"
 }
