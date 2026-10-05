@@ -16399,7 +16399,683 @@
       "expires_at": "2026-11-10T22:59:00+00:00",
       "sent_at": "2026-10-05T04:31:33.460Z",
       "type": "new"
+    },
+    "1551980739757736078": {
+      "id": "1551980739757736078",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-05T16:00:00+00:00",
+        "expires_at": "2026-10-16T06:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+          "id": "1536318183873454090",
+          "name": "Spades"
+        },
+        "assets": {
+          "hero": "quests/1551980739757736078/1553076626533916793.jpg",
+          "hero_video": "quests/1551980739757736078/1553077149986983946.mp4",
+          "quest_bar_hero_blurhash": "zOYJKoJgeVqTeWeIr124/pY=",
+          "quest_bar_hero": "quests/1551980739757736078/1553076626533916793.jpg",
+          "quest_bar_hero_video": "quests/1551980739757736078/1553077149986983946.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1551980739757736078/1553076354797539368.png",
+          "game_tile_dark": "quests/1551980739757736078/1553076354797539368.png",
+          "logotype_light": "quests/1551980739757736078/1553076553162821762.png",
+          "logotype_dark": "quests/1551980739757736078/1553076355221028954.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "VALORANT Aces Round 2",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 1,
+              "applications": [
+                {
+                  "id": "1536318183873454090"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Take the shot. Beat the clock. Find the ACE.",
+                "task_description": "Run it back and relive some of the greatest plays in VALORANT esports, but this time YOU'RE in the driver's seat. Can you ACE it?"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-15T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+          "button_label": "Play Free Now",
+          "subtitle": "VALORANT Aces"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgQWNlcyBSb3VuZCAyIiwiZ2FtZV90aXRsZSI6IlZBTE9SQU5UIiwiZ2FtZV9wdWJsaXNoZXIiOiJSaW90IEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE4MTgzODczNDU0MDkwIiwiYXBwbGljYXRpb25fbmFtZSI6IlNwYWRlcyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xNlQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xNVQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjF9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTgwNzM5NzU3NzM2MDc4LzE1NTMwNzY2MjY1MzM5MTY3OTMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUxOTgwNzM5NzU3NzM2MDc4LzE1NTMwNzcxNDk5ODY5ODM5NDYubXA0In0=",
+      "starts_at": "2026-10-05T16:00:00+00:00",
+      "expires_at": "2026-11-15T06:59:00+00:00",
+      "sent_at": "2026-10-05T21:51:21.256Z",
+      "type": "new"
+    },
+    "1555654330043076719": {
+      "id": "1555654330043076719",
+      "config": {
+        "id": "1555654330043076719",
+        "config_version": 2,
+        "starts_at": "2026-10-05T16:00:00+00:00",
+        "expires_at": "2026-10-15T06:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1555654330043076719/1555678328571166730.jpg",
+          "hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+          "quest_bar_hero_blurhash": "zBcKAoJUmHd/iZiYGqRg0Cg=",
+          "quest_bar_hero": "quests/1555654330043076719/1555678328571166730.jpg",
+          "quest_bar_hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+          "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+          "logotype_light": "quests/1555654330043076719/1555681906786435162.png",
+          "logotype_dark": "quests/1555654330043076719/1555681675927887883.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Doors",
+          "game_title": "Doors on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-14T06:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRG9vcnMiLCJnYW1lX3RpdGxlIjoiRG9vcnMgb24gUm9ibG94IiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA1VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTVUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTRUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1NjU0MzMwMDQzMDc2NzE5LzE1NTU2NzgzMjg1NzExNjY3MzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU1NjU0MzMwMDQzMDc2NzE5LzE1NTU2Nzg3MzI1OTU4ODgxODhfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-05T16:00:00+00:00",
+      "expires_at": "2026-11-14T06:00:00+00:00",
+      "sent_at": "2026-10-05T21:51:22.769Z",
+      "type": "new"
+    },
+    "1555709543579783198": {
+      "id": "1555709543579783198",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-05T16:00:00+00:00",
+        "expires_at": "2026-10-15T06:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/de/games/6516141723/DOORS?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1555709543579783198/1555721055878778981.jpg",
+          "hero_video": "quests/1555709543579783198/1555722338618712245_720.mp4",
+          "quest_bar_hero_blurhash": "zBcKAoJUmHd/iZiYGqRg0Cg=",
+          "quest_bar_hero": "quests/1555709543579783198/1555720882855608320.jpg",
+          "quest_bar_hero_video": "quests/1555709543579783198/1555722338618712245_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1555709543579783198/1555720811464364193.png",
+          "game_tile_dark": "quests/1555709543579783198/1555720842288169072.png",
+          "logotype_light": "quests/1555709543579783198/1555720935594659900.png",
+          "logotype_dark": "quests/1555709543579783198/1555720935644991659.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Doors",
+          "game_title": "Doors on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-14T06:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/de/games/6516141723/DOORS?gsrbx=1",
+          "button_label": "Get Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRG9vcnMiLCJnYW1lX3RpdGxlIjoiRG9vcnMgb24gUm9ibG94IiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA1VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTVUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTRUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NTcwOTU0MzU3OTc4MzE5OC8xNTU1NzIxMDU1ODc4Nzc4OTgxLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NTcwOTU0MzU3OTc4MzE5OC8xNTU1NzIyMzM4NjE4NzEyMjQ1XzcyMC5tcDQifQ==",
+      "starts_at": "2026-10-05T16:00:00+00:00",
+      "expires_at": "2026-11-14T06:00:00+00:00",
+      "sent_at": "2026-10-05T21:51:24.331Z",
+      "type": "new"
+    },
+    "1555684816882499675": {
+      "id": "1555684816882499675",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-05T16:00:00+00:00",
+        "expires_at": "2026-10-15T06:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1555654330043076719/1555678328571166730.jpg",
+          "hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+          "quest_bar_hero_blurhash": "zBcKAoJUmHd/iZiYGqRg0Cg=",
+          "quest_bar_hero": "quests/1555654330043076719/1555678328571166730.jpg",
+          "quest_bar_hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+          "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+          "logotype_light": "quests/1555654330043076719/1555681906786435162.png",
+          "logotype_dark": "quests/1555654330043076719/1555681675927887883.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Doors",
+          "game_title": "Doors on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-14T06:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRG9vcnMiLCJnYW1lX3RpdGxlIjoiRG9vcnMgb24gUm9ibG94IiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA1VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTVUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTRUMDY6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NTY1NDMzMDA0MzA3NjcxOS8xNTU1Njc4MzI4NTcxMTY2NzMwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NTY1NDMzMDA0MzA3NjcxOS8xNTU1Njc4NzMyNTk1ODg4MTg4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-10-05T16:00:00+00:00",
+      "expires_at": "2026-11-14T06:00:00+00:00",
+      "sent_at": "2026-10-05T21:51:25.632Z",
+      "type": "new"
+    },
+    "1555158122522349568": {
+      "id": "1555158122522349568",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-05T17:00:00+00:00",
+        "expires_at": "2026-10-20T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://melonsandbox.com/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1555158122522349568/1555507743421374524.jpg",
+          "quest_bar_hero_blurhash": "YugFPwJYiaifaHeOiRhoOKhpdghIemAI",
+          "quest_bar_hero": "quests/1555158122522349568/1555507763629662219.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1555158122522349568/1555506290095169536.jpg",
+          "game_tile_dark": "quests/1555158122522349568/1555506290095169536.jpg",
+          "logotype_light": "quests/1555158122522349568/1555507671711359107.png",
+          "logotype_dark": "quests/1555158122522349568/1555507671711359107.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Melon Sandbox",
+          "game_title": "Melon Sandbox",
+          "game_publisher": "Playducky"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 40,
+              "assets": {
+                "video": {
+                  "url": "quests/1555158122522349568/1555508071843889232_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1555158122522349568/1555508071843889232_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+                },
+                "video_hls": {
+                  "url": "quests/1555158122522349568/1555508071843889232.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 40,
+              "assets": {
+                "video": {
+                  "url": "quests/1555158122522349568/1555508071843889232_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1555158122522349568/1555508071843889232_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+                },
+                "video_hls": {
+                  "url": "quests/1555158122522349568/1555508071843889232.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-19T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.studio27.MelonPlayground"
+          },
+          "ios": {
+            "ios_app_id": "1610874732"
+          },
+          "link": "https://melonsandbox.com/",
+          "button_label": "Download"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWVsb24gU2FuZGJveCIsImdhbWVfdGl0bGUiOiJNZWxvbiBTYW5kYm94IiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5ZHVja3kiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTIwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NDB9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1MTU4MTIyNTIyMzQ5NTY4LzE1NTU1MDc3NDM0MjEzNzQ1MjQuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-10-05T17:00:00+00:00",
+      "expires_at": "2026-11-19T00:00:00+00:00",
+      "sent_at": "2026-10-05T21:51:27.235Z",
+      "type": "new"
+    },
+    "1549142163487592600": {
+      "id": "1549142163487592600",
+      "config": {
+        "id": "1549142163487592600",
+        "config_version": 2,
+        "starts_at": "2026-10-05T17:00:00+00:00",
+        "expires_at": "2026-10-19T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=champions2026play",
+          "id": "700136079562375258",
+          "name": "Valorant"
+        },
+        "assets": {
+          "hero": "quests/1549142163487592600/1549142442966524056.jpg",
+          "hero_video": "quests/1549142163487592600/1555285149288103936_720.mp4",
+          "quest_bar_hero_blurhash": "0vcFFIRxKoaadYiwdm11hnBlBw==",
+          "quest_bar_hero": "quests/1549142163487592600/1555281789138767872.jpg",
+          "quest_bar_hero_video": "quests/1549142163487592600/1555282141754171513.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1549142163487592600/1549142442891288646.jpg",
+          "game_tile_dark": "quests/1549142163487592600/1549142442891288646.jpg",
+          "logotype_light": "quests/1549142163487592600/1549142879216214117.png",
+          "logotype_dark": "quests/1549142163487592600/1549142442815520819.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Chơi VALORANT",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ],
+              "external_ids": [
+                "2139646219"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "700136079562375258"
+                }
+              ],
+              "external_ids": [
+                "PPSA20711_00",
+                "PPSA20676_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1555329586768642148",
+              "asset": "quests/1549142163487592600/1555329824761979000.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Champions Shanghai: Hạ Gục hay Bị Hạ",
+                "name_with_article": "Champions Shanghai: Hạ Gục hay Bị Hạ",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-18T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-18T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=champions2026play",
+          "button_label": "Chơi miễn phí ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2jGoWkgVkFMT1JBTlQiLCJnYW1lX3RpdGxlIjoiVkFMT1JBTlQiLCJnYW1lX3B1Ymxpc2hlciI6IlJpb3QgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjcwMDEzNjA3OTU2MjM3NTI1OCIsImFwcGxpY2F0aW9uX25hbWUiOiJWYWxvcmFudCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDkxNDIxNjM0ODc1OTI2MDAvMTU0OTE0MjQ0Mjk2NjUyNDA1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDkxNDIxNjM0ODc1OTI2MDAvMTU1NTI4NTE0OTI4ODEwMzkzNl83MjAubXA0In0=",
+      "starts_at": "2026-10-05T17:00:00+00:00",
+      "expires_at": "2026-11-18T00:00:00+00:00",
+      "sent_at": "2026-10-05T21:51:28.686Z",
+      "type": "new"
+    },
+    "1554676841879441438": {
+      "id": "1554676841879441438",
+      "config": {
+        "id": "1554676841879441438",
+        "config_version": 2,
+        "starts_at": "2026-10-05T17:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+          "id": "1445982809792708628",
+          "name": "AION 2"
+        },
+        "assets": {
+          "hero": "quests/1554676841879441438/1555044993746337792.jpg",
+          "hero_video": "quests/1554676841879441438/1555045062986170438_720.mp4",
+          "quest_bar_hero_blurhash": "EtcFFISAhDltiolhi3efofltmg==",
+          "quest_bar_hero": "quests/1554676841879441438/1555044844064350349.jpg",
+          "quest_bar_hero_video": "quests/1554676841879441438/1555044911269548052_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554676841879441438/1555044641647362128.png",
+          "game_tile_dark": "quests/1554676841879441438/1555044641647362128.png",
+          "logotype_light": "quests/1554676841879441438/1555044779702751372.png",
+          "logotype_dark": "quests/1554676841879441438/1555044779702751372.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "AION 2 LAUNCH PLAY",
+          "game_title": "AION 2",
+          "game_publisher": "NC"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1445982809792708628"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://engagements.appsflyer.com/v1.0/c2s/click/app/steam/3393110?af_media_source=discord&af_adset=interest_mmoplayers&af_ad=Banner2&af_lookback_window=7d&af_campaign_id={{CAMPAIGN_ID}}&af_adset_id={{ADGROUP_ID}}&af_ad_id={{AD_ID}}&af_campaign=cheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest&af_r=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F3393110%2FAION_2%2F%3Futm_source%3Ddiscord%26utm_campaign%3Dcheil_20261005_Launch_A2_US_Launch_All_NEW_By_DISCORD_PlayQuest%26utm_medium%3Dinterest_mmoplayers%26utm_content%3DBanner2",
+          "button_label": "Chơi Game"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQUlPTiAyIExBVU5DSCBQTEFZIiwiZ2FtZV90aXRsZSI6IkFJT04gMiIsImdhbWVfcHVibGlzaGVyIjoiTkMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0NDU5ODI4MDk3OTI3MDg2MjgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiQUlPTiAyIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTEyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTExVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDY3Njg0MTg3OTQ0MTQzOC8xNTU1MDQ0OTkzNzQ2MzM3NzkyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NDY3Njg0MTg3OTQ0MTQzOC8xNTU1MDQ1MDYyOTg2MTcwNDM4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-10-05T17:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-10-05T21:51:30.010Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-05T13:50:38.939Z"
+  "last_check": "2026-10-05T21:51:31.116Z"
 }
