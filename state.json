@@ -13827,136 +13827,6 @@
       "sent_at": "2026-09-25T21:11:48.937Z",
       "type": "new"
     },
-    "1552026570229813258": {
-      "id": "1552026570229813258",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-26T00:00:00+00:00",
-        "expires_at": "2026-10-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.bewareboiuna.movie/?utm_source=Discord&utm_medium=paidmedia&utm_content=bewareboiunadiscord&utm_campaign=bewareboiuna",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1552026570229813258/1552038781408776222.jpg",
-          "quest_bar_hero_blurhash": "iPgFFIBwqIduhXiWiJVEXzdfNg==",
-          "quest_bar_hero": "quests/1552026570229813258/1552038782675591268.jpg",
-          "quest_bar_hero_video": "quests/1552026570229813258/1553152488348328047_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1552026570229813258/1552038782067413072.jpg",
-          "game_tile_dark": "quests/1552026570229813258/1552038782067413072.jpg",
-          "logotype_light": "quests/1552026570229813258/1552079159612674098.png",
-          "logotype_dark": "quests/1552026570229813258/1552079159742963843.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Beware Boiúna",
-          "game_title": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - NOW PLAYING only in theaters.",
-          "game_publisher": "Lionsgate"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1552026570229813258/1552778974390648852_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552026570229813258/1552778974390648852_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552026570229813258/1552778974390648852.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1552026570229813258/1552778974671798383_1080.mp4",
-                  "width": 607,
-                  "height": 1080,
-                  "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552026570229813258/1552778974671798383_720.mp4",
-                  "width": 607,
-                  "height": 1080,
-                  "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552026570229813258/1552778974671798383.m3u8",
-                  "width": 607,
-                  "height": 1080,
-                  "thumbnail": "quests/1552026570229813258/1552038783283626055.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.bewareboiuna.movie/?utm_source=Discord&utm_medium=paidmedia&utm_content=bewareboiunadiscord&utm_campaign=bewareboiuna",
-          "button_label": "Get Tickets",
-          "subtitle": "She decides who lives. She decides who dies. Get tickets now. #BewareBoiuna - NOW PLAYING only in theaters."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmV3YXJlIEJvacO6bmEiLCJnYW1lX3RpdGxlIjoiU2hlIGRlY2lkZXMgd2hvIGxpdmVzLiBTaGUgZGVjaWRlcyB3aG8gZGllcy4gR2V0IHRpY2tldHMgbm93LiAjQmV3YXJlQm9pdW5hIC0gTk9XIFBMQVlJTkcgb25seSBpbiB0aGVhdGVycy4iLCJnYW1lX3B1Ymxpc2hlciI6Ikxpb25zZ2F0ZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTI2VDAwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDVUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDRUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMDI2NTcwMjI5ODEzMjU4LzE1NTIwMzg3ODE0MDg3NzYyMjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-26T00:00:00+00:00",
-      "expires_at": "2026-10-05T00:00:00+00:00",
-      "sent_at": "2026-09-26T03:56:43.422Z",
-      "type": "updated",
-      "updated_at": "2026-10-02T09:26:34.722Z"
-    },
     "1546583178230235336": {
       "id": "1546583178230235336",
       "config": {
@@ -16400,7 +16270,136 @@
       "expires_at": "2026-11-10T21:59:00+00:00",
       "sent_at": "2026-10-04T23:54:22.789Z",
       "type": "new"
+    },
+    "1552406144067043438": {
+      "id": "1552406144067043438",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-04T23:00:00+00:00",
+        "expires_at": "2026-10-11T22:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "http://www.forgottenislandmovie.co.uk/",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552406144067043438/1554960753272815636.jpg",
+          "quest_bar_hero_blurhash": "0/cJDIKKaIiReHdwd2eqcIs/6g==",
+          "quest_bar_hero": "quests/1552406144067043438/1554960793286615050.jpg",
+          "quest_bar_hero_video": "quests/1552406144067043438/1554961152142745741_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552406144067043438/1554961097772109976.png",
+          "game_tile_dark": "quests/1552406144067043438/1554961097772109976.png",
+          "logotype_light": "quests/1552406144067043438/1554961053014823022.png",
+          "logotype_dark": "quests/1552406144067043438/1554961053014823022.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Forgotten Island",
+          "game_title": "IN CINEMAS OCTOBER 16",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1552406144067043438/1554960784692355102_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1552406144067043438/1554960784692355102_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                },
+                "video_hls": {
+                  "url": "quests/1552406144067043438/1554960784692355102.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1552406144067043438/1554960784524583083_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1552406144067043438/1554960784524583083_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                },
+                "video_hls": {
+                  "url": "quests/1552406144067043438/1554960784524583083.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552406144067043438/1554960974728003624.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-10T22:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "http://www.forgottenislandmovie.co.uk/",
+          "button_label": "Get Tickets",
+          "subtitle": "IN CINEMAS OCTOBER 16"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJTiBDSU5FTUFTIE9DVE9CRVIgMTYiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA0VDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTFUMjI6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTBUMjI6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NTl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NTl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyNDA2MTQ0MDY3MDQzNDM4LzE1NTQ5NjA3NTMyNzI4MTU2MzYuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-10-04T23:00:00+00:00",
+      "expires_at": "2026-11-10T22:59:00+00:00",
+      "sent_at": "2026-10-05T04:31:33.460Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-04T23:54:23.894Z"
+  "last_check": "2026-10-05T04:31:34.569Z"
 }
