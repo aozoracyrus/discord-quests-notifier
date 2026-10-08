@@ -17687,7 +17687,123 @@
       "expires_at": "2026-11-17T00:00:00+00:00",
       "sent_at": "2026-10-08T10:08:06.441Z",
       "type": "new"
+    },
+    "1547647018090893312": {
+      "id": "1547647018090893312",
+      "config": {
+        "id": "1547647018090893312",
+        "config_version": 2,
+        "starts_at": "2026-10-08T17:00:00+00:00",
+        "expires_at": "2026-10-18T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3055670/Risk_of_Rain_2_Hallowed_Concepts/",
+          "id": "1402418087793528862",
+          "name": "Risk of Rain 2"
+        },
+        "assets": {
+          "hero": "quests/1547647018090893312/1557073684320227349.jpg",
+          "quest_bar_hero_blurhash": "zvcFBIJ0iYiAhoifeHVadJ/3Rw==",
+          "quest_bar_hero": "quests/1547647018090893312/1557073499854471278.jpg",
+          "quest_bar_hero_video": "quests/1547647018090893312/1557073514840727562_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1547647018090893312/1557073259529375774.png",
+          "game_tile_dark": "quests/1547647018090893312/1557073259529375774.png",
+          "logotype_light": "quests/1547647018090893312/1557424676245082202.png",
+          "logotype_dark": "quests/1547647018090893312/1557424676517576844.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "ROR2 Hallowed Concepts",
+          "game_title": "Risk of Rain 2: Hallowed Concepts",
+          "game_publisher": "2K Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418087793528862"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418087793528862"
+                }
+              ],
+              "external_ids": [
+                "2132429347"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1402418087793528862"
+                }
+              ],
+              "external_ids": [
+                "PPSA06518_00",
+                "PPSA06516_00",
+                "PPSA06517_00",
+                "CUSA16153_00",
+                "CUSA16209_00",
+                "CUSA16169_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1556767647742558309",
+              "asset": "quests/1547647018090893312/1556767764813844480.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Acolyte Survivor Avatar Decoration",
+                "name_with_article": "an Acolyte Survivor Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-17T00:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-11-17T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3055670/Risk_of_Rain_2_Hallowed_Concepts/",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUk9SMiBIYWxsb3dlZCBDb25jZXB0cyIsImdhbWVfdGl0bGUiOiJSaXNrIG9mIFJhaW4gMjogSGFsbG93ZWQgQ29uY2VwdHMiLCJnYW1lX3B1Ymxpc2hlciI6IjJLIEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiIxNDAyNDE4MDg3NzkzNTI4ODYyIiwiYXBwbGljYXRpb25fbmFtZSI6IlJpc2sgb2YgUmFpbiAyIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTE4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0NzY0NzAxODA5MDg5MzMxMi8xNTU3MDczNjg0MzIwMjI3MzQ5LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-10-08T17:00:00+00:00",
+      "expires_at": "2026-11-17T00:00:00+00:00",
+      "sent_at": "2026-10-08T18:32:48.132Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-08T10:08:07.547Z"
+  "last_check": "2026-10-08T18:32:49.238Z"
 }
