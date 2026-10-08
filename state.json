@@ -10912,116 +10912,6 @@
       "sent_at": "2026-09-18T20:32:28.130Z",
       "type": "new"
     },
-    "1549427687603314699": {
-      "id": "1549427687603314699",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-18T17:00:00+00:00",
-        "expires_at": "2026-10-08T00:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://www.innogames.com/games/heroes-of-history/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1549427687603314699/1550156234974298234.jpg",
-          "hero_video": "quests/1549427687603314699/1550156324128555068_720.mp4",
-          "quest_bar_hero_blurhash": "GvgJFIIMZ3e5doiEWmiAggw09g==",
-          "quest_bar_hero": "quests/1549427687603314699/1550156291517718588.jpg",
-          "quest_bar_hero_video": "quests/1549427687603314699/1550156324128555068_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1549427687603314699/1550156159514845277.png",
-          "game_tile_dark": "quests/1549427687603314699/1550156159514845277.png",
-          "logotype_light": "quests/1549427687603314699/1550156160282140853.png",
-          "logotype_dark": "quests/1549427687603314699/1550156160282140853.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Heroes of History",
-          "game_title": "Heroes of History",
-          "game_publisher": "Innogames"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 39,
-              "assets": {
-                "video": {
-                  "url": "quests/1549427687603314699/1550156057274224659_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549427687603314699/1550156091424383106.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1549427687603314699/1550156057274224659_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549427687603314699/1550156091424383106.png"
-                },
-                "video_hls": {
-                  "url": "quests/1549427687603314699/1550156057274224659.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549427687603314699/1550156091424383106.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-07T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.innogames.heroesofhistory"
-          },
-          "ios": {
-            "ios_app_id": "6468993261"
-          },
-          "link": "https://www.innogames.com/games/heroes-of-history/",
-          "button_label": "Download"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3RpdGxlIjoiSGVyb2VzIG9mIEhpc3RvcnkiLCJnYW1lX3B1Ymxpc2hlciI6Iklubm9nYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE4VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MjM0OTc0Mjk4MjM0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTQyNzY4NzYwMzMxNDY5OS8xNTUwMTU2MzI0MTI4NTU1MDY4XzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-18T17:00:00+00:00",
-      "expires_at": "2026-10-08T00:00:00+00:00",
-      "sent_at": "2026-09-18T20:32:29.884Z",
-      "type": "updated",
-      "updated_at": "2026-09-29T19:49:11.367Z"
-    },
     "1546582811790675998": {
       "id": "1546582811790675998",
       "config": {
@@ -14289,104 +14179,6 @@
       "sent_at": "2026-09-29T04:41:08.629Z",
       "type": "new"
     },
-    "1552790924445356043": {
-      "id": "1552790924445356043",
-      "config": {
-        "id": "1552790924445356043",
-        "config_version": 2,
-        "starts_at": "2026-09-28T17:00:00+00:00",
-        "expires_at": "2026-10-08T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://connect-hellraiser.saber.games/DiscordPlayQuest",
-          "id": "1552168352116641822",
-          "name": "Hellraiser: Revival"
-        },
-        "assets": {
-          "hero": "quests/1552790924445356043/1552792117854601327.jpg",
-          "hero_video": "quests/1552790924445356043/1554560864852516874_720.mp4",
-          "quest_bar_hero_blurhash": "SvcFDIChiJiHpYSQeIQPeb6C9g==",
-          "quest_bar_hero": "quests/1552790924445356043/1552792064104726708.jpg",
-          "quest_bar_hero_video": "quests/1552790924445356043/1553086271683825704_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1552790924445356043/1552791916662231160.png",
-          "game_tile_dark": "quests/1552790924445356043/1552791916662231160.png",
-          "logotype_light": "quests/1552790924445356043/1552791996790214736.png",
-          "logotype_dark": "quests/1552790924445356043/1552791996790214736.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Clive Barker's Hellraiser: Revival ",
-          "game_title": "Clive Barker's Hellraiser: Revival (free demo)",
-          "game_publisher": "Saber Interactive"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1552168352116641822"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1552168352116641822"
-                }
-              ],
-              "external_ids": [
-                "2079449748"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-07T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://connect-hellraiser.saber.games/DiscordPlayQuest",
-          "button_label": "Nhận Trò Chơi"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAiLCJnYW1lX3RpdGxlIjoiQ2xpdmUgQmFya2VyJ3MgSGVsbHJhaXNlcjogUmV2aXZhbCAoZnJlZSBkZW1vKSIsImdhbWVfcHVibGlzaGVyIjoiU2FiZXIgSW50ZXJhY3RpdmUiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTIxNjgzNTIxMTY2NDE4MjIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVsbHJhaXNlcjogUmV2aXZhbCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wN1QwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjc5MDkyNDQ0NTM1NjA0My8xNTUyNzkyMTE3ODU0NjAxMzI3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1Mjc5MDkyNDQ0NTM1NjA0My8xNTU0NTYwODY0ODUyNTE2ODc0XzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-28T17:00:00+00:00",
-      "expires_at": "2026-10-08T00:00:00+00:00",
-      "sent_at": "2026-09-29T04:41:09.895Z",
-      "type": "updated",
-      "updated_at": "2026-09-29T19:49:12.685Z"
-    },
     "1553392150924890112": {
       "id": "1553392150924890112",
       "config": {
@@ -15994,7 +15786,7 @@
         },
         "messages": {
           "quest_name": "Forgotten Island",
-          "game_title": "Ab 8. Oktober nur im Kino!",
+          "game_title": "Jetzt nur im Kino!",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
@@ -16042,14 +15834,15 @@
         "cta_config": {
           "link": "https://www.upig.de/micro/forgotten-island",
           "button_label": "Get Tickets",
-          "subtitle": "Ab 8. Oktober nur im Kino!"
+          "subtitle": "Jetzt nur im Kino!"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJBYiA4LiBPa3RvYmVyIG51ciBpbSBLaW5vISIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA0VDIyOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTFUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTBUMjE6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJKZXR6dCBudXIgaW0gS2lubyEiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxNDE0MzQxMjQ1NzU1MyIsImFwcGxpY2F0aW9uX25hbWUiOiJFbGJhIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNFQyMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTExVDIxOjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTEwVDIxOjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3MzY3NDEzMzIwNzc3ODMwLzE1NDkxMjI0Njk5MTMzMDUxNzkuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-10-04T22:00:00+00:00",
-      "expires_at": "2026-11-10T21:59:00+00:00",
+      "expires_at": "2026-10-11T21:59:00+00:00",
       "sent_at": "2026-10-04T23:54:22.789Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-08T00:44:24.629Z"
     },
     "1552406144067043438": {
       "id": "1552406144067043438",
@@ -16540,7 +16333,7 @@
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1555158122522349568/1555507743421374524.jpg",
+          "hero": "quests/1555158122522349568/1557425444431859752.jpg",
           "quest_bar_hero_blurhash": "YugFPwJYiaifaHeOiRhoOKhpdghIemAI",
           "quest_bar_hero": "quests/1555158122522349568/1555507763629662219.jpg",
           "game_tile": "PLACEHOLDER",
@@ -16652,11 +16445,12 @@
           "button_label": "Download"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWVsb24gU2FuZGJveCIsImdhbWVfdGl0bGUiOiJNZWxvbiBTYW5kYm94IiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5ZHVja3kiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTIwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NDB9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1MTU4MTIyNTIyMzQ5NTY4LzE1NTU1MDc3NDM0MjEzNzQ1MjQuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWVsb24gU2FuZGJveCIsImdhbWVfdGl0bGUiOiJNZWxvbiBTYW5kYm94IiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5ZHVja3kiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTIwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NDB9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1MTU4MTIyNTIyMzQ5NTY4LzE1NTc0MjU0NDQ0MzE4NTk3NTIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-10-05T17:00:00+00:00",
-      "expires_at": "2026-11-19T00:00:00+00:00",
+      "expires_at": "2026-10-20T00:00:00+00:00",
       "sent_at": "2026-10-05T21:51:27.235Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-08T00:44:25.894Z"
     },
     "1549142163487592600": {
       "id": "1549142163487592600",
@@ -18136,5 +17930,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-07T18:33:55.283Z"
+  "last_check": "2026-10-08T00:44:27.004Z"
 }
