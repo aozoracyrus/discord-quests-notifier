@@ -18066,7 +18066,411 @@
       "expires_at": "2026-11-22T00:00:00+00:00",
       "sent_at": "2026-10-09T01:00:53.996Z",
       "type": "new"
+    },
+    "1552706567374241872": {
+      "id": "1552706567374241872",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-09T07:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433713",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552706567374241872/1555299314056691732.jpg",
+          "quest_bar_hero_blurhash": "pQgKGoZvlWgtaWeHIjAWA2Q=",
+          "quest_bar_hero": "quests/1552706567374241872/1555299314056691732.jpg",
+          "quest_bar_hero_video": "quests/1552706567374241872/1555300643835744376_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552706567374241872/1557523100684517538.png",
+          "game_tile_dark": "quests/1552706567374241872/1555299314325000282.png",
+          "logotype_light": "quests/1552706567374241872/1557523100386730076.png",
+          "logotype_dark": "quests/1552706567374241872/1557046882449235968.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Matchbox The Movie",
+          "game_title": "Now streaming on Apple TV",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1552706567374241872/1555299963347402892_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552706567374241872/1555299314258018314.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552706567374241872/1555299963347402892_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552706567374241872/1555299314258018314.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552706567374241872/1555299963347402892.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552706567374241872/1555299314258018314.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433713",
+          "button_label": "Watch Now",
+          "subtitle": "Now streaming on Apple TV"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6Ik5vdyBzdHJlYW1pbmcgb24gQXBwbGUgVFYiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDlUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xMlQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MjcwNjU2NzM3NDI0MTg3Mi8xNTU1Mjk5MzE0MDU2NjkxNzMyLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-10-09T07:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-10-09T18:04:00.094Z",
+      "type": "new"
+    },
+    "1552784415942377583": {
+      "id": "1552784415942377583",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-09T07:00:00+00:00",
+        "expires_at": "2026-10-12T06:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07469239",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552784415942377583/1554592774672744508.jpg",
+          "quest_bar_hero_blurhash": "pQgKGoZvlWgtaWeHIjAWA2Q=",
+          "quest_bar_hero": "quests/1552784415942377583/1554592774672744508.jpg",
+          "quest_bar_hero_video": "quests/1552784415942377583/1555701027695624333_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552784415942377583/1557522557769351228.png",
+          "game_tile_dark": "quests/1552784415942377583/1554592442626473994.png",
+          "logotype_light": "quests/1552784415942377583/1557521993631535104.png",
+          "logotype_dark": "quests/1552784415942377583/1557046382920081588.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Matchbox The Movie",
+          "game_title": "Now streaming on Apple TV",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1552784415942377583/1554593454816755823_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552784415942377583/1554593607237771325.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552784415942377583/1554593454816755823_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552784415942377583/1554593607237771325.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552784415942377583/1554593454816755823.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552784415942377583/1554593607237771325.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-11-11T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07469239",
+          "button_label": "Watch Now",
+          "subtitle": "Now streaming on Apple TV"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6Ik5vdyBzdHJlYW1pbmcgb24gQXBwbGUgVFYiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDlUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xMlQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xMVQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Mjc4NDQxNTk0MjM3NzU4My8xNTU0NTkyNzc0NjcyNzQ0NTA4LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-10-09T07:00:00+00:00",
+      "expires_at": "2026-11-11T06:59:00+00:00",
+      "sent_at": "2026-10-09T18:04:01.483Z",
+      "type": "new"
+    },
+    "1556778857481113610": {
+      "id": "1556778857481113610",
+      "config": {
+        "id": "1556778857481113610",
+        "config_version": 2,
+        "starts_at": "2026-10-09T17:00:00+00:00",
+        "expires_at": "2026-10-23T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/4541470/Deadzone_Rogue_2_Demo/",
+          "id": "1557866763339960340",
+          "name": "Deadzone Rogue 2 Demo"
+        },
+        "assets": {
+          "hero": "quests/1556778857481113610/1556780368529457162.jpg",
+          "hero_video": "quests/1556778857481113610/1556780815843721227_720.mp4",
+          "quest_bar_hero_blurhash": "DdcJFIZRDIhfloZ3dnmXoFYJWg==",
+          "quest_bar_hero": "quests/1556778857481113610/1556780368575729674.jpg",
+          "quest_bar_hero_video": "quests/1556778857481113610/1556780730447695952_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1556778857481113610/1556780368726589481.png",
+          "game_tile_dark": "quests/1556778857481113610/1556780368726589481.png",
+          "logotype_light": "quests/1556778857481113610/1556780368877846679.png",
+          "logotype_dark": "quests/1556778857481113610/1556780368110161920.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Deadzone Rogue 2",
+          "game_title": "Deadzone Rogue 2",
+          "game_publisher": "Prophecy Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1557866763339960340"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-22T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/4541470/Deadzone_Rogue_2_Demo/",
+          "button_label": "Chơi miễn phí ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRGVhZHpvbmUgUm9ndWUgMiIsImdhbWVfdGl0bGUiOiJEZWFkem9uZSBSb2d1ZSAyIiwiZ2FtZV9wdWJsaXNoZXIiOiJQcm9waGVjeSBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1Nzg2Njc2MzMzOTk2MDM0MCIsImFwcGxpY2F0aW9uX25hbWUiOiJEZWFkem9uZSBSb2d1ZSAyIERlbW8iLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA5VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMjNUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMjJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU2Nzc4ODU3NDgxMTEzNjEwLzE1NTY3ODAzNjg1Mjk0NTcxNjIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU2Nzc4ODU3NDgxMTEzNjEwLzE1NTY3ODA4MTU4NDM3MjEyMjdfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-09T17:00:00+00:00",
+      "expires_at": "2026-11-22T00:00:00+00:00",
+      "sent_at": "2026-10-09T18:04:03.148Z",
+      "type": "new"
+    },
+    "1554267368748883999": {
+      "id": "1554267368748883999",
+      "config": {
+        "id": "1554267368748883999",
+        "config_version": 2,
+        "starts_at": "2026-10-09T17:00:00+00:00",
+        "expires_at": "2026-10-16T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/2054970/Dragons_Dogma_2/",
+          "id": "1220537550809337856",
+          "name": "Dragon's Dogma 2"
+        },
+        "assets": {
+          "hero": "quests/1539357001602302053/1539358043815411783.jpg",
+          "quest_bar_hero_blurhash": "jecJDIAGiXZ6hnl1h3j7g6uU9w==",
+          "quest_bar_hero": "quests/1539357001602302053/1539357982230446090.jpg",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539357001602302053/1539357508190208000.png",
+          "game_tile_dark": "quests/1539357001602302053/1539357508190208000.png",
+          "logotype_light": "quests/1539357001602302053/1539357572124123309.png",
+          "logotype_dark": "quests/1539357001602302053/1539357572124123309.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Dark Arisen Arrives",
+          "game_title": "Dragon's Dogma 2",
+          "game_publisher": "CAPCOM"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1220537550809337856"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1220537550809337856"
+                }
+              ],
+              "external_ids": [
+                "1621683201",
+                "2044234749"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1220537550809337856"
+                }
+              ],
+              "external_ids": [
+                "PPSA19870_00",
+                "PPSA09663_00",
+                "PPSA09665_00",
+                "PPSA19868_00",
+                "PPSA19867_00",
+                "PPSA18727_00",
+                "PPSA19869_00",
+                "PPSA09664_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-15T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/2054970/Dragons_Dogma_2/",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiRGFyayBBcmlzZW4gQXJyaXZlcyIsImdhbWVfdGl0bGUiOiJEcmFnb24ncyBEb2dtYSAyIiwiZ2FtZV9wdWJsaXNoZXIiOiJDQVBDT00iLCJhcHBsaWNhdGlvbl9pZCI6IjEyMjA1Mzc1NTA4MDkzMzc4NTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRHJhZ29uJ3MgRG9nbWEgMiIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDlUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM5MzU3MDAxNjAyMzAyMDUzLzE1MzkzNTgwNDM4MTU0MTE3ODMuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-10-09T17:00:00+00:00",
+      "expires_at": "2026-11-15T00:00:00+00:00",
+      "sent_at": "2026-10-09T18:04:04.536Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-09T10:10:00.999Z"
+  "last_check": "2026-10-09T18:04:05.641Z"
 }
