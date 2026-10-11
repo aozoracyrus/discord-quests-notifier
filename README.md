@@ -242,7 +242,7 @@ The tracker compares every field below against the previous run, and only sends 
 
 - 🇺🇸 English (`en-US`)
 - 🇻🇳 Vietnamese (`vi-VN`)
-
+- More??? (You can use the two language files to create a custom language for your region.)
 Set the `LOCALE` environment variable to switch languages.
 
 ## 🛠️ Configuration
