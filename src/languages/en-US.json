@@ -1,44 +1,43 @@
 {
-  "name": "🎮 Discord Quests Notifier",
-  "new_quest": "🆕 NEW QUEST",
-  "updated_quest": "♻️ QUEST UPDATED",
-  "quest_info": "📋 Quest Information",
-  "duration": "⏰ Duration",
-  "game": "🎮 Game",
-  "application": "🔗 Application",
-  "tasks": "✅ Tasks",
+  "name": "Set Name Webhook",
+  "new_quest": "New Quest",
+  "updated_quest": "Updated Quest",
+  "note_restart_app": "If you cannot find the task in the Discord app, please restart the app first. If it still does not appear, try using a VPN to switch your IP to the US, UK, etc. We will send notifications regarding IP requirements for each session (if applicable).",
+  "quest_info": "Quest Information",
+  "duration": "Duration",
+  "reward_expires": "Reward Expires",
+  "platforms": "Platforms",
+  "game": "Game",
+  "application": "Application",
+  "features": "Features",
+  "tasks": "Required Quest",
   "task_condition": {
-    "and": "**Complete ALL tasks:**",
-    "or": "**Complete ANY of these tasks:**"
+    "and": "Users must complete ALL of the following requirements:",
+    "or": "Users must complete one of the following requirements:"
   },
-  "rewards_title": "🎁 Rewards",
-  "reward_type": "Type",
+  "rewards_title": "Rewards",
+  "reward_type": "Type Reward",
+  "sku_id": "ID SKU",
   "reward_name": {
-    "normal": "Name",
-    "extra": "Premium Reward"
+    "normal": "Reward",
+    "extra": "Nitro Reward"
   },
-  "reward_expires": "Expires",
-  "decor_expires": "Decoration Expires",
-  "sku_id": "SKU ID",
+  "decor_expires": "Expires",
   "quest_id": "Quest ID",
+  "changes_title": "Changes Title",
+  "no_changes": "No Changes Title - May Error From Code (pls report to original repository so i can fix error)",
   "error": {
-    "new_quest": "Unknown Quest",
-    "game_name": "Unknown Game",
-    "game_publisher": "Unknown Publisher",
-    "reward": "Unknown Reward",
-    "reward_type": "Unknown Type"
+    "new_quest": "Undefined Quest",
+    "game_name": "Undefined Game",
+    "game_publisher": "Undefined Game Publisher",
+    "reward": "Undefined Rewards",
+    "reward_type": "Undefined Reward Type"
   },
   "rewards": {
-    "1": "Nitro",
-    "2": "Nitro Classic",
-    "3": "Decoration",
-    "4": "Premium Orbs"
-  },
-  "changes_detected": "📝 Changes Detected",
-  "expires_at_changed": "⏰ Expiration Date",
-  "starts_at_changed": "📅 Start Date",
-  "reward_changed": "🎁 Reward",
-  "task_count_changed": "✅ Task Count",
-  "changed_from": "from",
-  "changed_to": "to"
-} 
+    "1": "Rewards Code",
+    "2": "In-game Reward",
+    "3": "Discord Items",
+    "4": "Orbs",
+    "5": "Nitro"
+  }
+}
