@@ -17531,7 +17531,7 @@
         },
         "messages": {
           "quest_name": "Vision",
-          "game_title": "Stream VisionQuest on October 14, only on Disney+",
+          "game_title": "Stream VisionQuest this Wednesday, only on Disney+",
           "game_publisher": "Disney+"
         },
         "task_config_v2": {
@@ -17541,22 +17541,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1555710921614163989/1555715954644754432_1080.mp4",
+                  "url": "quests/1555710921614163989/1558259087953633491_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                  "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1555710921614163989/1555715954644754432_720.mp4",
+                  "url": "quests/1555710921614163989/1558259087953633491_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                  "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1555710921614163989/1555715954644754432.m3u8",
+                  "url": "quests/1555710921614163989/1558259087953633491.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                  "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                 }
               },
               "messages": {
@@ -17568,22 +17568,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1555710921614163989/1555715655112728576_1080.mp4",
+                  "url": "quests/1555710921614163989/1558259095415300116_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                  "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1555710921614163989/1555715655112728576_720.mp4",
+                  "url": "quests/1555710921614163989/1558259095415300116_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                  "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1555710921614163989/1555715655112728576.m3u8",
+                  "url": "quests/1555710921614163989/1558259095415300116.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+                  "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
                 }
               },
               "messages": {
@@ -17607,7 +17607,7 @@
                 }
               },
               "orb_quantity": 200,
-              "premium_orb_quantity": null
+              "premium_orb_quantity": 240
             }
           ],
           "rewards_expire_at": "2026-11-18T00:00:00+00:00",
@@ -17619,14 +17619,15 @@
         "cta_config": {
           "link": "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
           "button_label": "Learn More",
-          "subtitle": "Stream VisionQuest on October 14, only on Disney+"
+          "subtitle": "Stream VisionQuest this Wednesday, only on Disney+"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVmlzaW9uIiwiZ2FtZV90aXRsZSI6IlN0cmVhbSBWaXNpb25RdWVzdCBvbiBPY3RvYmVyIDE0LCBvbmx5IG9uIERpc25leSsiLCJnYW1lX3B1Ymxpc2hlciI6IkRpc25leSsiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wOVQyMzozNTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NTcxMDkyMTYxNDE2Mzk4OS8xNTU1NzEyOTgyNTY0OTk5MTg4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NTcxMDkyMTYxNDE2Mzk4OS8xNTU3MDI3MzYwNjAyMTk0MDAxXzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVmlzaW9uIiwiZ2FtZV90aXRsZSI6IlN0cmVhbSBWaXNpb25RdWVzdCB0aGlzIFdlZG5lc2RheSwgb25seSBvbiBEaXNuZXkrIiwiZ2FtZV9wdWJsaXNoZXIiOiJEaXNuZXkrIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDlUMjM6MzU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NTcxMDkyMTYxNDE2Mzk4OS8xNTU1NzEyOTgyNTY0OTk5MTg4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NTcxMDkyMTYxNDE2Mzk4OS8xNTU3MDI3MzYwNjAyMTk0MDAxXzcyMC5tcDQifQ==",
       "starts_at": "2026-10-09T23:35:00+00:00",
-      "expires_at": "2026-11-18T00:00:00+00:00",
+      "expires_at": "2026-10-19T00:00:00+00:00",
       "sent_at": "2026-10-10T09:31:23.799Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-12T20:59:47.288Z"
     },
     "1554683719422316636": {
       "id": "1554683719422316636",
@@ -17909,5 +17910,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-12T10:22:05.875Z"
+  "last_check": "2026-10-12T20:59:48.473Z"
 }
