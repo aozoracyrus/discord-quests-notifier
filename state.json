@@ -15114,7 +15114,7 @@
         "id": "1549142163487592600",
         "config_version": 2,
         "starts_at": "2026-10-05T17:00:00+00:00",
-        "expires_at": "2026-10-19T00:00:00+00:00",
+        "expires_at": "2026-10-20T00:00:00+00:00",
         "features": [
           15
         ],
@@ -15193,8 +15193,8 @@
               "asset": "quests/1549142163487592600/1555329824761979000.mp4",
               "asset_video": null,
               "messages": {
-                "name": "Champions Shanghai: Hạ Gục hay Bị Hạ",
-                "name_with_article": "Champions Shanghai: Hạ Gục hay Bị Hạ",
+                "name": "Trang Trí Avatar Champions Shanghai: Hạ Gục hay Bị Hạ",
+                "name_with_article": "Trang Trí Avatar Champions Shanghai: Hạ Gục hay Bị Hạ",
                 "redemption_instructions_by_platform": {
                   "0": "PLACEHOLDER"
                 }
@@ -15204,7 +15204,7 @@
               "expiration_mode": 3
             }
           ],
-          "rewards_expire_at": "2026-11-18T00:00:00+00:00",
+          "rewards_expire_at": "2026-11-19T00:00:00+00:00",
           "platforms": [
             0
           ]
@@ -15215,11 +15215,12 @@
           "button_label": "Chơi miễn phí ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2jGoWkgVkFMT1JBTlQiLCJnYW1lX3RpdGxlIjoiVkFMT1JBTlQiLCJnYW1lX3B1Ymxpc2hlciI6IlJpb3QgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjcwMDEzNjA3OTU2MjM3NTI1OCIsImFwcGxpY2F0aW9uX25hbWUiOiJWYWxvcmFudCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDkxNDIxNjM0ODc1OTI2MDAvMTU0OTE0MjQ0Mjk2NjUyNDA1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDkxNDIxNjM0ODc1OTI2MDAvMTU1NTI4NTE0OTI4ODEwMzkzNl83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2jGoWkgVkFMT1JBTlQiLCJnYW1lX3RpdGxlIjoiVkFMT1JBTlQiLCJnYW1lX3B1Ymxpc2hlciI6IlJpb3QgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjcwMDEzNjA3OTU2MjM3NTI1OCIsImFwcGxpY2F0aW9uX25hbWUiOiJWYWxvcmFudCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yMFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xOVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDkxNDIxNjM0ODc1OTI2MDAvMTU0OTE0MjQ0Mjk2NjUyNDA1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDkxNDIxNjM0ODc1OTI2MDAvMTU1NTI4NTE0OTI4ODEwMzkzNl83MjAubXA0In0=",
       "starts_at": "2026-10-05T17:00:00+00:00",
-      "expires_at": "2026-11-18T00:00:00+00:00",
+      "expires_at": "2026-10-20T00:00:00+00:00",
       "sent_at": "2026-10-05T21:51:28.686Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-13T18:58:28.670Z"
     },
     "1554676841879441438": {
       "id": "1554676841879441438",
@@ -15731,7 +15732,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-10-06T17:00:00+00:00",
-        "expires_at": "2026-10-13T00:00:00+00:00",
+        "expires_at": "2026-10-20T00:00:00+00:00",
         "features": [
           15
         ],
@@ -15838,7 +15839,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-11-12T00:00:00+00:00",
+          "rewards_expire_at": "2026-11-19T00:00:00+00:00",
           "platforms": [
             0
           ]
@@ -15855,11 +15856,12 @@
           "button_label": "Learn More"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTNUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTJUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyN30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyN31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTcwNTc0MjE0MTc5MTQzODgvMTU1NzA2NTkzMjg5Mzg0NzYyMy5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTcwNTc0MjE0MTc5MTQzODgvMTU1NzA2NTg5ODE4NjI1MjM0OC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTU9OT1BPTFkgR08hIiwiZ2FtZV90aXRsZSI6Ik1PTk9QT0xZIEdPISIsImdhbWVfcHVibGlzaGVyIjoiU2NvcGVseSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTA2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMjBUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyN30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyN31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTcwNTc0MjE0MTc5MTQzODgvMTU1NzA2NTkzMjg5Mzg0NzYyMy5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTcwNTc0MjE0MTc5MTQzODgvMTU1NzA2NTg5ODE4NjI1MjM0OC5tcDQifQ==",
       "starts_at": "2026-10-06T17:00:00+00:00",
-      "expires_at": "2026-11-12T00:00:00+00:00",
+      "expires_at": "2026-10-20T00:00:00+00:00",
       "sent_at": "2026-10-07T00:23:49.694Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-13T18:58:30.153Z"
     },
     "1554166577207709767": {
       "id": "1554166577207709767",
@@ -18404,7 +18406,137 @@
       "expires_at": "2026-11-18T06:59:00+00:00",
       "sent_at": "2026-10-13T02:31:49.009Z",
       "type": "new"
+    },
+    "1539343821782126622": {
+      "id": "1539343821782126622",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-13T17:00:00+00:00",
+        "expires_at": "2026-10-27T00:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.amazon.com/gp/video/detail/B0HCLVTLFF/ref=dvm_us_c_dig_TMLT_cm",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1539343821782126622/1558000099425128489.jpg",
+          "hero_video": "quests/1539343821782126622/1558000544759550012_720.mp4",
+          "quest_bar_hero_blurhash": "oPgJDIRmsGYFm3eyeIdUBiRVQA==",
+          "quest_bar_hero": "quests/1539343821782126622/1558000484139401226.jpg",
+          "quest_bar_hero_video": "quests/1539343821782126622/1558000534625980476_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1539343821782126622/1558000366295982130.png",
+          "game_tile_dark": "quests/1539343821782126622/1558000366837305415.png",
+          "logotype_light": "quests/1539343821782126622/1558000099399827496.png",
+          "logotype_dark": "quests/1539343821782126622/1558000099467202572.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Terminal List S2",
+          "game_title": "The Terminal List returns October 21 on Prime Video",
+          "game_publisher": "Amazon Prime Video"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 101,
+              "assets": {
+                "video": {
+                  "url": "quests/1539343821782126622/1559578379492130887_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1539343821782126622/1559578379492130887_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1539343821782126622/1559578379492130887.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 101,
+              "assets": {
+                "video": {
+                  "url": "quests/1539343821782126622/1559578379315970200_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1539343821782126622/1559578379315970200_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1539343821782126622/1559578379315970200.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1539343821782126622/1558000507258404894.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-11-26T00:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.amazon.com/gp/video/detail/B0HCLVTLFF/ref=dvm_us_c_dig_TMLT_cm",
+          "button_label": "Watch More",
+          "subtitle": "The Terminal List returns October 21 on Prime Video"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFRlcm1pbmFsIExpc3QgUzIiLCJnYW1lX3RpdGxlIjoiVGhlIFRlcm1pbmFsIExpc3QgcmV0dXJucyBPY3RvYmVyIDIxIG9uIFByaW1lIFZpZGVvIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0xM1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTI3VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTI2VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTAxfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjEwMX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkzNDM4MjE3ODIxMjY2MjIvMTU1ODAwMDA5OTQyNTEyODQ4OS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzkzNDM4MjE3ODIxMjY2MjIvMTU1ODAwMDU0NDc1OTU1MDAxMl83MjAubXA0In0=",
+      "starts_at": "2026-10-13T17:00:00+00:00",
+      "expires_at": "2026-11-26T00:00:00+00:00",
+      "sent_at": "2026-10-13T18:58:27.244Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-13T10:12:24.962Z"
+  "last_check": "2026-10-13T18:58:31.258Z"
 }
