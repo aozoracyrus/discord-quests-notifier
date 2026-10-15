@@ -17116,11 +17116,11 @@
           "name": "Where Winds Meet"
         },
         "assets": {
-          "hero": "quests/1554683719422316636/1554771505303527474.jpg",
-          "hero_video": "quests/1554683719422316636/1554771581992173608_720.mp4",
-          "quest_bar_hero_blurhash": "SbcFDIRWSWe4Z4eQWGinZT9J8w==",
-          "quest_bar_hero": "quests/1554683719422316636/1554771480703664138.jpg",
-          "quest_bar_hero_video": "quests/1554683719422316636/1554771544486576148_720.mp4",
+          "hero": "quests/1554683719422316636/1560322174626037841.jpg",
+          "hero_video": "quests/1554683719422316636/1560322385184292974_720.mp4",
+          "quest_bar_hero_blurhash": "iygGDIIIyEd3dnuMh4cIeHvAlw==",
+          "quest_bar_hero": "quests/1554683719422316636/1560322174680572045.jpg",
+          "quest_bar_hero_video": "quests/1554683719422316636/1560322234696990761_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
@@ -17133,7 +17133,7 @@
           "secondary": "#000000"
         },
         "messages": {
-          "quest_name": "Where Winds Meet 2.2 Wuxia New Era",
+          "quest_name": "Bản 2.3 Hải Đại Bằng Lai",
           "game_title": "Where Winds Meet",
           "game_publisher": "NETEASE"
         },
@@ -17191,11 +17191,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCAyLjIgV3V4aWEgTmV3IEVyYSIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTEwVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMTlUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMThUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTQ2ODM3MTk0MjIzMTY2MzYvMTU1NDc3MTUwNTMwMzUyNzQ3NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTQ2ODM3MTk0MjIzMTY2MzYvMTU1NDc3MTU4MTk5MjE3MzYwOF83MjAubXA0In0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQuG6o24gMi4zIEjhuqNpIMSQ4bqhaSBC4bqxbmcgTGFpIiwiZ2FtZV90aXRsZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJnYW1lX3B1Ymxpc2hlciI6Ik5FVEVBU0UiLCJhcHBsaWNhdGlvbl9pZCI6IjE0Mzc1MDk2NjIzMDMwNTk5OTgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiV2hlcmUgV2luZHMgTWVldCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTBUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0xOVQwNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0xOFQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDY4MzcxOTQyMjMxNjYzNi8xNTYwMzIyMTc0NjI2MDM3ODQxLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NDY4MzcxOTQyMjMxNjYzNi8xNTYwMzIyMzg1MTg0MjkyOTc0XzcyMC5tcDQifQ==",
       "starts_at": "2026-10-10T07:00:00+00:00",
-      "expires_at": "2026-11-18T06:59:00+00:00",
+      "expires_at": "2026-10-19T06:59:00+00:00",
       "sent_at": "2026-10-10T09:31:25.224Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-15T16:27:41.559Z"
     },
     "1536466333783429242": {
       "id": "1536466333783429242",
@@ -18243,5 +18244,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-15T10:58:31.432Z"
+  "last_check": "2026-10-15T16:27:42.662Z"
 }
