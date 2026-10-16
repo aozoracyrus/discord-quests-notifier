@@ -17326,7 +17326,7 @@
         },
         "messages": {
           "quest_name": "Forgotten Island",
-          "game_title": "IN CINEMAS OCTOBER 16",
+          "game_title": "In Cinemas Now",
           "game_publisher": "Universal Pictures"
         },
         "task_config_v2": {
@@ -17374,14 +17374,15 @@
         "cta_config": {
           "link": "http://www.forgottenislandmovie.co.uk/",
           "button_label": "Get Tickets",
-          "subtitle": "IN CINEMAS OCTOBER 16"
+          "subtitle": "In Cinemas Now"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJTiBDSU5FTUFTIE9DVE9CRVIgMTYiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxNDE0MzQxMjQ1NzU1MyIsImFwcGxpY2F0aW9uX25hbWUiOiJFbGJhIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0xMVQyMzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTE4VDIyOjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE3VDIyOjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3MzY3NDEzMzIwNzc3ODMwLzE1NDkxMjI0Njk5MTMzMDUxNzkuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIE5vdyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTExVDIzOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMThUMjI6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMTdUMjI6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-10-11T23:00:00+00:00",
-      "expires_at": "2026-11-17T22:59:00+00:00",
+      "expires_at": "2026-10-18T22:59:00+00:00",
       "sent_at": "2026-10-12T10:22:04.763Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-16T03:30:40.930Z"
     },
     "1558039850270203925": {
       "id": "1558039850270203925",
@@ -19263,5 +19264,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-15T21:01:22.029Z"
+  "last_check": "2026-10-16T03:30:42.037Z"
 }
