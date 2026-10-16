@@ -387,190 +387,6 @@
       "sent_at": "2026-09-01T00:25:05.437Z",
       "type": "new"
     },
-    "1542308634728464455": {
-      "id": "1542308634728464455",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-01T16:00:00+00:00",
-        "expires_at": "2026-09-16T06:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://www.streetfightermovie.com/",
-          "id": "1534554125130399915",
-          "name": "Crossup"
-        },
-        "assets": {
-          "hero": "quests/1542308634728464455/1542959161585958985.jpg",
-          "hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
-          "quest_bar_hero_blurhash": "2NsKLIZPaZeXZ3iElnZPl9MQyg==",
-          "quest_bar_hero": "quests/1534598499134472324/1542303020606431272.jpg",
-          "quest_bar_hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534598499134472324/1542300526845239357.png",
-          "game_tile_dark": "quests/1534598499134472324/1542300526845239357.png",
-          "logotype_light": "quests/1542308634728464455/1542591360534585475.png",
-          "logotype_dark": "quests/1534598499134472324/1542300468649267380.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Street Fighter Trailer",
-          "game_title": "Street Fighter in Theaters 10/16/26",
-          "game_publisher": "Paramount Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1534554125130399915"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Street Fighter Trailer",
-                "task_description": "Complete the Street Fighter trailer experience to earn 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-16T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.streetfightermovie.com/",
-          "button_label": "Learn More",
-          "subtitle": "Street Fighter in Theaters 10/16/26"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3RyZWV0IEZpZ2h0ZXIgVHJhaWxlciIsImdhbWVfdGl0bGUiOiJTdHJlZXQgRmlnaHRlciBpbiBUaGVhdGVycyAxMC8xNi8yNiIsImdhbWVfcHVibGlzaGVyIjoiUGFyYW1vdW50IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM0NTU0MTI1MTMwMzk5OTE1IiwiYXBwbGljYXRpb25fbmFtZSI6IkNyb3NzdXAiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0MjMwODYzNDcyODQ2NDQ1NS8xNTQyOTU5MTYxNTg1OTU4OTg1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzNDU5ODQ5OTEzNDQ3MjMyNC8xNTQyMzAzMDQ4MDU4MDE1NzY0XzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-01T16:00:00+00:00",
-      "expires_at": "2026-10-16T06:59:00+00:00",
-      "sent_at": "2026-09-01T18:12:43.758Z",
-      "type": "new"
-    },
-    "1534598499134472324": {
-      "id": "1534598499134472324",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-01T16:00:00+00:00",
-        "expires_at": "2026-09-16T06:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://www.streetfightermovie.com/",
-          "id": "1534554125130399915",
-          "name": "Crossup"
-        },
-        "assets": {
-          "hero": "quests/1534598499134472324/1542959261087309834.jpg",
-          "hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
-          "quest_bar_hero_blurhash": "2NsKLIZPaZeXZ3iElnZPl9MQyg==",
-          "quest_bar_hero": "quests/1534598499134472324/1542303020606431272.jpg",
-          "quest_bar_hero_video": "quests/1534598499134472324/1542303048058015764_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534598499134472324/1542300526845239357.png",
-          "game_tile_dark": "quests/1534598499134472324/1542300526845239357.png",
-          "logotype_light": "quests/1534598499134472324/1542591488418914324.png",
-          "logotype_dark": "quests/1534598499134472324/1542300468649267380.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Street Fighter Trailer",
-          "game_title": "Street Fighter in Theaters 10/16/26",
-          "game_publisher": "Paramount Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1534554125130399915"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Street Fighter Trailer",
-                "task_description": "Complete the Street Fighter trailer experience to earn 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-16T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.streetfightermovie.com/",
-          "button_label": "Learn More",
-          "subtitle": "Street Fighter in Theaters 10/16/26"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiU3RyZWV0IEZpZ2h0ZXIgVHJhaWxlciIsImdhbWVfdGl0bGUiOiJTdHJlZXQgRmlnaHRlciBpbiBUaGVhdGVycyAxMC8xNi8yNiIsImdhbWVfcHVibGlzaGVyIjoiUGFyYW1vdW50IFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM0NTU0MTI1MTMwMzk5OTE1IiwiYXBwbGljYXRpb25fbmFtZSI6IkNyb3NzdXAiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTAxVDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMTZUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzQ1OTg0OTkxMzQ0NzIzMjQvMTU0Mjk1OTI2MTA4NzMwOTgzNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzQ1OTg0OTkxMzQ0NzIzMjQvMTU0MjMwMzA0ODA1ODAxNTc2NF83MjAubXA0In0=",
-      "starts_at": "2026-09-01T16:00:00+00:00",
-      "expires_at": "2026-10-16T06:59:00+00:00",
-      "sent_at": "2026-09-01T18:12:46.196Z",
-      "type": "new"
-    },
     "1544091146056372336": {
       "id": "1544091146056372336",
       "config": {
@@ -1208,136 +1024,6 @@
       "sent_at": "2026-09-05T03:22:29.673Z",
       "type": "updated",
       "updated_at": "2026-10-02T09:26:33.422Z"
-    },
-    "1544426987215527988": {
-      "id": "1544426987215527988",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-07T06:00:00+00:00",
-        "expires_at": "2026-09-16T05:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.universalpictures.com.mx/micro/forgotten-island#iframe1",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1544426987215527988/1544428211566419988.jpg",
-          "hero_video": "quests/1544426987215527988/1544428859938832444_720.mp4",
-          "quest_bar_hero_blurhash": "0fcJDIKKeIiTeHdwd2i7cIw/6g==",
-          "quest_bar_hero": "quests/1544426987215527988/1544428843069349948.jpg",
-          "quest_bar_hero_video": "quests/1544426987215527988/1544428859938832444_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1544426987215527988/1544428161675042886.png",
-          "game_tile_dark": "quests/1544426987215527988/1544428161675042886.png",
-          "logotype_light": "quests/1544426987215527988/1544428176275411004.png",
-          "logotype_dark": "quests/1544426987215527988/1544428176275411004.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "La Isla Olvidada",
-          "game_title": "16 de septiembre, solo en cines.",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1544426987215527988/1544789520510222421_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544426987215527988/1544428191526027274.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544426987215527988/1544789520510222421_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544426987215527988/1544428191526027274.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544426987215527988/1544789520510222421.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1544426987215527988/1544428191526027274.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1544426987215527988/1544791995409637416_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544426987215527988/1544428191526027274.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1544426987215527988/1544791995409637416_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544426987215527988/1544428191526027274.png"
-                },
-                "video_hls": {
-                  "url": "quests/1544426987215527988/1544791995409637416.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1544426987215527988/1544428191526027274.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-16T05:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.universalpictures.com.mx/micro/forgotten-island#iframe1",
-          "button_label": "Learn More",
-          "subtitle": "16 de septiembre, solo en cines."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTGEgSXNsYSBPbHZpZGFkYSIsImdhbWVfdGl0bGUiOiIxNiBkZSBzZXB0aWVtYnJlLCBzb2xvIGVuIGNpbmVzLiIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMDdUMDY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0xNlQwNTo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0xNlQwNTo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MjY5ODcyMTU1Mjc5ODgvMTU0NDQyODIxMTU2NjQxOTk4OC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDQ0MjY5ODcyMTU1Mjc5ODgvMTU0NDQyODg1OTkzODgzMjQ0NF83MjAubXA0In0=",
-      "starts_at": "2026-09-07T06:00:00+00:00",
-      "expires_at": "2026-10-16T05:59:00+00:00",
-      "sent_at": "2026-09-07T11:47:34.602Z",
-      "type": "new"
     },
     "1544412209935814758": {
       "id": "1544412209935814758",
@@ -14448,7 +14134,7 @@
       "config": {
         "config_version": 2,
         "starts_at": "2026-10-05T17:00:00+00:00",
-        "expires_at": "2026-10-20T00:00:00+00:00",
+        "expires_at": "2026-10-17T05:15:00+00:00",
         "features": [
           15
         ],
@@ -14553,7 +14239,7 @@
               "premium_orb_quantity": 240
             }
           ],
-          "rewards_expire_at": "2026-11-19T00:00:00+00:00",
+          "rewards_expire_at": "2026-11-16T05:15:00+00:00",
           "platforms": [
             0
           ]
@@ -14570,12 +14256,12 @@
           "button_label": "Download"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWVsb24gU2FuZGJveCIsImdhbWVfdGl0bGUiOiJNZWxvbiBTYW5kYm94IiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5ZHVja3kiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTIwVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE5VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NDB9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1MTU4MTIyNTIyMzQ5NTY4LzE1NTc0MjU0NDQ0MzE4NTk3NTIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWVsb24gU2FuZGJveCIsImdhbWVfdGl0bGUiOiJNZWxvbiBTYW5kYm94IiwiZ2FtZV9wdWJsaXNoZXIiOiJQbGF5ZHVja3kiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0wNVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTE3VDA1OjE1OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTE2VDA1OjE1OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NDB9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1MTU4MTIyNTIyMzQ5NTY4LzE1NTc0MjU0NDQ0MzE4NTk3NTIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-10-05T17:00:00+00:00",
-      "expires_at": "2026-10-20T00:00:00+00:00",
+      "expires_at": "2026-10-17T05:15:00+00:00",
       "sent_at": "2026-10-05T21:51:27.235Z",
       "type": "updated",
-      "updated_at": "2026-10-08T00:44:25.894Z"
+      "updated_at": "2026-10-16T20:36:18.931Z"
     },
     "1549142163487592600": {
       "id": "1549142163487592600",
@@ -19262,7 +18948,323 @@
       "expires_at": "2026-11-24T00:00:00+00:00",
       "sent_at": "2026-10-15T21:01:18.110Z",
       "type": "new"
+    },
+    "1551980932276293683": {
+      "id": "1551980932276293683",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-16T16:00:00+00:00",
+        "expires_at": "2026-10-26T23:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+          "id": "1536318183873454090",
+          "name": "Spades"
+        },
+        "assets": {
+          "hero": "quests/1551980932276293683/1553077441788903474.jpg",
+          "hero_video": "quests/1551980932276293683/1553077580767436962.mp4",
+          "quest_bar_hero_blurhash": "z/cJCoAwWW1mepl3v13T/BM=",
+          "quest_bar_hero": "quests/1551980932276293683/1553077441788903474.jpg",
+          "quest_bar_hero_video": "quests/1551980932276293683/1553077580767436962.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1551980932276293683/1553077381638660231.png",
+          "game_tile_dark": "quests/1551980932276293683/1553077381638660231.png",
+          "logotype_light": "quests/1551980932276293683/1553077363468927197.png",
+          "logotype_dark": "quests/1551980932276293683/1553077381567352852.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "VALORANT Aces Round 3",
+          "game_title": "VALORANT",
+          "game_publisher": "Riot Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 1,
+              "applications": [
+                {
+                  "id": "1536318183873454090"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "VALORANT Aces Round 3",
+                "task_description": "Run it back and relive some of the greatest plays in VALORANT esports, but this time YOU'RE in the driver's seat. Can you ACE it?"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-25T23:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+          "button_label": "Play Free Now",
+          "subtitle": "VALORANT Aces"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgQWNlcyBSb3VuZCAzIiwiZ2FtZV90aXRsZSI6IlZBTE9SQU5UIiwiZ2FtZV9wdWJsaXNoZXIiOiJSaW90IEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE4MTgzODczNDU0MDkwIiwiYXBwbGljYXRpb25fbmFtZSI6IlNwYWRlcyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTZUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yNlQyMzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yNVQyMzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjF9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTgwOTMyMjc2MjkzNjgzLzE1NTMwNzc0NDE3ODg5MDM0NzQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUxOTgwOTMyMjc2MjkzNjgzLzE1NTMwNzc1ODA3Njc0MzY5NjIubXA0In0=",
+      "starts_at": "2026-10-16T16:00:00+00:00",
+      "expires_at": "2026-11-25T23:59:00+00:00",
+      "sent_at": "2026-10-16T20:36:14.812Z",
+      "type": "new"
+    },
+    "1552893313500184617": {
+      "id": "1552893313500184617",
+      "config": {
+        "id": "1552893313500184617",
+        "config_version": 2,
+        "starts_at": "2026-10-16T17:00:00+00:00",
+        "expires_at": "2026-11-07T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "id": "1511443377927880775",
+          "name": "Call of Duty: Modern Warfare 4"
+        },
+        "assets": {
+          "hero": "quests/1552893313500184617/1559713299635904542.jpg",
+          "hero_video": "quests/1552893313500184617/1559713399598751744_720.mp4",
+          "quest_bar_hero_blurhash": "ThgKCoIJ2WWshJhnBlOLIEY=",
+          "quest_bar_hero": "quests/1552893313500184617/1559713299635904542.jpg",
+          "quest_bar_hero_video": "quests/1552893313500184617/1559713411254976584_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552893313500184617/1559715882924511252.png",
+          "game_tile_dark": "quests/1552893313500184617/1559715885319594065.png",
+          "logotype_light": "quests/1552893313500184617/1559715883348271144.png",
+          "logotype_dark": "quests/1552893313500184617/1559715883142746112.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Call of Duty: Modern Warfare 4",
+          "game_title": "Call of Duty: Modern Warfare 4",
+          "game_publisher": "Activision"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "1680003655",
+                "2001700854"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "PPSA07953_00",
+                "CUSA53714_00",
+                "PPSA24264_00",
+                "CUSA53713_00",
+                "PPSA28781_00",
+                "PPSA07951_00",
+                "PPSA07950_00",
+                "PPSA07952_00",
+                "CUSA34032_00",
+                "CUSA53712_00",
+                "PPSA24265_00",
+                "CUSA34031_00",
+                "CUSA53711_00",
+                "PPSA01649_00",
+                "CUSA23827_00",
+                "CUSA34029_00",
+                "CUSA34030_00",
+                "PPSA24263_00",
+                "PPSA24266_00",
+                "CUSA53710_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1552893313500184618",
+              "asset": "quests/1552893313500184617/1559719027407069194.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Exclusive Calling Card",
+                "name_with_article": "an Exclusive Calling Card",
+                "redemption_instructions_by_platform": {
+                  "0": "Redeem your code for an exclusive Calling Card at callofduty.com/redeem."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": "http://callofduty.com/promotions/redeemcode"
+            }
+          ],
+          "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "button_label": "Phát Ngay",
+          "subtitle": "Witness the epic conclusion. Pre-Order digitally and play Campaign Early Access now."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMTQ0MzM3NzkyNzg4MDc3NSIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTE2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyODkzMzEzNTAwMTg0NjE3LzE1NTk3MTMyOTk2MzU5MDQ1NDIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyODkzMzEzNTAwMTg0NjE3LzE1NTk3MTMzOTk1OTg3NTE3NDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-16T17:00:00+00:00",
+      "expires_at": "2026-12-07T01:00:00+00:00",
+      "sent_at": "2026-10-16T20:36:16.287Z",
+      "type": "new"
+    },
+    "1552348509838123168": {
+      "id": "1552348509838123168",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-16T17:00:00+00:00",
+        "expires_at": "2026-10-23T06:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.laroche-posay.us/gaming-for-cause.html?srsltid=AU7gw4UJ3tjYSMAQGuSGjZZN6PTCcuPAfLPxnzKP0dUSLGGpIuU8zfsl",
+          "id": "1550073301500567582",
+          "name": "Black Belt"
+        },
+        "assets": {
+          "hero": "quests/1552348509838123168/1559976798744223914.jpg",
+          "hero_video": "quests/1552348509838123168/1559992962778406912_720.mp4",
+          "quest_bar_hero_blurhash": "mWUJOo5/RlxMiJdncJQFR2o=",
+          "quest_bar_hero": "quests/1552348509838123168/1559976798744223914.jpg",
+          "quest_bar_hero_video": "quests/1552348509838123168/1559992962778406912_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552348509838123168/1559976515473645661.png",
+          "game_tile_dark": "quests/1552348509838123168/1559976515473645661.png",
+          "logotype_light": "quests/1552348509838123168/1559976587963666533.png",
+          "logotype_dark": "quests/1552348509838123168/1559976587963666533.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Gaming for Cause",
+          "game_title": "Gaming for Cause",
+          "game_publisher": "La Roche-Posay"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550073301500567582"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Black Belt",
+                "task_description": "Find all 5 Gaming For Cause stickers in Ninja's room to earn 700 Orbs "
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-22T06:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.laroche-posay.us/gaming-for-cause.html?srsltid=AU7gw4UJ3tjYSMAQGuSGjZZN6PTCcuPAfLPxnzKP0dUSLGGpIuU8zfsl",
+          "button_label": "Visit Website",
+          "subtitle": "Explore more about Gaming For Cause"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR2FtaW5nIGZvciBDYXVzZSIsImdhbWVfdGl0bGUiOiJHYW1pbmcgZm9yIENhdXNlIiwiZ2FtZV9wdWJsaXNoZXIiOiJMYSBSb2NoZS1Qb3NheSIsImFwcGxpY2F0aW9uX2lkIjoiMTU1MDA3MzMwMTUwMDU2NzU4MiIsImFwcGxpY2F0aW9uX25hbWUiOiJCbGFjayBCZWx0Iiwic3RhcnRzX2F0IjoiMjAyNi0xMC0xNlQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTIzVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTIyVDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTIzNDg1MDk4MzgxMjMxNjgvMTU1OTk3Njc5ODc0NDIyMzkxNC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTIzNDg1MDk4MzgxMjMxNjgvMTU1OTk5Mjk2Mjc3ODQwNjkxMl83MjAubXA0In0=",
+      "starts_at": "2026-10-16T17:00:00+00:00",
+      "expires_at": "2026-11-22T06:59:00+00:00",
+      "sent_at": "2026-10-16T20:36:17.619Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-16T16:13:06.041Z"
+  "last_check": "2026-10-16T20:36:20.043Z"
 }
