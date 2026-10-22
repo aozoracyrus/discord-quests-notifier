@@ -1,263 +1,5 @@
 {
   "quests": {
-    "1539057611297792060": {
-      "id": "1539057611297792060",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-31T17:00:00+00:00",
-        "expires_at": "2026-09-22T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1539057611297792060/1542282983032229979.jpg",
-          "quest_bar_hero_blurhash": "BggGDIKFqHSQlJh0e5aUoEkKmg==",
-          "quest_bar_hero": "quests/1539057611297792060/1541559214957264926.jpg",
-          "quest_bar_hero_video": "quests/1539057611297792060/1541559122640502844_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1539057611297792060/1541558727906172949.png",
-          "game_tile_dark": "quests/1539057611297792060/1541558728522997790.png",
-          "logotype_light": "quests/1539057611297792060/1542590118076874782.png",
-          "logotype_dark": "quests/1539057611297792060/1542590243520380928.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "It Happens On PS5",
-          "game_title": "It Happens On PS5",
-          "game_publisher": "PlayStation"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1539057611297792060/1540125190791499826_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539057611297792060/1541558727960694975.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1539057611297792060/1540125190791499826_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539057611297792060/1541558727960694975.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1539057611297792060/1540125190791499826.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1539057611297792060/1541558727960694975.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1539057611297792060/1540125190833447003_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1539057611297792060/1541561466941870170.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1539057611297792060/1540125190833447003_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1539057611297792060/1541561466941870170.png"
-                },
-                "video_hls": {
-                  "url": "quests/1539057611297792060/1540125190833447003.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1539057611297792060/1541561466941870170.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
-          "button_label": "Learn More",
-          "subtitle": "Experience unforgettable moments."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiSXQgSGFwcGVucyBPbiBQUzUiLCJnYW1lX3RpdGxlIjoiSXQgSGFwcGVucyBPbiBQUzUiLCJnYW1lX3B1Ymxpc2hlciI6IlBsYXlTdGF0aW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMzFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yMlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yMlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzkwNTc2MTEyOTc3OTIwNjAvMTU0MjI4Mjk4MzAzMjIyOTk3OS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-08-31T17:00:00+00:00",
-      "expires_at": "2026-10-22T00:00:00+00:00",
-      "sent_at": "2026-08-31T20:41:09.828Z",
-      "type": "new"
-    },
-    "1540124165225324656": {
-      "id": "1540124165225324656",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-08-31T17:00:00+00:00",
-        "expires_at": "2026-09-22T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1540124165225324656/1542283105417560195.jpg",
-          "quest_bar_hero_blurhash": "BggGDIKFqHSQlJh0e5aUoEkKmg==",
-          "quest_bar_hero": "quests/1540124165225324656/1541559047768113233.jpg",
-          "quest_bar_hero_video": "quests/1540124165225324656/1540129049257451580_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1540124165225324656/1540124884531806338.png",
-          "game_tile_dark": "quests/1540124165225324656/1540127125850431568.png",
-          "logotype_light": "quests/1540124165225324656/1540124884427087892.png",
-          "logotype_dark": "quests/1540124165225324656/1540127258839089152.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "It Happens On PS5",
-          "game_title": "It Happens On PS5",
-          "game_publisher": "PlayStation"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1540124165225324656/1540124884489863198_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1540124165225324656/1540124884489863198_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1540124165225324656/1540124884489863198.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540124165225324656/1540124884456439908.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1540124165225324656/1540124884489863198_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1540124165225324656/1540124884489863198_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
-                },
-                "video_hls": {
-                  "url": "quests/1540124165225324656/1540124884489863198.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1540124165225324656/1540127743482662963.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.playstation.com/it-happens-on-ps5/?emcid=hd-ha-536563",
-          "button_label": "Learn More",
-          "subtitle": "Erlebe unvergessliche Momente. It Happens on PS5."
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiSXQgSGFwcGVucyBPbiBQUzUiLCJnYW1lX3RpdGxlIjoiSXQgSGFwcGVucyBPbiBQUzUiLCJnYW1lX3B1Ymxpc2hlciI6IlBsYXlTdGF0aW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDgtMzFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yMlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yMlQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDAxMjQxNjUyMjUzMjQ2NTYvMTU0MjI4MzEwNTQxNzU2MDE5NS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-08-31T17:00:00+00:00",
-      "expires_at": "2026-10-22T00:00:00+00:00",
-      "sent_at": "2026-08-31T20:41:11.407Z",
-      "type": "new"
-    },
     "1544391393227571231": {
       "id": "1544391393227571231",
       "config": {
@@ -522,390 +264,6 @@
       "sent_at": "2026-09-05T03:22:29.673Z",
       "type": "updated",
       "updated_at": "2026-10-02T09:26:33.422Z"
-    },
-    "1544412209935814758": {
-      "id": "1544412209935814758",
-      "config": {
-        "id": "1544412209935814758",
-        "config_version": 2,
-        "starts_at": "2026-09-07T17:00:00+00:00",
-        "expires_at": "2026-09-22T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://games.capcomusa.com/?utm_campaign=tgs26&utm_source=discordquest",
-          "id": "1456485028350656512",
-          "name": "Resident Evil Requiem"
-        },
-        "assets": {
-          "hero": "quests/1544412209935814758/1545185568877445230.jpg",
-          "quest_bar_hero_blurhash": "ohsGVIKKyJOKd4WPZZb4dq5/6A==",
-          "quest_bar_hero": "quests/1544412209935814758/1545130808694669312.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1544412209935814758/1544414262456221807.png",
-          "game_tile_dark": "quests/1544412209935814758/1544414262456221807.png",
-          "logotype_light": "quests/1544412209935814758/1544414295054360656.png",
-          "logotype_dark": "quests/1544412209935814758/1544414382887538858.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "CAPCOM TGS Deals",
-          "game_title": "CAPCOM TGS Deals",
-          "game_publisher": "CAPCOM"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1456485028350656512"
-                },
-                {
-                  "id": "1448369915462549616"
-                },
-                {
-                  "id": "1344912009807794256"
-                },
-                {
-                  "id": "1129504307851567196"
-                },
-                {
-                  "id": "1257440761763598526"
-                },
-                {
-                  "id": "1129504209226711190"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1456485028350656512"
-                }
-              ],
-              "external_ids": [
-                "2143308729",
-                "1658810016",
-                "1687588412",
-                "2143033449",
-                "1852916479",
-                "2011061477",
-                "2027691162"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1456485028350656512"
-                }
-              ],
-              "external_ids": [
-                "PPSA24191_00",
-                "PPSA19001_00",
-                "PPSA36561_00",
-                "PPSA07411_00",
-                "PPSA31247_00",
-                "CUSA35714_00",
-                "CUSA43544_00",
-                "PPSA31246_00",
-                "PPSA02634_00",
-                "PPSA02635_00",
-                "CUSA37740_00",
-                "CUSA31500_00",
-                "CUSA41230_00",
-                "PPSA35672_00",
-                "CUSA43543_00",
-                "CUSA31499_00",
-                "CUSA37739_00",
-                "PPSA07862_00",
-                "PPSA02632_00",
-                "PPSA09418_00",
-                "CUSA37742_00",
-                "PPSA36562_00",
-                "CUSA31498_00",
-                "PPSA07412_00",
-                "PPSA30803_00",
-                "PPSA02633_00",
-                "PPSA35673_00",
-                "PPSA02530_00",
-                "PPSA19000_00",
-                "PPSA36563_00",
-                "PPSA18999_00",
-                "CUSA31497_00",
-                "CUSA33387_00",
-                "CUSA43545_00",
-                "CUSA33388_00",
-                "CUSA37741_00",
-                "PPSA24306_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://games.capcomusa.com/?utm_campaign=tgs26&utm_source=discordquest",
-          "button_label": "Tìm hiểu thêm"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ0FQQ09NIFRHUyBEZWFscyIsImdhbWVfdGl0bGUiOiJDQVBDT00gVEdTIERlYWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJDQVBDT00iLCJhcHBsaWNhdGlvbl9pZCI6IjE0NTY0ODUwMjgzNTA2NTY1MTIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiUmVzaWRlbnQgRXZpbCBSZXF1aWVtIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wN1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MTIyMDk5MzU4MTQ3NTgvMTU0NTE4NTU2ODg3NzQ0NTIzMC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-09-07T17:00:00+00:00",
-      "expires_at": "2026-10-22T00:00:00+00:00",
-      "sent_at": "2026-09-07T17:24:44.516Z",
-      "type": "new"
-    },
-    "1545527302681661540": {
-      "id": "1545527302681661540",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-07T17:00:00+00:00",
-        "expires_at": "2026-09-22T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://games.capcomusa.com/?utm_campaign=tgs26&utm_source=discordquest",
-          "id": "1456485028350656512",
-          "name": "Resident Evil Requiem"
-        },
-        "assets": {
-          "hero": "quests/1544412209935814758/1545185568877445230.jpg",
-          "quest_bar_hero_blurhash": "ohsGVIKKyJOKd4WPZZb4dq5/6A==",
-          "quest_bar_hero": "quests/1544412209935814758/1545130808694669312.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1544412209935814758/1544414262456221807.png",
-          "game_tile_dark": "quests/1544412209935814758/1544414262456221807.png",
-          "logotype_light": "quests/1544412209935814758/1544414295054360656.png",
-          "logotype_dark": "quests/1544412209935814758/1544414382887538858.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "CAPCOM TGS Deals",
-          "game_title": "CAPCOM TGS Deals",
-          "game_publisher": "CAPCOM"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1456485028350656512"
-                },
-                {
-                  "id": "1448369915462549616"
-                },
-                {
-                  "id": "1344912009807794256"
-                },
-                {
-                  "id": "1129504307851567196"
-                },
-                {
-                  "id": "1257440761763598526"
-                },
-                {
-                  "id": "1129504209226711190"
-                },
-                {
-                  "id": "1025084469306200064"
-                },
-                {
-                  "id": "1129504165727584307"
-                },
-                {
-                  "id": "1162153766859059241"
-                },
-                {
-                  "id": "1283713756605452308"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1456485028350656512"
-                }
-              ],
-              "external_ids": []
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1456485028350656512"
-                }
-              ],
-              "external_ids": []
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://games.capcomusa.com/?utm_campaign=tgs26&utm_source=discordquest",
-          "button_label": "Learn More"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ0FQQ09NIFRHUyBEZWFscyIsImdhbWVfdGl0bGUiOiJDQVBDT00gVEdTIERlYWxzIiwiZ2FtZV9wdWJsaXNoZXIiOiJDQVBDT00iLCJhcHBsaWNhdGlvbl9pZCI6IjE0NTY0ODUwMjgzNTA2NTY1MTIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiUmVzaWRlbnQgRXZpbCBSZXF1aWVtIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wN1QxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDQ0MTIyMDk5MzU4MTQ3NTgvMTU0NTE4NTU2ODg3NzQ0NTIzMC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-09-07T17:00:00+00:00",
-      "expires_at": "2026-10-22T00:00:00+00:00",
-      "sent_at": "2026-09-07T21:12:28.397Z",
-      "type": "new"
-    },
-    "1536463146980483122": {
-      "id": "1536463146980483122",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-08T16:10:00+00:00",
-        "expires_at": "2026-09-22T00:00:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://dragonwilds.runescape.com/",
-          "id": "1534951967250452680",
-          "name": "[Prod] Dark Queen"
-        },
-        "assets": {
-          "hero": "quests/1536463146980483122/1545424502127591495.jpg",
-          "hero_video": "quests/1536463146980483122/1546908893156999178_720.mp4",
-          "quest_bar_hero_blurhash": "USgKCoIDfHV7l2eYVKAbBro=",
-          "quest_bar_hero": "quests/1536463146980483122/1545424390236278874.jpg",
-          "quest_bar_hero_video": "quests/1536463146980483122/1545424451628433458.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536463146980483122/1545424313107353640.png",
-          "game_tile_dark": "quests/1536463146980483122/1545424313107353640.png",
-          "logotype_light": "quests/1536463146980483122/1545424344799518720.png",
-          "logotype_dark": "quests/1536463146980483122/1545424344799518720.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "RuneScape: Dragonwilds Mission",
-          "game_title": "RuneScape: Dragonwilds",
-          "game_publisher": "Jagex"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 1,
-              "applications": [
-                {
-                  "id": "1534951967250452680"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Dragonwilds",
-                "task_description": "Complete the RuneScape: Dragonwilds Mission Quest to build a lodestone and earn 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-22T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://dragonwilds.runescape.com/",
-          "button_label": "Wishlist Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUnVuZVNjYXBlOiBEcmFnb253aWxkcyBNaXNzaW9uIiwiZ2FtZV90aXRsZSI6IlJ1bmVTY2FwZTogRHJhZ29ud2lsZHMiLCJnYW1lX3B1Ymxpc2hlciI6IkphZ2V4IiwiYXBwbGljYXRpb25faWQiOiIxNTM0OTUxOTY3MjUwNDUyNjgwIiwiYXBwbGljYXRpb25fbmFtZSI6IltQcm9kXSBEYXJrIFF1ZWVuIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0wOFQxNjoxMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIyVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6MX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzY0NjMxNDY5ODA0ODMxMjIvMTU0NTQyNDUwMjEyNzU5MTQ5NS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzY0NjMxNDY5ODA0ODMxMjIvMTU0NjkwODg5MzE1Njk5OTE3OF83MjAubXA0In0=",
-      "starts_at": "2026-09-08T16:10:00+00:00",
-      "expires_at": "2026-10-22T00:00:00+00:00",
-      "sent_at": "2026-09-08T20:49:16.663Z",
-      "type": "new"
     },
     "1546544728281972877": {
       "id": "1546544728281972877",
@@ -16830,7 +16188,137 @@
       "expires_at": "2026-12-08T01:00:00+00:00",
       "sent_at": "2026-10-21T21:20:32.775Z",
       "type": "new"
+    },
+    "1552381063475499109": {
+      "id": "1552381063475499109",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-21T18:00:00+00:00",
+        "expires_at": "2026-11-05T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.nexon.com/mscw/landing?partnerkey=MK566S59813M37754&utm_source=discord&utm_medium=quest&utm_term=gamesplayed&utm_campaign=mscglipm&utm_content=NA",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552381063475499109/1560450190991826955.jpg",
+          "hero_video": "quests/1552381063475499109/1560450210675687595_720.mp4",
+          "quest_bar_hero_blurhash": "6mkGJID2SGeQhHh2dXmZYOMAMw==",
+          "quest_bar_hero": "quests/1552381063475499109/1560450166996213881.jpg",
+          "quest_bar_hero_video": "quests/1552381063475499109/1560450212571517000_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552381063475499109/1562180697832038450.png",
+          "game_tile_dark": "quests/1552381063475499109/1562180697832038450.png",
+          "logotype_light": "quests/1552381063475499109/1561778867994365974.png",
+          "logotype_dark": "quests/1552381063475499109/1561778867847299093.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "MapleStory Classic World Trailer",
+          "game_title": "Maple World, exactly as you left it. Free on PC.",
+          "game_publisher": "Nexon America"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 154,
+              "assets": {
+                "video": {
+                  "url": "quests/1552381063475499109/1562119313962573855_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1552381063475499109/1562119313962573855_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+                },
+                "video_hls": {
+                  "url": "quests/1552381063475499109/1562119313962573855.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 154,
+              "assets": {
+                "video": {
+                  "url": "quests/1552381063475499109/1562119313962573855_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1552381063475499109/1562119313962573855_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+                },
+                "video_hls": {
+                  "url": "quests/1552381063475499109/1562119313962573855.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552381063475499109/1560450063778717706.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-05T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.nexon.com/mscw/landing?partnerkey=MK566S59813M37754&utm_source=discord&utm_medium=quest&utm_term=gamesplayed&utm_campaign=mscglipm&utm_content=NA",
+          "button_label": "Play Now",
+          "subtitle": "Maple World, exactly as you left it. Free on PC."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFwbGVTdG9yeSBDbGFzc2ljIFdvcmxkIFRyYWlsZXIiLCJnYW1lX3RpdGxlIjoiTWFwbGUgV29ybGQsIGV4YWN0bHkgYXMgeW91IGxlZnQgaXQuIEZyZWUgb24gUEMuIiwiZ2FtZV9wdWJsaXNoZXIiOiJOZXhvbiBBbWVyaWNhIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjFUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNVQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNVQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE1NH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNTR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMzgxMDYzNDc1NDk5MTA5LzE1NjA0NTAxOTA5OTE4MjY5NTUuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyMzgxMDYzNDc1NDk5MTA5LzE1NjA0NTAyMTA2NzU2ODc1OTVfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-21T18:00:00+00:00",
+      "expires_at": "2026-12-05T01:00:00+00:00",
+      "sent_at": "2026-10-22T03:38:58.791Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-21T21:20:35.994Z"
+  "last_check": "2026-10-22T03:38:59.901Z"
 }
