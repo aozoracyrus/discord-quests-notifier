@@ -3509,98 +3509,6 @@
       "sent_at": "2026-09-16T20:58:01.232Z",
       "type": "new"
     },
-    "1547367413320777830": {
-      "id": "1547367413320777830",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-16T16:00:00+00:00",
-        "expires_at": "2026-09-23T05:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://app.powster.com/universalstudios/forgotten-island-intl/mx/",
-          "id": "1536314143412457553",
-          "name": "Elba"
-        },
-        "assets": {
-          "hero": "quests/1547367413320777830/1549122469913305179.jpg",
-          "hero_video": "quests/1547367413320777830/1549537141443399811_720.mp4",
-          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
-          "quest_bar_hero": "quests/1547367413320777830/1549122497893503166.jpg",
-          "quest_bar_hero_video": "quests/1547367413320777830/1549537141443399811_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1547367413320777830/1549122498023657542.png",
-          "game_tile_dark": "quests/1547367413320777830/1549122498023657542.png",
-          "logotype_light": "quests/1547367413320777830/1549122456797585509.png",
-          "logotype_dark": "quests/1547367413320777830/1549122456797585509.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "La Isla Olvidada",
-          "game_title": "Ahora en cines",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1536314143412457553"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "La Isla Olvidada",
-                "task_description": "¡Encuentra los 5 dijes del brazalete para coleccionar 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-23T05:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://app.powster.com/universalstudios/forgotten-island-intl/mx/",
-          "button_label": "Get Tickets",
-          "subtitle": "Ahora en cines"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTGEgSXNsYSBPbHZpZGFkYSIsImdhbWVfdGl0bGUiOiJBaG9yYSBlbiBjaW5lcyIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzE0MTQzNDEyNDU3NTUzIiwiYXBwbGljYXRpb25fbmFtZSI6IkVsYmEiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTE2VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjNUMDU6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjNUMDU6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTEyMjQ2OTkxMzMwNTE3OS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDczNjc0MTMzMjA3Nzc4MzAvMTU0OTUzNzE0MTQ0MzM5OTgxMV83MjAubXA0In0=",
-      "starts_at": "2026-09-16T16:00:00+00:00",
-      "expires_at": "2026-10-23T05:59:00+00:00",
-      "sent_at": "2026-09-16T20:58:04.181Z",
-      "type": "new"
-    },
     "1547680317869924507": {
       "id": "1547680317869924507",
       "config": {
@@ -16378,7 +16286,137 @@
       "expires_at": "2026-11-25T00:00:00+00:00",
       "sent_at": "2026-10-22T21:16:13.324Z",
       "type": "new"
+    },
+    "1562260965687300186": {
+      "id": "1562260965687300186",
+      "config": {
+        "id": "1562260965687300186",
+        "config_version": 2,
+        "starts_at": "2026-10-23T04:00:00+00:00",
+        "expires_at": "2026-10-24T09:59:59+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "id": "1511443377927880775",
+          "name": "Call of Duty: Modern Warfare 4"
+        },
+        "assets": {
+          "hero": "quests/1562260965687300186/1562266078267318392.jpg",
+          "hero_video": "quests/1562260965687300186/1562266096717799494_720.mp4",
+          "quest_bar_hero_blurhash": "k+cFCoLQdciHhbeGZ3lwhQg=",
+          "quest_bar_hero": "quests/1562260965687300186/1562266078267318392.jpg",
+          "quest_bar_hero_video": "quests/1562260965687300186/1562266102388752384_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562260965687300186/1562265709726269501.png",
+          "game_tile_dark": "quests/1562260965687300186/1562265709743046786.png",
+          "logotype_light": "quests/1562260965687300186/1562265998646579282.png",
+          "logotype_dark": "quests/1562260965687300186/1562265998768476250.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Call of Duty: Modern Warfare 4",
+          "game_title": "Call of Duty: Modern Warfare 4",
+          "game_publisher": "Activision"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "1680003655",
+                "2001700854"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "PPSA07950_00",
+                "PPSA24265_00",
+                "PPSA07953_00",
+                "PPSA24263_00",
+                "PPSA07952_00",
+                "CUSA53713_00",
+                "CUSA34029_00",
+                "PPSA24264_00",
+                "CUSA23827_00",
+                "PPSA01649_00",
+                "CUSA53714_00",
+                "PPSA24266_00",
+                "PPSA07951_00",
+                "PPSA28781_00",
+                "CUSA34030_00",
+                "CUSA53710_00",
+                "CUSA34031_00",
+                "CUSA53711_00",
+                "CUSA34032_00",
+                "CUSA53712_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-11-23T09:59:59+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "button_label": "Phát Ngay",
+          "subtitle": "Cross the line"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMTQ0MzM3NzkyNzg4MDc3NSIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTIzVDA0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMjRUMDk6NTk6NTkrMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMjNUMDk6NTk6NTkrMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MjI2MDk2NTY4NzMwMDE4Ni8xNTYyMjY2MDc4MjY3MzE4MzkyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2MjI2MDk2NTY4NzMwMDE4Ni8xNTYyMjY2MDk2NzE3Nzk5NDk0XzcyMC5tcDQifQ==",
+      "starts_at": "2026-10-23T04:00:00+00:00",
+      "expires_at": "2026-11-23T09:59:59+00:00",
+      "sent_at": "2026-10-23T11:08:58.735Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-23T03:43:34.810Z"
+  "last_check": "2026-10-23T11:08:59.845Z"
 }
