@@ -505,91 +505,6 @@
       "sent_at": "2026-09-09T22:59:31.475Z",
       "type": "new"
     },
-    "1546343004569084006": {
-      "id": "1546343004569084006",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-10T02:15:00+00:00",
-        "expires_at": "2026-09-23T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.kritika.hk/?channel=dc",
-          "id": "1546706891349037116",
-          "name": "Kritika Open Beta"
-        },
-        "assets": {
-          "hero": "quests/1546343004569084006/1546347201716949072.jpg",
-          "hero_video": "quests/1546343004569084006/1546347235489357914_720.mp4",
-          "quest_bar_hero_blurhash": "mSgKHII1OXdviIdUmHcEZlOQNw==",
-          "quest_bar_hero": "quests/1546343004569084006/1546346928311373844.jpg",
-          "quest_bar_hero_video": "quests/1546343004569084006/1546346969218285608_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1546343004569084006/1546346772744372314.png",
-          "game_tile_dark": "quests/1546343004569084006/1546346772744372314.png",
-          "logotype_light": "quests/1546343004569084006/1546346772983455764.png",
-          "logotype_dark": "quests/1546343004569084006/1546346773625315348.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Kritika Open Beta",
-          "game_title": "Kritika",
-          "game_publisher": "HONG KONG PHOENIXGAME"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1546706891349037116"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-23T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.kritika.hk/?channel=dc",
-          "button_label": "Play Now",
-          "subtitle": "The 3D action fighting online game is back – jump into the action now!"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiS3JpdGlrYSBPcGVuIEJldGEiLCJnYW1lX3RpdGxlIjoiS3JpdGlrYSIsImdhbWVfcHVibGlzaGVyIjoiSE9ORyBLT05HIFBIT0VOSVhHQU1FIiwiYXBwbGljYXRpb25faWQiOiIxNTQ2NzA2ODkxMzQ5MDM3MTE2IiwiYXBwbGljYXRpb25fbmFtZSI6IktyaXRpa2EgT3BlbiBCZXRhIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xMFQwMjoxNTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTIzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTIzVDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDYzNDMwMDQ1NjkwODQwMDYvMTU0NjM0NzIwMTcxNjk0OTA3Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDYzNDMwMDQ1NjkwODQwMDYvMTU0NjM0NzIzNTQ4OTM1NzkxNF83MjAubXA0In0=",
-      "starts_at": "2026-09-10T02:15:00+00:00",
-      "expires_at": "2026-10-23T00:00:00+00:00",
-      "sent_at": "2026-09-10T10:48:52.929Z",
-      "type": "new"
-    },
     "1540111729902751795": {
       "id": "1540111729902751795",
       "config": {
@@ -12893,7 +12808,7 @@
           "name": "Discord"
         },
         "assets": {
-          "hero": "quests/1556310841178194060/1559714860311388201.jpg",
+          "hero": "quests/1556310841178194060/1562908583257972826.jpg",
           "hero_video": "quests/1556310841178194060/1559714934651232356_720.mp4",
           "quest_bar_hero_blurhash": "xvYFJIKBC1xbmIaCWHhvsvpGug==",
           "quest_bar_hero": "quests/1556310841178194060/1559710893774999653.jpg",
@@ -12998,15 +12913,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.livenation.com/artist/K8vZ917q7K0/kenshi-yonezu-events",
-          "button_label": "Learn More",
+          "button_label": "Get Tickets",
           "subtitle": "2026-2027 World Tour / Ghost"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiS2Vuc2hpIFlvbmV6dTogVG91ciAvIEdob3N0IiwiZ2FtZV90aXRsZSI6IjIwMjYtMjAyNyBXb3JsZCBUb3VyIC8gR2hvc3QiLCJnYW1lX3B1Ymxpc2hlciI6IkxpdmUgTmF0aW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjM4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjMxMDg0MTE3ODE5NDA2MC8xNTU5NzE0ODYwMzExMzg4MjAxLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjMxMDg0MTE3ODE5NDA2MC8xNTU5NzE0OTM0NjUxMjMyMzU2XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiS2Vuc2hpIFlvbmV6dTogVG91ciAvIEdob3N0IiwiZ2FtZV90aXRsZSI6IjIwMjYtMjAyNyBXb3JsZCBUb3VyIC8gR2hvc3QiLCJnYW1lX3B1Ymxpc2hlciI6IkxpdmUgTmF0aW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjM4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjMxMDg0MTE3ODE5NDA2MC8xNTYyOTA4NTgzMjU3OTcyODI2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjMxMDg0MTE3ODE5NDA2MC8xNTU5NzE0OTM0NjUxMjMyMzU2XzcyMC5tcDQifQ==",
       "starts_at": "2026-10-15T17:00:00+00:00",
-      "expires_at": "2026-11-25T00:00:00+00:00",
+      "expires_at": "2026-10-26T00:00:00+00:00",
       "sent_at": "2026-10-15T21:01:05.677Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-23T03:43:33.700Z"
     },
     "1558176501663272961": {
       "id": "1558176501663272961",
@@ -16464,5 +16380,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-22T21:16:14.437Z"
+  "last_check": "2026-10-23T03:43:34.810Z"
 }
