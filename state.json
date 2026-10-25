@@ -15031,7 +15031,512 @@
       "expires_at": "2026-12-03T01:00:00+00:00",
       "sent_at": "2026-10-25T10:53:55.065Z",
       "type": "new"
+    },
+    "1562915304299044884": {
+      "id": "1562915304299044884",
+      "config": {
+        "id": "1562915304299044884",
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1562915304299044884/1562916626670817380.jpg",
+          "hero_video": "quests/1562915304299044884/1562916714637820107_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1562915304299044884/1562916626670817380.jpg",
+          "quest_bar_hero_video": "quests/1562915304299044884/1562916714637820107_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+          "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+          "logotype_light": "quests/1562915304299044884/1563200099004194867.png",
+          "logotype_dark": "quests/1562915304299044884/1563200099004194867.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjI5MTUzMDQyOTkwNDQ4ODQvMTU2MjkxNjYyNjY3MDgxNzM4MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjI5MTUzMDQyOTkwNDQ4ODQvMTU2MjkxNjcxNDYzNzgyMDEwN183MjAubXA0In0=",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T20:29:05.939Z",
+      "type": "new"
+    },
+    "1555736600657395752": {
+      "id": "1555736600657395752",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1555736600657395752/1562927897835077732.jpg",
+          "hero_video": "quests/1555736600657395752/1562928000738263281_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1555736600657395752/1562927897835077732.jpg",
+          "quest_bar_hero_video": "quests/1555736600657395752/1562928000738263281_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1555736600657395752/1562927942093381715.png",
+          "game_tile_dark": "quests/1555736600657395752/1562927942059688097.png",
+          "logotype_light": "quests/1555736600657395752/1562927897642008637.png",
+          "logotype_dark": "quests/1555736600657395752/1562927897642008637.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1NzM2NjAwNjU3Mzk1NzUyLzE1NjI5Mjc4OTc4MzUwNzc3MzIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU1NzM2NjAwNjU3Mzk1NzUyLzE1NjI5MjgwMDA3MzgyNjMyODFfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T20:29:07.388Z",
+      "type": "new"
+    },
+    "1555737927445782598": {
+      "id": "1555737927445782598",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/de/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1555737927445782598/1562932040834490518.jpg",
+          "hero_video": "quests/1555737927445782598/1562932141443121152_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1555737927445782598/1562932040834490518.jpg",
+          "quest_bar_hero_video": "quests/1555737927445782598/1562932141443121152_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1555737927445782598/1562932075760189591.png",
+          "game_tile_dark": "quests/1555737927445782598/1562932075797946368.png",
+          "logotype_light": "quests/1555737927445782598/1562932040779702302.png",
+          "logotype_dark": "quests/1555737927445782598/1562932040779702302.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/de/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU1NzM3OTI3NDQ1NzgyNTk4LzE1NjI5MzIwNDA4MzQ0OTA1MTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU1NzM3OTI3NDQ1NzgyNTk4LzE1NjI5MzIxNDE0NDMxMjExNTJfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T20:29:08.795Z",
+      "type": "new"
+    },
+    "1562173737434882150": {
+      "id": "1562173737434882150",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/es/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1562173737434882150/1562930686921285642.jpg",
+          "hero_video": "quests/1562173737434882150/1562930766260863027_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1562173737434882150/1562930686921285642.jpg",
+          "quest_bar_hero_video": "quests/1562173737434882150/1562930766260863027_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1558183375058112603/1559977791540174989.png",
+          "game_tile_dark": "quests/1558183375058112603/1559977791594700940.png",
+          "logotype_light": "quests/1562173737434882150/1562930717326049381.png",
+          "logotype_dark": "quests/1562173737434882150/1562930717326049381.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/es/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyMTczNzM3NDM0ODgyMTUwLzE1NjI5MzA2ODY5MjEyODU2NDIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYyMTczNzM3NDM0ODgyMTUwLzE1NjI5MzA3NjYyNjA4NjMwMjdfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T20:29:10.200Z",
+      "type": "new"
+    },
+    "1562174323802898584": {
+      "id": "1562174323802898584",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/id/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1562174323802898584/1562928517337981018.jpg",
+          "hero_video": "quests/1562174323802898584/1562928630521139282_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1562174323802898584/1562928517337981018.jpg",
+          "quest_bar_hero_video": "quests/1562174323802898584/1562928630521139282_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1558178497212715078/1559720890495926272.png",
+          "game_tile_dark": "quests/1558178497212715078/1559720890583744512.png",
+          "logotype_light": "quests/1562174323802898584/1562928517342036021.png",
+          "logotype_dark": "quests/1562174323802898584/1562928517342036021.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/id/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyMTc0MzIzODAyODk4NTg0LzE1NjI5Mjg1MTczMzc5ODEwMTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYyMTc0MzIzODAyODk4NTg0LzE1NjI5Mjg2MzA1MjExMzkyODJfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T20:29:11.585Z",
+      "type": "new"
+    },
+    "1562169044583448737": {
+      "id": "1562169044583448737",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-25T16:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/ko/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1562169044583448737/1562933458987257917.jpg",
+          "hero_video": "quests/1558179570098765887/1559969023855304744_720.mp4",
+          "quest_bar_hero_blurhash": "kgcKEoIIRXuUSHiIUIgIY3k=",
+          "quest_bar_hero": "quests/1562169044583448737/1562933458987257917.jpg",
+          "quest_bar_hero_video": "quests/1562169044583448737/1562933510266945536_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1558179570098765887/1559967684530143262.png",
+          "game_tile_dark": "quests/1558179570098765887/1559967684366434484.png",
+          "logotype_light": "quests/1562169044583448737/1562933458961965117.png",
+          "logotype_dark": "quests/1562169044583448737/1562933458961965117.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Scary Shawarma Kiosk: the ANOMALY",
+          "game_title": "Scary Shawarma Kiosk: the ANOMALY by Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/ko/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY?gsrbx=1&ad_name=RCFRA0CS",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU2NhcnkgU2hhd2FybWEgS2lvc2s6IHRoZSBBTk9NQUxZIiwiZ2FtZV90aXRsZSI6IlNjYXJ5IFNoYXdhcm1hIEtpb3NrOiB0aGUgQU5PTUFMWSBieSBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyMTY5MDQ0NTgzNDQ4NzM3LzE1NjI5MzM0NTg5ODcyNTc5MTcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU4MTc5NTcwMDk4NzY1ODg3LzE1NTk5NjkwMjM4NTUzMDQ3NDRfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-25T16:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-25T20:29:12.960Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-25T15:40:46.277Z"
+  "last_check": "2026-10-25T20:29:14.068Z"
 }
