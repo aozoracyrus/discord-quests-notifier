@@ -9070,137 +9070,6 @@
       "sent_at": "2026-10-08T18:32:48.132Z",
       "type": "new"
     },
-    "1554147252065411133": {
-      "id": "1554147252065411133",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-10-08T17:00:00+00:00",
-        "expires_at": "2026-10-26T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.peacocktv.com/watch/asset/tv/crystal-lake/4833097449942740112",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1554147252065411133/1554601339114496151.jpg",
-          "hero_video": "quests/1554147252065411133/1554599792892448929_720.mp4",
-          "quest_bar_hero_blurhash": "GQgKBIB5iYibinePhnx2IHko9Q==",
-          "quest_bar_hero": "quests/1545205635577290893/1545248376164188311.jpeg",
-          "quest_bar_hero_video": "quests/1554147252065411133/1554599792892448929_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1554147252065411133/1554599124521713774.png",
-          "game_tile_dark": "quests/1554147252065411133/1554599124521713774.png",
-          "logotype_light": "quests/1554147252065411133/1554599227596996648.png",
-          "logotype_dark": "quests/1554147252065411133/1554599227689017425.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Crystal Lake",
-          "game_title": "Rage is a mother. Stream now only on Peacock",
-          "game_publisher": "Peacock"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1554147252065411133/1554600277758312628_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1554147252065411133/1559730654776664236.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1554147252065411133/1554600277758312628_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1554147252065411133/1559730654776664236.png"
-                },
-                "video_hls": {
-                  "url": "quests/1554147252065411133/1554600277758312628.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1554147252065411133/1559730654776664236.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1554147252065411133/1554600280186945577_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1554147252065411133/1559730654776664236.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1554147252065411133/1554600280186945577_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1554147252065411133/1559730654776664236.png"
-                },
-                "video_hls": {
-                  "url": "quests/1554147252065411133/1554600280186945577.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1554147252065411133/1559730654776664236.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-25T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.peacocktv.com/watch/asset/tv/crystal-lake/4833097449942740112",
-          "button_label": "Stream Now",
-          "subtitle": "Rage is a mother. Stream now only on Peacock"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ3J5c3RhbCBMYWtlIiwiZ2FtZV90aXRsZSI6IlJhZ2UgaXMgYSBtb3RoZXIuIFN0cmVhbSBub3cgb25seSBvbiBQZWFjb2NrIiwiZ2FtZV9wdWJsaXNoZXIiOiJQZWFjb2NrIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDhUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDE0NzI1MjA2NTQxMTEzMy8xNTU0NjAxMzM5MTE0NDk2MTUxLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NDE0NzI1MjA2NTQxMTEzMy8xNTU0NTk5NzkyODkyNDQ4OTI5XzcyMC5tcDQifQ==",
-      "starts_at": "2026-10-08T17:00:00+00:00",
-      "expires_at": "2026-10-26T00:00:00+00:00",
-      "sent_at": "2026-10-09T01:00:52.757Z",
-      "type": "updated",
-      "updated_at": "2026-10-15T21:01:19.455Z"
-    },
     "1552891135125622834": {
       "id": "1552891135125622834",
       "config": {
@@ -9738,99 +9607,6 @@
       "sent_at": "2026-10-09T18:04:04.536Z",
       "type": "new"
     },
-    "1536466333783429242": {
-      "id": "1536466333783429242",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-10-10T15:10:00+00:00",
-        "expires_at": "2026-10-26T00:00:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://www.peacocktv.com/watch/asset/tv/crystal-lake/4833097449942740112",
-          "id": "1536348375677411398",
-          "name": "Hockey"
-        },
-        "assets": {
-          "hero": "quests/1536466333783429242/1557021513662726144.jpg",
-          "hero_video": "quests/1536466333783429242/1557022151947583620_720.mp4",
-          "quest_bar_hero_blurhash": "BQgGCoLAUWZ7eRdrwGkDmjY=",
-          "quest_bar_hero": "quests/1536466333783429242/1557021513662726144.jpg",
-          "quest_bar_hero_video": "quests/1536466333783429242/1557022151947583620_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1536466333783429242/1557020138971070504.png",
-          "game_tile_dark": "quests/1536466333783429242/1557020138971070504.png",
-          "logotype_light": "quests/1536466333783429242/1557020139264938084.png",
-          "logotype_dark": "quests/1536466333783429242/1557020139264938084.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Crystal Lake",
-          "game_title": "Rage is a mother. Stream now only on Peacock",
-          "game_publisher": "Peacock"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1536348375677411398"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Crystal Lake",
-                "task_description": "Escape Camp Crystal Lake and win 700 Orbs! "
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-25T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.peacocktv.com/watch/asset/tv/crystal-lake/4833097449942740112",
-          "button_label": "Stream Now",
-          "subtitle": "Rage is a mother. Stream now only on Peacock"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ3J5c3RhbCBMYWtlIiwiZ2FtZV90aXRsZSI6IlJhZ2UgaXMgYSBtb3RoZXIuIFN0cmVhbSBub3cgb25seSBvbiBQZWFjb2NrIiwiZ2FtZV9wdWJsaXNoZXIiOiJQZWFjb2NrIiwiYXBwbGljYXRpb25faWQiOiIxNTM2MzQ4Mzc1Njc3NDExMzk4IiwiYXBwbGljYXRpb25fbmFtZSI6IkhvY2tleSIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTBUMTU6MTA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTM2NDY2MzMzNzgzNDI5MjQyLzE1NTcwMjE1MTM2NjI3MjYxNDQuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTM2NDY2MzMzNzgzNDI5MjQyLzE1NTcwMjIxNTE5NDc1ODM2MjBfNzIwLm1wNCJ9",
-      "starts_at": "2026-10-10T15:10:00+00:00",
-      "expires_at": "2026-10-26T00:00:00+00:00",
-      "sent_at": "2026-10-10T21:16:01.906Z",
-      "type": "updated",
-      "updated_at": "2026-10-15T21:01:20.920Z"
-    },
     "1555688599184211998": {
       "id": "1555688599184211998",
       "config": {
@@ -9959,139 +9735,6 @@
       "expires_at": "2026-11-25T00:00:00+00:00",
       "sent_at": "2026-10-13T02:31:45.625Z",
       "type": "new"
-    },
-    "1552771565991759922": {
-      "id": "1552771565991759922",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-10-12T17:00:00+00:00",
-        "expires_at": "2026-10-26T06:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://fandan.co/clayface",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1552771565991759922/1557147667618861158.jpg",
-          "quest_bar_hero_blurhash": "RRgGDIJ6n6OIlFdjWZd7inCxBw==",
-          "quest_bar_hero": "quests/1552771565991759922/1563217423832850482.jpg",
-          "quest_bar_hero_video": "quests/1552771565991759922/1563217550157029437_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1552771565991759922/1557147583762399272.png",
-          "game_tile_dark": "quests/1552771565991759922/1557147583762399272.png",
-          "logotype_light": "quests/1552771565991759922/1557150632702378024.png",
-          "logotype_dark": "quests/1552771565991759922/1557150664633753710.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Clayface",
-          "game_title": "In Theaters Now",
-          "game_publisher": "Warner Bros. Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1552771565991759922/1563217842256478349_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552771565991759922/1563217842256478349_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552771565991759922/1563217842256478349.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 14,
-              "assets": {
-                "video": {
-                  "url": "quests/1552771565991759922/1563217842243903488_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552771565991759922/1563217842243903488_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552771565991759922/1563217842243903488.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552771565991759922/1557150595373342790.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1558285842169204746",
-              "asset": "quests/1552771565991759922/1558286084373356595.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Clayface Avatar Decoration",
-                "name_with_article": "a Clayface Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-12-25T06:59:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-11-25T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://fandan.co/clayface",
-          "button_label": "Get Tickets",
-          "subtitle": "In Theaters Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ2xheWZhY2UiLCJnYW1lX3RpdGxlIjoiSW4gVGhlYXRlcnMgTm93IiwiZ2FtZV9wdWJsaXNoZXIiOiJXYXJuZXIgQnJvcy4gUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0xMlQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEwLTI2VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTExLTI1VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTI3NzE1NjU5OTE3NTk5MjIvMTU1NzE0NzY2NzYxODg2MTE1OC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-10-12T17:00:00+00:00",
-      "expires_at": "2026-10-26T06:59:00+00:00",
-      "sent_at": "2026-10-13T02:31:47.536Z",
-      "type": "updated",
-      "updated_at": "2026-10-23T21:05:28.239Z"
     },
     "1556768172961570966": {
       "id": "1556768172961570966",
@@ -10799,137 +10442,6 @@
       "expires_at": "2026-11-24T00:00:00+00:00",
       "sent_at": "2026-10-15T21:01:04.245Z",
       "type": "new"
-    },
-    "1556310841178194060": {
-      "id": "1556310841178194060",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-10-15T17:00:00+00:00",
-        "expires_at": "2026-10-26T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.livenation.com/artist/K8vZ917q7K0/kenshi-yonezu-events",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1556310841178194060/1562908583257972826.jpg",
-          "hero_video": "quests/1556310841178194060/1559714934651232356_720.mp4",
-          "quest_bar_hero_blurhash": "xvYFJIKBC1xbmIaCWHhvsvpGug==",
-          "quest_bar_hero": "quests/1556310841178194060/1559710893774999653.jpg",
-          "quest_bar_hero_video": "quests/1556310841178194060/1559714934651232356_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1556310841178194060/1559710893632135218.jpg",
-          "game_tile_dark": "quests/1556310841178194060/1559710893632135218.jpg",
-          "logotype_light": "quests/1556310841178194060/1559710893791649792.png",
-          "logotype_dark": "quests/1556310841178194060/1559968702810685490.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Kenshi Yonezu: Tour / Ghost",
-          "game_title": "2026-2027 World Tour / Ghost",
-          "game_publisher": "Live Nation"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 38,
-              "assets": {
-                "video": {
-                  "url": "quests/1556310841178194060/1559714144666648576_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1556310841178194060/1559710893774999653.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1556310841178194060/1559714144666648576_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1556310841178194060/1559710893774999653.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1556310841178194060/1559714144666648576.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1556310841178194060/1559710893774999653.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 38,
-              "assets": {
-                "video": {
-                  "url": "quests/1556310841178194060/1559714144519856188_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556310841178194060/1559710893774999653.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1556310841178194060/1559714144519856188_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556310841178194060/1559710893774999653.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1556310841178194060/1559714144519856188.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556310841178194060/1559710893774999653.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-25T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.livenation.com/artist/K8vZ917q7K0/kenshi-yonezu-events",
-          "button_label": "Get Tickets",
-          "subtitle": "2026-2027 World Tour / Ghost"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiS2Vuc2hpIFlvbmV6dTogVG91ciAvIEdob3N0IiwiZ2FtZV90aXRsZSI6IjIwMjYtMjAyNyBXb3JsZCBUb3VyIC8gR2hvc3QiLCJnYW1lX3B1Ymxpc2hlciI6IkxpdmUgTmF0aW9uIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0yNlQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0yNVQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjM4fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjM4fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjMxMDg0MTE3ODE5NDA2MC8xNTYyOTA4NTgzMjU3OTcyODI2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjMxMDg0MTE3ODE5NDA2MC8xNTU5NzE0OTM0NjUxMjMyMzU2XzcyMC5tcDQifQ==",
-      "starts_at": "2026-10-15T17:00:00+00:00",
-      "expires_at": "2026-10-26T00:00:00+00:00",
-      "sent_at": "2026-10-15T21:01:05.677Z",
-      "type": "updated",
-      "updated_at": "2026-10-23T03:43:33.700Z"
     },
     "1558176501663272961": {
       "id": "1558176501663272961",
@@ -15536,7 +15048,110 @@
       "expires_at": "2026-12-04T01:00:00+00:00",
       "sent_at": "2026-10-25T20:29:12.960Z",
       "type": "new"
+    },
+    "1561852480378249308": {
+      "id": "1561852480378249308",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-26T04:00:00+00:00",
+        "expires_at": "2026-11-04T04:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/ca/show/stick/umc.cmc.52w04zy67tiv11p8xvbc57wmc?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07543910",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1561852480378249308/1562133138589618397.jpg",
+          "hero_video": "quests/1561852480378249308/1562899584018284685_720.mp4",
+          "quest_bar_hero_blurhash": "4TkKEoQ/h2evmEaGz17513c=",
+          "quest_bar_hero": "quests/1561852480378249308/1562133138589618397.jpg",
+          "quest_bar_hero_video": "quests/1561852480378249308/1562899584018284685_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1561852480378249308/1562133138405195846.jpg",
+          "game_tile_dark": "quests/1561852480378249308/1562133138405195846.jpg",
+          "logotype_light": "quests/1561852480378249308/1562133136177897593.png",
+          "logotype_dark": "quests/1561852480378249308/1562133136177897593.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Stick Season 2",
+          "game_title": "Streaming November 4",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1561852480378249308/1562898196903104564_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1561852480378249308/1562133138031771791.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1561852480378249308/1562898196903104564_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1561852480378249308/1562133138031771791.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1561852480378249308/1562898196903104564.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1561852480378249308/1562133138031771791.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T04:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/ca/show/stick/umc.cmc.52w04zy67tiv11p8xvbc57wmc?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07543910",
+          "button_label": "View More",
+          "subtitle": "Streaming November 4"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3RpY2sgU2Vhc29uIDIiLCJnYW1lX3RpdGxlIjoiU3RyZWFtaW5nIE5vdmVtYmVyIDQiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjZUMDQ6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwNDo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wNFQwNDo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MTg1MjQ4MDM3ODI0OTMwOC8xNTYyMTMzMTM4NTg5NjE4Mzk3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2MTg1MjQ4MDM3ODI0OTMwOC8xNTYyODk5NTg0MDE4Mjg0Njg1XzcyMC5tcDQifQ==",
+      "starts_at": "2026-10-26T04:00:00+00:00",
+      "expires_at": "2026-12-04T04:59:00+00:00",
+      "sent_at": "2026-10-26T12:24:30.755Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-26T03:37:58.968Z"
+  "last_check": "2026-10-26T12:24:31.864Z"
 }
