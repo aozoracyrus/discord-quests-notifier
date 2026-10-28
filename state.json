@@ -524,302 +524,6 @@
       "sent_at": "2026-09-12T10:14:20.226Z",
       "type": "new"
     },
-    "1546358702544658462": {
-      "id": "1546358702544658462",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-12T12:00:00+00:00",
-        "expires_at": "2026-09-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://gsght.com/c/qriuej",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1546358702544658462/1547434219989368842.jpg",
-          "hero_video": "quests/1546358702544658462/1547435156975915018_720.mp4",
-          "quest_bar_hero_blurhash": "mygKFIIjCZkNloh2l4dgHhf8gA==",
-          "quest_bar_hero": "quests/1546358702544658462/1547434245331484693.jpg",
-          "quest_bar_hero_video": "quests/1546358702544658462/1547434918643236924_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1546358702544658462/1547434147100889208.png",
-          "game_tile_dark": "quests/1546358702544658462/1547434147100889208.png",
-          "logotype_light": "quests/1546358702544658462/1547434168353427497.png",
-          "logotype_dark": "quests/1546358702544658462/1547434168361947147.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
-          "game_title": "Marvel Rivals",
-          "game_publisher": "NetEase Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 85,
-              "assets": {
-                "video": {
-                  "url": "quests/1546358702544658462/1547434279317938246_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1546358702544658462/1547434279317938246_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
-                },
-                "video_hls": {
-                  "url": "quests/1546358702544658462/1547434279317938246.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1546358702544658462/1547434279204552704.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 85,
-              "assets": {
-                "video": {
-                  "url": "quests/1546358702544658462/1547434280874020955_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1546358702544658462/1547434280874020955_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
-                },
-                "video_hls": {
-                  "url": "quests/1546358702544658462/1547434280874020955.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1546358702544658462/1547434279066275860.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://gsght.com/c/qriuej",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFJpdmFscyBTMTA6IHZlcmlmeSBzY2hvb2wgZW1haWwsIGdldCAxMCBmcmVlIHRyaWFsIGNvc3R1bWVzIiwiZ2FtZV90aXRsZSI6Ik1hcnZlbCBSaXZhbHMiLCJnYW1lX3B1Ymxpc2hlciI6Ik5ldEVhc2UgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xMlQxMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI4VDAwOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODV9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ2MzU4NzAyNTQ0NjU4NDYyLzE1NDc0MzQyMTk5ODkzNjg4NDIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ2MzU4NzAyNTQ0NjU4NDYyLzE1NDc0MzUxNTY5NzU5MTUwMThfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-12T12:00:00+00:00",
-      "expires_at": "2026-10-28T00:00:00+00:00",
-      "sent_at": "2026-09-12T15:08:46.656Z",
-      "type": "new"
-    },
-    "1547678204398014494": {
-      "id": "1547678204398014494",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-12T12:00:00+00:00",
-        "expires_at": "2026-09-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://gsght.com/c/qriuej",
-          "id": "1314395942253756416",
-          "name": "Marvel Rivals"
-        },
-        "assets": {
-          "hero": "quests/1546355323118420009/1547443173155020860.jpg",
-          "hero_video": "quests/1546355323118420009/1547443232709935265_720.mp4",
-          "quest_bar_hero_blurhash": "mygKFIIjCZkNloh2l4dgHhf8gA==",
-          "quest_bar_hero": "quests/1546355323118420009/1547443173071126608.jpg",
-          "quest_bar_hero_video": "quests/1546355323118420009/1547443264058040420_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1546355323118420009/1547432204274110534.png",
-          "game_tile_dark": "quests/1546355323118420009/1547432204274110534.png",
-          "logotype_light": "quests/1546355323118420009/1547432227124547594.png",
-          "logotype_dark": "quests/1546355323118420009/1547432227028336811.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
-          "game_title": "Marvel Rivals",
-          "game_publisher": "NetEase Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314395942253756416"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://gsght.com/c/qriuej",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFJpdmFscyBTMTA6IHZlcmlmeSBzY2hvb2wgZW1haWwsIGdldCAxMCBmcmVlIHRyaWFsIGNvc3R1bWVzIiwiZ2FtZV90aXRsZSI6Ik1hcnZlbCBSaXZhbHMiLCJnYW1lX3B1Ymxpc2hlciI6Ik5ldEVhc2UgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjEzMTQzOTU5NDIyNTM3NTY0MTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiTWFydmVsIFJpdmFscyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTJUMTI6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDYzNTUzMjMxMTg0MjAwMDkvMTU0NzQ0MzE3MzE1NTAyMDg2MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDYzNTUzMjMxMTg0MjAwMDkvMTU0NzQ0MzIzMjcwOTkzNTI2NV83MjAubXA0In0=",
-      "starts_at": "2026-09-12T12:00:00+00:00",
-      "expires_at": "2026-10-28T00:00:00+00:00",
-      "sent_at": "2026-09-12T15:08:48.124Z",
-      "type": "new"
-    },
-    "1546355323118420009": {
-      "id": "1546355323118420009",
-      "config": {
-        "id": "1546355323118420009",
-        "config_version": 2,
-        "starts_at": "2026-09-12T12:00:00+00:00",
-        "expires_at": "2026-09-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://gsght.com/c/qriuej",
-          "id": "1314395942253756416",
-          "name": "Marvel Rivals"
-        },
-        "assets": {
-          "hero": "quests/1546355323118420009/1547432270531403807.jpg",
-          "quest_bar_hero_blurhash": "mScKHIRwYVlaW1qReWlghvVnKg==",
-          "quest_bar_hero": "quests/1546355323118420009/1547432270627995769.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1546355323118420009/1547432204274110534.png",
-          "game_tile_dark": "quests/1546355323118420009/1547432204274110534.png",
-          "logotype_light": "quests/1546355323118420009/1547432227124547594.png",
-          "logotype_dark": "quests/1546355323118420009/1547432227028336811.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Marvel Rivals S10: verify school email, get 10 free trial costumes",
-          "game_title": "Marvel Rivals",
-          "game_publisher": "NetEase Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314395942253756416"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://gsght.com/c/qriuej",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFydmVsIFJpdmFscyBTMTA6IHZlcmlmeSBzY2hvb2wgZW1haWwsIGdldCAxMCBmcmVlIHRyaWFsIGNvc3R1bWVzIiwiZ2FtZV90aXRsZSI6Ik1hcnZlbCBSaXZhbHMiLCJnYW1lX3B1Ymxpc2hlciI6Ik5ldEVhc2UgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjEzMTQzOTU5NDIyNTM3NTY0MTYiLCJhcHBsaWNhdGlvbl9uYW1lIjoiTWFydmVsIFJpdmFscyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTJUMTI6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDYzNTUzMjMxMTg0MjAwMDkvMTU0NzQzMjI3MDUzMTQwMzgwNy5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-09-12T12:00:00+00:00",
-      "expires_at": "2026-10-28T00:00:00+00:00",
-      "sent_at": "2026-09-12T15:08:49.549Z",
-      "type": "new"
-    },
     "1544977383990493194": {
       "id": "1544977383990493194",
       "config": {
@@ -1681,190 +1385,6 @@
       "sent_at": "2026-09-15T20:56:52.382Z",
       "type": "new"
     },
-    "1537132225999413298": {
-      "id": "1537132225999413298",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-16T16:00:00+00:00",
-        "expires_at": "2026-09-28T06:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://www.ForgottenIslandTickets.com",
-          "id": "1536314143412457553",
-          "name": "Elba"
-        },
-        "assets": {
-          "hero": "quests/1537132225999413298/1549100554310123520.jpg",
-          "hero_video": "quests/1537132225999413298/1549536715826405557_720.mp4",
-          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
-          "quest_bar_hero": "quests/1537132225999413298/1549100554033303582.jpg",
-          "quest_bar_hero_video": "quests/1537132225999413298/1549536715826405557_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1537132225999413298/1549099454999699497.png",
-          "game_tile_dark": "quests/1537132225999413298/1549100246896873593.png",
-          "logotype_light": "quests/1537132225999413298/1549099454999699497.png",
-          "logotype_dark": "quests/1537132225999413298/1549099454999699497.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "FORGOTTEN ISLAND",
-          "game_title": "IN THEATERS SEPTEMBER 25",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1536314143412457553"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Forgotten Island",
-                "task_description": "Find all 5 bracelet charms to collect 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.ForgottenIslandTickets.com",
-          "button_label": "Get Tickets",
-          "subtitle": "IN THEATERS SEPTEMBER 25"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRk9SR09UVEVOIElTTEFORCIsImdhbWVfdGl0bGUiOiJJTiBUSEVBVEVSUyBTRVBURU1CRVIgMjUiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxNDE0MzQxMjQ1NzU1MyIsImFwcGxpY2F0aW9uX25hbWUiOiJFbGJhIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xNlQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI4VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI4VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MzcxMzIyMjU5OTk0MTMyOTgvMTU0OTEwMDU1NDMxMDEyMzUyMC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1MzcxMzIyMjU5OTk0MTMyOTgvMTU0OTUzNjcxNTgyNjQwNTU1N183MjAubXA0In0=",
-      "starts_at": "2026-09-16T16:00:00+00:00",
-      "expires_at": "2026-10-28T06:59:00+00:00",
-      "sent_at": "2026-09-16T16:18:28.172Z",
-      "type": "new"
-    },
-    "1547360739918880860": {
-      "id": "1547360739918880860",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-16T16:00:00+00:00",
-        "expires_at": "2026-09-28T06:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://www.forgottenislandmovie.ca/",
-          "id": "1536314143412457553",
-          "name": "Elba"
-        },
-        "assets": {
-          "hero": "quests/1547360739918880860/1549120429652840570.jpg",
-          "hero_video": "quests/1547360739918880860/1549536914279764008_720.mp4",
-          "quest_bar_hero_blurhash": "X3UFRIYJW4iGe4iFZooIelTICA==",
-          "quest_bar_hero": "quests/1547360739918880860/1549120429732528278.jpg",
-          "quest_bar_hero_video": "quests/1547360739918880860/1549536914279764008_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1547360739918880860/1549120516194046133.png",
-          "game_tile_dark": "quests/1547360739918880860/1549120516194046133.png",
-          "logotype_light": "quests/1547360739918880860/1549120738064207882.png",
-          "logotype_dark": "quests/1547360739918880860/1549120738064207882.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "FORGOTTEN ISLAND",
-          "game_title": "IN THEATRES SEPTEMBER 25",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 5,
-              "applications": [
-                {
-                  "id": "1536314143412457553"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Forgotten Island",
-                "task_description": "Find all 5 bracelet charms to collect 700 Orbs!"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.forgottenislandmovie.ca/",
-          "button_label": "Get Tickets",
-          "subtitle": "IN THEATRES SEPTEMBER 25"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRk9SR09UVEVOIElTTEFORCIsImdhbWVfdGl0bGUiOiJJTiBUSEVBVFJFUyBTRVBURU1CRVIgMjUiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxNDE0MzQxMjQ1NzU1MyIsImFwcGxpY2F0aW9uX25hbWUiOiJFbGJhIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xNlQxNjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI4VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI4VDA2OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ3MzYwNzM5OTE4ODgwODYwLzE1NDkxMjA0Mjk2NTI4NDA1NzAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ3MzYwNzM5OTE4ODgwODYwLzE1NDk1MzY5MTQyNzk3NjQwMDhfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-16T16:00:00+00:00",
-      "expires_at": "2026-10-28T06:59:00+00:00",
-      "sent_at": "2026-09-16T20:58:01.232Z",
-      "type": "new"
-    },
     "1547680317869924507": {
       "id": "1547680317869924507",
       "config": {
@@ -2562,206 +2082,6 @@
       "sent_at": "2026-09-17T21:01:20.239Z",
       "type": "new"
     },
-    "1543813403204788235": {
-      "id": "1543813403204788235",
-      "config": {
-        "id": "1543813403204788235",
-        "config_version": 2,
-        "starts_at": "2026-09-18T17:00:00+00:00",
-        "expires_at": "2026-09-28T17:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
-          "id": "1314682894106497096",
-          "name": "Delta Force"
-        },
-        "assets": {
-          "hero": "quests/1543813403204788235/1548966819295924315.jpg",
-          "hero_video": "quests/1543813403204788235/1548966852237991966_720.mp4",
-          "quest_bar_hero_blurhash": "3PcNFIKvl2Z6dnd3hXkyUFYQhQ==",
-          "quest_bar_hero": "quests/1543813403204788235/1548966694913835018.jpg",
-          "quest_bar_hero_video": "quests/1543813403204788235/1548966699611463701_720.mp4",
-          "game_tile": "1519541505264451655.png",
-          "logotype": "1521168404357058631.png",
-          "game_tile_light": "quests/1519537307718520912/1519540250509049957.png",
-          "game_tile_dark": "quests/1519537307718520912/1519540250509049957.png",
-          "logotype_light": "quests/1519537307718520912/1521168383956091040.png",
-          "logotype_dark": "quests/1519537307718520912/1519540248462229554.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "2nd Anniversary Season",
-          "game_title": "Delta Force",
-          "game_publisher": "Team Jade"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314682894106497096"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314682894106497096"
-                }
-              ],
-              "external_ids": [
-                "1668346801",
-                "1854680102"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1314682894106497096"
-                }
-              ],
-              "external_ids": [
-                "PPSA28884_00",
-                "PPSA28881_00",
-                "PPSA28883_00",
-                "PPSA28882_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T17:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/2507950?utm_source=discordquest",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiMm5kIEFubml2ZXJzYXJ5IFNlYXNvbiIsImdhbWVfdGl0bGUiOiJEZWx0YSBGb3JjZSIsImdhbWVfcHVibGlzaGVyIjoiVGVhbSBKYWRlIiwiYXBwbGljYXRpb25faWQiOiIxMzE0NjgyODk0MTA2NDk3MDk2IiwiYXBwbGljYXRpb25fbmFtZSI6IkRlbHRhIEZvcmNlIiwic3RhcnRzX2F0IjoiMjAyNi0wOS0xOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTA5LTI4VDE3OjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEwLTI4VDE3OjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIiwiWGJveCJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0eXBlIjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInRhcmdldCI6OTAwfSx7ImtleSI6IlBMQVlfT05fWEJPWCIsInR5cGUiOiJQTEFZX09OX1hCT1giLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDM4MTM0MDMyMDQ3ODgyMzUvMTU0ODk2NjgxOTI5NTkyNDMxNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NDM4MTM0MDMyMDQ3ODgyMzUvMTU0ODk2Njg1MjIzNzk5MTk2Nl83MjAubXA0In0=",
-      "starts_at": "2026-09-18T17:00:00+00:00",
-      "expires_at": "2026-10-28T17:00:00+00:00",
-      "sent_at": "2026-09-18T23:04:31.595Z",
-      "type": "new"
-    },
-    "1549493465941942383": {
-      "id": "1549493465941942383",
-      "config": {
-        "id": "1549493465941942383",
-        "config_version": 2,
-        "starts_at": "2026-09-19T17:00:00+00:00",
-        "expires_at": "2026-09-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
-          "id": "363445589247131668",
-          "name": "Roblox"
-        },
-        "assets": {
-          "hero": "quests/1549493465941942383/1549494335261646999.jpg",
-          "hero_video": "quests/1549493465941942383/1550249604270923887_720.mp4",
-          "quest_bar_hero_blurhash": "aLUJHILdZ5VmjptviHY8WO9z9g==",
-          "quest_bar_hero": "quests/1549493465941942383/1549494231628779681.jpg",
-          "quest_bar_hero_video": "quests/1549493465941942383/1550249449530331207_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1549493465941942383/1549494713931923526.png",
-          "game_tile_dark": "quests/1549493465941942383/1549494713617490000.png",
-          "logotype_light": "quests/1549493465941942383/1550249575208587335.png",
-          "logotype_dark": "quests/1549493465941942383/1549494161764519998.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "ROBLOX",
-          "game_title": "The Hunt: Roblox 20",
-          "game_publisher": "ROBLOX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "363445589247131668"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 1,
-              "sku_id": "1549493465941942384",
-              "asset": "quests/1549493465941942383/1549500549714550944.png",
-              "asset_video": null,
-              "messages": {
-                "name": "Blurple 8-Bit Wings",
-                "name_with_article": "a Blurple 8-Bit Wings",
-                "redemption_instructions_by_platform": {
-                  "0": "Redeem the code below by opening https://www.roblox.com/redeem. Enter your code and click 'Redeem' button. (Each code can only be redeemed once.)"
-                }
-              },
-              "approximate_count": null,
-              "redemption_link": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.roblox.com/spotlight/the-hunt-roblox-20?gsrbx=1",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiUk9CTE9YIiwiZ2FtZV90aXRsZSI6IlRoZSBIdW50OiBSb2Jsb3ggMjAiLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMTlUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyJdLCJ0YXNrcyI6W3sia2V5IjoiUExBWV9PTl9ERVNLVE9QIiwidHlwZSI6IlBMQVlfT05fREVTS1RPUCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU0OTQ5MzQ2NTk0MTk0MjM4My8xNTQ5NDk0MzM1MjYxNjQ2OTk5LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU0OTQ5MzQ2NTk0MTk0MjM4My8xNTUwMjQ5NjA0MjcwOTIzODg3XzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-19T17:00:00+00:00",
-      "expires_at": "2026-10-28T00:00:00+00:00",
-      "sent_at": "2026-09-19T20:09:47.345Z",
-      "type": "new"
-    },
     "1548040517420449792": {
       "id": "1548040517420449792",
       "config": {
@@ -2869,243 +2189,6 @@
       "starts_at": "2026-09-21T17:00:00+00:00",
       "expires_at": "2026-10-29T00:00:00+00:00",
       "sent_at": "2026-09-21T19:52:46.960Z",
-      "type": "new"
-    },
-    "1550471494721871962": {
-      "id": "1550471494721871962",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-21T17:00:00+00:00",
-        "expires_at": "2026-09-28T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1550471494721871962/1550474356449353839.jpg",
-          "hero_video": "quests/1550471494721871962/1550476222553788436.mp4",
-          "quest_bar_hero_blurhash": "WCgKFIKtRMa/Z2eDZoVrv5vD+w==",
-          "quest_bar_hero": "quests/1550471494721871962/1550474356306477146.jpg",
-          "quest_bar_hero_video": "quests/1550471494721871962/1550476222553788436.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1550471494721871962/1550474565036023818.png",
-          "game_tile_dark": "quests/1550471494721871962/1550474356227047494.png",
-          "logotype_light": "quests/1550471494721871962/1550474356197433345.png",
-          "logotype_dark": "quests/1550471494721871962/1550474565077962752.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "CONTROL Resonant",
-          "game_title": "CONTROL Resonant",
-          "game_publisher": "Remedy Entertainment"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 65,
-              "assets": {
-                "video": {
-                  "url": "quests/1550471494721871962/1550476800138678395_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1550471494721871962/1550476800138678395_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1550471494721871962/1550476800138678395.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 65,
-              "assets": {
-                "video": {
-                  "url": "quests/1550471494721871962/1550489406568267886_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1550471494721871962/1550489406568267886_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1550471494721871962/1550489406568267886.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550471494721871962/1550474356306477146.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/?utm_source=discord&utm_medium=video&utm_campaign=outbreak&utm_content=launchtrailer-full&utm_term=global-arpg",
-          "button_label": "Pre-Order Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQ09OVFJPTCBSZXNvbmFudCIsImdhbWVfdGl0bGUiOiJDT05UUk9MIFJlc29uYW50IiwiZ2FtZV9wdWJsaXNoZXIiOiJSZW1lZHkgRW50ZXJ0YWlubWVudCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTIxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMDktMjhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTAtMjhUMDA6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6NjV9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6NjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwNDcxNDk0NzIxODcxOTYyLzE1NTA0NzQzNTY0NDkzNTM4MzkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUwNDcxNDk0NzIxODcxOTYyLzE1NTA0NzYyMjI1NTM3ODg0MzYubXA0In0=",
-      "starts_at": "2026-09-21T17:00:00+00:00",
-      "expires_at": "2026-10-28T00:00:00+00:00",
-      "sent_at": "2026-09-21T23:52:36.837Z",
-      "type": "new"
-    },
-    "1551702129226293259": {
-      "id": "1551702129226293259",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-21T21:00:00+00:00",
-        "expires_at": "2026-09-28T17:00:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://f1clashgame.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1550179068362621049/1550181068299046932.jpg",
-          "quest_bar_hero_blurhash": "ChgGDIIHaJh6lXiBeYlJj47wmA==",
-          "quest_bar_hero": "quests/1550179068362621049/1550181092747771975.jpg",
-          "quest_bar_hero_video": "quests/1550179068362621049/1550181140541870090_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1550179068362621049/1550180435013668875.png",
-          "game_tile_dark": "quests/1550179068362621049/1550180435013668875.png",
-          "logotype_light": "quests/1550179068362621049/1550180575678042152.png",
-          "logotype_dark": "quests/1550179068362621049/1550180575841755186.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "F1 Clash",
-          "game_title": "F1 Clash",
-          "game_publisher": "Hutch Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1550179068362621049/1550181022941970532_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1550179068362621049/1550181022941970532_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1550179068362621049/1550181022941970532.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1550179068362621049/1550181092747771975.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-10-28T17:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "android": {
-            "android_app_id": "com.hutchgames.formularacing"
-          },
-          "ios": {
-            "ios_app_id": "1434561536"
-          },
-          "link": "https://f1clashgame.com/",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRjEgQ2xhc2giLCJnYW1lX3RpdGxlIjoiRjEgQ2xhc2giLCJnYW1lX3B1Ymxpc2hlciI6Ikh1dGNoIEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjFUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0wOS0yOFQxNzowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMC0yOFQxNzowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUwMTc5MDY4MzYyNjIxMDQ5LzE1NTAxODEwNjgyOTkwNDY5MzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-21T21:00:00+00:00",
-      "expires_at": "2026-10-28T17:00:00+00:00",
-      "sent_at": "2026-09-21T23:52:38.170Z",
       "type": "new"
     },
     "1539421708417765386": {
@@ -15045,7 +14128,228 @@
       "expires_at": "2026-12-03T01:00:00+00:00",
       "sent_at": "2026-10-27T21:53:18.175Z",
       "type": "new"
+    },
+    "1564651257845780511": {
+      "id": "1564651257845780511",
+      "config": {
+        "id": "1564651257845780511",
+        "config_version": 2,
+        "starts_at": "2026-10-28T16:00:00+00:00",
+        "expires_at": "2026-11-07T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest?gsrbx=1&ad_name=72LX13LT",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1564651257845780511/1564653179495514183.jpg",
+          "hero_video": "quests/1564651257845780511/1564653233157177385_720.mp4",
+          "quest_bar_hero_blurhash": "T6cFEogEKIhlt4dlrnCXT0o=",
+          "quest_bar_hero": "quests/1564651257845780511/1564653179495514183.jpg",
+          "quest_bar_hero_video": "quests/1564651257845780511/1564653233157177385_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+          "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+          "logotype_light": "quests/1564651257845780511/1564652880726724628.png",
+          "logotype_dark": "quests/1564651257845780511/1564652547610779739.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "99 Nights in the Forest",
+          "game_title": "99 Nights in the Forest on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-07T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest?gsrbx=1&ad_name=72LX13LT",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiOTkgTmlnaHRzIGluIHRoZSBGb3Jlc3QiLCJnYW1lX3RpdGxlIjoiOTkgTmlnaHRzIGluIHRoZSBGb3Jlc3Qgb24gUm9ibG94IiwiZ2FtZV9wdWJsaXNoZXIiOiJST0JMT1giLCJhcHBsaWNhdGlvbl9pZCI6IjM2MzQ0NTU4OTI0NzEzMTY2OCIsImFwcGxpY2F0aW9uX25hbWUiOiJSb2Jsb3giLCJzdGFydHNfYXQiOiIyMDI2LTEwLTI4VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTY0NjUxMjU3ODQ1NzgwNTExLzE1NjQ2NTMxNzk0OTU1MTQxODMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTY0NjUxMjU3ODQ1NzgwNTExLzE1NjQ2NTMyMzMxNTcxNzczODVfNzIwLm1wNCJ9",
+      "starts_at": "2026-10-28T16:00:00+00:00",
+      "expires_at": "2026-12-07T01:00:00+00:00",
+      "sent_at": "2026-10-28T20:06:26.032Z",
+      "type": "new"
+    },
+    "1552869482471358576": {
+      "id": "1552869482471358576",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-28T17:00:00+00:00",
+        "expires_at": "2026-11-04T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://shop.battle.net/product/world-of-warcraft-forever?utm_source=Discord&utm_medium=PaidGGM",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552869482471358576/1555025732714111087.jpg",
+          "hero_video": "quests/1552869482471358576/1564417990366335096_720.mp4",
+          "quest_bar_hero_blurhash": "3fgNJIKEd3dfh3dmh3eHkLEqBg==",
+          "quest_bar_hero": "quests/1552869482471358576/1555025659921829948.jpg",
+          "quest_bar_hero_video": "quests/1552869482471358576/1564417990366335096_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552869482471358576/1552871504406904963.png",
+          "game_tile_dark": "quests/1552869482471358576/1552871504406904963.png",
+          "logotype_light": "quests/1552869482471358576/1552871832338702486.png",
+          "logotype_dark": "quests/1552869482471358576/1552871829713059951.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "World of Warcraft: Forever Video",
+          "game_title": "World of Warcraft: Forever",
+          "game_publisher": "Blizzard Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 179,
+              "assets": {
+                "video": {
+                  "url": "quests/1552869482471358576/1564405001558950059_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552869482471358576/1555025633740853308.png",
+                  "caption": "quests/1552869482471358576/1564405010899406878.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1552869482471358576/1564405001558950059_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552869482471358576/1555025633740853308.png",
+                  "caption": "quests/1552869482471358576/1564405010899406878.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1552869482471358576/1564405001558950059.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552869482471358576/1555025633740853308.png",
+                  "caption": "quests/1552869482471358576/1564405010899406878.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 179,
+              "assets": {
+                "video": {
+                  "url": "quests/1552869482471358576/1564405001558950059_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552869482471358576/1555025633740853308.png",
+                  "caption": "quests/1552869482471358576/1564405010899406878.vtt"
+                },
+                "video_low_res": {
+                  "url": "quests/1552869482471358576/1564405001558950059_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552869482471358576/1555025633740853308.png",
+                  "caption": "quests/1552869482471358576/1564405010899406878.vtt"
+                },
+                "video_hls": {
+                  "url": "quests/1552869482471358576/1564405001558950059.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552869482471358576/1555025633740853308.png",
+                  "caption": "quests/1552869482471358576/1564405010899406878.vtt"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://shop.battle.net/product/world-of-warcraft-forever?utm_source=Discord&utm_medium=PaidGGM",
+          "button_label": "Pre-Order Now",
+          "subtitle": "Carve a New Path"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV29ybGQgb2YgV2FyY3JhZnQ6IEZvcmV2ZXIgVmlkZW8iLCJnYW1lX3RpdGxlIjoiV29ybGQgb2YgV2FyY3JhZnQ6IEZvcmV2ZXIiLCJnYW1lX3B1Ymxpc2hlciI6IkJsaXp6YXJkIEVudGVydGFpbm1lbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0yOFQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTA0VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTA0VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTc5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjE3OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTI4Njk0ODI0NzEzNTg1NzYvMTU1NTAyNTczMjcxNDExMTA4Ny5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTI4Njk0ODI0NzEzNTg1NzYvMTU2NDQxNzk5MDM2NjMzNTA5Nl83MjAubXA0In0=",
+      "starts_at": "2026-10-28T17:00:00+00:00",
+      "expires_at": "2026-12-04T01:00:00+00:00",
+      "sent_at": "2026-10-28T20:06:27.689Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-28T12:16:06.597Z"
+  "last_check": "2026-10-28T20:06:28.795Z"
 }
