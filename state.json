@@ -13918,7 +13918,117 @@
       "expires_at": "2026-12-04T01:00:00+00:00",
       "sent_at": "2026-10-28T20:06:27.689Z",
       "type": "new"
+    },
+    "1560126630003740672": {
+      "id": "1560126630003740672",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-10-29T07:00:00+00:00",
+        "expires_at": "2026-12-05T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://mhoutlanders.onelink.me/ZNdp/8x2ju3sx",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1560126630003740672/1564830147469774918.jpg",
+          "quest_bar_hero_blurhash": "GwgODII7Zmi/Z3aGd3cxsAUEKg==",
+          "quest_bar_hero": "quests/1560126630003740672/1564467305566703646.jpg",
+          "quest_bar_hero_video": "quests/1560126630003740672/1564472449456676864_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1560126630003740672/1564466841298927677.png",
+          "game_tile_dark": "quests/1560126630003740672/1564466841298927677.png",
+          "logotype_light": "quests/1560126630003740672/1564819418394001508.png",
+          "logotype_dark": "quests/1560126630003740672/1564819418394001508.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Monster Hunter Outlanders",
+          "game_title": "Monster Hunter Outlanders",
+          "game_publisher": "TiMi Studio Group"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 102,
+              "assets": {
+                "video": {
+                  "url": "quests/1560126630003740672/1564466841177559102_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1560126630003740672/1564466841034952814.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1560126630003740672/1564466841177559102_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1560126630003740672/1564466841034952814.png"
+                },
+                "video_hls": {
+                  "url": "quests/1560126630003740672/1564466841177559102.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1560126630003740672/1564466841034952814.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1560753341024178276",
+              "asset": "quests/1560126630003740672/1560753459563860090.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Monster Hunter Outlanders Avatar Decoration",
+                "name_with_article": "A Monster Hunter Outlanders Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2027-01-04T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2027-01-04T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.tencent.mhadv"
+          },
+          "ios": {
+            "ios_app_id": "6444520814"
+          },
+          "link": "https://mhoutlanders.onelink.me/ZNdp/8x2ju3sx",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTW9uc3RlciBIdW50ZXIgT3V0bGFuZGVycyIsImdhbWVfdGl0bGUiOiJNb25zdGVyIEh1bnRlciBPdXRsYW5kZXJzIiwiZ2FtZV9wdWJsaXNoZXIiOiJUaU1pIFN0dWRpbyBHcm91cCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTI5VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMDVUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMDRUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTAyfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MDEyNjYzMDAwMzc0MDY3Mi8xNTY0ODMwMTQ3NDY5Nzc0OTE4LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-10-29T07:00:00+00:00",
+      "expires_at": "2027-01-04T01:00:00+00:00",
+      "sent_at": "2026-10-29T09:29:47.141Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-10-29T00:38:24.986Z"
+  "last_check": "2026-10-29T09:29:48.247Z"
 }
