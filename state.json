@@ -9516,7 +9516,7 @@
         },
         "messages": {
           "quest_name": "The Mosquito Bowl",
-          "game_title": "The Mosquito Bowl | In theaters October 30",
+          "game_title": "The Mosquito Bowl | Now playing in theaters",
           "game_publisher": "Netflix"
         },
         "task_config_v2": {
@@ -9526,22 +9526,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1556747190242779347/1559691764065894512_1080.mp4",
+                  "url": "quests/1556747190242779347/1565100076303515811_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1556747190242779347/1559691764065894512_720.mp4",
+                  "url": "quests/1556747190242779347/1565100076303515811_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1556747190242779347/1559691764065894512.m3u8",
+                  "url": "quests/1556747190242779347/1565100076303515811.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                 }
               },
               "messages": {
@@ -9553,22 +9553,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1556747190242779347/1559691764636590141_1080.mp4",
+                  "url": "quests/1556747190242779347/1565100076282417183_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1556747190242779347/1559691764636590141_720.mp4",
+                  "url": "quests/1556747190242779347/1565100076282417183_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1556747190242779347/1559691764636590141.m3u8",
+                  "url": "quests/1556747190242779347/1565100076282417183.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
                 }
               },
               "messages": {
@@ -9604,14 +9604,15 @@
         "cta_config": {
           "link": "https://www.themosquitobowlfilm.com/",
           "button_label": "Get Tickets",
-          "subtitle": "The Mosquito Bowl | In theaters October 30"
+          "subtitle": "The Mosquito Bowl | Now playing in theaters"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIE1vc3F1aXRvIEJvd2wiLCJnYW1lX3RpdGxlIjoiVGhlIE1vc3F1aXRvIEJvd2wgfCBJbiB0aGVhdGVycyBPY3RvYmVyIDMwIiwiZ2FtZV9wdWJsaXNoZXIiOiJOZXRmbGl4IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMTlUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wMlQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wMlQwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1Njc0NzE5MDI0Mjc3OTM0Ny8xNTYwMzUyMDY3NzA3NDc0MTAwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIE1vc3F1aXRvIEJvd2wiLCJnYW1lX3RpdGxlIjoiVGhlIE1vc3F1aXRvIEJvd2wgfCBOb3cgcGxheWluZyBpbiB0aGVhdGVycyIsImdhbWVfcHVibGlzaGVyIjoiTmV0ZmxpeCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTE5VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDJUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDJUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTY3NDcxOTAyNDI3NzkzNDcvMTU2MDM1MjA2NzcwNzQ3NDEwMC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-10-19T07:00:00+00:00",
-      "expires_at": "2026-12-02T07:59:00+00:00",
+      "expires_at": "2026-11-02T07:59:00+00:00",
       "sent_at": "2026-10-19T12:23:33.882Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-30T17:47:08.179Z"
     },
     "1558112706446368769": {
       "id": "1558112706446368769",
@@ -11043,11 +11044,11 @@
           "name": "Once Human"
         },
         "assets": {
-          "hero": "quests/1554696065704529930/1561581743771754556.jpg",
-          "hero_video": "quests/1554696065704529930/1561577087075229696_720.mp4",
-          "quest_bar_hero_blurhash": "TdcJCoKAiotreJh2jsDiCDw=",
-          "quest_bar_hero": "quests/1554696065704529930/1561581743771754556.jpg",
-          "quest_bar_hero_video": "quests/1554696065704529930/1561577005755932732_720.mp4",
+          "hero": "quests/1554696065704529930/1565737636289585295.jpg",
+          "hero_video": "quests/1554696065704529930/1565737717067812884_720.mp4",
+          "quest_bar_hero_blurhash": "oecJGoSvdYaKenZ3CJesYLs=",
+          "quest_bar_hero": "quests/1554696065704529930/1565737636289585295.jpg",
+          "quest_bar_hero_video": "quests/1554696065704529930/1565737497793798214_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1554696065704529930/1561576918782836796.png",
@@ -11131,11 +11132,12 @@
           "button_label": "Phát Ngay"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiT25jZSBIdW1hbiBGcmVlIEV4cGFuc2lvbiIsImdhbWVfdGl0bGUiOiJPbmNlIEh1bWFuIiwiZ2FtZV9wdWJsaXNoZXIiOiJTdGFycnkgU3R1ZGlvIiwiYXBwbGljYXRpb25faWQiOiIxMjYwMzQwMDgyMTUwMzQ2OTMyIiwiYXBwbGljYXRpb25fbmFtZSI6Ik9uY2UgSHVtYW4iLCJzdGFydHNfYXQiOiIyMDI2LTEwLTIxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDhUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDhUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDY5NjA2NTcwNDUyOTkzMC8xNTYxNTgxNzQzNzcxNzU0NTU2LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NDY5NjA2NTcwNDUyOTkzMC8xNTYxNTc3MDg3MDc1MjI5Njk2XzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiT25jZSBIdW1hbiBGcmVlIEV4cGFuc2lvbiIsImdhbWVfdGl0bGUiOiJPbmNlIEh1bWFuIiwiZ2FtZV9wdWJsaXNoZXIiOiJTdGFycnkgU3R1ZGlvIiwiYXBwbGljYXRpb25faWQiOiIxMjYwMzQwMDgyMTUwMzQ2OTMyIiwiYXBwbGljYXRpb25fbmFtZSI6Ik9uY2UgSHVtYW4iLCJzdGFydHNfYXQiOiIyMDI2LTEwLTIxVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDhUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDhUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDY5NjA2NTcwNDUyOTkzMC8xNTY1NzM3NjM2Mjg5NTg1Mjk1LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NDY5NjA2NTcwNDUyOTkzMC8xNTY1NzM3NzE3MDY3ODEyODg0XzcyMC5tcDQifQ==",
       "starts_at": "2026-10-21T17:00:00+00:00",
-      "expires_at": "2026-12-08T01:00:00+00:00",
+      "expires_at": "2026-11-08T01:00:00+00:00",
       "sent_at": "2026-10-21T21:20:32.775Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-10-30T17:47:09.569Z"
     },
     "1552381063475499109": {
       "id": "1552381063475499109",
@@ -13907,5 +13909,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-10-30T09:41:23.583Z"
+  "last_check": "2026-10-30T17:47:10.673Z"
 }
