@@ -8019,136 +8019,6 @@
       "sent_at": "2026-10-19T12:23:32.239Z",
       "type": "new"
     },
-    "1556747190242779347": {
-      "id": "1556747190242779347",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-10-19T07:00:00+00:00",
-        "expires_at": "2026-11-02T07:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.themosquitobowlfilm.com/",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1556747190242779347/1560352067707474100.jpg",
-          "quest_bar_hero_blurhash": "F/gFDICvgKKtSmlrlHltkHYFRw==",
-          "quest_bar_hero": "quests/1556747190242779347/1559692162885615736.jpg",
-          "quest_bar_hero_video": "quests/1556747190242779347/1559692183538245672_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1556747190242779347/1559691180046815303.png",
-          "game_tile_dark": "quests/1556747190242779347/1560004727897464843.png",
-          "logotype_light": "quests/1556747190242779347/1559691393658781797.png",
-          "logotype_dark": "quests/1556747190242779347/1559691393570709595.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "The Mosquito Bowl",
-          "game_title": "The Mosquito Bowl | Now playing in theaters",
-          "game_publisher": "Netflix"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1556747190242779347/1565100076303515811_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1556747190242779347/1565100076303515811_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1556747190242779347/1565100076303515811.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1556747190242779347/1565100076282417183_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1556747190242779347/1565100076282417183_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1556747190242779347/1565100076282417183.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-12-02T07:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.themosquitobowlfilm.com/",
-          "button_label": "Get Tickets",
-          "subtitle": "The Mosquito Bowl | Now playing in theaters"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIE1vc3F1aXRvIEJvd2wiLCJnYW1lX3RpdGxlIjoiVGhlIE1vc3F1aXRvIEJvd2wgfCBOb3cgcGxheWluZyBpbiB0aGVhdGVycyIsImdhbWVfcHVibGlzaGVyIjoiTmV0ZmxpeCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTE5VDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDJUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDJUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTY3NDcxOTAyNDI3NzkzNDcvMTU2MDM1MjA2NzcwNzQ3NDEwMC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-10-19T07:00:00+00:00",
-      "expires_at": "2026-11-02T07:59:00+00:00",
-      "sent_at": "2026-10-19T12:23:33.882Z",
-      "type": "updated",
-      "updated_at": "2026-10-30T17:47:08.179Z"
-    },
     "1558112706446368769": {
       "id": "1558112706446368769",
       "config": {
@@ -13425,7 +13295,110 @@
       "expires_at": "2026-12-31T07:59:00+00:00",
       "sent_at": "2026-11-01T12:48:01.010Z",
       "type": "new"
+    },
+    "1562169814540353659": {
+      "id": "1562169814540353659",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T00:00:00+00:00",
+        "expires_at": "2026-11-12T23:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/gb/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=GB&mttnsiteid=143238&mttnsubad=07549739",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1562169814540353659/1564352773909389403.jpg",
+          "hero_video": "quests/1562169814540353659/1564846326519308338_720.mp4",
+          "quest_bar_hero_blurhash": "MqcNAoLbgE2HeHiIM19BsEY=",
+          "quest_bar_hero": "quests/1562169814540353659/1564352773909389403.jpg",
+          "quest_bar_hero_video": "quests/1562169814540353659/1564846326519308338_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562169814540353659/1564352772093124608.png",
+          "game_tile_dark": "quests/1562169814540353659/1564352772093124608.png",
+          "logotype_light": "quests/1562169814540353659/1564352772206239804.png",
+          "logotype_dark": "quests/1562169814540353659/1564352772206239804.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "12 12 12",
+          "game_title": "New heist drama 12 12 12 on Apple TV 13 Nov",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 111,
+              "assets": {
+                "video": {
+                  "url": "quests/1562169814540353659/1564353299669581994_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562169814540353659/1564352776182567104.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562169814540353659/1564353299669581994_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562169814540353659/1564352776182567104.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562169814540353659/1564353299669581994.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562169814540353659/1564352776182567104.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-12T23:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/gb/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=GB&mttnsiteid=143238&mttnsubad=07549739",
+          "button_label": "View More",
+          "subtitle": "New heist drama 12 12 12 on Apple TV 13 Nov"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiMTIgMTIgMTIiLCJnYW1lX3RpdGxlIjoiTmV3IGhlaXN0IGRyYW1hIDEyIDEyIDEyIG9uIEFwcGxlIFRWIDEzIE5vdiIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUgVFYiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wMlQwMDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTEyVDIzOjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTEyVDIzOjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTExfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MjE2OTgxNDU0MDM1MzY1OS8xNTY0MzUyNzczOTA5Mzg5NDAzLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2MjE2OTgxNDU0MDM1MzY1OS8xNTY0ODQ2MzI2NTE5MzA4MzM4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-02T00:00:00+00:00",
+      "expires_at": "2026-12-12T23:59:00+00:00",
+      "sent_at": "2026-11-02T10:38:49.006Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-02T00:20:57.636Z"
+  "last_check": "2026-11-02T10:38:50.115Z"
 }
