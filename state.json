@@ -10670,7 +10670,7 @@
       "config": {
         "id": "1563322864659202169",
         "config_version": 2,
-        "starts_at": "2026-10-28T07:00:00+00:00",
+        "starts_at": "2026-10-25T07:00:00+00:00",
         "expires_at": "2026-11-03T01:00:00+00:00",
         "features": [
           15
@@ -10722,8 +10722,8 @@
                 }
               ],
               "external_ids": [
-                "1675858627",
-                "2047118660"
+                "2047118660",
+                "1675858627"
               ]
             },
             "PLAY_ON_PLAYSTATION": {
@@ -10735,9 +10735,9 @@
                 }
               ],
               "external_ids": [
+                "CUSA57220_00",
                 "CUSA58964_00",
-                "PPSA34015_00",
-                "CUSA57220_00"
+                "PPSA34015_00"
               ]
             }
           },
@@ -10771,12 +10771,12 @@
           "button_label": "Nhận Trò Chơi"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjhUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYwMzkyNjAzODc3MjQ5MDM2LzE1NjA3MzI5Mzk1MzExOTg1MDRfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYwMzkyNjAzODc3MjQ5MDM2LzE1NjA3MzI5Mzk1MzExOTg1MDRfNzIwLm1wNCJ9",
       "starts_at": "2026-10-25T07:00:00+00:00",
       "expires_at": "2026-11-03T01:00:00+00:00",
       "sent_at": "2026-10-25T10:53:55.065Z",
       "type": "updated",
-      "updated_at": "2026-10-29T00:38:23.879Z"
+      "updated_at": "2026-11-02T21:28:04.521Z"
     },
     "1562915304299044884": {
       "id": "1562915304299044884",
@@ -13400,5 +13400,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-11-02T10:38:50.115Z"
+  "last_check": "2026-11-02T21:28:05.624Z"
 }
