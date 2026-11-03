@@ -1617,112 +1617,6 @@
       "sent_at": "2026-09-28T04:08:46.779Z",
       "type": "new"
     },
-    "1552370451727261738": {
-      "id": "1552370451727261738",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-28T16:00:00+00:00",
-        "expires_at": "2026-10-09T16:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433708",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1549819328193364061/1551415313474789456.jpg",
-          "hero_video": "quests/1552370451727261738/1552704730340262019_720.mp4",
-          "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
-          "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
-          "quest_bar_hero_video": "quests/1552370451727261738/1552704730340262019_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
-          "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
-          "logotype_light": "quests/1552370451727261738/1553171988045107312.png",
-          "logotype_dark": "quests/1552370451727261738/1553171988045107312.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Matchbox The Movie",
-          "game_title": "Streaming October 9",
-          "game_publisher": "Apple TV"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1552370451727261738/1552703270667948072_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552370451727261738/1552703270667948072_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552370451727261738/1552703270667948072.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1553092380834406460",
-              "asset": "quests/1552370451727261738/1553179316353892422.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Matchbox 1968 Mustang Avatar Decoration",
-                "name_with_article": "a Matchbox 1968 Mustang Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-12-10T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-11-03T16:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433708",
-          "button_label": "View More",
-          "subtitle": "Streaming October 9"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6IlN0cmVhbWluZyBPY3RvYmVyIDkiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOVQxNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QxNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MTQxNTMxMzQ3NDc4OTQ1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTIzNzA0NTE3MjcyNjE3MzgvMTU1MjcwNDczMDM0MDI2MjAxOV83MjAubXA0In0=",
-      "starts_at": "2026-09-28T16:00:00+00:00",
-      "expires_at": "2026-11-03T16:59:00+00:00",
-      "sent_at": "2026-09-29T04:41:04.164Z",
-      "type": "new"
-    },
     "1552782554845806643": {
       "id": "1552782554845806643",
       "config": {
@@ -14006,7 +13900,229 @@
       "expires_at": "2026-12-16T01:00:00+00:00",
       "sent_at": "2026-11-03T05:40:35.228Z",
       "type": "new"
+    },
+    "1552038438684074094": {
+      "id": "1552038438684074094",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-03T17:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://discord.com/invite/wizards-magic",
+          "id": "1549339406907740270",
+          "name": "[Prod] Engage"
+        },
+        "assets": {
+          "hero": "quests/1552038438684074094/1566882807555432582.jpg",
+          "quest_bar_hero_blurhash": "kRgGDIKPmIZUNpajerxbcHoGqA==",
+          "quest_bar_hero": "quests/1552038438684074094/1566882019529719840.jpg",
+          "quest_bar_hero_video": "quests/1552038438684074094/1566882725074305094_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552038438684074094/1565071769637883904.png",
+          "game_tile_dark": "quests/1552038438684074094/1565071769700925450.png",
+          "logotype_light": "quests/1552038438684074094/1565071769805791323.png",
+          "logotype_dark": "quests/1552038438684074094/1565071769755451523.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Beat The Kobayashi Maru",
+          "game_title": "Magic: The Gathering",
+          "game_publisher": "Magic: The Gathering"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 7,
+              "applications": [
+                {
+                  "id": "1549339406907740270"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Engage",
+                "task_description": "Find all 7 Magic: The Gathering | Star Trek cards to unlock a MTG | Star Trek Avatar Decoration."
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1565428626281988327",
+              "asset": "quests/1552038438684074094/1565428862819504208.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "MTG | Star Trek Avatar Decoration",
+                "name_with_article": "an MTG | Star Trek Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2027-01-16T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/invite/wizards-magic",
+          "button_label": "Join Server"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmVhdCBUaGUgS29iYXlhc2hpIE1hcnUiLCJnYW1lX3RpdGxlIjoiTWFnaWM6IFRoZSBHYXRoZXJpbmciLCJnYW1lX3B1Ymxpc2hlciI6Ik1hZ2ljOiBUaGUgR2F0aGVyaW5nIiwiYXBwbGljYXRpb25faWQiOiIxNTQ5MzM5NDA2OTA3NzQwMjcwIiwiYXBwbGljYXRpb25fbmFtZSI6IltQcm9kXSBFbmdhZ2UiLCJzdGFydHNfYXQiOiIyMDI2LTExLTAzVDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjd9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMDM4NDM4Njg0MDc0MDk0LzE1NjY4ODI4MDc1NTU0MzI1ODIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-11-03T17:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T20:48:02.998Z",
+      "type": "new"
+    },
+    "1565214355706875945": {
+      "id": "1565214355706875945",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-03T18:00:00+00:00",
+        "expires_at": "2026-11-10T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.sonypictures.ca/movies/resident-evil",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1565214355706875945/1565216913330675712.jpg",
+          "quest_bar_hero_blurhash": "jjkKHIJneHWrh3hghndou3BkDg==",
+          "quest_bar_hero": "quests/1565214355706875945/1565215148153512007.jpg",
+          "quest_bar_hero_video": "quests/1565214355706875945/1565436717966561330_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565214355706875945/1565215148237529270.png",
+          "game_tile_dark": "quests/1565214355706875945/1565215148237529270.png",
+          "logotype_light": "quests/1565214355706875945/1565215148111564811.png",
+          "logotype_dark": "quests/1565214355706875945/1565215148111564811.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Resident Evil",
+          "game_title": "From the director of Weapons. Resident Evil – Watch at Home Now",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1565214355706875945/1565215148623400980_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1565214355706875945/1565215148564815952.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1565214355706875945/1565215148623400980_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1565214355706875945/1565215148564815952.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1565214355706875945/1565215148623400980.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1565214355706875945/1565215148564815952.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1565214355706875945/1565215148245782608_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1565214355706875945/1565215148564815952.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1565214355706875945/1565215148245782608_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1565214355706875945/1565215148564815952.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1565214355706875945/1565215148245782608.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1565214355706875945/1565215148564815952.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-10T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.sonypictures.ca/movies/resident-evil",
+          "button_label": "Buy Now",
+          "subtitle": "From the director of Weapons. Resident Evil – Watch at Home Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiUmVzaWRlbnQgRXZpbCIsImdhbWVfdGl0bGUiOiJGcm9tIHRoZSBkaXJlY3RvciBvZiBXZWFwb25zLiBSZXNpZGVudCBFdmlsIOKAkyBXYXRjaCBhdCBIb21lIE5vdyIsImdhbWVfcHVibGlzaGVyIjoiU29ueSBQaWN0dXJlcyBFbnRlcnRhaW5tZW50IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDNUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xMFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xMFQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjUyMTQzNTU3MDY4NzU5NDUvMTU2NTIxNjkxMzMzMDY3NTcxMi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-03T18:00:00+00:00",
+      "expires_at": "2026-12-10T01:00:00+00:00",
+      "sent_at": "2026-11-03T20:48:05.826Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-03T13:45:10.979Z"
+  "last_check": "2026-11-03T20:48:06.936Z"
 }
