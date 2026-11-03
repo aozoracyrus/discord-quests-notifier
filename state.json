@@ -10665,119 +10665,6 @@
       "sent_at": "2026-10-23T21:05:26.906Z",
       "type": "new"
     },
-    "1563322864659202169": {
-      "id": "1563322864659202169",
-      "config": {
-        "id": "1563322864659202169",
-        "config_version": 2,
-        "starts_at": "2026-10-25T07:00:00+00:00",
-        "expires_at": "2026-11-03T01:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DISC_LC&caudience=3P-INT-PLAT-COMPETITIVEGAMING-CLK&ccreative=X_FC27-LA-COLLAGE-LOGO_X_VID_16_2640x740_en-US_HC",
-          "id": "1531874756096295054",
-          "name": "EA Sports FC 27"
-        },
-        "assets": {
-          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
-          "hero_video": "quests/1560392603877249036/1560732939531198504_720.mp4",
-          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
-          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
-          "quest_bar_hero_video": "quests/1560392603877249036/1560732962574704770_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
-          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
-          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
-          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EA SPORTS FC™ 27",
-          "game_title": "EA SPORTS FC™ 27",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": [
-                "2047118660",
-                "1675858627"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": [
-                "CUSA57220_00",
-                "CUSA58964_00",
-                "PPSA34015_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-12-03T01:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DISC_LC&caudience=3P-INT-PLAT-COMPETITIVEGAMING-CLK&ccreative=X_FC27-LA-COLLAGE-LOGO_X_VID_16_2640x740_en-US_HC",
-          "button_label": "Nhận Trò Chơi"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjVUMDc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wM1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYwMzkyNjAzODc3MjQ5MDM2LzE1NjA3MzI5Mzk1MzExOTg1MDRfNzIwLm1wNCJ9",
-      "starts_at": "2026-10-25T07:00:00+00:00",
-      "expires_at": "2026-11-03T01:00:00+00:00",
-      "sent_at": "2026-10-25T10:53:55.065Z",
-      "type": "updated",
-      "updated_at": "2026-11-02T21:28:04.521Z"
-    },
     "1562915304299044884": {
       "id": "1562915304299044884",
       "config": {
@@ -11419,7 +11306,7 @@
         },
         "messages": {
           "quest_name": "Wild Horse Nine",
-          "game_title": "ONLY IN THEATERS NOVEMBER 6",
+          "game_title": "ONLY IN THEATERS FRIDAY",
           "game_publisher": "Searchlight Pictures"
         },
         "task_config_v2": {
@@ -11429,22 +11316,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1557974434269364336/1563269971155484782_1080.mp4",
+                  "url": "quests/1557974434269364336/1563269971419730060_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1557974434269364336/1564333464164110426.jpg"
+                  "thumbnail": "quests/1557974434269364336/1564333553842524190.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1557974434269364336/1563269971155484782_720.mp4",
+                  "url": "quests/1557974434269364336/1563269971419730060_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1557974434269364336/1564333464164110426.jpg"
+                  "thumbnail": "quests/1557974434269364336/1564333553842524190.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1557974434269364336/1563269971155484782.m3u8",
+                  "url": "quests/1557974434269364336/1563269971419730060.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1557974434269364336/1564333464164110426.jpg"
+                  "thumbnail": "quests/1557974434269364336/1564333553842524190.jpg"
                 }
               },
               "messages": {
@@ -11456,22 +11343,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1557974434269364336/1563269971193237596_1080.mp4",
+                  "url": "quests/1557974434269364336/1563269971239247953_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1557974434269364336/1564333464164110426.jpg"
+                  "thumbnail": "quests/1557974434269364336/1564333553842524190.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1557974434269364336/1563269971193237596_720.mp4",
+                  "url": "quests/1557974434269364336/1563269971239247953_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1557974434269364336/1564333464164110426.jpg"
+                  "thumbnail": "quests/1557974434269364336/1564333553842524190.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1557974434269364336/1563269971193237596.m3u8",
+                  "url": "quests/1557974434269364336/1563269971239247953.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1557974434269364336/1564333464164110426.jpg"
+                  "thumbnail": "quests/1557974434269364336/1564333553842524190.jpg"
                 }
               },
               "messages": {
@@ -11507,14 +11394,15 @@
         "cta_config": {
           "link": "https://www.searchlightpictures.com/wild-horse-nine?utm_source=Searchlight&utm_medium=Discord&utm_campaign=WildHorseNine#get-tickets",
           "button_label": "Get Tickets",
-          "subtitle": "ONLY IN THEATERS NOVEMBER 6"
+          "subtitle": "ONLY IN THEATERS FRIDAY"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2lsZCBIb3JzZSBOaW5lIiwiZ2FtZV90aXRsZSI6Ik9OTFkgSU4gVEhFQVRFUlMgTk9WRU1CRVIgNiIsImdhbWVfcHVibGlzaGVyIjoiU2VhcmNobGlnaHQgUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0yNlQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTA5VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTA5VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU3OTc0NDM0MjY5MzY0MzM2LzE1NjMyMzk0MDMxMzkzNzEwODkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU3OTc0NDM0MjY5MzY0MzM2LzE1NjI2NTc0OTIwMzc1NDE4ODhfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2lsZCBIb3JzZSBOaW5lIiwiZ2FtZV90aXRsZSI6Ik9OTFkgSU4gVEhFQVRFUlMgRlJJREFZIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWFyY2hsaWdodCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTI2VDE3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMDlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMDlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTc5NzQ0MzQyNjkzNjQzMzYvMTU2MzIzOTQwMzEzOTM3MTA4OS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTc5NzQ0MzQyNjkzNjQzMzYvMTU2MjY1NzQ5MjAzNzU0MTg4OF83MjAubXA0In0=",
       "starts_at": "2026-10-26T17:00:00+00:00",
-      "expires_at": "2026-12-09T01:00:00+00:00",
+      "expires_at": "2026-11-09T01:00:00+00:00",
       "sent_at": "2026-10-27T00:14:58.244Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-03T05:40:36.757Z"
     },
     "1549143645842841640": {
       "id": "1549143645842841640",
@@ -11995,7 +11883,7 @@
         },
         "messages": {
           "quest_name": "Wild Horse Nine",
-          "game_title": "Only in Theaters November 6th!",
+          "game_title": "ONLY IN THEATERS FRIDAY",
           "game_publisher": "Searchlight Pictures"
         },
         "task_config_v2": {
@@ -12043,14 +11931,15 @@
         "cta_config": {
           "link": "https://www.searchlightpictures.com/wild-horse-nine?utm_source=Searchlight&utm_medium=Discord&utm_campaign=WildHorseNine#get-tickets",
           "button_label": "Get Tickets",
-          "subtitle": "Only in Theaters November 6th!"
+          "subtitle": "ONLY IN THEATERS FRIDAY"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiV2lsZCBIb3JzZSBOaW5lIiwiZ2FtZV90aXRsZSI6Ik9ubHkgaW4gVGhlYXRlcnMgTm92ZW1iZXIgNnRoISIsImdhbWVfcHVibGlzaGVyIjoiU2VhcmNobGlnaHQgUGljdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTczMDczNjM0OTk3MTI1ODIiLCJhcHBsaWNhdGlvbl9uYW1lIjoiTW9haSIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMjlUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0wOVQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0wOVQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU3OTk2MTYyMTg5ODkzNzIzLzE1NjUxNDAzNzUzOTAxMzQzMjMuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTU3OTk2MTYyMTg5ODkzNzIzLzE1NjUxNDQzNTQ3MDI3NTgxNThfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2lsZCBIb3JzZSBOaW5lIiwiZ2FtZV90aXRsZSI6Ik9OTFkgSU4gVEhFQVRFUlMgRlJJREFZIiwiZ2FtZV9wdWJsaXNoZXIiOiJTZWFyY2hsaWdodCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1NzMwNzM2MzQ5OTcxMjU4MiIsImFwcGxpY2F0aW9uX25hbWUiOiJNb2FpIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0yOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTA5VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTA5VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjg0MCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTc5OTYxNjIxODk4OTM3MjMvMTU2NTE0MDM3NTM5MDEzNDMyMy5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTc5OTYxNjIxODk4OTM3MjMvMTU2NTE0NDM1NDcwMjc1ODE1OF83MjAubXA0In0=",
       "starts_at": "2026-10-29T17:00:00+00:00",
-      "expires_at": "2026-12-09T01:00:00+00:00",
+      "expires_at": "2026-11-09T01:00:00+00:00",
       "sent_at": "2026-10-30T00:38:40.763Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-03T05:40:38.259Z"
     },
     "1557935197906010122": {
       "id": "1557935197906010122",
@@ -13398,7 +13287,726 @@
       "expires_at": "2026-12-12T23:59:00+00:00",
       "sent_at": "2026-11-02T10:38:49.006Z",
       "type": "new"
+    },
+    "1554270219080568932": {
+      "id": "1554270219080568932",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.howtorobabankfilm.com/",
+          "id": "1555162622104576010",
+          "name": "Heist"
+        },
+        "assets": {
+          "hero": "quests/1554270219080568932/1564843132321792041.jpg",
+          "quest_bar_hero_blurhash": "kBgOEoJgaGmId1iIgIkGaUk=",
+          "quest_bar_hero": "quests/1554270219080568932/1564843132321792041.jpg",
+          "quest_bar_hero_video": "quests/1554270219080568932/1564843392616103967_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554270219080568932/1564843013333590178.png",
+          "game_tile_dark": "quests/1554270219080568932/1564843013333590178.png",
+          "logotype_light": "quests/1554270219080568932/1564853917144191016.png",
+          "logotype_dark": "quests/1554270219080568932/1564853917144191016.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "How To Rob A Bank",
+          "game_title": "How To Rob A Bank Exclusively in Theaters November 13, 2026",
+          "game_publisher": "Amazon MGM Studios"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 3,
+              "applications": [
+                {
+                  "id": "1555162622104576010"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Heist",
+                "task_description": "Make 3 cash drops and earn 700 Orbs"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.howtorobabankfilm.com/",
+          "button_label": "Get Tickets",
+          "subtitle": "How To Rob A Bank Exclusively in Theaters November 13, 2026"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSG93IFRvIFJvYiBBIEJhbmsiLCJnYW1lX3RpdGxlIjoiSG93IFRvIFJvYiBBIEJhbmsgRXhjbHVzaXZlbHkgaW4gVGhlYXRlcnMgTm92ZW1iZXIgMTMsIDIwMjYiLCJnYW1lX3B1Ymxpc2hlciI6IkFtYXpvbiBNR00gU3R1ZGlvcyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1NTE2MjYyMjEwNDU3NjAxMCIsImFwcGxpY2F0aW9uX25hbWUiOiJIZWlzdCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU0MjcwMjE5MDgwNTY4OTMyLzE1NjQ4NDMxMzIzMjE3OTIwNDEuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:26.301Z",
+      "type": "new"
+    },
+    "1562333156105789580": {
+      "id": "1562333156105789580",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://bleeckerstreetmedia.com/victorian-psycho",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1562333156105789580/1562333586055626812.jpg",
+          "hero_video": "quests/1562333156105789580/1562337895644270673_720.mp4",
+          "quest_bar_hero_blurhash": "EEoHCoibwCd1h3d232f2fVY=",
+          "quest_bar_hero": "quests/1562333156105789580/1562333586055626812.jpg",
+          "quest_bar_hero_video": "quests/1562333156105789580/1562337895644270673_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562333156105789580/1562339644920701008.png",
+          "game_tile_dark": "quests/1562333156105789580/1562339842245791754.png",
+          "logotype_light": "quests/1562333156105789580/1562334790256955544.png",
+          "logotype_dark": "quests/1562333156105789580/1562333633522442250.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Victorian Psycho",
+          "game_title": "Meet your new favorite psycho. In theaters Nov 13",
+          "game_publisher": "Bleecker Street"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1562333156105789580/1562333444829085706_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562333156105789580/1562333444829085706_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562333156105789580/1562333444829085706.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1562333156105789580/1562333444909047879_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562333156105789580/1562333444909047879_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562333156105789580/1562333444909047879.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://bleeckerstreetmedia.com/victorian-psycho",
+          "button_label": "Learn More",
+          "subtitle": "Meet your new favorite psycho. In theaters Nov 13"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVmljdG9yaWFuIFBzeWNobyIsImdhbWVfdGl0bGUiOiJNZWV0IHlvdXIgbmV3IGZhdm9yaXRlIHBzeWNoby4gSW4gdGhlYXRlcnMgTm92IDEzIiwiZ2FtZV9wdWJsaXNoZXIiOiJCbGVlY2tlciBTdHJlZXQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wMlQxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyMzMzMTU2MTA1Nzg5NTgwLzE1NjIzMzM1ODYwNTU2MjY4MTIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYyMzMzMTU2MTA1Nzg5NTgwLzE1NjIzMzc4OTU2NDQyNzA2NzNfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:28.020Z",
+      "type": "new"
+    },
+    "1555328744665911297": {
+      "id": "1555328744665911297",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-17T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.apple.com/macbook-pro/proled-xdr-display/?cid=wwa-us-div-mac-velvet-dpre-discord-nspf-inst-cpm-mos-mul-amact-gnt-broa-prlp-attnbb-usen-prdflm-video-169ar-2m-macpro-mltftr-na-na-na-na-na-07556801",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1555328744665911297/1565118521648742410.jpg",
+          "hero_video": "quests/1555328744665911297/1565798539513167995_720.mp4",
+          "quest_bar_hero_blurhash": "x/cJDIIHeIiLdYiAe3TYhp9e+A==",
+          "quest_bar_hero": "quests/1555328744665911297/1565119412644741331.jpg",
+          "quest_bar_hero_video": "quests/1555328744665911297/1565798539513167995_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1555328744665911297/1565118120220164167.png",
+          "game_tile_dark": "quests/1555328744665911297/1565118117854707862.png",
+          "logotype_light": "quests/1555328744665911297/1565118256149438624.png",
+          "logotype_dark": "quests/1555328744665911297/1565118234544439356.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": " A Screen Come True",
+          "game_title": "MacBook Pro with PROLED XDR Display ",
+          "game_publisher": "Apple"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 110,
+              "assets": {
+                "video": {
+                  "url": "quests/1555328744665911297/1565736184133718026_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1555328744665911297/1565119412644741331.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1555328744665911297/1565736184133718026_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1555328744665911297/1565119412644741331.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1555328744665911297/1565736184133718026.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1555328744665911297/1565119412644741331.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 110,
+              "assets": {
+                "video": {
+                  "url": "quests/1555328744665911297/1565736184133718026_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1555328744665911297/1565119412644741331.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1555328744665911297/1565736184133718026_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1555328744665911297/1565119412644741331.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1555328744665911297/1565736184133718026.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1555328744665911297/1565119412644741331.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-17T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.apple.com/macbook-pro/proled-xdr-display/?cid=wwa-us-div-mac-velvet-dpre-discord-nspf-inst-cpm-mos-mul-amact-gnt-broa-prlp-attnbb-usen-prdflm-video-169ar-2m-macpro-mltftr-na-na-na-na-na-07556801",
+          "button_label": "Learn More",
+          "subtitle": "MacBook Pro with PROLED XDR Display "
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiIEEgU2NyZWVuIENvbWUgVHJ1ZSIsImdhbWVfdGl0bGUiOiJNYWNCb29rIFBybyB3aXRoIFBST0xFRCBYRFIgRGlzcGxheSAiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xN1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xN1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxMTB9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTEwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NTMyODc0NDY2NTkxMTI5Ny8xNTY1MTE4NTIxNjQ4NzQyNDEwLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NTMyODc0NDY2NTkxMTI5Ny8xNTY1Nzk4NTM5NTEzMTY3OTk1XzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-17T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:29.760Z",
+      "type": "new"
+    },
+    "1565142128504602665": {
+      "id": "1565142128504602665",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.howtorobabankfilm.ca",
+          "id": "1555162622104576010",
+          "name": "Heist"
+        },
+        "assets": {
+          "hero": "quests/1554270219080568932/1564843132321792041.jpg",
+          "hero_video": "quests/1554270219080568932/1564843392616103967_720.mp4",
+          "quest_bar_hero_blurhash": "kBgOEoJgaGmId1iIgIkGaUk=",
+          "quest_bar_hero": "quests/1554270219080568932/1564843132321792041.jpg",
+          "quest_bar_hero_video": "quests/1554270219080568932/1564843392616103967_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554270219080568932/1564843013333590178.png",
+          "game_tile_dark": "quests/1554270219080568932/1564843013333590178.png",
+          "logotype_light": "quests/1554270219080568932/1564853917144191016.png",
+          "logotype_dark": "quests/1554270219080568932/1564853917144191016.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "How To Rob A Bank",
+          "game_title": "How To Rob A Bank Exclusively in Theatres November 13, 2026",
+          "game_publisher": "Amazon MGM Studios"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 3,
+              "applications": [
+                {
+                  "id": "1555162622104576010"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Heist",
+                "task_description": "Make 3 cash drops and earn 700 Orbs"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.howtorobabankfilm.ca",
+          "button_label": "Get Tickets",
+          "subtitle": "How To Rob A Bank Exclusively in Theatres November 13, 2026"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSG93IFRvIFJvYiBBIEJhbmsiLCJnYW1lX3RpdGxlIjoiSG93IFRvIFJvYiBBIEJhbmsgRXhjbHVzaXZlbHkgaW4gVGhlYXRyZXMgTm92ZW1iZXIgMTMsIDIwMjYiLCJnYW1lX3B1Ymxpc2hlciI6IkFtYXpvbiBNR00gU3R1ZGlvcyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1NTE2MjYyMjEwNDU3NjAxMCIsImFwcGxpY2F0aW9uX25hbWUiOiJIZWlzdCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0IjozfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDI3MDIxOTA4MDU2ODkzMi8xNTY0ODQzMTMyMzIxNzkyMDQxLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NDI3MDIxOTA4MDU2ODkzMi8xNTY0ODQzMzkyNjE2MTAzOTY3XzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:31.092Z",
+      "type": "new"
+    },
+    "1565135226299097159": {
+      "id": "1565135226299097159",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.sonypictures.co.uk/movies/how-to-rob-a-bank",
+          "id": "1555162622104576010",
+          "name": "Heist"
+        },
+        "assets": {
+          "hero": "quests/1565135226299097159/1565675331224998008.jpg",
+          "hero_video": "quests/1565135226299097159/1565675331149369344.mp4",
+          "quest_bar_hero_blurhash": "kBgOEoJgaGmId1iIgIkGaUk=",
+          "quest_bar_hero": "quests/1565135226299097159/1565675331224998008.jpg",
+          "quest_bar_hero_video": "quests/1565135226299097159/1565675331149369344.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565135226299097159/1565137364651606137.png",
+          "game_tile_dark": "quests/1565135226299097159/1565137364651606137.png",
+          "logotype_light": "quests/1565135226299097159/1565137339875860551.png",
+          "logotype_dark": "quests/1565135226299097159/1565137339875860551.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "How To Rob A Bank",
+          "game_title": "Starring Nicholas Hoult and Zoë Kravitz. See How To Rob A Bank in cinemas November 13.",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 3,
+              "applications": [
+                {
+                  "id": "1555162622104576010"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Heist",
+                "task_description": "Make 3 cash drops and earn 700 Orbs"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.sonypictures.co.uk/movies/how-to-rob-a-bank",
+          "button_label": "Learn More",
+          "subtitle": "Starring Nicholas Hoult and Zoë Kravitz. See How To Rob A Bank in cinemas November 13."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSG93IFRvIFJvYiBBIEJhbmsiLCJnYW1lX3RpdGxlIjoiU3RhcnJpbmcgTmljaG9sYXMgSG91bHQgYW5kIFpvw6sgS3Jhdml0ei4gU2VlIEhvdyBUbyBSb2IgQSBCYW5rIGluIGNpbmVtYXMgTm92ZW1iZXIgMTMuIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIEVudGVydGFpbm1lbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTUxNjI2MjIxMDQ1NzYwMTAiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVpc3QiLCJzdGFydHNfYXQiOiIyMDI2LTExLTAyVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjUxMzUyMjYyOTkwOTcxNTkvMTU2NTY3NTMzMTIyNDk5ODAwOC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjUxMzUyMjYyOTkwOTcxNTkvMTU2NTY3NTMzMTE0OTM2OTM0NC5tcDQifQ==",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:32.394Z",
+      "type": "new"
+    },
+    "1565095257710927944": {
+      "id": "1565095257710927944",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://youtu.be/v6U5g-k_kqk?si=IrScPa89uwz31k6v",
+          "id": "1555162622104576010",
+          "name": "Heist"
+        },
+        "assets": {
+          "hero": "quests/1565095257710927944/1565660599487307886.jpg",
+          "hero_video": "quests/1565095257710927944/1565660829712519288_720.mp4",
+          "quest_bar_hero_blurhash": "kBgOEoJgaGmId1iIgIkGaUk=",
+          "quest_bar_hero": "quests/1565095257710927944/1565660599487307886.jpg",
+          "quest_bar_hero_video": "quests/1565095257710927944/1565660829712519288_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565095257710927944/1565100918116978839.png",
+          "game_tile_dark": "quests/1565095257710927944/1565100918116978839.png",
+          "logotype_light": "quests/1565095257710927944/1565100917903069225.png",
+          "logotype_dark": "quests/1565095257710927944/1565100917928231054.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Jak obrabować bank",
+          "game_title": "Jak obrabować bank – w kinach od 13 listopada.",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 3,
+              "applications": [
+                {
+                  "id": "1555162622104576010"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Heist",
+                "task_description": "Wykonaj 3 zrzuty gotówki i zdobądź 700 Orbs"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://youtu.be/v6U5g-k_kqk?si=IrScPa89uwz31k6v",
+          "button_label": "Watch More",
+          "subtitle": "Jak obrabować bank – w kinach od 13 listopada."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSmFrIG9icmFib3dhxIcgYmFuayIsImdhbWVfdGl0bGUiOiJKYWsgb2JyYWJvd2HEhyBiYW5rIOKAkyB3IGtpbmFjaCBvZCAxMyBsaXN0b3BhZGEuIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIEVudGVydGFpbm1lbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTUxNjI2MjIxMDQ1NzYwMTAiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVpc3QiLCJzdGFydHNfYXQiOiIyMDI2LTExLTAyVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjUwOTUyNTc3MTA5Mjc5NDQvMTU2NTY2MDU5OTQ4NzMwNzg4Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjUwOTUyNTc3MTA5Mjc5NDQvMTU2NTY2MDgyOTcxMjUxOTI4OF83MjAubXA0In0=",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:33.763Z",
+      "type": "new"
+    },
+    "1565104104387117178": {
+      "id": "1565104104387117178",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-02T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.sonypictures.com.mx/peliculas/como-robar-un-banco?utm_source=discord&utm_medium=social&utm_campaign=",
+          "id": "1555162622104576010",
+          "name": "Heist"
+        },
+        "assets": {
+          "hero": "quests/1565104104387117178/1565670655846916106.jpg",
+          "hero_video": "quests/1565104104387117178/1565670655431549129.mp4",
+          "quest_bar_hero_blurhash": "kBgOEoJgaGmId1iIgIkGaUk=",
+          "quest_bar_hero": "quests/1565104104387117178/1565670655846916106.jpg",
+          "quest_bar_hero_video": "quests/1565104104387117178/1565670655431549129.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565104104387117178/1565109467182399709.png",
+          "game_tile_dark": "quests/1565104104387117178/1565109467182399709.png",
+          "logotype_light": "quests/1565104104387117178/1565109477295001661.png",
+          "logotype_dark": "quests/1565104104387117178/1565109477295001661.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Cómo Robar un Banco",
+          "game_title": "12 DE NOVIEMBRE",
+          "game_publisher": "Sony Pictures Entertainment"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 3,
+              "applications": [
+                {
+                  "id": "1555162622104576010"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "Heist",
+                "task_description": "Realiza 3 entregas de efectivo y gana 700 Orbs"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.sonypictures.com.mx/peliculas/como-robar-un-banco?utm_source=discord&utm_medium=social&utm_campaign=",
+          "button_label": "Watch More",
+          "subtitle": "12 DE NOVIEMBRE"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ8OzbW8gUm9iYXIgdW4gQmFuY28iLCJnYW1lX3RpdGxlIjoiMTIgREUgTk9WSUVNQlJFIiwiZ2FtZV9wdWJsaXNoZXIiOiJTb255IFBpY3R1cmVzIEVudGVydGFpbm1lbnQiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTUxNjI2MjIxMDQ1NzYwMTAiLCJhcHBsaWNhdGlvbl9uYW1lIjoiSGVpc3QiLCJzdGFydHNfYXQiOiIyMDI2LTExLTAyVDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6M31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjUxMDQxMDQzODcxMTcxNzgvMTU2NTY3MDY1NTg0NjkxNjEwNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjUxMDQxMDQzODcxMTcxNzgvMTU2NTY3MDY1NTQzMTU0OTEyOS5tcDQifQ==",
+      "starts_at": "2026-11-02T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-03T05:40:35.228Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-02T21:28:05.624Z"
+  "last_check": "2026-11-03T05:40:39.369Z"
 }
