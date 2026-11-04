@@ -545,819 +545,6 @@
       "sent_at": "2026-09-23T10:56:19.513Z",
       "type": "new"
     },
-    "1552026065491202149": {
-      "id": "1552026065491202149",
-      "config": {
-        "id": "1552026065491202149",
-        "config_version": 2,
-        "starts_at": "2026-09-24T16:00:00+00:00",
-        "expires_at": "2026-10-05T06:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
-          "id": "363445589247131668",
-          "name": "Roblox"
-        },
-        "assets": {
-          "hero": "quests/1552026065491202149/1552027741996716062.jpg",
-          "hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
-          "quest_bar_hero_blurhash": "yxcGEoQIk0iDeViXBq5RcDk=",
-          "quest_bar_hero": "quests/1552026065491202149/1552027741996716062.jpg",
-          "quest_bar_hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
-          "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
-          "logotype_light": "quests/1552026065491202149/1552061161371869224.png",
-          "logotype_dark": "quests/1552026065491202149/1552061161371869224.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Animal Hospital",
-          "game_title": "Animal Hospital on Roblox",
-          "game_publisher": "ROBLOX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "363445589247131668"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T06:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQW5pbWFsIEhvc3BpdGFsIiwiZ2FtZV90aXRsZSI6IkFuaW1hbCBIb3NwaXRhbCBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjRUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwNjowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwNjowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTIwMjYwNjU0OTEyMDIxNDkvMTU1MjAyNzc0MTk5NjcxNjA2Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTIwMjYwNjU0OTEyMDIxNDkvMTU1MjAyNzgwMDM3NzEwMjQ2OV83MjAubXA0In0=",
-      "starts_at": "2026-09-24T16:00:00+00:00",
-      "expires_at": "2026-11-04T06:00:00+00:00",
-      "sent_at": "2026-09-24T16:38:55.242Z",
-      "type": "new"
-    },
-    "1537134637686591699": {
-      "id": "1537134637686591699",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-24T16:00:00+00:00",
-        "expires_at": "2026-10-05T06:59:00+00:00",
-        "features": [
-          27,
-          36,
-          15
-        ],
-        "application": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
-          "id": "1536318183873454090",
-          "name": "Spades"
-        },
-        "assets": {
-          "hero": "quests/1537134637686591699/1552442586097127464.jpg",
-          "hero_video": "quests/1537134637686591699/1552442502571753512_720.mp4",
-          "quest_bar_hero_blurhash": "jfcJEoJAbYd4eViJb5b5aKk=",
-          "quest_bar_hero": "quests/1537134637686591699/1552442586097127464.jpg",
-          "quest_bar_hero_video": "quests/1537134637686591699/1552442502571753512_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1537134637686591699/1552442240171905034.png",
-          "game_tile_dark": "quests/1537134637686591699/1552442240171905034.png",
-          "logotype_light": "quests/1537134637686591699/1552448717464801350.png",
-          "logotype_dark": "quests/1537134637686591699/1552442239391895794.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "VALORANT Aces",
-          "game_title": "VALORANT",
-          "game_publisher": "Riot Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "ACHIEVEMENT_IN_ACTIVITY": {
-              "type": "ACHIEVEMENT_IN_ACTIVITY",
-              "target": 1,
-              "applications": [
-                {
-                  "id": "1536318183873454090"
-                }
-              ],
-              "event_name": "progress",
-              "messages": {
-                "task_title": "Take the shot. Beat the clock. Land the ACE.",
-                "task_description": "Relive some of the greatest plays in VALORANT esports history, but this time YOU'RE in the driver's seat. Can you ACE it?"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
-          "button_label": "Play Free Now",
-          "subtitle": "VALORANT Aces"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgQWNlcyIsImdhbWVfdGl0bGUiOiJWQUxPUkFOVCIsImdhbWVfcHVibGlzaGVyIjoiUmlvdCBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiMTUzNjMxODE4Mzg3MzQ1NDA5MCIsImFwcGxpY2F0aW9uX25hbWUiOiJTcGFkZXMiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTI0VDE2OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDVUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDRUMDY6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0IjoxfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUzNzEzNDYzNzY4NjU5MTY5OS8xNTUyNDQyNTg2MDk3MTI3NDY0LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTUzNzEzNDYzNzY4NjU5MTY5OS8xNTUyNDQyNTAyNTcxNzUzNTEyXzcyMC5tcDQifQ==",
-      "starts_at": "2026-09-24T16:00:00+00:00",
-      "expires_at": "2026-11-04T06:59:00+00:00",
-      "sent_at": "2026-09-24T21:14:25.402Z",
-      "type": "new"
-    },
-    "1552029588132200532": {
-      "id": "1552029588132200532",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-24T16:00:00+00:00",
-        "expires_at": "2026-10-05T06:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
-          "id": "363445589247131668",
-          "name": "Roblox"
-        },
-        "assets": {
-          "hero": "quests/1552026065491202149/1552027741996716062.jpg",
-          "hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
-          "quest_bar_hero_blurhash": "yxcGEoQIk0iDeViXBq5RcDk=",
-          "quest_bar_hero": "quests/1552026065491202149/1552027741996716062.jpg",
-          "quest_bar_hero_video": "quests/1552026065491202149/1552027800377102469_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
-          "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
-          "logotype_light": "quests/1552029588132200532/1552080028819525763.png",
-          "logotype_dark": "quests/1552029588132200532/1552080028819525763.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Animal Hospital",
-          "game_title": "Animal Hospital on Roblox",
-          "game_publisher": "ROBLOX"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "363445589247131668"
-                }
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T06:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.roblox.com/games/78515283254292/Animal-Hospital?gsrbx=1",
-          "button_label": "Play Now"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQW5pbWFsIEhvc3BpdGFsIiwiZ2FtZV90aXRsZSI6IkFuaW1hbCBIb3NwaXRhbCBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjRUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwNjowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwNjowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyMDI2MDY1NDkxMjAyMTQ5LzE1NTIwMjc3NDE5OTY3MTYwNjIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUyMDI2MDY1NDkxMjAyMTQ5LzE1NTIwMjc4MDAzNzcxMDI0NjlfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-24T16:00:00+00:00",
-      "expires_at": "2026-11-04T06:00:00+00:00",
-      "sent_at": "2026-09-24T21:14:26.744Z",
-      "type": "new"
-    },
-    "1549139459264741497": {
-      "id": "1549139459264741497",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-24T16:30:00+00:00",
-        "expires_at": "2026-10-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=championsanthem2026",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1549139459264741497/1550542111445749842.jpg",
-          "hero_video": "quests/1549139459264741497/1549140285416542378_720.mp4",
-          "quest_bar_hero_blurhash": "H6cJJIiRdHcPh4hThpySnwr6yQ==",
-          "quest_bar_hero": "quests/1549139459264741497/1550542245713813625.jpg",
-          "quest_bar_hero_video": "quests/1549139459264741497/1549140285416542378_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1549139459264741497/1549140233520545947.png",
-          "game_tile_dark": "quests/1549139459264741497/1549140233520545947.png",
-          "logotype_light": "quests/1549139459264741497/1549143006991618180.png",
-          "logotype_dark": "quests/1549139459264741497/1549140206391656508.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "VALORANT Champions Anthem",
-          "game_title": "If the Sun Burns Out Tonight",
-          "game_publisher": "Riot Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 233,
-              "assets": {
-                "video": {
-                  "url": "quests/1549139459264741497/1549140853266849943_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1549139459264741497/1549140853266849943_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
-                },
-                "video_hls": {
-                  "url": "quests/1549139459264741497/1549140853266849943.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 233,
-              "assets": {
-                "video": {
-                  "url": "quests/1549139459264741497/1549140853266849943_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1549139459264741497/1549140853266849943_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
-                },
-                "video_hls": {
-                  "url": "quests/1549139459264741497/1549140853266849943.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1549139459264741497/1550541916158955531.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=championsanthem2026",
-          "button_label": "Play Free Now",
-          "subtitle": "Champions starts Sept. 24"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVkFMT1JBTlQgQ2hhbXBpb25zIEFudGhlbSIsImdhbWVfdGl0bGUiOiJJZiB0aGUgU3VuIEJ1cm5zIE91dCBUb25pZ2h0IiwiZ2FtZV9wdWJsaXNoZXIiOiJSaW90IEdhbWVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjRUMTY6MzA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjIzM30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyMzN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTQ5MTM5NDU5MjY0NzQxNDk3LzE1NTA1NDIxMTE0NDU3NDk4NDIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTQ5MTM5NDU5MjY0NzQxNDk3LzE1NDkxNDAyODU0MTY1NDIzNzhfNzIwLm1wNCJ9",
-      "starts_at": "2026-09-24T16:30:00+00:00",
-      "expires_at": "2026-11-04T00:00:00+00:00",
-      "sent_at": "2026-09-24T21:14:29.740Z",
-      "type": "new"
-    },
-    "1552793125028634754": {
-      "id": "1552793125028634754",
-      "config": {
-        "id": "1552793125028634754",
-        "config_version": 2,
-        "starts_at": "2026-09-25T17:00:00+00:00",
-        "expires_at": "2026-10-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
-          "id": "1531874756096295054",
-          "name": "EA Sports FC 27"
-        },
-        "assets": {
-          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
-          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
-          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
-          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
-          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
-          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EA SPORTS FC™ 27",
-          "game_title": "EA SPORTS FC™ 27",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": [
-                "1675858627",
-                "2047118660"
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": [
-                "CUSA57220_00",
-                "PPSA34015_00",
-                "CUSA58964_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
-          "button_label": "Nhận Trò Chơi"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUxOTY5NTI1NjAyNDUxNDk3LzE1NTE5ODE1ODExMTgzNDUzNTcuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
-      "starts_at": "2026-09-25T17:00:00+00:00",
-      "expires_at": "2026-11-04T00:00:00+00:00",
-      "sent_at": "2026-09-25T21:11:44.237Z",
-      "type": "new"
-    },
-    "1551982502347022347": {
-      "id": "1551982502347022347",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-25T17:00:00+00:00",
-        "expires_at": "2026-10-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_DE_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
-          "id": "1531874756096295054",
-          "name": "EA Sports FC 27"
-        },
-        "assets": {
-          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
-          "hero_video": "quests/1551969525602451497/1551970363032862821.mp4",
-          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
-          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
-          "quest_bar_hero_video": "quests/1551969525602451497/1551970362114179082.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
-          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
-          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
-          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EA SPORTS FC™ 27",
-          "game_title": "EA SPORTS FC™ 27",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": []
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": []
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_DE_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
-          "button_label": "Get Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTgxNTgxMTE4MzQ1MzU3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTcwMzYzMDMyODYyODIxLm1wNCJ9",
-      "starts_at": "2026-09-25T17:00:00+00:00",
-      "expires_at": "2026-11-04T00:00:00+00:00",
-      "sent_at": "2026-09-25T21:11:45.595Z",
-      "type": "new"
-    },
-    "1551969525602451497": {
-      "id": "1551969525602451497",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-25T17:00:00+00:00",
-        "expires_at": "2026-10-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
-          "id": "1531874756096295054",
-          "name": "EA Sports FC 27"
-        },
-        "assets": {
-          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
-          "hero_video": "quests/1551969525602451497/1551970363032862821.mp4",
-          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
-          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
-          "quest_bar_hero_video": "quests/1551969525602451497/1551970362114179082.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
-          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
-          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
-          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EA SPORTS FC™ 27",
-          "game_title": "EA SPORTS FC™ 27",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": []
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": []
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_US_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA-SEHERO-CLEAN",
-          "button_label": "Get Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTgxNTgxMTE4MzQ1MzU3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTcwMzYzMDMyODYyODIxLm1wNCJ9",
-      "starts_at": "2026-09-25T17:00:00+00:00",
-      "expires_at": "2026-11-04T00:00:00+00:00",
-      "sent_at": "2026-09-25T21:11:47.463Z",
-      "type": "new"
-    },
-    "1551983210601382063": {
-      "id": "1551983210601382063",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-25T17:00:00+00:00",
-        "expires_at": "2026-10-05T00:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
-          "id": "1531874756096295054",
-          "name": "EA Sports FC 27"
-        },
-        "assets": {
-          "hero": "quests/1551969525602451497/1551981581118345357.jpg",
-          "hero_video": "quests/1551969525602451497/1551970363032862821.mp4",
-          "quest_bar_hero_blurhash": "3vcNFIJoh4h/eHiFeIV1YFUGRQ==",
-          "quest_bar_hero": "quests/1551969525602451497/1551981579088298084.jpg",
-          "quest_bar_hero_video": "quests/1551969525602451497/1551970362114179082.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1551969525602451497/1551970436106027178.png",
-          "game_tile_dark": "quests/1551969525602451497/1551970362135150602.png",
-          "logotype_light": "quests/1551969525602451497/1551970362869153803.png",
-          "logotype_dark": "quests/1551969525602451497/1551970362521026750.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "EA SPORTS FC™ 27",
-          "game_title": "EA SPORTS FC™ 27",
-          "game_publisher": "Electronic Arts"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ]
-            },
-            "PLAY_ON_XBOX": {
-              "type": "PLAY_ON_XBOX",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": []
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1531874756096295054"
-                }
-              ],
-              "external_ids": []
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T00:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://game.ea.com/redirect?campaignName=FC27_UA_SA_EA_SOC_DIS_LH&caudience=C1-C3-FC24-FC26-Competitor&ccreative=LOGOTRI-SEKA",
-          "button_label": "Get Game"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRUEgU1BPUlRTIEZD4oSiIDI3IiwiZ2FtZV90aXRsZSI6IkVBIFNQT1JUUyBGQ+KEoiAyNyIsImdhbWVfcHVibGlzaGVyIjoiRWxlY3Ryb25pYyBBcnRzIiwiYXBwbGljYXRpb25faWQiOiIxNTMxODc0NzU2MDk2Mjk1MDU0IiwiYXBwbGljYXRpb25fbmFtZSI6IkVBIFNwb3J0cyBGQyAyNyIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjVUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNVQwMDowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwMDowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iLCJYYm94Il0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9YQk9YIiwidHlwZSI6IlBMQVlfT05fWEJPWCIsInRhcmdldCI6OTAwfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTgxNTgxMTE4MzQ1MzU3LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1MTk2OTUyNTYwMjQ1MTQ5Ny8xNTUxOTcwMzYzMDMyODYyODIxLm1wNCJ9",
-      "starts_at": "2026-09-25T17:00:00+00:00",
-      "expires_at": "2026-11-04T00:00:00+00:00",
-      "sent_at": "2026-09-25T21:11:48.937Z",
-      "type": "new"
-    },
     "1546583178230235336": {
       "id": "1546583178230235336",
       "config": {
@@ -1486,241 +673,6 @@
       "starts_at": "2026-09-27T17:00:00+00:00",
       "expires_at": "2026-11-18T00:00:00+00:00",
       "sent_at": "2026-09-27T21:00:20.953Z",
-      "type": "new"
-    },
-    "1552101830807265300": {
-      "id": "1552101830807265300",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-27T22:00:00+00:00",
-        "expires_at": "2026-10-04T21:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://www.upig.de/micro/forgotten-island",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1552101830807265300/1552404306269831248.jpg",
-          "quest_bar_hero_blurhash": "0fcJDIKKd4iSeHdwh2i7cIw/6w==",
-          "quest_bar_hero": "quests/1552101830807265300/1552403726977732720.jpg",
-          "quest_bar_hero_video": "quests/1552101830807265300/1552404056314609704_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1552101830807265300/1552403821433585765.png",
-          "game_tile_dark": "quests/1552101830807265300/1552403821433585765.png",
-          "logotype_light": "quests/1552101830807265300/1552403757432840363.png",
-          "logotype_dark": "quests/1552101830807265300/1552403757432840363.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Forgotten Island",
-          "game_title": "Ab 8. Oktober nur im Kino!",
-          "game_publisher": "Universal Pictures"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 59,
-              "assets": {
-                "video": {
-                  "url": "quests/1552101830807265300/1552403727074463835_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552101830807265300/1552403789196169286.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1552101830807265300/1552403727074463835_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552101830807265300/1552403789196169286.png"
-                },
-                "video_hls": {
-                  "url": "quests/1552101830807265300/1552403727074463835.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552101830807265300/1552403789196169286.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 59,
-              "assets": {
-                "video": {
-                  "url": "quests/1552101830807265300/1552403726986387487_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552101830807265300/1552403789196169286.png"
-                },
-                "video_low_res": {
-                  "url": "quests/1552101830807265300/1552403726986387487_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552101830807265300/1552403789196169286.png"
-                },
-                "video_hls": {
-                  "url": "quests/1552101830807265300/1552403726986387487.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552101830807265300/1552403789196169286.png"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-11-03T21:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://www.upig.de/micro/forgotten-island",
-          "button_label": "Get Tickets",
-          "subtitle": "Ab 8. Oktober nur im Kino!"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ290dGVuIElzbGFuZCIsImdhbWVfdGl0bGUiOiJBYiA4LiBPa3RvYmVyIG51ciBpbSBLaW5vISIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjdUMjI6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wNFQyMTo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wM1QyMTo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo1OX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo1OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTIxMDE4MzA4MDcyNjUzMDAvMTU1MjQwNDMwNjI2OTgzMTI0OC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
-      "starts_at": "2026-09-27T22:00:00+00:00",
-      "expires_at": "2026-11-03T21:59:00+00:00",
-      "sent_at": "2026-09-28T04:08:46.779Z",
-      "type": "new"
-    },
-    "1552782554845806643": {
-      "id": "1552782554845806643",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-09-28T16:00:00+00:00",
-        "expires_at": "2026-10-09T16:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423619",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1549819328193364061/1551415313474789456.jpg",
-          "hero_video": "quests/1552782554845806643/1552823964705886260_720.mp4",
-          "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
-          "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
-          "quest_bar_hero_video": "quests/1552782554845806643/1552823964705886260_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
-          "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
-          "logotype_light": "quests/1552782554845806643/1553170776755150958.png",
-          "logotype_dark": "quests/1552782554845806643/1553170776755150958.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Matchbox The Movie",
-          "game_title": "Streaming October 9",
-          "game_publisher": "Apple TV"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 29,
-              "assets": {
-                "video": {
-                  "url": "quests/1552782554845806643/1552814902312173690_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552782554845806643/1552814902312173690_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552782554845806643/1552814902312173690.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1553093599992746004",
-              "asset": "quests/1552782554845806643/1553179643538841710.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "Matchbox Land Rover 6x6 Avatar Decoration",
-                "name_with_article": "a Matchbox Land Rover 6x6 Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-12-10T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-11-04T06:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423619",
-          "button_label": "View More",
-          "subtitle": "Streaming October 9"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWF0Y2hib3ggVGhlIE1vdmllIiwiZ2FtZV90aXRsZSI6IlN0cmVhbWluZyBPY3RvYmVyIDkiLCJnYW1lX3B1Ymxpc2hlciI6IkFwcGxlIFRWIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMDktMjhUMTY6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wOVQxNjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNFQwNjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NDk4MTkzMjgxOTMzNjQwNjEvMTU1MTQxNTMxMzQ3NDc4OTQ1Ni5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTI3ODI1NTQ4NDU4MDY2NDMvMTU1MjgyMzk2NDcwNTg4NjI2MF83MjAubXA0In0=",
-      "starts_at": "2026-09-28T16:00:00+00:00",
-      "expires_at": "2026-11-04T06:59:00+00:00",
-      "sent_at": "2026-09-29T04:41:05.537Z",
       "type": "new"
     },
     "1549819328193364061": {
@@ -14122,7 +13074,219 @@
       "expires_at": "2026-12-10T01:00:00+00:00",
       "sent_at": "2026-11-03T20:48:05.826Z",
       "type": "new"
+    },
+    "1560129865536241664": {
+      "id": "1560129865536241664",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-04T04:00:00+00:00",
+        "expires_at": "2026-11-17T01:00:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://kof-asia.onelink.me/98ZN/DCQ-B5HLjU",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1560129865536241664/1562308922831015977.jpg",
+          "hero_video": "quests/1560129865536241664/1562002529943031868_720.mp4",
+          "quest_bar_hero_blurhash": "HlgOHIQFmGeNd3d3iWRQZ+Lzdg==",
+          "quest_bar_hero": "quests/1560129865536241664/1562001996695732254.jpg",
+          "quest_bar_hero_video": "quests/1560129865536241664/1562002079227052092_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1560129865536241664/1561574059962011728.png",
+          "game_tile_dark": "quests/1560129865536241664/1561574059962011728.png",
+          "logotype_light": "quests/1560129865536241664/1561574059983114371.png",
+          "logotype_dark": "quests/1560129865536241664/1561574060146823248.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "KOF: Legend",
+          "game_title": "KOF: Legend",
+          "game_publisher": "JoyMaker"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 92,
+              "assets": {
+                "video": {
+                  "url": "quests/1560129865536241664/1562002757475373077_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1560129865536241664/1562002757513257030.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1560129865536241664/1562002757475373077_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1560129865536241664/1562002757513257030.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1560129865536241664/1562002757475373077.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1560129865536241664/1562002757513257030.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-17T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "android": {
+            "android_app_id": "com.huanle.kof.sea"
+          },
+          "ios": {
+            "ios_app_id": "6791082427"
+          },
+          "link": "https://kof-asia.onelink.me/98ZN/DCQ-B5HLjU",
+          "button_label": "Play Now"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiS09GOiBMZWdlbmQiLCJnYW1lX3RpdGxlIjoiS09GOiBMZWdlbmQiLCJnYW1lX3B1Ymxpc2hlciI6IkpveU1ha2VyIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDRUMDQ6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xN1QwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xN1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTUsNDRdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6OTJ9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYwMTI5ODY1NTM2MjQxNjY0LzE1NjIzMDg5MjI4MzEwMTU5NzcuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYwMTI5ODY1NTM2MjQxNjY0LzE1NjIwMDI1Mjk5NDMwMzE4NjhfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-04T04:00:00+00:00",
+      "expires_at": "2026-12-17T01:00:00+00:00",
+      "sent_at": "2026-11-04T10:33:29.297Z",
+      "type": "new"
+    },
+    "1562135550385852551": {
+      "id": "1562135550385852551",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-04T05:00:00+00:00",
+        "expires_at": "2026-11-09T04:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/ca/show/stick/umc.cmc.52w04zy67tiv11p8xvbc57wmc?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07543911",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1562135550385852551/1564741946122178681.jpg",
+          "hero_video": "quests/1562135550385852551/1564743492662460477_720.mp4",
+          "quest_bar_hero_blurhash": "4TkKEoQ/h2evmFaG317513c=",
+          "quest_bar_hero": "quests/1562135550385852551/1564741946122178681.jpg",
+          "quest_bar_hero_video": "quests/1562135550385852551/1564743492662460477_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562135550385852551/1564741943412392006.jpg",
+          "game_tile_dark": "quests/1562135550385852551/1564741943412392006.jpg",
+          "logotype_light": "quests/1562135550385852551/1564741941579616266.png",
+          "logotype_dark": "quests/1562135550385852551/1564741941579616266.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Stick Season 2",
+          "game_title": "Now streaming on Apple TV",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1562135550385852551/1564742679018082506_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562135550385852551/1564741943680966757.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562135550385852551/1564742679018082506_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562135550385852551/1564741943680966757.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562135550385852551/1564742679018082506.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562135550385852551/1564741943680966757.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-09T04:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/ca/show/stick/umc.cmc.52w04zy67tiv11p8xvbc57wmc?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07543911",
+          "button_label": "Watch Now",
+          "subtitle": "Now streaming on Apple TV"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiU3RpY2sgU2Vhc29uIDIiLCJnYW1lX3RpdGxlIjoiTm93IHN0cmVhbWluZyBvbiBBcHBsZSBUViIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUgVFYiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wNFQwNTowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTA5VDA0OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTA5VDA0OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyMTM1NTUwMzg1ODUyNTUxLzE1NjQ3NDE5NDYxMjIxNzg2ODEuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYyMTM1NTUwMzg1ODUyNTUxLzE1NjQ3NDM0OTI2NjI0NjA0NzdfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-04T05:00:00+00:00",
+      "expires_at": "2026-12-09T04:59:00+00:00",
+      "sent_at": "2026-11-04T10:33:31.857Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-04T01:04:03.888Z"
+  "last_check": "2026-11-04T10:33:32.968Z"
 }
