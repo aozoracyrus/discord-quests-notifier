@@ -454,104 +454,6 @@
       "sent_at": "2026-09-29T04:41:08.629Z",
       "type": "new"
     },
-    "1550563498394787951": {
-      "id": "1550563498394787951",
-      "config": {
-        "id": "1550563498394787951",
-        "config_version": 2,
-        "starts_at": "2026-09-30T14:00:00+00:00",
-        "expires_at": "2026-10-07T14:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://pwgam.es/4ygDZRw",
-          "id": "1470616226995765409",
-          "name": "Neverness to Everness"
-        },
-        "assets": {
-          "hero": "quests/1550563498394787951/1551657575488036925.jpg",
-          "hero_video": "quests/1550563498394787951/1552727440621830154_720.mp4",
-          "quest_bar_hero_blurhash": "lgcGDIAAOWtiemqiiXT/q9zPuA==",
-          "quest_bar_hero": "quests/1550563498394787951/1551657546354270288.jpg",
-          "quest_bar_hero_video": "quests/1550563498394787951/1552727461513666751_720.mp4",
-          "game_tile": "1521701516283744326.jpeg",
-          "logotype": "1521701787801747568.png",
-          "game_tile_light": "quests/1521699040776159282/1521701197248200794.jpeg",
-          "game_tile_dark": "quests/1521699040776159282/1521701197248200794.jpeg",
-          "logotype_light": "quests/1521699040776159282/1521701197248200795.png",
-          "logotype_dark": "quests/1521699040776159282/1521701197248200795.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "NTE Half Anni",
-          "game_title": "NTE: Neverness to Everness",
-          "game_publisher": "Perfect World Games"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1470616226995765409"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1470616226995765409"
-                }
-              ],
-              "external_ids": [
-                "PPSA26558_00",
-                "PPSA32192_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-06T14:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://pwgam.es/4ygDZRw",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTlRFIEhhbGYgQW5uaSIsImdhbWVfdGl0bGUiOiJOVEU6IE5ldmVybmVzcyB0byBFdmVybmVzcyIsImdhbWVfcHVibGlzaGVyIjoiUGVyZmVjdCBXb3JsZCBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiMTQ3MDYxNjIyNjk5NTc2NTQwOSIsImFwcGxpY2F0aW9uX25hbWUiOiJOZXZlcm5lc3MgdG8gRXZlcm5lc3MiLCJzdGFydHNfYXQiOiIyMDI2LTA5LTMwVDE0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMTQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDZUMTQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTA1NjM0OTgzOTQ3ODc5NTEvMTU1MTY1NzU3NTQ4ODAzNjkyNS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTA1NjM0OTgzOTQ3ODc5NTEvMTU1MjcyNzQ0MDYyMTgzMDE1NF83MjAubXA0In0=",
-      "starts_at": "2026-09-30T14:00:00+00:00",
-      "expires_at": "2026-11-06T14:00:00+00:00",
-      "sent_at": "2026-09-30T17:42:45.022Z",
-      "type": "new"
-    },
     "1552763854692290630": {
       "id": "1552763854692290630",
       "config": {
@@ -682,103 +584,6 @@
       "starts_at": "2026-09-30T17:00:00+00:00",
       "expires_at": "2026-11-07T00:00:00+00:00",
       "sent_at": "2026-10-01T04:37:03.071Z",
-      "type": "new"
-    },
-    "1550543095911678094": {
-      "id": "1550543095911678094",
-      "config": {
-        "id": "1550543095911678094",
-        "config_version": 2,
-        "starts_at": "2026-10-01T07:00:00+00:00",
-        "expires_at": "2026-10-07T04:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D5DPQ",
-          "id": "1461154307171811401",
-          "name": "Arknights: Endfield"
-        },
-        "assets": {
-          "hero": "quests/1550528900788912231/1550541204247027854.jpg",
-          "hero_video": "quests/1550528900788912231/1550541343808426024_720.mp4",
-          "quest_bar_hero_blurhash": "ZfcRCoKPZ4iKd1d4H6bwgmQ=",
-          "quest_bar_hero": "quests/1550528900788912231/1550541204247027854.jpg",
-          "quest_bar_hero_video": "quests/1550528900788912231/1550541251667824832_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1534395181334270063/1534399094129295400.jpg",
-          "game_tile_dark": "quests/1534395181334270063/1534399094129295400.jpg",
-          "logotype_light": "quests/1534395181334270063/1534399093877637151.png",
-          "logotype_dark": "quests/1534395181334270063/1534399093881704558.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Typhoeus",
-          "game_title": "Arknights: Endfield",
-          "game_publisher": "GRYPHLINE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1461154307171811401"
-                }
-              ],
-              "external_ids": [
-                "PPSA18538_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-11-06T04:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://akendfield.gryphline.com/d27t/V1D5DPQ",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVHlwaG9ldXMiLCJnYW1lX3RpdGxlIjoiQXJrbmlnaHRzOiBFbmRmaWVsZCIsImdhbWVfcHVibGlzaGVyIjoiR1JZUEhMSU5FIiwiYXBwbGljYXRpb25faWQiOiIxNDYxMTU0MzA3MTcxODExNDAxIiwiYXBwbGljYXRpb25fbmFtZSI6IkFya25pZ2h0czogRW5kZmllbGQiLCJzdGFydHNfYXQiOiIyMDI2LTEwLTAxVDA3OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTAtMDdUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTEtMDZUMDQ6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTA1Mjg5MDA3ODg5MTIyMzEvMTU1MDU0MTIwNDI0NzAyNzg1NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTA1Mjg5MDA3ODg5MTIyMzEvMTU1MDU0MTM0MzgwODQyNjAyNF83MjAubXA0In0=",
-      "starts_at": "2026-10-01T07:00:00+00:00",
-      "expires_at": "2026-11-06T04:00:00+00:00",
-      "sent_at": "2026-10-01T12:36:27.204Z",
       "type": "new"
     },
     "1554264699301007411": {
@@ -1149,139 +954,6 @@
       "starts_at": "2026-10-01T15:00:00+00:00",
       "expires_at": "2026-11-14T00:00:00+00:00",
       "sent_at": "2026-10-01T20:10:11.492Z",
-      "type": "new"
-    },
-    "1552897885883072582": {
-      "id": "1552897885883072582",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-10-01T17:00:00+00:00",
-        "expires_at": "2026-10-07T17:00:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=discord&utm_medium=paidsocial&utm_campaign=MOG_2610&utm_content=__AID_NAME__-__CID_NAME__&utm_term=interest_us",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1552897885883072582/1553109709689458719.jpg",
-          "hero_video": "quests/1552897885883072582/1553109710209810644.mp4",
-          "quest_bar_hero_blurhash": "VTkSHIIHR4h5eIZ4h4gHfWngtw==",
-          "quest_bar_hero": "quests/1552897885883072582/1553109709710430238.jpg",
-          "quest_bar_hero_video": "quests/1552897885883072582/1553109711253930107.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1552897885883072582/1553109710155153499.jpg",
-          "game_tile_dark": "quests/1552897885883072582/1553109710155153499.jpg",
-          "logotype_light": "quests/1552897885883072582/1553109709706502275.png",
-          "logotype_dark": "quests/1552897885883072582/1553109709597319260.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "March of Giants Trailer",
-          "game_title": "March of Giants",
-          "game_publisher": "Ubisoft"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO": {
-              "type": "WATCH_VIDEO",
-              "target": 134,
-              "assets": {
-                "video": {
-                  "url": "quests/1552897885883072582/1553109709957898361_1080.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552897885883072582/1553109709957898361_720.mp4",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552897885883072582/1553109709957898361.m3u8",
-                  "width": 1920,
-                  "height": 1080,
-                  "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            },
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 134,
-              "assets": {
-                "video": {
-                  "url": "quests/1552897885883072582/1553109710176264202_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1552897885883072582/1553109710176264202_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1552897885883072582/1553109710176264202.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1552897885883072582/1553109709718949969.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 3,
-              "sku_id": "1554525949758804089",
-              "asset": "quests/1552897885883072582/1555272274851135599.mp4",
-              "asset_video": null,
-              "messages": {
-                "name": "MoG Strikelight Helmet Avatar Decoration",
-                "name_with_article": "a MoG Strikelight Helmet Avatar Decoration",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "expires_at": "2026-12-07T00:00:00+00:00",
-              "expires_at_premium": null,
-              "expiration_mode": 3
-            }
-          ],
-          "rewards_expire_at": "2026-11-06T17:00:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=discord&utm_medium=paidsocial&utm_campaign=MOG_2610&utm_content=__AID_NAME__-__CID_NAME__&utm_term=interest_us",
-          "button_label": "Learn More",
-          "subtitle": "Join the playtest on Steam"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiTWFyY2ggb2YgR2lhbnRzIFRyYWlsZXIiLCJnYW1lX3RpdGxlIjoiTWFyY2ggb2YgR2lhbnRzIiwiZ2FtZV9wdWJsaXNoZXIiOiJVYmlzb2Z0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMDFUMTc6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMC0wN1QxNzowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMS0wNlQxNzowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTM0fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjEzNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTI4OTc4ODU4ODMwNzI1ODIvMTU1MzEwOTcwOTY4OTQ1ODcxOS5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTI4OTc4ODU4ODMwNzI1ODIvMTU1MzEwOTcxMDIwOTgxMDY0NC5tcDQifQ==",
-      "starts_at": "2026-10-01T17:00:00+00:00",
-      "expires_at": "2026-11-06T17:00:00+00:00",
-      "sent_at": "2026-10-02T00:34:17.650Z",
       "type": "new"
     },
     "1554249650012164207": {
@@ -15413,7 +15085,224 @@
       "expires_at": "2026-12-13T01:00:00+00:00",
       "sent_at": "2026-11-06T01:24:29.774Z",
       "type": "new"
+    },
+    "1567679380166156430": {
+      "id": "1567679380166156430",
+      "config": {
+        "id": "1567679380166156430",
+        "config_version": 2,
+        "starts_at": "2026-11-06T18:00:00+00:00",
+        "expires_at": "2026-11-16T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.roblox.com/games/130739873848552/Basketball-Zero?gsrbx=1&ad_name=QN1F2AFG",
+          "id": "363445589247131668",
+          "name": "Roblox"
+        },
+        "assets": {
+          "hero": "quests/1567679380166156430/1567680260659748964.jpg",
+          "hero_video": "quests/1567679380166156430/1567680322848694384_720.mp4",
+          "quest_bar_hero_blurhash": "XQcKOoirBAWzaSZpYLgGdXs=",
+          "quest_bar_hero": "quests/1567679380166156430/1567680260659748964.jpg",
+          "quest_bar_hero_video": "quests/1567679380166156430/1567680322848694384_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1562915304299044884/1562916601886670980.png",
+          "game_tile_dark": "quests/1562915304299044884/1562916601861243000.png",
+          "logotype_light": "quests/1567679380166156430/1567680260676255856.png",
+          "logotype_dark": "quests/1567679380166156430/1567680260676255856.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Basketball Zero",
+          "game_title": "Basketball Zero on Roblox",
+          "game_publisher": "ROBLOX"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "363445589247131668"
+                }
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2026-12-16T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.roblox.com/games/130739873848552/Basketball-Zero?gsrbx=1&ad_name=QN1F2AFG",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmFza2V0YmFsbCBaZXJvIiwiZ2FtZV90aXRsZSI6IkJhc2tldGJhbGwgWmVybyBvbiBSb2Jsb3giLCJnYW1lX3B1Ymxpc2hlciI6IlJPQkxPWCIsImFwcGxpY2F0aW9uX2lkIjoiMzYzNDQ1NTg5MjQ3MTMxNjY4IiwiYXBwbGljYXRpb25fbmFtZSI6IlJvYmxveCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDZUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Njc2NzkzODAxNjYxNTY0MzAvMTU2NzY4MDI2MDY1OTc0ODk2NC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1Njc2NzkzODAxNjYxNTY0MzAvMTU2NzY4MDMyMjg0ODY5NDM4NF83MjAubXA0In0=",
+      "starts_at": "2026-11-06T18:00:00+00:00",
+      "expires_at": "2026-12-16T01:00:00+00:00",
+      "sent_at": "2026-11-06T18:58:46.067Z",
+      "type": "new"
+    },
+    "1565824572396277880": {
+      "id": "1565824572396277880",
+      "config": {
+        "id": "1565824572396277880",
+        "config_version": 2,
+        "starts_at": "2026-11-06T18:00:00+00:00",
+        "expires_at": "2026-11-21T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "id": "1511443377927880775",
+          "name": "Call of Duty: Modern Warfare 4"
+        },
+        "assets": {
+          "hero": "quests/1565824572396277880/1565841949166932089.jpg",
+          "hero_video": "quests/1565824572396277880/1565842237160689674_720.mp4",
+          "quest_bar_hero_blurhash": "jOcNCoKAanhbaHiIj6L3Ook=",
+          "quest_bar_hero": "quests/1565824572396277880/1565841949166932089.jpg",
+          "quest_bar_hero_video": "quests/1565824572396277880/1565842237160689674_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565824572396277880/1565842896157155358.png",
+          "game_tile_dark": "quests/1565824572396277880/1565841948860883004.png",
+          "logotype_light": "quests/1565824572396277880/1565842896043905215.png",
+          "logotype_dark": "quests/1565824572396277880/1565841948646973531.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Call of Duty: Modern Warfare 4",
+          "game_title": "Call of Duty: Modern Warfare 4",
+          "game_publisher": "Activision"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ]
+            },
+            "PLAY_ON_XBOX": {
+              "type": "PLAY_ON_XBOX",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "1680003655",
+                "2001700854"
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1511443377927880775"
+                }
+              ],
+              "external_ids": [
+                "CUSA34030_00",
+                "CUSA53710_00",
+                "CUSA34031_00",
+                "CUSA53711_00",
+                "PPSA24263_00",
+                "PPSA07953_00",
+                "PPSA24264_00",
+                "PPSA01649_00",
+                "CUSA53713_00",
+                "CUSA53712_00",
+                "CUSA34032_00",
+                "PPSA24265_00",
+                "PPSA24266_00",
+                "CUSA34029_00",
+                "CUSA23827_00",
+                "CUSA53714_00",
+                "PPSA07951_00",
+                "PPSA07950_00",
+                "PPSA07952_00",
+                "PPSA28781_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1565824572396277881",
+              "asset": "quests/1565824572396277880/1566876683464745120.jpg",
+              "asset_video": null,
+              "messages": {
+                "name": "Weapons Blueprint",
+                "name_with_article": "a Weapons Blueprint",
+                "redemption_instructions_by_platform": {
+                  "0": "Redeem your code for an exclusive Weapon Blueprint at callofduty.com/redeem."
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": "https://callofduty.com/redeem"
+            }
+          ],
+          "rewards_expire_at": "2026-12-21T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.callofduty.com/playnow/modernwarfare4",
+          "button_label": "Phát Ngay",
+          "subtitle": "Some lines don't hold forever."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQ2FsbCBvZiBEdXR5OiBNb2Rlcm4gV2FyZmFyZSA0IiwiZ2FtZV90aXRsZSI6IkNhbGwgb2YgRHV0eTogTW9kZXJuIFdhcmZhcmUgNCIsImdhbWVfcHVibGlzaGVyIjoiQWN0aXZpc2lvbiIsImFwcGxpY2F0aW9uX2lkIjoiMTUxMTQ0MzM3NzkyNzg4MDc3NSIsImFwcGxpY2F0aW9uX25hbWUiOiJDYWxsIG9mIER1dHk6IE1vZGVybiBXYXJmYXJlIDQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMjFUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMjFUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOlsiUEMiLCJQbGF5U3RhdGlvbiIsIlhib3giXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1hCT1giLCJ0eXBlIjoiUExBWV9PTl9YQk9YIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTY1ODI0NTcyMzk2Mjc3ODgwLzE1NjU4NDE5NDkxNjY5MzIwODkuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTY1ODI0NTcyMzk2Mjc3ODgwLzE1NjU4NDIyMzcxNjA2ODk2NzRfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-06T18:00:00+00:00",
+      "expires_at": "2026-12-21T01:00:00+00:00",
+      "sent_at": "2026-11-06T18:58:47.461Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-06T10:28:13.678Z"
+  "last_check": "2026-11-06T18:58:48.573Z"
 }
