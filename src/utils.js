@@ -75,13 +75,50 @@ function taskSignature(tasks) {
     .join('|');
 }
 
+/**
+ * Task types whose `target` is a duration in SECONDS: PLAY_ON_DESKTOP/XBOX/
+ * PLAYSTATION, PLAY_ACTIVITY, WATCH_VIDEO(_ON_MOBILE), STREAM_ON_DESKTOP.
+ * Per the Discord docs, `target` is an opaque value and is only a duration
+ * "for duration-based tasks" — ACHIEVEMENT_IN_GAME / ACHIEVEMENT_IN_ACTIVITY
+ * are tracked by the application itself and their target is NOT seconds
+ * (typically a count, e.g. 1), so printing it as a time would be wrong
+ * ("1 giây"). Matching on the prefix rather than a fixed list keeps future
+ * PLAY_, WATCH_, STREAM_ variants working; anything unrecognised shows no
+ * time at all rather than risk a misleading number.
+ */
+const DURATION_TASK_PATTERN = /^(PLAY|WATCH|STREAM)_/;
+
+/**
+ * Formats a task's duration for display, e.g. " (28 giây)", " (15 phút)",
+ * " (1 phút 51 giây)". Exact rather than rounded to whole minutes — the old
+ * Math.round(target / 60) turned a 28s video into "0 phút" and a 111s one
+ * into "2 phút". Returns '' for non-duration tasks or a missing/zero target.
+ *
+ * Takes the whole task object (needs `type` as well as `target`). Shared by
+ * embed.js's task list and summarizeTasks() below so both stay in sync —
+ * an earlier fix only touched embed.js's copy of this logic and missed the
+ * other one.
+ */
+export function formatTaskDuration(task) {
+  const type = String(task?.type || '');
+  const target = Number(task?.target);
+  if (!DURATION_TASK_PATTERN.test(type)) return '';
+  if (!Number.isFinite(target) || target <= 0) return '';
+
+  const total = Math.round(target);
+  if (total < 60) return ` (${total} giây)`;
+
+  const minutes = Math.floor(total / 60);
+  const seconds = total % 60;
+  return seconds === 0 ? ` (${minutes} phút)` : ` (${minutes} phút ${seconds} giây)`;
+}
+
 function summarizeTasks(tasks) {
   return (
     Object.values(tasks || {})
       .map(t => {
         const name = String(t?.type || '').replace(/_/g, ' ');
-        const minutes = t?.target ? Math.round(t.target / 60) : 0;
-        return `${name} (${minutes} phút)`;
+        return `${name}${formatTaskDuration(t)}`;
       })
       .join(', ') || '—'
   );

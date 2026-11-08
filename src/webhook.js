@@ -54,13 +54,21 @@ function buildWebhookUrl(webhookUrl, payload) {
 
 /**
  * POST to a webhook URL with retry-with-backoff on 429 AND on network/
- * connection-level failures (fetch() throwing outright — TLS handshake
- * issues, connection resets, etc. — rather than coming back as a clean
- * HTTP status). The "Authentication failed" errors that were showing up as
- * their own message in the channel were exactly this: a low-level
- * connection error from fetch() itself, which the old code let propagate
- * straight up with no retry at all, bypassing the 429 handling entirely
- * since it's a different failure mode.
+ * connection-level failures (fetch() throwing outright rather than coming
+ * back as a clean HTTP status — TLS handshake issues, connection resets,
+ * etc.). The "Error during client connection: Authentication failed"
+ * message that was getting posted as its own channel message was exactly
+ * this: a low-level connection error from fetch() itself, which previously
+ * had no retry at all and propagated straight to sendErrorNotice().
+ *
+ * This was also the cause of "many new quests but only ~5 get sent":
+ * Discord's webhook rate limit (a handful of messages per short window) had
+ * no retry logic here before — a 429 just threw immediately, main.js logged
+ * an error and moved to the NEXT quest without retrying the one that just
+ * failed, so everything after the rate limit kicked in was silently
+ * dropped for that run (though it would be retried on the next scheduled
+ * run, since a failed send never gets saved to state — this fix means it
+ * usually won't even need to wait for that).
  */
 async function postWithRetries(url, options, retries = WEBHOOK_RETRIES) {
   for (let attempt = 0; attempt <= retries; attempt++) {

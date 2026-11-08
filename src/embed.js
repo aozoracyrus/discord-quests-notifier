@@ -13,7 +13,7 @@
 // - updated quest: NO role ping ever, NO restart note, NO video — title ->
 //   hero image ONLY -> "## Thay đổi" -> changes text -> quest id
 import { i18n } from './language.js';
-import { formatDate, getReward, buildChangeDescription, derivePlatformsFromTasks } from './utils.js';
+import { formatDate, getReward, buildChangeDescription, derivePlatformsFromTasks, formatTaskDuration } from './utils.js';
 import { decodeFeatures } from './state.js';
 import { PING_ROLE_ID } from './config.js';
 import fs from 'fs/promises';
@@ -25,6 +25,32 @@ const FALLBACK_ORB_ICON =
   'https://raw.githubusercontent.com/kanamotokumo/discord-quests-notifier/refs/heads/main/assets/orb.png';
 const FALLBACK_NITRO_ICON =
   'https://raw.githubusercontent.com/kanamotokumo/discord-quests-notifier/refs/heads/main/assets/nitro.png';
+
+// `<@$APPLICATION_ID>` is the "game chip" markup seen in the reference bot's
+// raw message template — it's not in any public Discord docs (docs.discord.food's
+// full list of message formats has no application mention), so whether it
+// renders as a clickable game chip when sent via a webhook (vs. showing as
+// literal text) is unverified. Set APP_MENTIONS=false to fall back to the
+// plain backticked ID if it doesn't render for you.
+const USE_APP_MENTIONS = String(process.env.APP_MENTIONS ?? 'true').toLowerCase() !== 'false';
+
+/** `<@$id>` chip when enabled, otherwise the plain backticked id. */
+function formatAppRef(appId) {
+  if (!appId) return '';
+  return USE_APP_MENTIONS ? `<@$${appId}>` : `\`${appId}\``;
+}
+
+/**
+ * Mentions for the application(s) a task is tied to (PLAY_ON_* and
+ * ACHIEVEMENT_* tasks list them under `applications`; video tasks don't,
+ * so they get no mention).
+ */
+function formatTaskAppMentions(task) {
+  const ids = (Array.isArray(task?.applications) ? task.applications : [])
+    .map(a => a?.id)
+    .filter(Boolean);
+  return ids.length ? ` (${ids.map(formatAppRef).join(' ')})` : '';
+}
 
 function withWebpFormat(url) {
   try {
@@ -153,7 +179,7 @@ function buildInfoText(config) {
     `**${i18n.reward_expires}:** ${rewardExpires}`,
     `**${i18n.platforms}:** ${platforms}`,
     `**${i18n.game}:** ${gameTitle} (${gamePublisher})`,
-    `**${i18n.application}:** [${applicationName}](${applicationLink}) (\`${applicationId}\`)`,
+    `**${i18n.application}:** [${applicationName}](${applicationLink}) (${formatAppRef(applicationId)})`,
     `**${i18n.features}:** ${features}`,
   ].join('\n');
 }
@@ -178,13 +204,7 @@ export async function buildNewQuestEmbed(content, quest, assets) {
   const taskList = Object.values(tasks)
     .map(task => {
       const taskName = String(task.type || '').replace(/_/g, ' ').trim() || 'TASK';
-      const minutes = task.target ? Math.round(task.target / 60) : 0;
-      // Completion-based task types (ACHIEVEMENT_IN_ACTIVITY, ACHIEVEMENT_IN_GAME)
-      // never have a meaningful `target` — showing "(0 phút)" for those (or
-      // for anything else where target is genuinely absent) is misleading,
-      // so the duration suffix only appears when there's a real value.
-      const durationSuffix = minutes > 0 ? ` (${minutes} phút)` : '';
-      return `*   ${taskName}${durationSuffix}`;
+      return `*   ${taskName}${formatTaskDuration(task)}${formatTaskAppMentions(task)}`;
     })
     .join('\n');
 
