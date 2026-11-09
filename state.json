@@ -1464,7 +1464,7 @@
         },
         "messages": {
           "quest_name": "Victorian Psycho",
-          "game_title": "Meet your new favorite psycho. In theaters Nov 13",
+          "game_title": "Meet your new favorite psycho. In theaters Friday.",
           "game_publisher": "Bleecker Street"
         },
         "task_config_v2": {
@@ -1474,22 +1474,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1562333156105789580/1562333444829085706_1080.mp4",
+                  "url": "quests/1562333156105789580/1562333445273817119_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1562333156105789580/1562333444829085706_720.mp4",
+                  "url": "quests/1562333156105789580/1562333445273817119_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1562333156105789580/1562333444829085706.m3u8",
+                  "url": "quests/1562333156105789580/1562333445273817119.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
                 }
               },
               "messages": {
@@ -1501,22 +1501,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1562333156105789580/1562333444909047879_1080.mp4",
+                  "url": "quests/1562333156105789580/1562333444933947444_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1562333156105789580/1562333444909047879_720.mp4",
+                  "url": "quests/1562333156105789580/1562333444933947444_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1562333156105789580/1562333444909047879.m3u8",
+                  "url": "quests/1562333156105789580/1562333444933947444.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1562333156105789580/1562333544410255370.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
                 }
               },
               "messages": {
@@ -1552,14 +1552,15 @@
         "cta_config": {
           "link": "https://bleeckerstreetmedia.com/victorian-psycho",
           "button_label": "Get Tickets",
-          "subtitle": "Meet your new favorite psycho. In theaters Nov 13"
+          "subtitle": "Meet your new favorite psycho. In theaters Friday."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVmljdG9yaWFuIFBzeWNobyIsImdhbWVfdGl0bGUiOiJNZWV0IHlvdXIgbmV3IGZhdm9yaXRlIHBzeWNoby4gSW4gdGhlYXRlcnMgTm92IDEzIiwiZ2FtZV9wdWJsaXNoZXIiOiJCbGVlY2tlciBTdHJlZXQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wMlQxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyMzMzMTU2MTA1Nzg5NTgwLzE1NjIzMzM1ODYwNTU2MjY4MTIuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYyMzMzMTU2MTA1Nzg5NTgwLzE1NjIzMzc4OTU2NDQyNzA2NzNfNzIwLm1wNCJ9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVmljdG9yaWFuIFBzeWNobyIsImdhbWVfdGl0bGUiOiJNZWV0IHlvdXIgbmV3IGZhdm9yaXRlIHBzeWNoby4gSW4gdGhlYXRlcnMgRnJpZGF5LiIsImdhbWVfcHVibGlzaGVyIjoiQmxlZWNrZXIgU3RyZWV0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MjMzMzE1NjEwNTc4OTU4MC8xNTYyMzMzNTg2MDU1NjI2ODEyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2MjMzMzE1NjEwNTc4OTU4MC8xNTYyMzM3ODk1NjQ0MjcwNjczXzcyMC5tcDQifQ==",
       "starts_at": "2026-11-02T18:00:00+00:00",
-      "expires_at": "2026-12-16T01:00:00+00:00",
+      "expires_at": "2026-11-16T01:00:00+00:00",
       "sent_at": "2026-11-08T06:35:52.055Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-09T22:00:06.510Z"
     },
     "1555328744665911297": {
       "id": "1555328744665911297",
@@ -6876,7 +6877,993 @@
       "expires_at": "2026-12-12T23:59:00+00:00",
       "sent_at": "2026-11-09T10:59:26.651Z",
       "type": "new"
+    },
+    "1552769263335514132": {
+      "id": "1552769263335514132",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T14:00:00+00:00",
+        "expires_at": "2026-11-14T07:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.netflix.com/tudum/features/what-to-watch-next-on-netflix-2026?utm_source=discord&utm_medium=paid&utm_campaign=us_whattowatch2026&utm_content=what-to-watch-next-on-netflix-2026",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552769263335514132/1568012880903671878.jpg",
+          "quest_bar_hero_blurhash": "SxgCDIIu3S+qeYp4Y4cKeXiwaA==",
+          "quest_bar_hero": "quests/1552769263335514132/1567318235068760095.jpg",
+          "quest_bar_hero_video": "quests/1552769263335514132/1567319671865344160_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552769263335514132/1567318156702126111.png",
+          "game_tile_dark": "quests/1552769263335514132/1567318156702126111.png",
+          "logotype_light": "quests/1552769263335514132/1568013514361147403.png",
+          "logotype_dark": "quests/1552769263335514132/1568013928200675458.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Netflix | What Next?",
+          "game_title": "Find The Thing You Never Knew You Needed",
+          "game_publisher": "Netflix"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1552769263335514132/1567318196124520549_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552769263335514132/1567318178567036928.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552769263335514132/1567318196124520549_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552769263335514132/1567318178567036928.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552769263335514132/1567318196124520549.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552769263335514132/1567318178567036928.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1552769263335514132/1567318210414518302_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552769263335514132/1567318178567036928.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1552769263335514132/1567318210414518302_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552769263335514132/1567318178567036928.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1552769263335514132/1567318210414518302.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1552769263335514132/1567318178567036928.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-14T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.netflix.com/tudum/features/what-to-watch-next-on-netflix-2026?utm_source=discord&utm_medium=paid&utm_campaign=us_whattowatch2026&utm_content=what-to-watch-next-on-netflix-2026",
+          "button_label": "Learn More",
+          "subtitle": "Find The Thing You Never Knew You Needed"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTmV0ZmxpeCB8IFdoYXQgTmV4dD8iLCJnYW1lX3RpdGxlIjoiRmluZCBUaGUgVGhpbmcgWW91IE5ldmVyIEtuZXcgWW91IE5lZWRlZCIsImdhbWVfcHVibGlzaGVyIjoiTmV0ZmxpeCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA5VDE0OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTRUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTRUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo1OX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo1OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTI3NjkyNjMzMzU1MTQxMzIvMTU2ODAxMjg4MDkwMzY3MTg3OC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-09T14:00:00+00:00",
+      "expires_at": "2026-12-14T07:59:00+00:00",
+      "sent_at": "2026-11-09T21:59:52.135Z",
+      "type": "new"
+    },
+    "1556298947713179718": {
+      "id": "1556298947713179718",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T17:00:00+00:00",
+        "expires_at": "2026-11-13T01:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533067",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1556298947713179718/1563300045149970442.jpg",
+          "hero_video": "quests/1556298947713179718/1564312290403164171_720.mp4",
+          "quest_bar_hero_blurhash": "c7cNAoLbgE2HeHiIIk4wsEY=",
+          "quest_bar_hero": "quests/1556298947713179718/1563300045149970442.jpg",
+          "quest_bar_hero_video": "quests/1556298947713179718/1564312290403164171_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1556298947713179718/1563300043430043709.png",
+          "game_tile_dark": "quests/1556298947713179718/1563300043430043709.png",
+          "logotype_light": "quests/1556298947713179718/1563300043522576597.png",
+          "logotype_dark": "quests/1556298947713179718/1563300043522576597.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "12 12 12",
+          "game_title": "New heist drama 12 12 12 on Apple TV Nov 13",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 194,
+              "assets": {
+                "video": {
+                  "url": "quests/1556298947713179718/1567397595670904952_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1556298947713179718/1567397595670904952_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1556298947713179718/1567397595670904952.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-13T01:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533067",
+          "button_label": "View More",
+          "subtitle": "New heist drama 12 12 12 on Apple TV Nov 13"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiMTIgMTIgMTIiLCJnYW1lX3RpdGxlIjoiTmV3IGhlaXN0IGRyYW1hIDEyIDEyIDEyIG9uIEFwcGxlIFRWIE5vdiAxMyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUgVFYiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTEzVDAxOjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTEzVDAxOjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTk0fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjI5ODk0NzcxMzE3OTcxOC8xNTYzMzAwMDQ1MTQ5OTcwNDQyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjI5ODk0NzcxMzE3OTcxOC8xNTY0MzEyMjkwNDAzMTY0MTcxXzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-09T17:00:00+00:00",
+      "expires_at": "2026-12-13T01:59:00+00:00",
+      "sent_at": "2026-11-09T21:59:54.786Z",
+      "type": "new"
+    },
+    "1565847146605838466": {
+      "id": "1565847146605838466",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T17:00:00+00:00",
+        "expires_at": "2026-11-13T01:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533068",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1556298947713179718/1563300045149970442.jpg",
+          "hero_video": "quests/1556298947713179718/1564312290403164171_720.mp4",
+          "quest_bar_hero_blurhash": "c7cNAoLbgE2HeHiIIk4wsEY=",
+          "quest_bar_hero": "quests/1556298947713179718/1563300045149970442.jpg",
+          "quest_bar_hero_video": "quests/1556298947713179718/1564312308602114151_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1556298947713179718/1563300043430043709.png",
+          "game_tile_dark": "quests/1556298947713179718/1563300043430043709.png",
+          "logotype_light": "quests/1556298947713179718/1563300043522576597.png",
+          "logotype_dark": "quests/1556298947713179718/1563300043522576597.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "12 12 12",
+          "game_title": "New heist drama 12 12 12 on Apple TV Nov 13",
+          "game_publisher": "Apple TV"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 194,
+              "assets": {
+                "video": {
+                  "url": "quests/1556298947713179718/1567397595670904952_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1556298947713179718/1567397595670904952_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1556298947713179718/1567397595670904952.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1556298947713179718/1563300047527874651.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-13T01:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "not_shareable",
+        "cta_config": {
+          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07533068",
+          "button_label": "View More",
+          "subtitle": "New heist drama 12 12 12 on Apple TV Nov 13"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiMTIgMTIgMTIiLCJnYW1lX3RpdGxlIjoiTmV3IGhlaXN0IGRyYW1hIDEyIDEyIDEyIG9uIEFwcGxlIFRWIE5vdiAxMyIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUgVFYiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wOVQxNzowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTEzVDAxOjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTEzVDAxOjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTk0fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjI5ODk0NzcxMzE3OTcxOC8xNTYzMzAwMDQ1MTQ5OTcwNDQyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjI5ODk0NzcxMzE3OTcxOC8xNTY0MzEyMjkwNDAzMTY0MTcxXzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-09T17:00:00+00:00",
+      "expires_at": "2026-12-13T01:59:00+00:00",
+      "sent_at": "2026-11-09T21:59:56.269Z",
+      "type": "new"
+    },
+    "1553899592100085760": {
+      "id": "1553899592100085760",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2027-01-01T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.microsoft.com/en-us/windows/rtx-spark-laptops?OCID=AIDcmmxvafc3ot_OLA_%ebuy!_%25epid!_%ecid!&siteID=%25esid!",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1553899592100085760/1559995467696312320.jpg",
+          "hero_video": "quests/1553899592100085760/1559990969636749312_720.mp4",
+          "quest_bar_hero_blurhash": "ltcFFIIgZUVcVXh3hJlgfAX3WQ==",
+          "quest_bar_hero": "quests/1553899592100085760/1559995467696312320.jpg",
+          "quest_bar_hero_video": "quests/1553899592100085760/1559990969636749312_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1553899592100085760/1562168943844663336.png",
+          "game_tile_dark": "quests/1553899592100085760/1560026866599854192.png",
+          "logotype_light": "quests/1553899592100085760/1562168246273179679.png",
+          "logotype_dark": "quests/1553899592100085760/1559987758192136294.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Windows Power",
+          "game_title": "What will you do with all this power?",
+          "game_publisher": "Microsoft"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553899592100085760/1559981566472749126_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553899592100085760/1559981566472749126_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553899592100085760/1559981566472749126.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1553899592100085760/1559981566472749126_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1553899592100085760/1559981566472749126_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                },
+                "video_hls": {
+                  "url": "quests/1553899592100085760/1559981566472749126.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1553899592100085760/1562270438061776927.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2027-01-31T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.microsoft.com/en-us/windows/rtx-spark-laptops?OCID=AIDcmmxvafc3ot_OLA_%ebuy!_%25epid!_%ecid!&siteID=%25esid!",
+          "button_label": "Learn More",
+          "subtitle": "What will you do with all this power?"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2luZG93cyBQb3dlciIsImdhbWVfdGl0bGUiOiJXaGF0IHdpbGwgeW91IGRvIHdpdGggYWxsIHRoaXMgcG93ZXI/IiwiZ2FtZV9wdWJsaXNoZXIiOiJNaWNyb3NvZnQiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wOVQxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI3LTAxLTAxVDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI3LTAxLTMxVDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUzODk5NTkyMTAwMDg1NzYwLzE1NTk5OTU0Njc2OTYzMTIzMjAuanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTUzODk5NTkyMTAwMDg1NzYwLzE1NTk5OTA5Njk2MzY3NDkzMTJfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-09T18:00:00+00:00",
+      "expires_at": "2027-01-31T01:00:00+00:00",
+      "sent_at": "2026-11-09T21:59:57.822Z",
+      "type": "new"
+    },
+    "1562883818254508073": {
+      "id": "1562883818254508073",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2026-11-15T04:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.tntdrama.com/the-fight",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1562883818254508073/1567935020394487958.jpg",
+          "hero_video": "quests/1562883818254508073/1568006605675565128_720.mp4",
+          "quest_bar_hero_blurhash": "TwkKJIJoh2Z9iHdgiZYImJC7Bw==",
+          "quest_bar_hero": "quests/1562883818254508073/1567934967193804991.jpg",
+          "quest_bar_hero_video": "quests/1562883818254508073/1568006605675565128_720.mp4",
+          "game_tile": "1521147152557019178.png",
+          "logotype": "1521165018358349984.png",
+          "game_tile_light": "quests/1562883818254508073/1567934740919619706.png",
+          "game_tile_dark": "quests/1562883818254508073/1567934740919619706.png",
+          "logotype_light": "quests/1562883818254508073/1567935640325324962.png",
+          "logotype_dark": "quests/1562883818254508073/1567934741007835280.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "TNT The Fight",
+          "game_title": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN.",
+          "game_publisher": "TNT Sports"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 84,
+              "assets": {
+                "video": {
+                  "url": "quests/1562883818254508073/1568375981461209314_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562883818254508073/1568375981461209314_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562883818254508073/1568375981461209314.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 84,
+              "assets": {
+                "video": {
+                  "url": "quests/1562883818254508073/1568400682770239629_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562883818254508073/1568400682770239629_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562883818254508073/1568400682770239629.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-15T04:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.tntdrama.com/the-fight",
+          "button_label": "Learn More",
+          "subtitle": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVE5UIFRoZSBGaWdodCIsImdhbWVfdGl0bGUiOiJUaGUgRmlnaHQgcmV0dXJucyBTYXR1cmRheSBhcyBEaWVnbyBQYWNoZWNvIHRha2VzIG9uIERhcml1cyBGdWxnaHVtIHdpdGggdGhlIFdCQyBTaWx2ZXIgU3VwZXIgTWlkZGxld2VpZ2h0IENoYW1waW9uc2hpcCBvbiB0aGUgbGluZSEgQ2F0Y2ggYWxsIHRoZSBhY3Rpb24gb24gVE5ULCB0cnVUViBhbmQgREFaTi4iLCJnYW1lX3B1Ymxpc2hlciI6IlROVCBTcG9ydHMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wOVQxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE1VDA0OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE1VDA0OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODR9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODR9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTYyODgzODE4MjU0NTA4MDczLzE1Njc5MzUwMjAzOTQ0ODc5NTguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTYyODgzODE4MjU0NTA4MDczLzE1NjgwMDY2MDU2NzU1NjUxMjhfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-09T18:00:00+00:00",
+      "expires_at": "2026-12-15T04:59:00+00:00",
+      "sent_at": "2026-11-09T21:59:59.575Z",
+      "type": "new"
+    },
+    "1554639238346178640": {
+      "id": "1554639238346178640",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2026-11-19T07:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.violentnightmovie.com",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1554639238346178640/1567613597348266145.jpg",
+          "quest_bar_hero_blurhash": "SOcFFII4doeId4hgmXVqZ89F9A==",
+          "quest_bar_hero": "quests/1554639238346178640/1568021232018792598.jpg",
+          "quest_bar_hero_video": "quests/1554639238346178640/1568021653496275044_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554639238346178640/1567613426744696975.png",
+          "game_tile_dark": "quests/1554639238346178640/1567613426891497655.png",
+          "logotype_light": "quests/1554639238346178640/1567613516242747524.png",
+          "logotype_dark": "quests/1554639238346178640/1567613515626188801.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Violent Night 2",
+          "game_title": "In Theaters December 4",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1554639238346178640/1567613836607881286_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1554639238346178640/1567613836607881286_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+                },
+                "video_hls": {
+                  "url": "quests/1554639238346178640/1567613836607881286.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 59,
+              "assets": {
+                "video": {
+                  "url": "quests/1554639238346178640/1567960017674698762_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1554639238346178640/1567960017674698762_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+                },
+                "video_hls": {
+                  "url": "quests/1554639238346178640/1567960017674698762.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1554639238346178640/1567613563667878008.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-19T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.violentnightmovie.com",
+          "button_label": "Learn More",
+          "subtitle": "In Theaters December 4"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVmlvbGVudCBOaWdodCAyIiwiZ2FtZV90aXRsZSI6IkluIFRoZWF0ZXJzIERlY2VtYmVyIDQiLCJnYW1lX3B1Ymxpc2hlciI6IlVuaXZlcnNhbCBQaWN0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA5VDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo1OX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo1OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTQ2MzkyMzgzNDYxNzg2NDAvMTU2NzYxMzU5NzM0ODI2NjE0NS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-09T18:00:00+00:00",
+      "expires_at": "2026-12-19T07:59:00+00:00",
+      "sent_at": "2026-11-09T22:00:01.292Z",
+      "type": "new"
+    },
+    "1567441774820065380": {
+      "id": "1567441774820065380",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2026-11-23T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_blurhash": "GTgKCoQ1dsZfeIZ2MIQCdmo=",
+          "quest_bar_hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_video": "quests/1567441774820065380/1568319510967095417_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1567441774820065380/1567443432710864946.png",
+          "game_tile_dark": "quests/1567441774820065380/1567443432681771028.png",
+          "logotype_light": "quests/1567441774820065380/1567443367418138775.png",
+          "logotype_dark": "quests/1567441774820065380/1567443367489568778.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Hunger Games Video",
+          "game_title": "IN THEATERS AND IMAX NOV 20",
+          "game_publisher": "Lionsgate"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 143,
+              "assets": {
+                "video": {
+                  "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                },
+                "video_hls": {
+                  "url": "quests/1567441774820065380/1567448750396280842.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 143,
+              "assets": {
+                "video": {
+                  "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                },
+                "video_hls": {
+                  "url": "quests/1567441774820065380/1567448750396280842.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299718004766.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 3,
+              "sku_id": "1568352578654310410",
+              "asset": "quests/1567441774820065380/1568352690139045888.mp4",
+              "asset_video": null,
+              "messages": {
+                "name": "Hunger Games Avatar Decoration",
+                "name_with_article": "a Hunger Games Avatar Decoration",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "expires_at": "2026-12-23T01:00:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
+            }
+          ],
+          "rewards_expire_at": "2026-12-23T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "button_label": "Get Tickets",
+          "subtitle": "IN THEATERS AND IMAX NOV 20"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEh1bmdlciBHYW1lcyBWaWRlbyIsImdhbWVfdGl0bGUiOiJJTiBUSEVBVEVSUyBBTkQgSU1BWCBOT1YgMjAiLCJnYW1lX3B1Ymxpc2hlciI6Ikxpb25zZ2F0ZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA5VDE4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMjNUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMjNUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjpudWxsLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjE0M30seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNDN9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTY3NDQxNzc0ODIwMDY1MzgwLzE1Njc0NDMyNzgyODkzMTM5MzIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-11-09T18:00:00+00:00",
+      "expires_at": "2026-12-23T01:00:00+00:00",
+      "sent_at": "2026-11-09T22:00:03.527Z",
+      "type": "new"
+    },
+    "1568037498372886608": {
+      "id": "1568037498372886608",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-09T18:00:00+00:00",
+        "expires_at": "2026-11-15T04:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.tntdrama.com/the-fight",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1562883818254508073/1567935020394487958.jpg",
+          "hero_video": "quests/1562883818254508073/1568006605675565128_720.mp4",
+          "quest_bar_hero_blurhash": "TwkKJIJoh2Z9iHdgiZYImJC7Bw==",
+          "quest_bar_hero": "quests/1562883818254508073/1567934967193804991.jpg",
+          "quest_bar_hero_video": "quests/1562883818254508073/1568006605675565128_720.mp4",
+          "game_tile": "1521147152557019178.png",
+          "logotype": "1521165018358349984.png",
+          "game_tile_light": "quests/1562883818254508073/1567934740919619706.png",
+          "game_tile_dark": "quests/1562883818254508073/1567934740919619706.png",
+          "logotype_light": "quests/1562883818254508073/1567935640325324962.png",
+          "logotype_dark": "quests/1562883818254508073/1567934741007835280.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "TNT The Fight",
+          "game_title": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN.",
+          "game_publisher": "TNT Sports"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 62,
+              "assets": {
+                "video": {
+                  "url": "quests/1562883818254508073/1568372935796850760_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562883818254508073/1568372935796850760_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562883818254508073/1568372935796850760.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 62,
+              "assets": {
+                "video": {
+                  "url": "quests/1562883818254508073/1568372871330406510_1080.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1562883818254508073/1568372871330406510_720.mp4",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1562883818254508073/1568372871330406510.m3u8",
+                  "width": 1080,
+                  "height": 1920,
+                  "thumbnail": "quests/1562883818254508073/1567934967193804991.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-15T04:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.tntdrama.com/the-fight",
+          "button_label": "Learn More",
+          "subtitle": "The Fight returns Saturday as Diego Pacheco takes on Darius Fulghum with the WBC Silver Super Middleweight Championship on the line! Catch all the action on TNT, truTV and DAZN."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVE5UIFRoZSBGaWdodCIsImdhbWVfdGl0bGUiOiJUaGUgRmlnaHQgcmV0dXJucyBTYXR1cmRheSBhcyBEaWVnbyBQYWNoZWNvIHRha2VzIG9uIERhcml1cyBGdWxnaHVtIHdpdGggdGhlIFdCQyBTaWx2ZXIgU3VwZXIgTWlkZGxld2VpZ2h0IENoYW1waW9uc2hpcCBvbiB0aGUgbGluZSEgQ2F0Y2ggYWxsIHRoZSBhY3Rpb24gb24gVE5ULCB0cnVUViBhbmQgREFaTi4iLCJnYW1lX3B1Ymxpc2hlciI6IlROVCBTcG9ydHMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0wOVQxODowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE1VDA0OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE1VDA0OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjYyfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjYyfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2Mjg4MzgxODI1NDUwODA3My8xNTY3OTM1MDIwMzk0NDg3OTU4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2Mjg4MzgxODI1NDUwODA3My8xNTY4MDA2NjA1Njc1NTY1MTI4XzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-09T18:00:00+00:00",
+      "expires_at": "2026-12-15T04:59:00+00:00",
+      "sent_at": "2026-11-09T22:00:05.245Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-09T10:59:27.756Z"
+  "last_check": "2026-11-09T22:00:07.612Z"
 }
