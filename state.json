@@ -7863,7 +7863,108 @@
       "expires_at": "2026-12-15T04:59:00+00:00",
       "sent_at": "2026-11-09T22:00:05.245Z",
       "type": "new"
+    },
+    "1565599842900643881": {
+      "id": "1565599842900643881",
+      "config": {
+        "id": "1565599842900643881",
+        "config_version": 2,
+        "starts_at": "2026-11-11T03:00:00+00:00",
+        "expires_at": "2026-12-02T02:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://hsr.onelink.me/LXRY?pid=OPT_SNS&c=v47HSRDiscordQuest&af_adset=OPTv47&af_dp=honkaistarrail%3A%2F%2F&af_ios_url=https%3A%2F%2Foig.hoyoverse.com%2Fhkrpgoversea%2F&af_android_url=https%3A%2F%2Foig.hoyoverse.com%2Fhsr_android%2F&af_web_dp=https%3A%2F%2Fhsr.hoyoverse.com%3Futm_source%3DOPT%26utm_medium%3DOPT_Discord%26utm_campaign%3Dv47HSRDiscordQuest&is_retargeting=true&af_reengagement_window=lifetime",
+          "id": "1121201675240210523",
+          "name": "Honkai: Star Rail"
+        },
+        "assets": {
+          "hero": "quests/1565599842900643881/1567259873735876678.jpg",
+          "hero_video": "quests/1565599842900643881/1567259903473492088_720.mp4",
+          "quest_bar_hero_blurhash": "WUcOFIYfdoh2eIhSZodZTPBTJQ==",
+          "quest_bar_hero": "quests/1565599842900643881/1567259577567682570.jpg",
+          "quest_bar_hero_video": "quests/1565599842900643881/1567259602930901134_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1565599842900643881/1567259292774572233.png",
+          "game_tile_dark": "quests/1565599842900643881/1567259292774572233.png",
+          "logotype_light": "quests/1565599842900643881/1567259376677290064.png",
+          "logotype_dark": "quests/1565599842900643881/1567259376677290064.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Honkai: Star Rail",
+          "game_title": "Honkai: Star Rail",
+          "game_publisher": "COGNOSPHERE PTE. LTD."
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1121201675240210523"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1121201675240210523"
+                }
+              ],
+              "external_ids": [
+                "PPSA08459_00",
+                "PPSA08458_00",
+                "PPSA08457_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 1,
+              "sku_id": "1565599842900643882",
+              "asset": "quests/1565599842900643881/1567667195654316084.png",
+              "asset_video": null,
+              "messages": {
+                "name": "Gói Nhiệm Vụ V4.7",
+                "name_with_article": "Gói Nhiệm Vụ V4.7",
+                "redemption_instructions_by_platform": {
+                  "0": "\"Cách đổi:\nTruy cập trang đổi thưởng trên trang chủ Honkai: Star Rail (https://hsr.hoyoverse.com/gift), đăng nhập tài khoản game và nhập mã đổi theo hướng dẫn. Sau khi đổi thành công, nội dung gói quà sẽ được phát qua thư trong game.\n\n[Nội dung Mã Đổi] Ngọc Ánh Sao ×30, Điểm Tín Dụng ×20.000, Mảnh Vàng Đánh Mất ×4, Aether Cô Đặc ×5, Hướng Dẫn Dạo Chơi ×3\n\nChú ý: Phần thưởng có hạn. Phần thưởng sẽ được phát theo thứ tự thời gian nhận mã đổi sau khi hoàn thành nhiệm vụ, đến trước được trước.\n\n*Mã đổi sẽ hết hiệu lực vào 2026/12/21 11:00:00 (UTC+8), Nhà Khai Phá hãy nhanh chóng đổi nhé~\""
+                }
+              },
+              "approximate_count": null,
+              "redemption_link": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-01T02:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://hsr.onelink.me/LXRY?pid=OPT_SNS&c=v47HSRDiscordQuest&af_adset=OPTv47&af_dp=honkaistarrail%3A%2F%2F&af_ios_url=https%3A%2F%2Foig.hoyoverse.com%2Fhkrpgoversea%2F&af_android_url=https%3A%2F%2Foig.hoyoverse.com%2Fhsr_android%2F&af_web_dp=https%3A%2F%2Fhsr.hoyoverse.com%3Futm_source%3DOPT%26utm_medium%3DOPT_Discord%26utm_campaign%3Dv47HSRDiscordQuest&is_retargeting=true&af_reengagement_window=lifetime",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiSG9ua2FpOiBTdGFyIFJhaWwiLCJnYW1lX3RpdGxlIjoiSG9ua2FpOiBTdGFyIFJhaWwiLCJnYW1lX3B1Ymxpc2hlciI6IkNPR05PU1BIRVJFIFBURS4gTFRELiIsImFwcGxpY2F0aW9uX2lkIjoiMTEyMTIwMTY3NTI0MDIxMDUyMyIsImFwcGxpY2F0aW9uX25hbWUiOiJIb25rYWk6IFN0YXIgUmFpbCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMTFUMDM6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wMlQwMjo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wMVQwMjo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6WyJQQyIsIlBsYXlTdGF0aW9uIl0sInRhc2tzIjpbeyJrZXkiOiJQTEFZX09OX0RFU0tUT1AiLCJ0eXBlIjoiUExBWV9PTl9ERVNLVE9QIiwidGFyZ2V0Ijo5MDB9LHsia2V5IjoiUExBWV9PTl9QTEFZU1RBVElPTiIsInR5cGUiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidGFyZ2V0Ijo5MDB9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTY1NTk5ODQyOTAwNjQzODgxLzE1NjcyNTk4NzM3MzU4NzY2NzguanBnIiwiaGVyb192aWRlbyI6InF1ZXN0cy8xNTY1NTk5ODQyOTAwNjQzODgxLzE1NjcyNTk5MDM0NzM0OTIwODhfNzIwLm1wNCJ9",
+      "starts_at": "2026-11-11T03:00:00+00:00",
+      "expires_at": "2027-01-01T02:59:00+00:00",
+      "sent_at": "2026-11-11T05:02:03.927Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-10T22:55:00.456Z"
+  "last_check": "2026-11-11T05:02:05.030Z"
 }
