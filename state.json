@@ -492,7 +492,7 @@
         },
         "messages": {
           "quest_name": "The Rings of Power",
-          "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+          "game_title": "The Rings of Power S3 is now streaming on Prime.",
           "game_publisher": "Amazon Prime Video"
         },
         "task_config_v2": {
@@ -502,21 +502,21 @@
               "target": 123,
               "assets": {
                 "video": {
-                  "url": "quests/1507498167833460806/1564812916442533918_1080.mp4",
+                  "url": "quests/1507498167833460806/1569826237549908088_1080.mp4",
                   "width": 1920,
-                  "height": 1080,
+                  "height": 804,
                   "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1507498167833460806/1564812916442533918_720.mp4",
+                  "url": "quests/1507498167833460806/1569826237549908088_720.mp4",
                   "width": 1920,
-                  "height": 1080,
+                  "height": 804,
                   "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1507498167833460806/1564812916442533918.m3u8",
+                  "url": "quests/1507498167833460806/1569826237549908088.m3u8",
                   "width": 1920,
-                  "height": 1080,
+                  "height": 804,
                   "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
                 }
               },
@@ -529,21 +529,21 @@
               "target": 123,
               "assets": {
                 "video": {
-                  "url": "quests/1507498167833460806/1564812916232945774_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1507498167833460806/1569826237491445761_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1507498167833460806/1564812916232945774_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1507498167833460806/1569826237491445761_720.mp4",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1507498167833460806/1564812916232945774.m3u8",
-                  "width": 1080,
-                  "height": 1920,
+                  "url": "quests/1507498167833460806/1569826237491445761.m3u8",
+                  "width": 607,
+                  "height": 1080,
                   "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
                 }
               },
@@ -582,15 +582,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.amazon.com/gp/video/detail/B0H9PFG4BM",
-          "button_label": "Watch More",
-          "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+          "button_label": "Watch Now",
+          "subtitle": "The Rings of Power S3 is now streaming on Prime."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFJpbmdzIG9mIFBvd2VyIiwiZ2FtZV90aXRsZSI6IlRoZSBSaW5ncyBvZiBQb3dlciBTMyBwcmVtaWVyZXMgTm92IDExIG9uIFByaW1lIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMC0zMFQwMDowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE2VDAxOjAwOjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxMjN9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTIzfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTUwNzQ5ODE2NzgzMzQ2MDgwNi8xNTY0NDQzMzA4MjY3MTQzMjEwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIFJpbmdzIG9mIFBvd2VyIiwiZ2FtZV90aXRsZSI6IlRoZSBSaW5ncyBvZiBQb3dlciBTMyBpcyBub3cgc3RyZWFtaW5nIG9uIFByaW1lLiIsImdhbWVfcHVibGlzaGVyIjoiQW1hem9uIFByaW1lIFZpZGVvIiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTAtMzBUMDA6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOm51bGwsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6MTIzfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjEyM31dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1MDc0OTgxNjc4MzM0NjA4MDYvMTU2NDQ0MzMwODI2NzE0MzIxMC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-10-30T00:00:00+00:00",
-      "expires_at": "2026-12-16T01:00:00+00:00",
+      "expires_at": "2026-11-16T01:00:00+00:00",
       "sent_at": "2026-11-08T06:35:40.946Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-12T09:24:10.979Z"
     },
     "1562305244216430702": {
       "id": "1562305244216430702",
@@ -2742,7 +2743,7 @@
         },
         "messages": {
           "quest_name": "Forge The Ring",
-          "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+          "game_title": "The Rings of Power S3 is now streaming on Prime.",
           "game_publisher": "Amazon Prime Video"
         },
         "task_config_v2": {
@@ -2789,15 +2790,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-          "button_label": "Watch More",
-          "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+          "button_label": "Watch Now",
+          "subtitle": "The Rings of Power S3 is now streaming on Prime."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ2UgVGhlIFJpbmciLCJnYW1lX3RpdGxlIjoiVGhlIFJpbmdzIG9mIFBvd2VyIFMzIHByZW1pZXJlcyBOb3YgMTEgb24gUHJpbWUiLCJnYW1lX3B1Ymxpc2hlciI6IkFtYXpvbiBQcmltZSBWaWRlbyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1OTU2OTA3NTU0NDI2ODg0MCIsImFwcGxpY2F0aW9uX25hbWUiOiJbUHJvZF0gVm9sY2FubyIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDRUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xOVQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xOVQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyODE1NjM1NTA2MDA4MTc1LzE1Njc0MjAyNjk5MzE1MzIyOTguanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ2UgVGhlIFJpbmciLCJnYW1lX3RpdGxlIjoiVGhlIFJpbmdzIG9mIFBvd2VyIFMzIGlzIG5vdyBzdHJlYW1pbmcgb24gUHJpbWUuIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTk1NjkwNzU1NDQyNjg4NDAiLCJhcHBsaWNhdGlvbl9uYW1lIjoiW1Byb2RdIFZvbGNhbm8iLCJzdGFydHNfYXQiOiIyMDI2LTExLTA0VDIxOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MjgxNTYzNTUwNjAwODE3NS8xNTY3NDIwMjY5OTMxNTMyMjk4LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
       "starts_at": "2026-11-04T21:00:00+00:00",
-      "expires_at": "2026-12-19T01:00:00+00:00",
+      "expires_at": "2026-11-19T01:00:00+00:00",
       "sent_at": "2026-11-08T06:36:10.087Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-12T09:24:12.414Z"
     },
     "1567032464046559233": {
       "id": "1567032464046559233",
@@ -2833,7 +2835,7 @@
         },
         "messages": {
           "quest_name": "Forge The Ring",
-          "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+          "game_title": "The Rings of Power S3 is now streaming on Prime.",
           "game_publisher": "Amazon Prime Video"
         },
         "task_config_v2": {
@@ -2880,15 +2882,16 @@
         "share_policy": "shareable_everywhere",
         "cta_config": {
           "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-          "button_label": "Watch More",
-          "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+          "button_label": "Watch Now",
+          "subtitle": "The Rings of Power S3 is now streaming on Prime."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ2UgVGhlIFJpbmciLCJnYW1lX3RpdGxlIjoiVGhlIFJpbmdzIG9mIFBvd2VyIFMzIHByZW1pZXJlcyBOb3YgMTEgb24gUHJpbWUiLCJnYW1lX3B1Ymxpc2hlciI6IkFtYXpvbiBQcmltZSBWaWRlbyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1OTU2OTA3NTU0NDI2ODg0MCIsImFwcGxpY2F0aW9uX25hbWUiOiJbUHJvZF0gVm9sY2FubyIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDRUMjE6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xOVQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xOVQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2NzAzMjQ2NDA0NjU1OTIzMy8xNTY3NDI4MzM1OTA1MDEzNzkwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "hash": "eyJxdWVzdF9uYW1lIjoiRm9yZ2UgVGhlIFJpbmciLCJnYW1lX3RpdGxlIjoiVGhlIFJpbmdzIG9mIFBvd2VyIFMzIGlzIG5vdyBzdHJlYW1pbmcgb24gUHJpbWUuIiwiZ2FtZV9wdWJsaXNoZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTk1NjkwNzU1NDQyNjg4NDAiLCJhcHBsaWNhdGlvbl9uYW1lIjoiW1Byb2RdIFZvbGNhbm8iLCJzdGFydHNfYXQiOiIyMDI2LTExLTA0VDIxOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjcwMzI0NjQwNDY1NTkyMzMvMTU2NzQyODMzNTkwNTAxMzc5MC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-11-04T21:00:00+00:00",
-      "expires_at": "2026-12-19T01:00:00+00:00",
+      "expires_at": "2026-11-19T01:00:00+00:00",
       "sent_at": "2026-11-08T06:36:11.447Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-12T09:24:13.806Z"
     },
     "1567230969730179103": {
       "id": "1567230969730179103",
@@ -7966,5 +7969,5 @@
       "type": "new"
     }
   },
-  "last_check": "2026-11-11T05:02:05.030Z"
+  "last_check": "2026-11-12T09:24:14.908Z"
 }
