@@ -1469,7 +1469,7 @@
         },
         "messages": {
           "quest_name": "Victorian Psycho",
-          "game_title": "Meet your new favorite psycho. In theaters Friday.",
+          "game_title": "Meet your new favorite psycho. Now in theaters.",
           "game_publisher": "Bleecker Street"
         },
         "task_config_v2": {
@@ -1479,22 +1479,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1562333156105789580/1562333445273817119_1080.mp4",
+                  "url": "quests/1562333156105789580/1562333445332402176_1080.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544028708935.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1562333156105789580/1562333445273817119_720.mp4",
+                  "url": "quests/1562333156105789580/1562333445332402176_720.mp4",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544028708935.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1562333156105789580/1562333445273817119.m3u8",
+                  "url": "quests/1562333156105789580/1562333445332402176.m3u8",
                   "width": 1920,
                   "height": 1080,
-                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544028708935.jpg"
                 }
               },
               "messages": {
@@ -1506,22 +1506,22 @@
               "target": 29,
               "assets": {
                 "video": {
-                  "url": "quests/1562333156105789580/1562333444933947444_1080.mp4",
+                  "url": "quests/1562333156105789580/1562333444623573052_1080.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544028708935.jpg"
                 },
                 "video_low_res": {
-                  "url": "quests/1562333156105789580/1562333444933947444_720.mp4",
+                  "url": "quests/1562333156105789580/1562333444623573052_720.mp4",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544028708935.jpg"
                 },
                 "video_hls": {
-                  "url": "quests/1562333156105789580/1562333444933947444.m3u8",
+                  "url": "quests/1562333156105789580/1562333444623573052.m3u8",
                   "width": 1080,
                   "height": 1920,
-                  "thumbnail": "quests/1562333156105789580/1562333544091615302.jpg"
+                  "thumbnail": "quests/1562333156105789580/1562333544028708935.jpg"
                 }
               },
               "messages": {
@@ -1557,15 +1557,15 @@
         "cta_config": {
           "link": "https://bleeckerstreetmedia.com/victorian-psycho",
           "button_label": "Get Tickets",
-          "subtitle": "Meet your new favorite psycho. In theaters Friday."
+          "subtitle": "Meet your new favorite psycho. Now in theaters."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiVmljdG9yaWFuIFBzeWNobyIsImdhbWVfdGl0bGUiOiJNZWV0IHlvdXIgbmV3IGZhdm9yaXRlIHBzeWNoby4gSW4gdGhlYXRlcnMgRnJpZGF5LiIsImdhbWVfcHVibGlzaGVyIjoiQmxlZWNrZXIgU3RyZWV0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MjMzMzE1NjEwNTc4OTU4MC8xNTYyMzMzNTg2MDU1NjI2ODEyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2MjMzMzE1NjEwNTc4OTU4MC8xNTYyMzM3ODk1NjQ0MjcwNjczXzcyMC5tcDQifQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiVmljdG9yaWFuIFBzeWNobyIsImdhbWVfdGl0bGUiOiJNZWV0IHlvdXIgbmV3IGZhdm9yaXRlIHBzeWNoby4gTm93IGluIHRoZWF0ZXJzLiIsImdhbWVfcHVibGlzaGVyIjoiQmxlZWNrZXIgU3RyZWV0IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMDJUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xNlQwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjI5fSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjI5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU2MjMzMzE1NjEwNTc4OTU4MC8xNTYyMzMzNTg2MDU1NjI2ODEyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU2MjMzMzE1NjEwNTc4OTU4MC8xNTYyMzM3ODk1NjQ0MjcwNjczXzcyMC5tcDQifQ==",
       "starts_at": "2026-11-02T18:00:00+00:00",
       "expires_at": "2026-11-16T01:00:00+00:00",
       "sent_at": "2026-11-08T06:35:52.055Z",
       "type": "updated",
-      "updated_at": "2026-11-09T22:00:06.510Z"
+      "updated_at": "2026-11-14T05:19:20.913Z"
     },
     "1555328744665911297": {
       "id": "1555328744665911297",
@@ -6304,6 +6304,7 @@
         "starts_at": "2026-11-06T20:00:00+00:00",
         "expires_at": "2026-11-19T07:59:00+00:00",
         "features": [
+          44,
           15
         ],
         "application": {
@@ -6420,11 +6421,12 @@
           "subtitle": "Get ready for November 19"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsImdhbWVfdGl0bGUiOiJHZXQgcmVhZHkgZm9yIE5vdmVtYmVyIDE5IiwiZ2FtZV9wdWJsaXNoZXIiOiJSb2Nrc3RhciBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo4OX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo4OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTMwODQwOTIyOTAxNzEwODEvMTU2NjkwNTk2Mzk4MDY1MjU3NC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsImdhbWVfdGl0bGUiOiJHZXQgcmVhZHkgZm9yIE5vdmVtYmVyIDE5IiwiZ2FtZV9wdWJsaXNoZXIiOiJSb2Nrc3RhciBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0Ijo4OX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0Ijo4OX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTMwODQwOTIyOTAxNzEwODEvMTU2NjkwNTk2Mzk4MDY1MjU3NC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-11-06T20:00:00+00:00",
-      "expires_at": "2026-12-19T07:59:00+00:00",
+      "expires_at": "2026-11-19T07:59:00+00:00",
       "sent_at": "2026-11-08T06:37:02.394Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-14T05:19:22.298Z"
     },
     "1556758186453770271": {
       "id": "1556758186453770271",
@@ -6433,6 +6435,7 @@
         "starts_at": "2026-11-06T20:00:00+00:00",
         "expires_at": "2026-11-19T07:59:00+00:00",
         "features": [
+          44,
           15
         ],
         "application": {
@@ -6549,11 +6552,12 @@
           "subtitle": "Get ready for November 19"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsImdhbWVfdGl0bGUiOiJHZXQgcmVhZHkgZm9yIE5vdmVtYmVyIDE5IiwiZ2FtZV9wdWJsaXNoZXIiOiJSb2Nrc3RhciBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU2NzU4MTg2NDUzNzcwMjcxLzE1NjgzMjM0OTQ0MjM0MzczMjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsImdhbWVfdGl0bGUiOiJHZXQgcmVhZHkgZm9yIE5vdmVtYmVyIDE5IiwiZ2FtZV9wdWJsaXNoZXIiOiJSb2Nrc3RhciBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU2NzU4MTg2NDUzNzcwMjcxLzE1NjgzMjM0OTQ0MjM0MzczMjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-11-06T20:00:00+00:00",
-      "expires_at": "2026-12-19T07:59:00+00:00",
+      "expires_at": "2026-11-19T07:59:00+00:00",
       "sent_at": "2026-11-08T06:37:04.378Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-14T05:19:23.584Z"
     },
     "1568015615690678364": {
       "id": "1568015615690678364",
@@ -6562,6 +6566,7 @@
         "starts_at": "2026-11-06T20:00:00+00:00",
         "expires_at": "2026-11-19T07:59:00+00:00",
         "features": [
+          44,
           15
         ],
         "application": {
@@ -6678,11 +6683,12 @@
           "subtitle": "Get ready for November 19"
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsImdhbWVfdGl0bGUiOiJHZXQgcmVhZHkgZm9yIE5vdmVtYmVyIDE5IiwiZ2FtZV9wdWJsaXNoZXIiOiJSb2Nrc3RhciBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTY4MDE1NjE1NjkwNjc4MzY0LzE1NjgzMjM0NDQ5NzY5MTQ1MjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsImdhbWVfdGl0bGUiOiJHZXQgcmVhZHkgZm9yIE5vdmVtYmVyIDE5IiwiZ2FtZV9wdWJsaXNoZXIiOiJSb2Nrc3RhciBHYW1lcyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA2VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSw0NF0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6ODl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6ODl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTY4MDE1NjE1NjkwNjc4MzY0LzE1NjgzMjM0NDQ5NzY5MTQ1MjIuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
       "starts_at": "2026-11-06T20:00:00+00:00",
-      "expires_at": "2026-12-19T07:59:00+00:00",
+      "expires_at": "2026-11-19T07:59:00+00:00",
       "sent_at": "2026-11-08T06:37:06.150Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-14T05:19:25.226Z"
     },
     "1560184130673840250": {
       "id": "1560184130673840250",
@@ -8608,6 +8614,7 @@
         "starts_at": "2026-11-12T19:00:00+00:00",
         "expires_at": "2026-11-19T07:59:00+00:00",
         "features": [
+          44,
           15
         ],
         "application": {
@@ -8619,7 +8626,7 @@
           "hero": "quests/1553085045168939138/1569791626501554356.jpg",
           "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
           "quest_bar_hero": "quests/1553085045168939138/1569793562110066709.jpg",
-          "quest_bar_hero_video": "quests/1553085045168939138/1569796165195530321_720.mp4",
+          "quest_bar_hero_video": "quests/1553085045168939138/1569796171302441061_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1553085045168939138/1568438026940448851.png",
@@ -8699,17 +8706,20 @@
           "assignment_method": 1,
           "rewards": [
             {
-              "type": 4,
-              "sku_id": "1287881739531976815",
+              "type": 3,
+              "sku_id": "1570925242799497256",
+              "asset": "quests/1553085045168939138/1570925525990383696.mp4",
+              "asset_video": null,
               "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
+                "name": "NBA 2K27 Expert Player Medal Avatar Decoration",
+                "name_with_article": "an NBA 2K27 Expert Player Medal Avatar Decoration",
                 "redemption_instructions_by_platform": {
                   "0": "PLACEHOLDER"
                 }
               },
-              "orb_quantity": 200,
-              "premium_orb_quantity": 240
+              "expires_at": "2027-01-19T07:59:00+00:00",
+              "expires_at_premium": null,
+              "expiration_mode": 3
             }
           ],
           "rewards_expire_at": "2026-12-19T07:59:00+00:00",
@@ -8724,11 +8734,12 @@
           "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSTogUHJlLUxvYWQiLCJnYW1lX3RpdGxlIjoiR1RBVkkgQ29taW5nIE5vdi4gMTkuIFByZS1PcmRlciBOb3cgYW5kIFByZS1Mb2FkLiIsImdhbWVfcHVibGlzaGVyIjoiUm9ja3N0YXIgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0xMlQxOTowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE5VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE5VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOjI0MCwiZmVhdHVyZXMiOlsxNV0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJXQVRDSF9WSURFTyIsInR5cGUiOiJXQVRDSF9WSURFTyIsInRhcmdldCI6Mjl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6Mjl9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUzMDg1MDQ1MTY4OTM5MTM4LzE1Njk3OTE2MjY1MDE1NTQzNTYuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSTogUHJlLUxvYWQiLCJnYW1lX3RpdGxlIjoiR1RBVkkgQ29taW5nIE5vdi4gMTkuIFByZS1PcmRlciBOb3cgYW5kIFByZS1Mb2FkLiIsImdhbWVfcHVibGlzaGVyIjoiUm9ja3N0YXIgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0xMlQxOTowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE5VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTE5VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6bnVsbCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTMwODUwNDUxNjg5MzkxMzgvMTU2OTc5MTYyNjUwMTU1NDM1Ni5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
       "starts_at": "2026-11-12T19:00:00+00:00",
-      "expires_at": "2026-12-19T07:59:00+00:00",
+      "expires_at": "2026-11-19T07:59:00+00:00",
       "sent_at": "2026-11-12T23:16:45.431Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-14T05:19:26.594Z"
     },
     "1562187579829391390": {
       "id": "1562187579829391390",
@@ -9468,7 +9479,396 @@
       "expires_at": "2026-12-20T01:00:00+00:00",
       "sent_at": "2026-11-13T21:13:52.077Z",
       "type": "new"
+    },
+    "1556757575213781163": {
+      "id": "1556757575213781163",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-13T18:00:00+00:00",
+        "expires_at": "2026-11-19T07:59:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://www.rockstargames.com/VI/PS5/editions",
+          "id": "1445160676522856458",
+          "name": "Grand Theft Auto VI"
+        },
+        "assets": {
+          "hero": "quests/1556757575213781163/1569839480418865214.jpg",
+          "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+          "quest_bar_hero": "quests/1556757575213781163/1569839805569699970.jpg",
+          "quest_bar_hero_video": "quests/1556757575213781163/1570232907216326756.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1556757575213781163/1568438685429665812.png",
+          "game_tile_dark": "quests/1556757575213781163/1568438685383393410.png",
+          "logotype_light": "quests/1556757575213781163/1568438685475672197.png",
+          "logotype_dark": "quests/1556757575213781163/1568438685412753539.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Grand Theft Auto VI: Pre-Load",
+          "game_title": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load.",
+          "game_publisher": "Rockstar Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1556757575213781163/1569842357573259364_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1556757575213781163/1570492177027571933.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1556757575213781163/1569842357573259364_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1556757575213781163/1570492177027571933.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1556757575213781163/1569842357573259364.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1556757575213781163/1570492177027571933.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1556757575213781163/1569842357573259364_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1556757575213781163/1570492177027571933.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1556757575213781163/1569842357573259364_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1556757575213781163/1570492177027571933.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1556757575213781163/1569842357573259364.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1556757575213781163/1570492177027571933.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-19T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.rockstargames.com/VI/PS5/editions",
+          "button_label": "Download",
+          "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSTogUHJlLUxvYWQiLCJnYW1lX3RpdGxlIjoiR1RBVkkgQ29taW5nIE5vdi4gMTkuIFByZS1PcmRlciBOb3cgYW5kIFByZS1Mb2FkLiIsImdhbWVfcHVibGlzaGVyIjoiUm9ja3N0YXIgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0NDUxNjA2NzY1MjI4NTY0NTgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMTNUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xOVQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xOVQwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTY3NTc1NzUyMTM3ODExNjMvMTU2OTgzOTQ4MDQxODg2NTIxNC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-13T18:00:00+00:00",
+      "expires_at": "2026-12-19T07:59:00+00:00",
+      "sent_at": "2026-11-14T05:19:16.293Z",
+      "type": "new"
+    },
+    "1569829854499705004": {
+      "id": "1569829854499705004",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-13T18:00:00+00:00",
+        "expires_at": "2026-11-19T07:59:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://www.rockstargames.com/VI/PS5/editions",
+          "id": "1445160676522856458",
+          "name": "Grand Theft Auto VI"
+        },
+        "assets": {
+          "hero": "quests/1569829854499705004/1569839863300100146.jpg",
+          "quest_bar_hero_blurhash": "lmgOJI5YmXd+VnaQenfPlveKWA==",
+          "quest_bar_hero": "quests/1569829854499705004/1569839840328032266.jpg",
+          "quest_bar_hero_video": "quests/1569829854499705004/1570230514852569199.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1556757575213781163/1568438685429665812.png",
+          "game_tile_dark": "quests/1556757575213781163/1568438685383393410.png",
+          "logotype_light": "quests/1556757575213781163/1568438685475672197.png",
+          "logotype_dark": "quests/1556757575213781163/1568438685412753539.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Grand Theft Auto VI: Pre-Load",
+          "game_title": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load.",
+          "game_publisher": "Rockstar Games"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1569829854499705004/1569839992639848598_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1569829854499705004/1570491589867077643.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1569829854499705004/1569839992639848598_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1569829854499705004/1570491589867077643.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1569829854499705004/1569839992639848598.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1569829854499705004/1570491589867077643.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 29,
+              "assets": {
+                "video": {
+                  "url": "quests/1569829854499705004/1569839992639848598_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1569829854499705004/1570491589867077643.jpg"
+                },
+                "video_low_res": {
+                  "url": "quests/1569829854499705004/1569839992639848598_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1569829854499705004/1570491589867077643.jpg"
+                },
+                "video_hls": {
+                  "url": "quests/1569829854499705004/1569839992639848598.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1569829854499705004/1570491589867077643.jpg"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2026-12-19T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.rockstargames.com/VI/PS5/editions",
+          "button_label": "Download",
+          "subtitle": "GTAVI Coming Nov. 19. Pre-Order Now and Pre-Load."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSTogUHJlLUxvYWQiLCJnYW1lX3RpdGxlIjoiR1RBVkkgQ29taW5nIE5vdi4gMTkuIFByZS1PcmRlciBOb3cgYW5kIFByZS1Mb2FkLiIsImdhbWVfcHVibGlzaGVyIjoiUm9ja3N0YXIgR2FtZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE0NDUxNjA2NzY1MjI4NTY0NTgiLCJhcHBsaWNhdGlvbl9uYW1lIjoiR3JhbmQgVGhlZnQgQXV0byBWSSIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMTNUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMS0xOVQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNi0xMi0xOVQwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Njk4Mjk4NTQ0OTk3MDUwMDQvMTU2OTgzOTg2MzMwMDEwMDE0Ni5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-13T18:00:00+00:00",
+      "expires_at": "2026-12-19T07:59:00+00:00",
+      "sent_at": "2026-11-14T05:19:17.811Z",
+      "type": "new"
+    },
+    "1563257378751782974": {
+      "id": "1563257378751782974",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-13T19:00:00+00:00",
+        "expires_at": "2026-11-23T07:59:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://discord.com/invite/wizards-magic",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1552735480024531076/1560073085888241714.jpg",
+          "quest_bar_hero_blurhash": "j4kGFIZ2FaiPiGdae3iFn2r6uQ==",
+          "quest_bar_hero": "quests/1552735480024531076/1560455897312927835.jpg",
+          "quest_bar_hero_video": "quests/1552735480024531076/1560455911141543936_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552735480024531076/1560073877432963102.png",
+          "game_tile_dark": "quests/1552735480024531076/1560071538001182760.png",
+          "logotype_light": "quests/1552735480024531076/1560073594569097226.png",
+          "logotype_dark": "quests/1552735480024531076/1560071536944357458.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Magic: The Gathering | Star Trek",
+          "game_title": "Join the official Magic: The Gathering server",
+          "game_publisher": "Wizards of The Coast"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 119,
+              "assets": {
+                "video": {
+                  "url": "quests/1552735480024531076/1561796312687575161_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1552735480024531076/1561796312687575161_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                },
+                "video_hls": {
+                  "url": "quests/1552735480024531076/1561796312687575161.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 119,
+              "assets": {
+                "video": {
+                  "url": "quests/1552735480024531076/1561796312687575161_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1552735480024531076/1561796312687575161_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                },
+                "video_hls": {
+                  "url": "quests/1552735480024531076/1561796312687575161.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1552735480024531076/1560455692924485673.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2026-12-23T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://discord.com/invite/wizards-magic",
+          "button_label": "Join Server",
+          "subtitle": "Join the official Magic: The Gathering server"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTWFnaWM6IFRoZSBHYXRoZXJpbmcgfCBTdGFyIFRyZWsiLCJnYW1lX3RpdGxlIjoiSm9pbiB0aGUgb2ZmaWNpYWwgTWFnaWM6IFRoZSBHYXRoZXJpbmcgc2VydmVyIiwiZ2FtZV9wdWJsaXNoZXIiOiJXaXphcmRzIG9mIFRoZSBDb2FzdCIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTEzVDE5OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMjNUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMjNUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxMTl9LHsia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTE5fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1MjczNTQ4MDAyNDUzMTA3Ni8xNTYwMDczMDg1ODg4MjQxNzE0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-11-13T19:00:00+00:00",
+      "expires_at": "2026-12-23T07:59:00+00:00",
+      "sent_at": "2026-11-14T05:19:19.618Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-13T21:13:54.543Z"
+  "last_check": "2026-11-14T05:19:27.698Z"
 }
