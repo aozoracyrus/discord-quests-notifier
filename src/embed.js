@@ -22,9 +22,9 @@ import path from 'path';
 const IS_COMPONENTS_V2 = 1 << 15; // 32768
 const CDN_BASE = 'https://cdn.discordapp.com/';
 const FALLBACK_ORB_ICON =
-  'https://raw.githubusercontent.com/kanamotokumo/discord-quests-notifier/refs/heads/main/assets/orb.png';
+  'https://raw.githubusercontent.com/aozoracyrus/discord-quests-notifier/refs/heads/main/assets/orbs.png';
 const FALLBACK_NITRO_ICON =
-  'https://raw.githubusercontent.com/kanamotokumo/discord-quests-notifier/refs/heads/main/assets/nitro.png';
+  'https://raw.githubusercontent.com/aozoracyrus/discord-quests-notifier/refs/heads/main/assets/nitro.png';
 
 // `<@$APPLICATION_ID>` is the "game chip" markup seen in the reference bot's
 // raw message template — it's not in any public Discord docs (docs.discord.food's
