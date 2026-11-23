@@ -5622,105 +5622,6 @@
       "sent_at": "2026-11-08T06:37:00.627Z",
       "type": "new"
     },
-    "1560184130673840250": {
-      "id": "1560184130673840250",
-      "config": {
-        "id": "1560184130673840250",
-        "config_version": 2,
-        "starts_at": "2026-11-07T08:00:00+00:00",
-        "expires_at": "2026-11-23T07:59:00+00:00",
-        "features": [
-          44,
-          15
-        ],
-        "application": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "id": "1437509662303059998",
-          "name": "Where Winds Meet"
-        },
-        "assets": {
-          "hero": "quests/1560184130673840250/1570845047547494470.jpg",
-          "hero_video": "quests/1560184130673840250/1570845072985956372_720.mp4",
-          "quest_bar_hero_blurhash": "UggGBIAsWYZdiXeAd2ieMLsGtQ==",
-          "quest_bar_hero": "quests/1560184130673840250/1570844930568487065.jpg",
-          "quest_bar_hero_video": "quests/1560184130673840250/1570844954656378971_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
-          "game_tile_dark": "quests/1527502945875263548/1527507273658667068.png",
-          "logotype_light": "quests/1527502945875263548/1527507273570848781.png",
-          "logotype_dark": "quests/1527502945875263548/1527507273570848781.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "Anniversary | Claim over $150 in rewards",
-          "game_title": "Where Winds Meet",
-          "game_publisher": "NETEASE"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "PLAY_ON_DESKTOP": {
-              "type": "PLAY_ON_DESKTOP",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ]
-            },
-            "PLAY_ON_PLAYSTATION": {
-              "type": "PLAY_ON_PLAYSTATION",
-              "target": 900,
-              "applications": [
-                {
-                  "id": "1437509662303059998"
-                }
-              ],
-              "external_ids": [
-                "PPSA23355_00"
-              ]
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "700 Orbs",
-                "name_with_article": "700 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 700,
-              "premium_orb_quantity": 840
-            }
-          ],
-          "rewards_expire_at": "2026-12-23T07:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "shareable_everywhere",
-        "cta_config": {
-          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
-          "button_label": "Phát Ngay"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQW5uaXZlcnNhcnkgfCBDbGFpbSBvdmVyICQxNTAgaW4gcmV3YXJkcyIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTA3VDA4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTEtMjNUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjYtMTItMjNUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjAxODQxMzA2NzM4NDAyNTAvMTU3MDg0NTA0NzU0NzQ5NDQ3MC5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjAxODQxMzA2NzM4NDAyNTAvMTU3MDg0NTA3Mjk4NTk1NjM3Ml83MjAubXA0In0=",
-      "starts_at": "2026-11-07T08:00:00+00:00",
-      "expires_at": "2026-11-23T07:59:00+00:00",
-      "sent_at": "2026-11-08T06:37:07.527Z",
-      "type": "updated",
-      "updated_at": "2026-11-13T21:13:53.439Z"
-    },
     "1567672330342240438": {
       "id": "1567672330342240438",
       "config": {
@@ -7509,214 +7410,6 @@
       "expires_at": "2026-12-18T23:59:00+00:00",
       "sent_at": "2026-11-13T05:29:02.494Z",
       "type": "new"
-    },
-    "1569447200457490432": {
-      "id": "1569447200457490432",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-11-13T02:00:00+00:00",
-        "expires_at": "2026-11-23T07:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07589021",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1556300747434500227/1570217181394772078.jpg",
-          "hero_video": "quests/1556300747434500227/1569880492394938440_720.mp4",
-          "quest_bar_hero_blurhash": "c7cNAoLbgE2HeHiIIk4wsEY=",
-          "quest_bar_hero": "quests/1556300747434500227/1564471853127311360.jpg",
-          "quest_bar_hero_video": "quests/1556300747434500227/1569880492394938440_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1556300747434500227/1564471851227287572.png",
-          "game_tile_dark": "quests/1556300747434500227/1564471851227287572.png",
-          "logotype_light": "quests/1556300747434500227/1564471851185475715.png",
-          "logotype_dark": "quests/1556300747434500227/1564471851185475715.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "12 12 12",
-          "game_title": "New episodes every Friday on Apple TV",
-          "game_publisher": "Apple TV"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 194,
-              "assets": {
-                "video": {
-                  "url": "quests/1556300747434500227/1569600796138545162_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556300747434500227/1569874616510578781.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1556300747434500227/1569600796138545162_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556300747434500227/1569874616510578781.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1556300747434500227/1569600796138545162.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556300747434500227/1569874616510578781.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-12-23T07:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07589021",
-          "button_label": "Watch Now",
-          "subtitle": "New episodes every Friday on Apple TV"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiMTIgMTIgMTIiLCJnYW1lX3RpdGxlIjoiTmV3IGVwaXNvZGVzIGV2ZXJ5IEZyaWRheSBvbiBBcHBsZSBUViIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUgVFYiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0xM1QwMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTIzVDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTIzVDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTk0fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjMwMDc0NzQzNDUwMDIyNy8xNTcwMjE3MTgxMzk0NzcyMDc4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjMwMDc0NzQzNDUwMDIyNy8xNTY5ODgwNDkyMzk0OTM4NDQwXzcyMC5tcDQifQ==",
-      "starts_at": "2026-11-13T02:00:00+00:00",
-      "expires_at": "2026-11-23T07:59:00+00:00",
-      "sent_at": "2026-11-13T05:29:05.020Z",
-      "type": "updated",
-      "updated_at": "2026-11-20T02:02:27.915Z"
-    },
-    "1556300747434500227": {
-      "id": "1556300747434500227",
-      "config": {
-        "config_version": 2,
-        "starts_at": "2026-11-13T02:00:00+00:00",
-        "expires_at": "2026-11-23T07:59:00+00:00",
-        "features": [
-          15
-        ],
-        "application": {
-          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07589020",
-          "id": "545364944258990091",
-          "name": "Discord"
-        },
-        "assets": {
-          "hero": "quests/1556300747434500227/1570217181394772078.jpg",
-          "hero_video": "quests/1556300747434500227/1569880510853939271_720.mp4",
-          "quest_bar_hero_blurhash": "c7cNAoLbgE2HeHiIIk4wsEY=",
-          "quest_bar_hero": "quests/1556300747434500227/1564471853127311360.jpg",
-          "quest_bar_hero_video": "quests/1556300747434500227/1569880510853939271_720.mp4",
-          "game_tile": "PLACEHOLDER",
-          "logotype": "PLACEHOLDER",
-          "game_tile_light": "quests/1556300747434500227/1564471851227287572.png",
-          "game_tile_dark": "quests/1556300747434500227/1564471851227287572.png",
-          "logotype_light": "quests/1556300747434500227/1564471851185475715.png",
-          "logotype_dark": "quests/1556300747434500227/1564471851185475715.png"
-        },
-        "colors": {
-          "primary": "#4752C4",
-          "secondary": "#000000"
-        },
-        "messages": {
-          "quest_name": "12 12 12",
-          "game_title": "New episodes every Friday on Apple TV",
-          "game_publisher": "Apple TV"
-        },
-        "task_config_v2": {
-          "tasks": {
-            "WATCH_VIDEO_ON_MOBILE": {
-              "type": "WATCH_VIDEO_ON_MOBILE",
-              "target": 194,
-              "assets": {
-                "video": {
-                  "url": "quests/1556300747434500227/1569600796138545162_1080.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556300747434500227/1569874616510578781.jpg"
-                },
-                "video_low_res": {
-                  "url": "quests/1556300747434500227/1569600796138545162_720.mp4",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556300747434500227/1569874616510578781.jpg"
-                },
-                "video_hls": {
-                  "url": "quests/1556300747434500227/1569600796138545162.m3u8",
-                  "width": 1080,
-                  "height": 1920,
-                  "thumbnail": "quests/1556300747434500227/1569874616510578781.jpg"
-                }
-              },
-              "messages": {
-                "video_title": "PLACEHOLDER"
-              }
-            }
-          },
-          "join_operator": "or"
-        },
-        "rewards_config": {
-          "assignment_method": 1,
-          "rewards": [
-            {
-              "type": 4,
-              "sku_id": "1287881739531976815",
-              "messages": {
-                "name": "200 Orbs",
-                "name_with_article": "200 Orbs",
-                "redemption_instructions_by_platform": {
-                  "0": "PLACEHOLDER"
-                }
-              },
-              "orb_quantity": 200,
-              "premium_orb_quantity": null
-            }
-          ],
-          "rewards_expire_at": "2026-12-23T07:59:00+00:00",
-          "platforms": [
-            0
-          ]
-        },
-        "share_policy": "not_shareable",
-        "cta_config": {
-          "link": "https://tv.apple.com/us/show/12-12-12/umc.cmc.2xeasogpeiwbaegczytrdg1uh?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07589020",
-          "button_label": "Watch Now",
-          "subtitle": "New episodes every Friday on Apple TV"
-        }
-      },
-      "hash": "eyJxdWVzdF9uYW1lIjoiMTIgMTIgMTIiLCJnYW1lX3RpdGxlIjoiTmV3IGVwaXNvZGVzIGV2ZXJ5IEZyaWRheSBvbiBBcHBsZSBUViIsImdhbWVfcHVibGlzaGVyIjoiQXBwbGUgVFYiLCJhcHBsaWNhdGlvbl9pZCI6IjU0NTM2NDk0NDI1ODk5MDA5MSIsImFwcGxpY2F0aW9uX25hbWUiOiJEaXNjb3JkIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0xM1QwMjowMDowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTIzVDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI2LTEyLTIzVDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6MjAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidHlwZSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInRhcmdldCI6MTk0fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NjMwMDc0NzQzNDUwMDIyNy8xNTcwMjE3MTgxMzk0NzcyMDc4LmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU1NjMwMDc0NzQzNDUwMDIyNy8xNTY5ODgwNTEwODUzOTM5MjcxXzcyMC5tcDQifQ==",
-      "starts_at": "2026-11-13T02:00:00+00:00",
-      "expires_at": "2026-11-23T07:59:00+00:00",
-      "sent_at": "2026-11-13T05:29:06.363Z",
-      "type": "updated",
-      "updated_at": "2026-11-20T02:02:29.251Z"
     },
     "1569637063341379687": {
       "id": "1569637063341379687",
@@ -14152,7 +13845,105 @@
       "expires_at": "2026-12-30T01:00:00+00:00",
       "sent_at": "2026-11-21T01:59:18.792Z",
       "type": "new"
+    },
+    "1560192198614458419": {
+      "id": "1560192198614458419",
+      "config": {
+        "id": "1560192198614458419",
+        "config_version": 2,
+        "starts_at": "2026-11-23T08:00:00+00:00",
+        "expires_at": "2026-12-19T07:59:00+00:00",
+        "features": [
+          44,
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "id": "1437509662303059998",
+          "name": "Where Winds Meet"
+        },
+        "assets": {
+          "hero": "quests/1560192198614458419/1571705169064886342.jpg",
+          "hero_video": "quests/1560192198614458419/1571705209179349194_720.mp4",
+          "quest_bar_hero_blurhash": "D+cJDIBjaGiLZnqwdoaKVL8l9Q==",
+          "quest_bar_hero": "quests/1560192198614458419/1571705053998219354.jpg",
+          "quest_bar_hero_video": "quests/1560192198614458419/1571705077201109022_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1527502945875263548/1527507273658667068.png",
+          "game_tile_dark": "quests/1527502945875263548/1527507273658667068.png",
+          "logotype_light": "quests/1527502945875263548/1527507273570848781.png",
+          "logotype_dark": "quests/1527502945875263548/1527507273570848781.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Anniversary | Claim over $150 in rewards",
+          "game_title": "Where Winds Meet",
+          "game_publisher": "NETEASE"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "PLAY_ON_DESKTOP": {
+              "type": "PLAY_ON_DESKTOP",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ]
+            },
+            "PLAY_ON_PLAYSTATION": {
+              "type": "PLAY_ON_PLAYSTATION",
+              "target": 900,
+              "applications": [
+                {
+                  "id": "1437509662303059998"
+                }
+              ],
+              "external_ids": [
+                "PPSA23355_00"
+              ]
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2027-01-18T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
+          "button_label": "Phát Ngay"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiQW5uaXZlcnNhcnkgfCBDbGFpbSBvdmVyICQxNTAgaW4gcmV3YXJkcyIsImdhbWVfdGl0bGUiOiJXaGVyZSBXaW5kcyBNZWV0IiwiZ2FtZV9wdWJsaXNoZXIiOiJORVRFQVNFIiwiYXBwbGljYXRpb25faWQiOiIxNDM3NTA5NjYyMzAzMDU5OTk4IiwiYXBwbGljYXRpb25fbmFtZSI6IldoZXJlIFdpbmRzIE1lZXQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTIzVDA4OjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMTlUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMThUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6ODQwLCJmZWF0dXJlcyI6WzE1LDQ0XSwicGxhdGZvcm1zIjpbIlBDIiwiUGxheVN0YXRpb24iXSwidGFza3MiOlt7ImtleSI6IlBMQVlfT05fREVTS1RPUCIsInR5cGUiOiJQTEFZX09OX0RFU0tUT1AiLCJ0YXJnZXQiOjkwMH0seyJrZXkiOiJQTEFZX09OX1BMQVlTVEFUSU9OIiwidHlwZSI6IlBMQVlfT05fUExBWVNUQVRJT04iLCJ0YXJnZXQiOjkwMH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NjAxOTIxOTg2MTQ0NTg0MTkvMTU3MTcwNTE2OTA2NDg4NjM0Mi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NjAxOTIxOTg2MTQ0NTg0MTkvMTU3MTcwNTIwOTE3OTM0OTE5NF83MjAubXA0In0=",
+      "starts_at": "2026-11-23T08:00:00+00:00",
+      "expires_at": "2027-01-18T07:59:00+00:00",
+      "sent_at": "2026-11-23T11:55:11.498Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-23T01:25:46.310Z"
+  "last_check": "2026-11-23T11:55:12.608Z"
 }
