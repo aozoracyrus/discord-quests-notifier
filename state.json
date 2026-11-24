@@ -13475,9 +13475,10 @@
         },
         "assets": {
           "hero": "quests/1554596155680100372/1570544357692678226.jpg",
+          "hero_video": "quests/1554596155680100372/1574908287571202058_720.mp4",
           "quest_bar_hero_blurhash": "TQgGJIhAaMkui3d1mHtAOwezcw==",
           "quest_bar_hero": "quests/1554596155680100372/1570544375396704366.jpg",
-          "quest_bar_hero_video": "quests/1554596155680100372/1572382228304892045_720.mp4",
+          "quest_bar_hero_video": "quests/1554596155680100372/1574908176850092112_720.mp4",
           "game_tile": "PLACEHOLDER",
           "logotype": "PLACEHOLDER",
           "game_tile_light": "quests/1554596155680100372/1570544415741845535.png",
@@ -13582,11 +13583,12 @@
           "subtitle": "Blade Runner 2099, a new limited series, premieres November 25 only on Prime Video."
         }
       },
-      "hash": "eyJxdWVzdF9uYW1lIjoiQmxhZGUgUnVubmVyIDIwOTkiLCJnYW1lX3RpdGxlIjoiQmxhZGUgUnVubmVyIDIwOTksIGEgbmV3IGxpbWl0ZWQgc2VyaWVzLCBwcmVtaWVyZXMgTm92ZW1iZXIgMjUgb25seSBvbiBQcmltZS4iLCJnYW1lX3B1Ymxpc2hlciI6IkFtYXpvbiBQcmltZSBWaWRlbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTE5VDIwOjEwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMDZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTQ1OTYxNTU2ODAxMDAzNzIvMTU3MDU0NDM1NzY5MjY3ODIyNi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "hash": "eyJxdWVzdF9uYW1lIjoiQmxhZGUgUnVubmVyIDIwOTkiLCJnYW1lX3RpdGxlIjoiQmxhZGUgUnVubmVyIDIwOTksIGEgbmV3IGxpbWl0ZWQgc2VyaWVzLCBwcmVtaWVyZXMgTm92ZW1iZXIgMjUgb25seSBvbiBQcmltZS4iLCJnYW1lX3B1Ymxpc2hlciI6IkFtYXpvbiBQcmltZSBWaWRlbyIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTE5VDIwOjEwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMDZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoyOX0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoyOX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTQ1OTYxNTU2ODAxMDAzNzIvMTU3MDU0NDM1NzY5MjY3ODIyNi5qcGciLCJoZXJvX3ZpZGVvIjoicXVlc3RzLzE1NTQ1OTYxNTU2ODAxMDAzNzIvMTU3NDkwODI4NzU3MTIwMjA1OF83MjAubXA0In0=",
       "starts_at": "2026-11-19T20:10:00+00:00",
-      "expires_at": "2027-01-06T01:00:00+00:00",
+      "expires_at": "2026-12-07T01:00:00+00:00",
       "sent_at": "2026-11-20T02:02:26.351Z",
-      "type": "new"
+      "type": "updated",
+      "updated_at": "2026-11-24T23:28:53.788Z"
     },
     "1564286233356542054": {
       "id": "1564286233356542054",
@@ -15361,7 +15363,993 @@
       "expires_at": "2027-01-06T07:59:00+00:00",
       "sent_at": "2026-11-24T08:48:30.895Z",
       "type": "new"
+    },
+    "1552776617640722593": {
+      "id": "1552776617640722593",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.focusfeatures.com/werwulf",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1552776617640722593/1574496991793127434.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1552776617640722593/1574496991403311134.jpg",
+          "quest_bar_hero_video": "quests/1552776617640722593/1574497609610035290_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1552776617640722593/1574496974885888121.png",
+          "game_tile_dark": "quests/1552776617640722593/1574496974885888121.png",
+          "logotype_light": "quests/1552776617640722593/1574497546427044020.png",
+          "logotype_dark": "quests/1552776617640722593/1574496991310909440.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Werwulf",
+          "game_title": "In Theaters December 25",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": 840
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.focusfeatures.com/werwulf",
+          "button_label": "Get Tickets",
+          "subtitle": "In Theaters December 25"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2Vyd3VsZiIsImdhbWVfdGl0bGUiOiJJbiBUaGVhdGVycyBEZWNlbWJlciAyNSIsImdhbWVfcHVibGlzaGVyIjoiRm9jdXMgRmVhdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTAwOTUzODc1MDU4NjA3MTkiLCJhcHBsaWNhdGlvbl9uYW1lIjoiW1Byb2RdIEZ1bGwtbW9vbiIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMjRUMTc6NDU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wOFQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wN1QwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5Ijo4NDAsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTUyNzc2NjE3NjQwNzIyNTkzLzE1NzQ0OTY5OTE3OTMxMjc0MzQuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:37.436Z",
+      "type": "new"
+    },
+    "1554214770670829588": {
+      "id": "1554214770670829588",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.universalpictures.de/micro/werwulf",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1554214770670829588/1574498574346100877.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1554214770670829588/1574498543534866502.jpg",
+          "quest_bar_hero_video": "quests/1554214770670829588/1574498960486170624_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554214770670829588/1574498543610363964.png",
+          "game_tile_dark": "quests/1554214770670829588/1574498543610363964.png",
+          "logotype_light": "quests/1554214770670829588/1574498572685025380.png",
+          "logotype_dark": "quests/1554214770670829588/1574498572655796284.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "WERWULF",
+          "game_title": "Ab 7. Januar nur im Kino!",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Finde Beweise für den Werwulf und sichere dir 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.universalpictures.de/micro/werwulf",
+          "button_label": "Learn More",
+          "subtitle": "Ab 7. Januar nur im Kino!"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV0VSV1VMRiIsImdhbWVfdGl0bGUiOiJBYiA3LiBKYW51YXIgbnVyIGltIEtpbm8hIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1MDA5NTM4NzUwNTg2MDcxOSIsImFwcGxpY2F0aW9uX25hbWUiOiJbUHJvZF0gRnVsbC1tb29uIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0yNFQxNzo0NTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEyLTA4VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI3LTAxLTA3VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU0MjE0NzcwNjcwODI5NTg4LzE1NzQ0OTg1NzQzNDYxMDA4NzcuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:38.851Z",
+      "type": "new"
+    },
+    "1554262075298160671": {
+      "id": "1554262075298160671",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.universalpictures.it/micro/werwulf#iframe1",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1554262075298160671/1574500834434220134.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1554262075298160671/1574500469924175922.jpg",
+          "quest_bar_hero_video": "quests/1554262075298160671/1574501062641979493_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554262075298160671/1574500469940813864.png",
+          "game_tile_dark": "quests/1554262075298160671/1574500469940813864.png",
+          "logotype_light": "quests/1554262075298160671/1574500835138736200.png",
+          "logotype_dark": "quests/1554262075298160671/1574500835256438824.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Werwulf",
+          "game_title": "Dal 1° gennaio al cinema.",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Trova le prove di Werwulf per vincere 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.universalpictures.it/micro/werwulf#iframe1",
+          "button_label": "Watch More",
+          "subtitle": "Dal 1° gennaio al cinema."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2Vyd3VsZiIsImdhbWVfdGl0bGUiOiJEYWwgMcKwIGdlbm5haW8gYWwgY2luZW1hLiIsImdhbWVfcHVibGlzaGVyIjoiRm9jdXMgRmVhdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTAwOTUzODc1MDU4NjA3MTkiLCJhcHBsaWNhdGlvbl9uYW1lIjoiW1Byb2RdIEZ1bGwtbW9vbiIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMjRUMTc6NDU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wOFQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wN1QwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDI2MjA3NTI5ODE2MDY3MS8xNTc0NTAwODM0NDM0MjIwMTM0LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:40.584Z",
+      "type": "new"
+    },
+    "1554219417762664488": {
+      "id": "1554219417762664488",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.universalpictures.es/micro/licantropo#iframe1",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1554219417762664488/1574499187222118471.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1554219417762664488/1574499142493937674.jpg",
+          "quest_bar_hero_video": "quests/1554219417762664488/1574499250635800736_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554219417762664488/1574499142582145114.png",
+          "game_tile_dark": "quests/1554219417762664488/1574499142582145114.png",
+          "logotype_light": "quests/1554219417762664488/1574499187209277540.png",
+          "logotype_dark": "quests/1554219417762664488/1574499187662528655.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Licántropo",
+          "game_title": "¡6 de enero exclusivamente en cines!",
+          "game_publisher": "Universal Pictures"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "¡Encuentra pruebas de que el licántropo existe y gana 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.universalpictures.es/micro/licantropo#iframe1",
+          "button_label": "Learn More",
+          "subtitle": "¡6 de enero exclusivamente en cines!"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiTGljw6FudHJvcG8iLCJnYW1lX3RpdGxlIjoiwqE2IGRlIGVuZXJvIGV4Y2x1c2l2YW1lbnRlIGVuIGNpbmVzISIsImdhbWVfcHVibGlzaGVyIjoiVW5pdmVyc2FsIFBpY3R1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTUwMDk1Mzg3NTA1ODYwNzE5IiwiYXBwbGljYXRpb25fbmFtZSI6IltQcm9kXSBGdWxsLW1vb24iLCJzdGFydHNfYXQiOiIyMDI2LTExLTI0VDE3OjQ1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMDhUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMDdUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTQyMTk0MTc3NjI2NjQ0ODgvMTU3NDQ5OTE4NzIyMjExODQ3MS5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:42.102Z",
+      "type": "new"
+    },
+    "1557482279519920238": {
+      "id": "1557482279519920238",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.universalpictures.fr/micro/werwulf#iframe1",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1557482279519920238/1574501361561636935.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1557482279519920238/1574501361226223666.jpg",
+          "quest_bar_hero_video": "quests/1557482279519920238/1574501424929439784_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1557482279519920238/1574501361238671483.png",
+          "game_tile_dark": "quests/1557482279519920238/1574501361238671483.png",
+          "logotype_light": "quests/1557482279519920238/1574501361221898362.png",
+          "logotype_dark": "quests/1557482279519920238/1574501361259774282.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "WERWULF : LA BÊTE MAUDITE",
+          "game_title": "Le 6 janvier au cinéma.",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Trouvez des preuves de son existence pour gagner 700 Discord orbs !"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.universalpictures.fr/micro/werwulf#iframe1",
+          "button_label": "Learn More",
+          "subtitle": "Le 6 janvier au cinéma."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV0VSV1VMRiA6IExBIELDilRFIE1BVURJVEUiLCJnYW1lX3RpdGxlIjoiTGUgNiBqYW52aWVyIGF1IGNpbsOpbWEuIiwiZ2FtZV9wdWJsaXNoZXIiOiJGb2N1cyBGZWF0dXJlcyIsImFwcGxpY2F0aW9uX2lkIjoiMTU1MDA5NTM4NzUwNTg2MDcxOSIsImFwcGxpY2F0aW9uX25hbWUiOiJbUHJvZF0gRnVsbC1tb29uIiwic3RhcnRzX2F0IjoiMjAyNi0xMS0yNFQxNzo0NTowMCswMDowMCIsImV4cGlyZXNfYXQiOiIyMDI2LTEyLTA4VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX2V4cGlyZXNfYXQiOiIyMDI3LTAxLTA3VDA3OjU5OjAwKzAwOjAwIiwicmV3YXJkX29yYl9xdWFudGl0eSI6NzAwLCJyZXdhcmRfcHJlbWl1bV9vcmJfcXVhbnRpdHkiOm51bGwsImZlYXR1cmVzIjpbMTUsMjcsMzZdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0eXBlIjoiQUNISUVWRU1FTlRfSU5fQUNUSVZJVFkiLCJ0YXJnZXQiOjV9XSwiaGVyb19pbWFnZSI6InF1ZXN0cy8xNTU3NDgyMjc5NTE5OTIwMjM4LzE1NzQ1MDEzNjE1NjE2MzY5MzUuanBnIiwiaGVyb192aWRlbyI6bnVsbH0=",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:43.684Z",
+      "type": "new"
+    },
+    "1554259671248797826": {
+      "id": "1554259671248797826",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.universalpictures.com.mx/micro/werwulf#iframe1",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1554259671248797826/1574499557948002344.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1554259671248797826/1574499557889548288.jpg",
+          "quest_bar_hero_video": "quests/1554259671248797826/1574499619822502079_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554259671248797826/1574499557973303458.png",
+          "game_tile_dark": "quests/1554259671248797826/1574499557973303458.png",
+          "logotype_light": "quests/1554259671248797826/1574499558287867945.png",
+          "logotype_dark": "quests/1554259671248797826/1574499558078152796.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "WERWULF",
+          "game_title": "Solo en cines 31 de diciembre.",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Encuentra pruebas de que el hombre lobo existe para ganar 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.universalpictures.com.mx/micro/werwulf#iframe1",
+          "button_label": "Learn More",
+          "subtitle": "Solo en cines 31 de diciembre."
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV0VSV1VMRiIsImdhbWVfdGl0bGUiOiJTb2xvIGVuIGNpbmVzIDMxIGRlIGRpY2llbWJyZS4iLCJnYW1lX3B1Ymxpc2hlciI6IkZvY3VzIEZlYXR1cmVzIiwiYXBwbGljYXRpb25faWQiOiIxNTUwMDk1Mzg3NTA1ODYwNzE5IiwiYXBwbGljYXRpb25fbmFtZSI6IltQcm9kXSBGdWxsLW1vb24iLCJzdGFydHNfYXQiOiIyMDI2LTExLTI0VDE3OjQ1OjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMDhUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMDdUMDc6NTk6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5Ijo3MDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6bnVsbCwiZmVhdHVyZXMiOlsxNSwyNywzNl0sInBsYXRmb3JtcyI6W10sInRhc2tzIjpbeyJrZXkiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInR5cGUiOiJBQ0hJRVZFTUVOVF9JTl9BQ1RJVklUWSIsInRhcmdldCI6NX1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1NTQyNTk2NzEyNDg3OTc4MjYvMTU3NDQ5OTU1Nzk0ODAwMjM0NC5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:45.774Z",
+      "type": "new"
+    },
+    "1572830707561275532": {
+      "id": "1572830707561275532",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.werwulfmovie.ca/",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1572830707561275532/1574493905108475936.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1572830707561275532/1574502109272084540.jpg",
+          "quest_bar_hero_video": "quests/1572830707561275532/1574502128871800852_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1572830707561275532/1574493878734819438.png",
+          "game_tile_dark": "quests/1572830707561275532/1574493878734819438.png",
+          "logotype_light": "quests/1572830707561275532/1574502033719951450.png",
+          "logotype_dark": "quests/1572830707561275532/1574493905431433287.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Werwulf",
+          "game_title": "In Theatres December 25",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.werwulfmovie.ca/",
+          "button_label": "Get Tickets",
+          "subtitle": "In Theatres December 25"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2Vyd3VsZiIsImdhbWVfdGl0bGUiOiJJbiBUaGVhdHJlcyBEZWNlbWJlciAyNSIsImdhbWVfcHVibGlzaGVyIjoiRm9jdXMgRmVhdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTAwOTUzODc1MDU4NjA3MTkiLCJhcHBsaWNhdGlvbl9uYW1lIjoiW1Byb2RdIEZ1bGwtbW9vbiIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMjRUMTc6NDU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wOFQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wN1QwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU3MjgzMDcwNzU2MTI3NTUzMi8xNTc0NDkzOTA1MTA4NDc1OTM2LmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:47.904Z",
+      "type": "new"
+    },
+    "1554210488559075468": {
+      "id": "1554210488559075468",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T17:45:00+00:00",
+        "expires_at": "2026-12-08T07:59:00+00:00",
+        "features": [
+          27,
+          36,
+          15
+        ],
+        "application": {
+          "link": "https://www.focusfeaturesfilms.co.uk/films/werwulf/",
+          "id": "1550095387505860719",
+          "name": "[Prod] Full-moon"
+        },
+        "assets": {
+          "hero": "quests/1554210488559075468/1574498121394946220.jpg",
+          "quest_bar_hero_blurhash": "TucJFIJIVneAiYl6hoiXf3X5SA==",
+          "quest_bar_hero": "quests/1554210488559075468/1574498143549132810.jpg",
+          "quest_bar_hero_video": "quests/1554210488559075468/1574498221303140473_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1554210488559075468/1574498143309930666.png",
+          "game_tile_dark": "quests/1554210488559075468/1574498143309930666.png",
+          "logotype_light": "quests/1554210488559075468/1574498121256538122.png",
+          "logotype_dark": "quests/1554210488559075468/1574498121445277716.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Werwulf",
+          "game_title": "In Cinemas January 1",
+          "game_publisher": "Focus Features"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "ACHIEVEMENT_IN_ACTIVITY": {
+              "type": "ACHIEVEMENT_IN_ACTIVITY",
+              "target": 5,
+              "applications": [
+                {
+                  "id": "1550095387505860719"
+                }
+              ],
+              "event_name": "progress",
+              "messages": {
+                "task_title": "[Prod] Full-moon",
+                "task_description": "Find evidence of the Werwulf to earn 700 Discord Orbs!"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "700 Orbs",
+                "name_with_article": "700 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 700,
+              "premium_orb_quantity": null
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T07:59:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.focusfeaturesfilms.co.uk/films/werwulf/",
+          "button_label": "Learn More",
+          "subtitle": "In Cinemas January 1"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiV2Vyd3VsZiIsImdhbWVfdGl0bGUiOiJJbiBDaW5lbWFzIEphbnVhcnkgMSIsImdhbWVfcHVibGlzaGVyIjoiRm9jdXMgRmVhdHVyZXMiLCJhcHBsaWNhdGlvbl9pZCI6IjE1NTAwOTUzODc1MDU4NjA3MTkiLCJhcHBsaWNhdGlvbl9uYW1lIjoiW1Byb2RdIEZ1bGwtbW9vbiIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMjRUMTc6NDU6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wOFQwNzo1OTowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wN1QwNzo1OTowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjcwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjpudWxsLCJmZWF0dXJlcyI6WzE1LDI3LDM2XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidHlwZSI6IkFDSElFVkVNRU5UX0lOX0FDVElWSVRZIiwidGFyZ2V0Ijo1fV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU1NDIxMDQ4ODU1OTA3NTQ2OC8xNTc0NDk4MTIxMzk0OTQ2MjIwLmpwZyIsImhlcm9fdmlkZW8iOm51bGx9",
+      "starts_at": "2026-11-24T17:45:00+00:00",
+      "expires_at": "2027-01-07T07:59:00+00:00",
+      "sent_at": "2026-11-24T23:28:49.318Z",
+      "type": "new"
+    },
+    "1572257914884985003": {
+      "id": "1572257914884985003",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T18:00:00+00:00",
+        "expires_at": "2026-12-08T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_coop_nov26&utm_content=video",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1572257914884985003/1574361565006794782.jpg",
+          "hero_video": "quests/1572257914884985003/1574731834938359900_720.mp4",
+          "quest_bar_hero_blurhash": "0CgKFIIJiYeJh4dyiXcMiPFyCA==",
+          "quest_bar_hero": "quests/1572257914884985003/1574361476922212522.jpg",
+          "quest_bar_hero_video": "quests/1572257914884985003/1574731834938359900_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1572257914884985003/1574361073522311208.png",
+          "game_tile_dark": "quests/1572257914884985003/1574361073522311208.png",
+          "logotype_light": "quests/1572257914884985003/1574361346345275392.png",
+          "logotype_dark": "quests/1572257914884985003/1574361345778909244.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "Gun Of Eschaton",
+          "game_title": "Gun Of Eschaton",
+          "game_publisher": "4Divinity"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 71,
+              "assets": {
+                "video": {
+                  "url": "quests/1572257914884985003/1574734769848066140_1080.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1572257914884985003/1574734769848066140_720.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                },
+                "video_hls": {
+                  "url": "quests/1572257914884985003/1574734769848066140.m3u8",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 71,
+              "assets": {
+                "video": {
+                  "url": "quests/1572257914884985003/1574734769848066140_1080.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1572257914884985003/1574734769848066140_720.mp4",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                },
+                "video_hls": {
+                  "url": "quests/1572257914884985003/1574734769848066140.m3u8",
+                  "width": 3840,
+                  "height": 2160,
+                  "thumbnail": "quests/1572257914884985003/1574737143442448544.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2027-01-07T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://store.steampowered.com/app/3734220/Guns_of_Eschaton/?utm_source=discord&utm_medium=quest&utm_campaign=goe_video_quest_coop_nov26&utm_content=video",
+          "button_label": "Learn More"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiR3VuIE9mIEVzY2hhdG9uIiwiZ2FtZV90aXRsZSI6Ikd1biBPZiBFc2NoYXRvbiIsImdhbWVfcHVibGlzaGVyIjoiNERpdmluaXR5IiwiYXBwbGljYXRpb25faWQiOiI1NDUzNjQ5NDQyNTg5OTAwOTEiLCJhcHBsaWNhdGlvbl9uYW1lIjoiRGlzY29yZCIsInN0YXJ0c19hdCI6IjIwMjYtMTEtMjRUMTg6MDA6MDArMDA6MDAiLCJleHBpcmVzX2F0IjoiMjAyNi0xMi0wOFQwMTowMDowMCswMDowMCIsInJld2FyZF9leHBpcmVzX2F0IjoiMjAyNy0wMS0wN1QwMTowMDowMCswMDowMCIsInJld2FyZF9vcmJfcXVhbnRpdHkiOjIwMCwicmV3YXJkX3ByZW1pdW1fb3JiX3F1YW50aXR5IjoyNDAsImZlYXR1cmVzIjpbMTVdLCJwbGF0Zm9ybXMiOltdLCJ0YXNrcyI6W3sia2V5IjoiV0FUQ0hfVklERU8iLCJ0eXBlIjoiV0FUQ0hfVklERU8iLCJ0YXJnZXQiOjcxfSx7ImtleSI6IldBVENIX1ZJREVPX09OX01PQklMRSIsInR5cGUiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0YXJnZXQiOjcxfV0sImhlcm9faW1hZ2UiOiJxdWVzdHMvMTU3MjI1NzkxNDg4NDk4NTAwMy8xNTc0MzYxNTY1MDA2Nzk0NzgyLmpwZyIsImhlcm9fdmlkZW8iOiJxdWVzdHMvMTU3MjI1NzkxNDg4NDk4NTAwMy8xNTc0NzMxODM0OTM4MzU5OTAwXzcyMC5tcDQifQ==",
+      "starts_at": "2026-11-24T18:00:00+00:00",
+      "expires_at": "2027-01-07T01:00:00+00:00",
+      "sent_at": "2026-11-24T23:28:50.839Z",
+      "type": "new"
+    },
+    "1573128124378390630": {
+      "id": "1573128124378390630",
+      "config": {
+        "config_version": 2,
+        "starts_at": "2026-11-24T20:00:00+00:00",
+        "expires_at": "2026-12-07T01:00:00+00:00",
+        "features": [
+          15
+        ],
+        "application": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "id": "545364944258990091",
+          "name": "Discord"
+        },
+        "assets": {
+          "hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_blurhash": "GTgKCoQ1dsZfeIZ2MIQCdmo=",
+          "quest_bar_hero": "quests/1567441774820065380/1567443278289313932.jpg",
+          "quest_bar_hero_video": "quests/1573128124378390630/1574862741846360195_720.mp4",
+          "game_tile": "PLACEHOLDER",
+          "logotype": "PLACEHOLDER",
+          "game_tile_light": "quests/1567441774820065380/1567443432710864946.png",
+          "game_tile_dark": "quests/1567441774820065380/1567443432681771028.png",
+          "logotype_light": "quests/1567441774820065380/1567443367418138775.png",
+          "logotype_dark": "quests/1567441774820065380/1567443367489568778.png"
+        },
+        "colors": {
+          "primary": "#4752C4",
+          "secondary": "#000000"
+        },
+        "messages": {
+          "quest_name": "The Hunger Games",
+          "game_title": "IN THEATERS NOW",
+          "game_publisher": "Lionsgate"
+        },
+        "task_config_v2": {
+          "tasks": {
+            "WATCH_VIDEO": {
+              "type": "WATCH_VIDEO",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1573128124378390630/1574511257476661312_1080.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1573128124378390630/1574511257476661312_720.mp4",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_hls": {
+                  "url": "quests/1573128124378390630/1574511257476661312.m3u8",
+                  "width": 1920,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            },
+            "WATCH_VIDEO_ON_MOBILE": {
+              "type": "WATCH_VIDEO_ON_MOBILE",
+              "target": 14,
+              "assets": {
+                "video": {
+                  "url": "quests/1573128124378390630/1574511257166413916_1080.mp4",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_low_res": {
+                  "url": "quests/1573128124378390630/1574511257166413916_720.mp4",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                },
+                "video_hls": {
+                  "url": "quests/1573128124378390630/1574511257166413916.m3u8",
+                  "width": 607,
+                  "height": 1080,
+                  "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
+                }
+              },
+              "messages": {
+                "video_title": "PLACEHOLDER"
+              }
+            }
+          },
+          "join_operator": "or"
+        },
+        "rewards_config": {
+          "assignment_method": 1,
+          "rewards": [
+            {
+              "type": 4,
+              "sku_id": "1287881739531976815",
+              "messages": {
+                "name": "200 Orbs",
+                "name_with_article": "200 Orbs",
+                "redemption_instructions_by_platform": {
+                  "0": "PLACEHOLDER"
+                }
+              },
+              "orb_quantity": 200,
+              "premium_orb_quantity": 240
+            }
+          ],
+          "rewards_expire_at": "2027-01-06T01:00:00+00:00",
+          "platforms": [
+            0
+          ]
+        },
+        "share_policy": "shareable_everywhere",
+        "cta_config": {
+          "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
+          "button_label": "Get Tickets",
+          "subtitle": "IN THEATERS NOW"
+        }
+      },
+      "hash": "eyJxdWVzdF9uYW1lIjoiVGhlIEh1bmdlciBHYW1lcyIsImdhbWVfdGl0bGUiOiJJTiBUSEVBVEVSUyBOT1ciLCJnYW1lX3B1Ymxpc2hlciI6Ikxpb25zZ2F0ZSIsImFwcGxpY2F0aW9uX2lkIjoiNTQ1MzY0OTQ0MjU4OTkwMDkxIiwiYXBwbGljYXRpb25fbmFtZSI6IkRpc2NvcmQiLCJzdGFydHNfYXQiOiIyMDI2LTExLTI0VDIwOjAwOjAwKzAwOjAwIiwiZXhwaXJlc19hdCI6IjIwMjYtMTItMDdUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfZXhwaXJlc19hdCI6IjIwMjctMDEtMDZUMDE6MDA6MDArMDA6MDAiLCJyZXdhcmRfb3JiX3F1YW50aXR5IjoyMDAsInJld2FyZF9wcmVtaXVtX29yYl9xdWFudGl0eSI6MjQwLCJmZWF0dXJlcyI6WzE1XSwicGxhdGZvcm1zIjpbXSwidGFza3MiOlt7ImtleSI6IldBVENIX1ZJREVPIiwidHlwZSI6IldBVENIX1ZJREVPIiwidGFyZ2V0IjoxNH0seyJrZXkiOiJXQVRDSF9WSURFT19PTl9NT0JJTEUiLCJ0eXBlIjoiV0FUQ0hfVklERU9fT05fTU9CSUxFIiwidGFyZ2V0IjoxNH1dLCJoZXJvX2ltYWdlIjoicXVlc3RzLzE1Njc0NDE3NzQ4MjAwNjUzODAvMTU2NzQ0MzI3ODI4OTMxMzkzMi5qcGciLCJoZXJvX3ZpZGVvIjpudWxsfQ==",
+      "starts_at": "2026-11-24T20:00:00+00:00",
+      "expires_at": "2027-01-06T01:00:00+00:00",
+      "sent_at": "2026-11-24T23:28:52.264Z",
+      "type": "new"
     }
   },
-  "last_check": "2026-11-24T19:59:13.439Z"
+  "last_check": "2026-11-24T23:28:54.894Z"
 }
